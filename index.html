@@ -942,12 +942,30 @@ const th=TICKERS.map(t=>`<div class="mitem"><span>${t.l}</span><span class="mval
 document.getElementById('mtrack').innerHTML=th+th;
 
 // ══════════════════════════════════════
-// INIT
+// INIT — fetch external JSON data
 // ══════════════════════════════════════
 document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
-renderNews('all');
-renderVideos('all');
-renderReading('all');
+
+async function loadData(){
+  // 加载 NEWS
+  try{
+    const r=await fetch('data/news.json?t='+Date.now());
+    if(r.ok) window.NEWS=await r.json();
+  }catch(e){console.warn('news.json load failed, using built-in data');}
+
+  // 加载 OPINIONS
+  try{
+    const r=await fetch('data/opinions.json?t='+Date.now());
+    if(r.ok) window.OPINIONS=await r.json();
+  }catch(e){console.warn('opinions.json load failed, using built-in data');}
+
+  // 渲染
+  renderNews('all');
+  renderVideos('all');
+  renderReading('all');
+}
+
+loadData();
 </script>
 </body>
 </html>
