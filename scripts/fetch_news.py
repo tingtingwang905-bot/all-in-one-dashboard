@@ -34,18 +34,18 @@ def get_time_ago(published):
         return "今天"
 
 def generate_cn_summary(headline, deck, source):
-    if not ANTHROPIC_API_KEY:
+    api_key = os.environ.get("OPENROUTER_API_KEY", "")
+    if not api_key:
         return ""
     try:
         response = requests.post(
-            "https://api.anthropic.com/v1/messages",
+            "https://openrouter.ai/api/v1/chat/completions",
             headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json"
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
             },
             json={
-                "model": "claude-haiku-4-5",
+                "model": "anthropic/claude-haiku-4-5",
                 "max_tokens": 200,
                 "messages": [{
                     "role": "user",
@@ -56,9 +56,9 @@ def generate_cn_summary(headline, deck, source):
         )
         data = response.json()
         print(f"API response: {str(data)[:200]}")
-        return data["content"][0]["text"].strip()
+        return data["choices"][0]["message"]["content"].strip()
     except Exception as e:
-        print(f"Claude API error: {e}")
+        print(f"OpenRouter API error: {e}")
         try:
             print(f"Response: {response.text[:200]}")
         except:
