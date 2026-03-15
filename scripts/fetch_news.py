@@ -56,9 +56,13 @@ def generate_cn_summary(headline, deck, source):
         )
         data = response.json()
         return data["content"][0]["text"].strip()
-    except Exception as e:
-        print(f"Claude API error: {e}")
-        return ""
+   except Exception as e:
+    print(f"Claude API error: {e}")
+    try:
+        print(f"Response: {response.text[:200]}")
+    except:
+        pass
+    return ""
 
 def fetch_news():
     news = []
