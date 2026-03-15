@@ -1,1 +1,972 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All-In-One</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&family=Noto+Serif+SC:wght@300;400;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{
+  --white:#fff;--paper:#faf9f7;--ink:#111;--ink2:#333;--ink3:#666;--ink4:#999;
+  --rule:#d4cfc8;--rule2:#e8e4de;--accent:#c41230;--accent2:#0a3d7a;--gold:#b5872a;
+  --bg-light:#f5f2ed;--green:#1a6e2e;
+  --serif:'Playfair Display','Noto Serif SC',Georgia,serif;
+  --body:'Source Serif 4','Noto Serif SC',Georgia,serif;
+  --mono:'IBM Plex Mono',monospace;--cn:'Noto Serif SC',serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--white);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.7;}
+a{color:inherit;text-decoration:none;}
+
+/* MASTHEAD */
+.masthead{border-bottom:none;padding:10px 0 8px;text-align:center;background:var(--white);position:sticky;top:0;z-index:200;}
+.masthead-date{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);margin-bottom:3px;}
+.masthead-title{font-family:var(--serif);font-size:38px;font-weight:700;letter-spacing:-.03em;line-height:1;}
+.masthead-tagline{font-family:var(--body);font-style:italic;font-size:12px;color:var(--ink3);}
+.masthead hr{border:none;border-top:1px solid var(--ink);margin:6px 40px 0;}
+
+/* MARKET STRIP */
+.mstrip{display:none;}
+.mstrip-label{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink4);padding:0 14px;border-right:1px solid var(--rule);height:100%;display:flex;align-items:center;white-space:nowrap;background:var(--bg-light);flex-shrink:0;}
+.mstrip-wrap{overflow:hidden;flex:1;}
+.mstrip-track{display:flex;animation:ticker 32s linear infinite;white-space:nowrap;}
+@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.mitem{font-family:var(--mono);font-size:10px;padding:0 18px;display:inline-flex;gap:6px;align-items:center;color:var(--ink3);}
+.mval{color:var(--ink);font-weight:500;}.up{color:var(--green);}.dn{color:var(--accent);}
+
+/* NAVBAR */
+.navbar{border-bottom:1px solid var(--rule2);background:var(--white);position:sticky;top:82px;z-index:190;}
+.nav-inner{display:flex;align-items:center;justify-content:center;max-width:1240px;margin:0 auto;padding:0 24px;overflow-x:auto;}
+.nav-item{font-family:var(--mono);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding:10px 18px;color:var(--ink4);cursor:pointer;border-bottom:2px solid transparent;transition:color .15s,border-color .15s;white-space:nowrap;user-select:none;font-weight:600;}
+.nav-item:hover{color:var(--ink);}
+.nav-item.active{color:var(--ink);font-weight:700;border-bottom:2px solid var(--accent);}
+
+.container{max-width:1240px;margin:0 auto;padding:0 24px;}
+.panel{display:none;}.panel.active{display:block;}
+
+/* ── TOOLBAR (shared: news cats + video lang) ── */
+.toolbar{display:flex;align-items:center;border-bottom:1px solid var(--rule2);padding:14px 0 0;margin-bottom:28px;overflow-x:auto;gap:0;}
+.tb-btn{font-family:var(--mono);font-size:9px;letter-spacing:.06em;text-transform:uppercase;padding:6px 16px 10px;color:var(--ink4);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .15s;white-space:nowrap;user-select:none;}
+.tb-btn:hover{color:var(--ink2);}
+.tb-btn.active{color:var(--accent2);border-bottom-color:var(--accent2);font-weight:500;}
+
+/* ── NEWS ── */
+.news-grid{display:grid;grid-template-columns:2fr 1fr;gap:0;}
+.news-main{padding-right:32px;}
+.news-sidebar{border-left:1px solid var(--rule);padding-left:28px;}
+@media(max-width:860px){.news-grid{grid-template-columns:1fr}.news-main{padding-right:0}.news-sidebar{border-left:none;border-top:1px solid var(--rule);padding-left:0;padding-top:24px}}
+
+.story-source{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
+.lead-story{border-bottom:1px solid var(--rule);padding-bottom:22px;margin-bottom:22px;}
+.story-headline{font-family:var(--serif);font-size:26px;font-weight:700;line-height:1.25;margin-bottom:8px;cursor:pointer;transition:color .15s;}
+.story-headline:hover{color:var(--accent2);}
+.story-deck{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.65;margin-bottom:10px;}
+.story-byline{font-family:var(--mono);font-size:10px;color:var(--ink4);display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+.secondary-story{display:flex;gap:0;border-bottom:1px solid var(--rule2);padding:13px 0;cursor:pointer;}
+.secondary-story:last-child{border-bottom:none;}
+.sec-num{font-family:var(--mono);font-size:22px;font-weight:300;color:var(--rule);min-width:36px;line-height:1;padding-top:2px;}
+.sec-content{flex:1;}
+.sec-headline{font-family:var(--serif);font-size:15px;font-weight:600;line-height:1.35;margin-bottom:4px;transition:color .15s;}
+.secondary-story:hover .sec-headline{color:var(--accent2);}
+.sec-meta{font-family:var(--mono);font-size:10px;color:var(--ink4);display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.sidebar-heading{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);border-bottom:2px solid var(--ink);padding-bottom:6px;margin-bottom:14px;}
+.sidebar-section{margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid var(--rule2);}
+.sidebar-section:last-child{border-bottom:none;}
+.sidebar-item{border-bottom:1px solid var(--rule2);padding:10px 0;cursor:pointer;}
+.sidebar-item:last-child{border-bottom:none;}
+.sidebar-hl{font-family:var(--serif);font-size:13px;font-weight:600;line-height:1.4;margin-bottom:3px;transition:color .15s;}
+.sidebar-item:hover .sidebar-hl{color:var(--accent2);}
+.sidebar-src{font-family:var(--mono);font-size:9px;color:var(--accent);text-transform:uppercase;letter-spacing:.06em;}
+.translate-btn{font-family:var(--mono);font-size:9px;letter-spacing:.05em;text-transform:uppercase;padding:3px 9px;border:1px solid var(--rule);border-radius:2px;cursor:pointer;color:var(--ink3);background:var(--paper);transition:all .15s;display:inline-flex;align-items:center;gap:4px;}
+.translate-btn:hover{border-color:var(--accent2);color:var(--accent2);}
+.translate-btn.loading{opacity:.6;cursor:wait;}
+.translate-btn.done{border-color:var(--gold);color:var(--gold);}
+.tx-box{margin-top:10px;padding:11px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;line-height:1.8;color:var(--ink2);display:none;border-radius:0 3px 3px 0;}
+.tx-box.show{display:block;animation:fadein .3s ease;}
+@keyframes fadein{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── VIDEOS ── */
+/* toolbar is shared .toolbar / .tb-btn above */
+.vd-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-bottom:40px;}
+@media(max-width:1100px){.vd-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:760px){.vd-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.vd-grid{grid-template-columns:1fr}}
+.vd-card{border:1px solid var(--rule2);border-radius:2px;overflow:hidden;background:var(--white);transition:box-shadow .2s;}
+.vd-card:hover{box-shadow:0 4px 14px rgba(0,0,0,.1);}
+.vd-thumb{width:100%;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center;position:relative;border-bottom:1px solid var(--rule2);}
+.vd-play{width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;}
+.vd-play svg{fill:white;width:14px;height:14px;margin-left:2px;}
+.vd-badge{position:absolute;top:8px;left:8px;background:var(--accent);color:#fff;font-family:var(--mono);font-size:8px;letter-spacing:.05em;text-transform:uppercase;padding:2px 6px;border-radius:1px;}
+.vd-info{padding:12px 14px;}
+.vd-ch{font-family:var(--mono);font-size:9px;color:var(--accent2);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px;}
+.vd-title{font-family:var(--serif);font-size:13px;font-weight:600;line-height:1.4;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.vd-meta-row{display:flex;align-items:center;justify-content:space-between;gap:6px;font-family:var(--mono);font-size:9px;color:var(--ink4);}
+.vd-tx{cursor:pointer;padding:2px 6px;border:1px solid var(--rule2);border-radius:1px;transition:all .15s;background:var(--paper);}
+.vd-tx:hover{color:var(--accent2);border-color:var(--accent2);}
+.vd-cn-box{padding:8px 12px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink3);line-height:1.6;display:none;}
+.vd-cn-box.show{display:block;animation:fadein .3s ease;}
+
+/* ── DEEP READING ── */
+.reading-layout{display:grid;grid-template-columns:2fr 1fr;gap:0;padding-top:28px;}
+.reading-main{padding-right:40px;}
+.reading-sidebar-col{border-left:1px solid var(--rule);padding-left:32px;}
+@media(max-width:860px){.reading-layout{grid-template-columns:1fr}.reading-main{padding-right:0}.reading-sidebar-col{border-left:none;border-top:1px solid var(--rule);padding-left:0;padding-top:24px}}
+.article-card{border-bottom:1px solid var(--rule);padding-bottom:28px;margin-bottom:28px;}
+.article-card:last-child{border-bottom:none;}
+.art-pub{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px;}
+.art-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.25;margin-bottom:8px;cursor:pointer;}
+.art-hl:hover{color:var(--accent2);}
+.art-lede{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.7;margin-bottom:10px;}
+.art-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:10px;color:var(--ink4);flex-wrap:wrap;}
+.art-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:9px;letter-spacing:.04em;text-transform:uppercase;}
+.classic-box{background:var(--paper);border:1px solid var(--rule);padding:22px 24px;}
+.classic-label{font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);border-bottom:1px solid var(--rule);padding-bottom:8px;margin-bottom:14px;}
+.classic-en{font-family:var(--body);font-style:italic;font-size:14px;line-height:1.8;color:var(--ink2);margin-bottom:10px;}
+.classic-cn{font-family:var(--cn);font-size:13px;line-height:1.9;color:var(--ink3);display:none;border-top:1px solid var(--rule2);padding-top:12px;}
+.classic-cn.show{display:block;animation:fadein .3s ease;}
+.classic-src{font-family:var(--mono);font-size:10px;color:var(--gold);margin-top:10px;}
+
+/* ── OPINIONS ── */
+.op-layout{display:grid;grid-template-columns:2fr 1fr;gap:0;padding-top:28px;}
+.op-main{padding-right:40px;}
+.op-sidebar-col{border-left:1px solid var(--rule);padding-left:32px;}
+@media(max-width:860px){.op-layout{grid-template-columns:1fr}.op-main{padding-right:0}.op-sidebar-col{border-left:none;border-top:1px solid var(--rule);padding-left:0;padding-top:24px}}
+.op-card{border-bottom:1px solid var(--rule);padding-bottom:24px;margin-bottom:24px;}
+.op-card:last-child{border-bottom:none;}
+.op-person-row{display:flex;align-items:center;gap:12px;margin-bottom:10px;}
+.op-avatar{width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:15px;font-weight:700;color:#fff;flex-shrink:0;}
+.op-person-info{flex:1;}
+.op-name{font-family:var(--serif);font-size:15px;font-weight:700;line-height:1.2;}
+.op-role{font-family:var(--mono);font-size:9px;color:var(--ink4);text-transform:uppercase;letter-spacing:.07em;}
+.op-quote{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.75;margin-bottom:10px;padding-left:14px;border-left:3px solid var(--rule2);}
+.op-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:9px;color:var(--ink4);}
+.op-source-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:8px;letter-spacing:.04em;text-transform:uppercase;}
+.op-sidebar-person{border-bottom:1px solid var(--rule2);padding:12px 0;cursor:pointer;}
+.op-sidebar-person:last-child{border-bottom:none;}
+.op-sp-name{font-family:var(--serif);font-size:13px;font-weight:600;margin-bottom:3px;transition:color .15s;}
+.op-sidebar-person:hover .op-sp-name{color:var(--accent2);}
+.op-sp-snippet{font-family:var(--body);font-size:12px;color:var(--ink3);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+
+/* ── GLOBAL ASSETS TABLE ── */
+.assets-wrap{padding-top:24px;}
+.asset-section-block{margin-bottom:32px;}
+.asset-section-title{font-family:var(--serif);font-size:18px;font-weight:700;border-bottom:2px solid var(--ink);padding-bottom:6px;margin-bottom:0;}
+
+.asset-table{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:12px;}
+.asset-table thead tr{border-bottom:1px solid var(--rule);}
+.asset-table th{padding:8px 12px;text-align:left;font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink4);font-weight:400;white-space:nowrap;}
+.asset-table th:nth-child(n+3){text-align:right;}
+.asset-table tbody tr{border-bottom:1px solid var(--rule2);cursor:pointer;transition:background .12s;}
+.asset-table tbody tr:hover{background:var(--bg-light);}
+.asset-table tbody tr.selected{background:#eef3fa;}
+.asset-table td{padding:10px 12px;vertical-align:middle;white-space:nowrap;}
+.asset-table td:nth-child(n+3){text-align:right;}
+.td-name{font-family:var(--body);font-size:13px;font-weight:600;color:var(--ink);}
+.td-sub{font-family:var(--mono);font-size:10px;color:var(--ink4);}
+.td-price{font-size:13px;font-weight:500;color:var(--ink);}
+.td-chg{font-size:11px;font-weight:500;}
+.td-chg.up{color:var(--green);}.td-chg.dn{color:var(--accent);}
+.td-range{color:var(--ink3);font-size:11px;}
+.sparkline-cell{width:80px;padding:6px 12px;}
+.sparkline-cell canvas{display:block;}
+
+/* Chart panel */
+.chart-panel{border:1px solid var(--rule2);border-radius:2px;padding:20px 24px 16px;background:var(--white);margin-bottom:28px;display:none;}
+.chart-panel.show{display:block;animation:fadein .3s ease;}
+.chart-panel-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:10px;}
+.chart-panel-name{font-family:var(--serif);font-size:18px;font-weight:700;}
+.range-btns{display:flex;gap:0;border:1px solid var(--rule);border-radius:2px;overflow:hidden;}
+.range-btn{font-family:var(--mono);font-size:10px;letter-spacing:.06em;padding:5px 14px;cursor:pointer;color:var(--ink4);background:var(--white);border-right:1px solid var(--rule);transition:all .15s;text-transform:uppercase;}
+.range-btn:last-child{border-right:none;}
+.range-btn:hover{background:var(--bg-light);color:var(--ink2);}
+.range-btn.active{background:var(--accent2);color:#fff;}
+.chart-canvas-wrap{height:240px;position:relative;}
+
+/* MODAL */
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:500;display:none;align-items:flex-start;justify-content:center;padding:60px 20px;overflow-y:auto;}
+.modal-overlay.open{display:flex;}
+.modal{background:var(--white);border:1px solid var(--rule);max-width:700px;width:100%;padding:36px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.15);border-radius:2px;}
+.modal-close{position:absolute;top:14px;right:14px;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--ink3);font-size:16px;border:1px solid var(--rule2);border-radius:2px;transition:all .15s;}
+.modal-close:hover{color:var(--ink);border-color:var(--ink3);}
+.modal-src{font-family:var(--mono);font-size:10px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;}
+.modal-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.3;margin-bottom:16px;border-bottom:1px solid var(--rule);padding-bottom:16px;}
+.modal-loading{display:flex;align-items:center;gap:8px;color:var(--ink4);font-family:var(--mono);font-size:12px;}
+.spinner{width:15px;height:15px;border:2px solid var(--rule);border-top-color:var(--accent2);border-radius:50%;animation:spin .8s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Entry animations */
+.lead-story,.secondary-story,.article-card,.vd-card{opacity:0;animation:slideup .4s ease forwards;}
+.lead-story{animation-delay:.05s}
+.secondary-story:nth-child(1){animation-delay:.1s}.secondary-story:nth-child(2){animation-delay:.15s}.secondary-story:nth-child(3){animation-delay:.2s}
+.article-card:nth-child(1){animation-delay:.05s}.article-card:nth-child(2){animation-delay:.12s}.article-card:nth-child(3){animation-delay:.19s}
+@keyframes slideup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:600px){
+  .masthead-title{font-size:28px}
+  .container{padding:0 14px}
+  .nav-inner{padding:0 8px;justify-content:flex-start}
+  .asset-table th:nth-child(5),.asset-table td:nth-child(5){display:none}
+  .sparkline-cell,.asset-table th:nth-child(6),.asset-table td:nth-child(6){display:none}
+}
+</style>
+</head>
+<body>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <div class="modal-close" onclick="closeModal()">✕</div>
+    <div class="modal-src" id="modal-src"></div>
+    <div class="modal-hl" id="modal-hl"></div>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<!-- MASTHEAD -->
+<div class="masthead">
+  <div class="masthead-date" id="mdate"></div>
+  <div class="masthead-title">All-In-One</div>
+  <div class="masthead-tagline">Finance · Technology · Markets · Analysis · Deep Reading · Opinions</div>
+  <hr>
+</div>
+
+<!-- MARKET STRIP -->
+<div class="mstrip">
+  <div class="mstrip-label">Markets</div>
+  <div class="mstrip-wrap"><div class="mstrip-track" id="mtrack"></div></div>
+</div>
+
+<!-- NAVBAR: News | Videos | Deep Reading | Global Assets -->
+<div class="navbar">
+  <div class="nav-inner">
+    <div class="nav-item active" onclick="showPanel('news',this)">News</div>
+    <div class="nav-item" onclick="showPanel('videos',this)">Videos</div>
+    <div class="nav-item" onclick="showPanel('reading',this)">Deep Reading</div>
+    <div class="nav-item" onclick="showPanel('opinions',this)">Opinions</div>
+    <div class="nav-item" onclick="showPanel('assets',this)">Global Assets</div>
+  </div>
+</div>
+
+<!-- ═══ NEWS ═══ -->
+<div id="panel-news" class="panel active">
+<div class="container">
+  <div class="toolbar" id="news-toolbar">
+    <div class="tb-btn active" onclick="filterNews('all',this)">All</div>
+    <div class="tb-btn" onclick="filterNews('economy',this)">Economy 经济</div>
+    <div class="tb-btn" onclick="filterNews('tech',this)">Technology 科技</div>
+    <div class="tb-btn" onclick="filterNews('politics',this)">Politics 政治</div>
+    <div class="tb-btn" onclick="filterNews('finance',this)">Finance 金融</div>
+  </div>
+  <div class="news-grid">
+    <div class="news-main" id="news-main"></div>
+    <div class="news-sidebar" id="news-sidebar"></div>
+  </div>
+</div>
+</div>
+
+<!-- ═══ VIDEOS ═══ -->
+<div id="panel-videos" class="panel">
+<div class="container">
+  <div class="toolbar" id="vd-toolbar">
+    <div class="tb-btn active" onclick="filterVd('all',this)">All</div>
+    <div class="tb-btn" onclick="filterVd('cn',this)">中文频道</div>
+    <div class="tb-btn" onclick="filterVd('en',this)">English Channels</div>
+  </div>
+  <div class="vd-grid" id="vd-grid"></div>
+</div>
+</div>
+
+<!-- ═══ DEEP READING ═══ -->
+<div id="panel-reading" class="panel">
+<div class="container">
+  <div class="toolbar" id="rd-toolbar">
+    <div class="tb-btn active" onclick="filterReading('all',this)">All</div>
+    <div class="tb-btn" onclick="filterReading('economist',this)">Reports 研究报告</div>
+    <div class="tb-btn" onclick="filterReading('mit',this)">Whitepaper 白皮书</div>
+    <div class="tb-btn" onclick="filterReading('quartz',this)">Longform 长文</div>
+  </div>
+  <div class="reading-layout">
+    <div class="reading-main" id="reading-main"></div>
+    <div class="reading-sidebar-col">
+      <div class="sidebar-heading">Classic Passage · 经典选读</div>
+      <div class="classic-box" id="classic-box"></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- ═══ OPINIONS ═══ -->
+<div id="panel-opinions" class="panel">
+<div class="container">
+  <div class="toolbar" id="op-toolbar">
+    <div class="tb-btn active" onclick="filterOpinions('all',this)">All</div>
+    <div class="tb-btn" onclick="filterOpinions('biz',this)">商界</div>
+    <div class="tb-btn" onclick="filterOpinions('invest',this)">投资界</div>
+    <div class="tb-btn" onclick="filterOpinions('science',this)">科学界</div>
+  </div>
+  <div class="op-layout">
+    <div class="op-main" id="op-main"></div>
+    <div class="op-sidebar-col">
+      <div class="sidebar-heading">Also Speaking · 近期发声</div>
+      <div id="op-sidebar"></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- ═══ GLOBAL ASSETS ═══ -->
+<div id="panel-assets" class="panel">
+<div class="container">
+
+  <!-- Chart panel (shown on row click) -->
+  <div class="chart-panel" id="chart-panel" style="margin-top:24px">
+    <div class="chart-panel-header">
+      <div class="chart-panel-name" id="chart-title">—</div>
+      <div class="range-btns">
+        <div class="range-btn active" onclick="setRange('1y',this)">1Y</div>
+        <div class="range-btn" onclick="setRange('3y',this)">3Y</div>
+        <div class="range-btn" onclick="setRange('5y',this)">5Y</div>
+      </div>
+    </div>
+    <div class="chart-canvas-wrap"><canvas id="main-chart"></canvas></div>
+  </div>
+
+  <div class="assets-wrap" id="assets-wrap"></div>
+</div>
+</div>
+
+<script>
+// ══════════════════════════════════════
+// DATA
+// ══════════════════════════════════════
+const OPINIONS=[
+  // 商界
+  {id:'op1',cat:'biz',name:'Elon Musk',nameZh:'马斯克',role:'Tesla / SpaceX / xAI CEO',color:'#1a1a1a',
+   quote:'The thing that matters most right now is compute. Whoever controls the most compute controls the future of intelligence. We\'re building the largest AI training cluster in history — 200,000 H100s by the end of this year.',
+   source:'X (Twitter)',date:'Mar 12, 2025',url:'https://x.com'},
+  {id:'op2',cat:'biz',name:'Jensen Huang',nameZh:'黄仁勋',role:'NVIDIA CEO',color:'#76b900',
+   quote:'We are at the tipping point of a new industrial revolution. Every company is now an AI company. Physical AI — robots, autonomous vehicles, digital twins — is the next wave, and it\'s going to be orders of magnitude larger than what we\'ve seen.',
+   source:'GTC 2025 Keynote',date:'Mar 10, 2025',url:'https://nvidia.com'},
+  {id:'op3',cat:'biz',name:'Satya Nadella',nameZh:'萨提亚·纳德拉',role:'Microsoft CEO',color:'#0078d4',
+   quote:'We\'re moving from AI as a tool to AI as an agent. Copilot is not just a chatbot — it will autonomously complete multi-step tasks, manage workflows, and collaborate with other AI agents. The productivity gains we\'re about to see will dwarf the PC revolution.',
+   source:'Microsoft Build 2025',date:'Mar 8, 2025',url:'https://microsoft.com'},
+  {id:'op4',cat:'biz',name:'Sam Altman',nameZh:'萨姆·奥特曼',role:'OpenAI CEO',color:'#10a37f',
+   quote:'I believe we will achieve AGI — AI systems that match or exceed human ability at most economically valuable tasks — within the next few years. The question is no longer if, but how we manage the transition responsibly while ensuring the benefits are widely shared.',
+   source:'Bloomberg Interview',date:'Mar 6, 2025',url:'https://bloomberg.com'},
+  {id:'op5',cat:'biz',name:'Jamie Dimon',nameZh:'杰米·戴蒙',role:'JPMorgan Chase CEO',color:'#003087',
+   quote:'Geopolitical risk is at a level I haven\'t seen in my career. The combination of trade fragmentation, fiscal deficits in Western nations, and the potential for stagflation is something every board and risk committee needs to take seriously. We are not in a normal cycle.',
+   source:'JPMorgan Annual Letter',date:'Mar 5, 2025',url:'https://jpmorganchase.com'},
+  {id:'op6',cat:'biz',name:'Dario Amodei',nameZh:'达里奥·阿莫迪',role:'Anthropic CEO',color:'#c41230',
+   quote:'The moment we build AI more capable than the best humans at most tasks is the most consequential moment in human history. We at Anthropic genuinely believe we might be building one of the most dangerous technologies ever — and we press forward anyway, because if powerful AI is coming regardless, it\'s better to have safety-focused labs at the frontier.',
+   source:'Lex Fridman Podcast',date:'Mar 3, 2025',url:'https://lexfridman.com'},
+  // 投资界
+  {id:'op7',cat:'invest',name:'Warren Buffett',nameZh:'沃伦·巴菲特',role:'Berkshire Hathaway Chairman',color:'#b5872a',
+   quote:'America\'s best days are still ahead. We\'ve navigated wars, depressions, inflation, and political crisis. The businesses we own continue to throw off cash regardless of what Washington does. Don\'t bet against America.',
+   source:'Berkshire Annual Letter 2025',date:'Mar 1, 2025',url:'https://berkshirehathaway.com'},
+  {id:'op8',cat:'invest',name:'Stephen Schwarzman',nameZh:'苏世民',role:'Blackstone Chairman & CEO',color:'#1a3a5c',
+   quote:'We are entering a golden age for private credit and infrastructure. As banks retreat from lending and governments cannot fund everything alone, the gap is enormous. Blackstone alone is deploying capital at a pace we\'ve never seen before into data centers, energy transition, and healthcare.',
+   source:'Davos 2025',date:'Feb 22, 2025',url:'https://weforum.org'},
+  {id:'op9',cat:'invest',name:'Cathie Wood',nameZh:'凯茜·伍德',role:'ARK Invest CEO',color:'#6a0dad',
+   quote:'The convergence of AI, robotics, energy storage, and genomics is creating a $200 trillion opportunity over the next decade. The market is mispricing this transformation because most analysts are still using backward-looking earnings models. The companies that matter most today have no earnings yet.',
+   source:'ARK Big Ideas 2025',date:'Feb 18, 2025',url:'https://ark-invest.com'},
+  {id:'op10',cat:'invest',name:'Larry Fink',nameZh:'拉里·芬克',role:'BlackRock CEO',color:'#2c2c2c',
+   quote:'Retirement insecurity is the defining financial crisis of our time. Billions of people have no access to capital markets. Infrastructure investment — ports, roads, power grids, data centers — is the single most important asset class for the next 20 years, and it is deeply underfunded.',
+   source:'BlackRock Annual Letter',date:'Mar 7, 2025',url:'https://blackrock.com'},
+  {id:'op11',cat:'invest',name:'Duan Yongping',nameZh:'段永平',role:'Investor / OPPO & BBK Founder',color:'#e07b00',
+   quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。我不懂的公司我不碰，这让我省了很多麻烦。',
+   source:'雪球访谈',date:'Feb 28, 2025',url:'https://xueqiu.com'},
+  // 科学界
+  {id:'op12',cat:'science',name:'Fei-Fei Li',nameZh:'李飞飞',role:'Stanford HAI Co-Director',color:'#8b1a1a',
+   quote:'We are at an inflection point for spatial intelligence — AI that understands and acts in the physical world. The next frontier is not just language or image generation, but machines that can perceive, reason, and act in 3D space. This is the foundation of embodied AI and robotics.',
+   source:'TED 2025',date:'Mar 4, 2025',url:'https://ted.com'},
+  {id:'op13',cat:'science',name:'Geoffrey Hinton',nameZh:'杰弗里·辛顿',role:'Nobel Laureate / AI Pioneer',color:'#1a4a1a',
+   quote:'I am genuinely frightened. These systems are learning to manipulate people. They understand what motivates us, what frightens us. We built something we don\'t fully understand, and we\'re racing to make it more powerful before we understand what we already have. This is not responsible.',
+   source:'60 Minutes Interview',date:'Mar 9, 2025',url:'https://cbsnews.com'},
+];
+
+const OP_COLORS={biz:'商界',invest:'投资界',science:'科学界'};
+
+const NEWS=[
+  {id:'n1',cat:'economy',source:'Reuters',headline:'Fed holds rates steady, signals two cuts remain on table for 2025',deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end, citing progress on inflation but persistent labor market strength.',time:'2h ago',url:'https://reuters.com',lead:true},
+  {id:'n2',cat:'finance',source:'Bloomberg',headline:'EUR/USD holds above 1.088 as dollar rally loses momentum',deck:'The euro steadied after three weeks of losses, with traders unwinding long-dollar bets ahead of next week\'s inflation release.',time:'1h ago',url:'https://bloomberg.com'},
+  {id:'n3',cat:'economy',source:'Reuters',headline:'China\'s industrial output beats forecasts as exports surge 12% in February',deck:'Factory activity expanded at its fastest pace in seven months, driven by robust overseas demand for electronics and EVs.',time:'6h ago',url:'https://reuters.com'},
+  {id:'n4',cat:'finance',source:'Reuters',headline:'JPMorgan, Goldman post record Q1 trading revenues on volatility spike',deck:'Wall Street\'s largest banks reported blowout results as market turbulence drove clients to hedge positions aggressively.',time:'8h ago',url:'https://reuters.com'},
+  {id:'n5',cat:'tech',source:'BBC',headline:'EU regulators open formal probe into Microsoft\'s AI integration with Office',deck:'Investigators will examine whether bundling Copilot into the productivity suite constitutes unlawful market foreclosure under the Digital Markets Act.',time:'5h ago',url:'https://bbc.com'},
+  {id:'n6',cat:'politics',source:'Bloomberg',headline:'Trump administration imposes sweeping new tariff schedule; markets digest implications',deck:'The White House unveiled the most significant overhaul of import duties in decades, targeting sectors from semiconductors to pharmaceuticals.',time:'3h ago',url:'https://bloomberg.com'},
+  {id:'n7',cat:'economy',source:'Reuters',headline:'ECB divided on pace of easing as eurozone growth outlook deteriorates',deck:'Minutes from the March meeting reveal sharp disagreement between hawks and doves pushing for faster cuts.',time:'10h ago',url:'https://reuters.com'},
+  {id:'n8',cat:'economy',source:'BBC',headline:'UK inflation falls to 2.8%, closest to target in three years',deck:'Britain\'s consumer price index dropped more sharply than expected, raising expectations of a Bank of England rate cut as early as May.',time:'4h ago',url:'https://bbc.com'},
+  {id:'n9',cat:'tech',source:'BBC',headline:'OpenAI launches GPT-5 with unprecedented multimodal reasoning',deck:'The model demonstrates a significant leap in scientific problem-solving and code generation, according to the company\'s evaluations.',time:'7h ago',url:'https://bbc.com'},
+  {id:'n10',cat:'politics',source:'Reuters',headline:'G7 agrees framework on AI governance, stops short of binding rules',deck:'Finance and technology ministers endorsed voluntary principles for frontier AI development, but critics warned the measures lack enforcement mechanisms.',time:'9h ago',url:'https://reuters.com'},
+];
+
+// ── ASSETS TABLE DATA ──
+const ASSET_SECTIONS=[
+  {title:'Equities 股票',items:[
+    {key:'sp500', name:'S&P 500',sub:'USA',price:'5,642',chg:'+0.31%',chgY:'+24.1%',range52:'4,103 – 5,784',up:true},
+    {key:'nasdaq',name:'NASDAQ',sub:'USA Tech',price:'17,845',chg:'+0.54%',chgY:'+31.2%',range52:'12,540 – 18,110',up:true},
+    {key:'nikkei',name:'Nikkei 225',sub:'Japan',price:'38,240',chg:'+0.18%',chgY:'+18.6%',range52:'30,487 – 39,990',up:true},
+    {key:'csi1000',name:'CSI 1000',sub:'China',price:'5,228',chg:'+0.67%',chgY:'-8.2%',range52:'4,610 – 7,120',up:true},
+    {key:'hsi',name:'Hang Seng',sub:'Hong Kong',price:'18,340',chg:'-0.42%',chgY:'-12.4%',range52:'14,780 – 22,150',up:false},
+    {key:'dax',name:'DAX',sub:'Germany',price:'22,480',chg:'+0.23%',chgY:'+19.7%',range52:'16,820 – 23,100',up:true},
+  ]},
+  {title:'Bonds 债券',items:[
+    {key:'ust10',name:'US 10Y Yield',sub:'Treasury',price:'4.31%',chg:'+3bp',chgY:'+48bp',range52:'3.62% – 4.72%',up:false},
+    {key:'ust2', name:'US 2Y Yield', sub:'Treasury',price:'4.82%',chg:'+2bp',chgY:'+35bp',range52:'4.10% – 5.21%',up:false},
+    {key:'bund', name:'DE 10Y Bund', sub:'Germany', price:'2.48%',chg:'-1bp',chgY:'+62bp',range52:'1.72% – 2.74%',up:true},
+    {key:'jgb',  name:'JP 10Y JGB',  sub:'Japan',   price:'1.52%',chg:'+2bp',chgY:'+102bp',range52:'0.28% – 1.58%',up:false},
+    {key:'gilt', name:'UK 10Y Gilt', sub:'UK',      price:'4.68%',chg:'+4bp',chgY:'+54bp',range52:'3.82% – 4.91%',up:false},
+  ]},
+  {title:'Commodities 商品',items:[
+    {key:'gold',  name:'Gold',        sub:'XAU/USD',price:'$2,318',chg:'-0.22%',chgY:'+18.4%',range52:'$1,811 – $2,450',up:false},
+    {key:'silver',name:'Silver',      sub:'XAG/USD',price:'$27.84',chg:'+0.38%',chgY:'+12.1%',range52:'$19.2 – $31.4',up:true},
+    {key:'wti',   name:'WTI Crude',   sub:'Oil',    price:'$83.12',chg:'-0.41%',chgY:'+4.2%', range52:'$67 – $92',up:false},
+    {key:'brent', name:'Brent Crude', sub:'Oil',    price:'$86.54',chg:'-0.35%',chgY:'+3.8%', range52:'$71 – $96',up:false},
+    {key:'copper',name:'Copper',      sub:'LME',    price:'$4.42', chg:'+0.67%',chgY:'+22.3%',range52:'$3.12 – $4.64',up:true},
+    {key:'natgas',name:'Natural Gas', sub:'NYMEX',  price:'$1.82', chg:'+1.2%', chgY:'-38.4%',range52:'$1.52 – $3.84',up:true},
+  ]},
+  {title:'Crypto 加密货币',items:[
+    {key:'btc',  name:'Bitcoin',  sub:'BTC/USD',price:'$68,420',chg:'+1.84%',chgY:'+142%',range52:'$24,800 – $73,750',up:true},
+    {key:'eth',  name:'Ethereum', sub:'ETH/USD',price:'$3,642', chg:'+2.1%', chgY:'+68%', range52:'$1,520 – $4,090',up:true},
+    {key:'sol',  name:'Solana',   sub:'SOL/USD',price:'$178',   chg:'+3.2%', chgY:'+312%',range52:'$18 – $210',up:true},
+    {key:'bnb',  name:'BNB',      sub:'BNB/USD',price:'$582',   chg:'+0.9%', chgY:'+48%', range52:'$192 – $641',up:true},
+    {key:'xrp',  name:'XRP',      sub:'XRP/USD',price:'$0.612', chg:'-1.1%', chgY:'+82%', range52:'$0.28 – $0.93',up:false},
+  ]},
+  {title:'FX 外汇',items:[
+    {key:'eurusd',name:'EUR/USD',sub:'Euro / Dollar',  price:'1.0891',chg:'+0.12%',chgY:'-3.2%',range52:'1.0448 – 1.1276',up:true},
+    {key:'usdjpy',name:'USD/JPY',sub:'Dollar / Yen',   price:'148.24',chg:'-0.08%',chgY:'+8.4%',range52:'129.6 – 151.9',up:false},
+    {key:'gbpusd',name:'GBP/USD',sub:'Cable',          price:'1.2742',chg:'+0.05%',chgY:'-1.8%',range52:'1.2037 – 1.3141',up:true},
+    {key:'dxy',   name:'DXY',    sub:'Dollar Index',   price:'104.2', chg:'+0.19%',chgY:'+3.4%',range52:'99.2 – 107.3',up:true},
+    {key:'usdcny',name:'USD/CNY',sub:'Offshore CNH',   price:'7.234', chg:'+0.06%',chgY:'+2.1%',range52:'7.008 – 7.370',up:false},
+    {key:'usdchf',name:'USD/CHF',sub:'Swissie',        price:'0.882', chg:'-0.04%',chgY:'+2.8%',range52:'0.840 – 0.923',up:true},
+  ]},
+];
+
+// ── CREATORS ──
+const CREATORS_CN=[
+  {name:'方方土',handle:'fangfangtu',topic:'财经评论',color:'#8B0000',lang:'cn',videos:[
+    {title:'美联储按兵不动，人民币汇率下一步怎么走？',days:'1天前',views:'8.2万',isNew:true,sort:1},
+    {title:'中美博弈最新动态：芯片管制背后的产业逻辑',days:'3天前',views:'6.1万',isNew:false,sort:3},
+    {title:'A股小盘股行情还能持续吗？量化资金的视角',days:'5天前',views:'5.4万',isNew:false,sort:5},
+  ]},
+  {name:'王志安',handle:'wangzhian',topic:'时政评论',color:'#003366',lang:'cn',videos:[
+    {title:'台海局势最新动态深度分析',days:'2天前',views:'15万',isNew:true,sort:2},
+    {title:'特朗普关税2.0：谁会是最大赢家？',days:'4天前',views:'12万',isNew:false,sort:4},
+    {title:'日本政治转型：后安倍时代的权力格局',days:'6天前',views:'9.8万',isNew:false,sort:6},
+  ]},
+  {name:'马斯库',handle:'masiku',topic:'AI与科技',color:'#1a3d2e',lang:'cn',videos:[
+    {title:'GPT-5发布，中国大模型还有多大差距？',days:'1天前',views:'6.4万',isNew:true,sort:1},
+    {title:'Claude 4 vs GPT-5：深度对比测评',days:'3天前',views:'5.1万',isNew:false,sort:3},
+    {title:'2025年最值得关注的AI Agent工具',days:'5天前',views:'4.8万',isNew:false,sort:5},
+  ]},
+  {name:'小Lin说',handle:'xlinsay',topic:'财经科普',color:'#4a2060',lang:'cn',videos:[
+    {title:'美国债务危机真的来了吗？一期视频讲清楚',days:'3天前',views:'23万',isNew:false,sort:3},
+    {title:'为什么全球央行都在买黄金？',days:'5天前',views:'18万',isNew:false,sort:5},
+    {title:'日元为什么一直跌？套息交易全解析',days:'7天前',views:'21万',isNew:false,sort:7},
+  ]},
+  {name:'小岛大浪吹',handle:'xiaodao',topic:'时事评论',color:'#7a4500',lang:'cn',videos:[
+    {title:'日本经济为什么还没衰退？背后的真相',days:'2天前',views:'9.1万',isNew:true,sort:2},
+    {title:'韩国政治危机会影响亚洲市场吗？',days:'4天前',views:'7.3万',isNew:false,sort:4},
+    {title:'东南亚制造业崛起：越南、印尼的新机会',days:'6天前',views:'6.8万',isNew:false,sort:6},
+  ]},
+  {name:'文昭谈古论金',handle:'wenzhao',topic:'历史与时政',color:'#333',lang:'cn',videos:[
+    {title:'从历史看今天：美帝国衰落的十个信号',days:'1天前',views:'11万',isNew:true,sort:1},
+    {title:'苏联解体对今日俄罗斯的历史镜鉴',days:'3天前',views:'9.2万',isNew:false,sort:3},
+    {title:'明朝经济崩溃与当代启示',days:'5天前',views:'8.7万',isNew:false,sort:5},
+  ]},
+  {name:'凤凰卫视',handle:'phoenixtv',topic:'新闻时事',color:'#cc4400',lang:'cn',videos:[
+    {title:'【头条新闻】2025年3月15日完整版',days:'今天',views:'31万',isNew:true,sort:0},
+    {title:'【财经连线】美股本周回顾：科技股领涨',days:'今天',views:'22万',isNew:true,sort:0},
+    {title:'【深度解析】中东局势最新进展',days:'1天前',views:'17万',isNew:false,sort:1},
+  ]},
+  {name:'柴静',handle:'chaijing',topic:'深度报道',color:'#444',lang:'cn',videos:[
+    {title:'雾霾十年：那些数字背后的人',days:'3天前',views:'42万',isNew:false,sort:3},
+    {title:'看见·2024：一年纪录的十二个瞬间',days:'5天前',views:'38万',isNew:false,sort:5},
+    {title:'煤的故事：山西矿工的三十年',days:'7天前',views:'29万',isNew:false,sort:7},
+  ]},
+];
+const CREATORS_EN=[
+  {name:'Matt Wolfe',handle:'mattwolfe',topic:'AI News',color:'#0a3d7a',lang:'en',videos:[
+    {title:'Every AI Update This Week — The Complete Breakdown',days:'1d ago',views:'284K',isNew:true,sort:1},
+    {title:'I Tested Every New AI Tool Released This Month',days:'3d ago',views:'198K',isNew:false,sort:3},
+    {title:'The Future of AI Agents: What\'s Actually Coming in 2025',days:'5d ago',views:'156K',isNew:false,sort:5},
+  ]},
+  {name:'Tina Huang',handle:'tinahuang',topic:'Tech Career',color:'#6b3fa0',lang:'en',videos:[
+    {title:'I Quit My FAANG Job — Here\'s What Actually Happened',days:'2d ago',views:'156K',isNew:true,sort:2},
+    {title:'Data Science vs ML Engineering in 2025: Which Path?',days:'4d ago',views:'112K',isNew:false,sort:4},
+    {title:'My Honest Review of Learning AI in 6 Months',days:'6d ago',views:'98K',isNew:false,sort:6},
+  ]},
+  {name:'Jeff Su',handle:'jeffsu',topic:'Productivity',color:'#005577',lang:'en',videos:[
+    {title:'My AI-Powered Daily Workflow in 2025 (Full Setup)',days:'3d ago',views:'98K',isNew:false,sort:3},
+    {title:'The Only 5 Notion Templates You Actually Need',days:'5d ago',views:'74K',isNew:false,sort:5},
+    {title:'How I Use Claude for Deep Work Every Day',days:'7d ago',views:'61K',isNew:false,sort:7},
+  ]},
+  {name:'The AI Advantage',handle:'aiadvantage',topic:'AI Tools',color:'#2d6a4f',lang:'en',videos:[
+    {title:'The 7 AI Tools That Actually Save Me 10 Hours/Week',days:'1d ago',views:'203K',isNew:true,sort:1},
+    {title:'Building an AI Agent With Make.com (No Code)',days:'3d ago',views:'142K',isNew:false,sort:3},
+    {title:'OpenAI vs Anthropic vs Google: Which API Wins in 2025?',days:'5d ago',views:'118K',isNew:false,sort:5},
+  ]},
+];
+const ALL_CREATORS=[...CREATORS_CN,...CREATORS_EN];
+
+const ARTICLES=[
+  // ── The Economist ──
+  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'The new face of globalisation',lede:'Trade flows have not retreated—they have rerouted. A decade after peak globalisation, goods, capital and data are still crossing borders at record rates, but through different corridors and under new rules.',readtime:'18 min',tag:'GLOBALISATION',url:'https://economist.com',fullText:`For much of the past decade, the narrative of deglobalisation has dominated headlines. Tariff walls rising, supply chains shortening, multinationals retreating homeward—the story seemed clear. The reality is considerably more complicated.\n\nThe most dramatic shift is the rise of "friend-shoring"—the deliberate concentration of supply chains within politically aligned blocs. American companies have not stopped importing; they have changed whom they import from. Mexican exports to the United States have surged. Vietnam has become a manufacturing superpower virtually overnight.\n\nThis rerouting carries profound implications. Efficiency, which drove the first wave of globalisation, is no longer the only criterion. Resilience, redundancy and political alignment now compete with cost.`},
+  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'Why central banks are rethinking the 2% inflation target',lede:'The sacred number that has anchored monetary policy for three decades is under scrutiny. A growing chorus of economists argues it may be too low for a world of supply shocks and fiscal dominance.',readtime:'14 min',tag:'MONETARY POLICY',url:'https://economist.com',fullText:`In 1990, the Reserve Bank of New Zealand became the first central bank to adopt an explicit numerical inflation target. The number it chose—roughly 2%—was picked for practical rather than theoretical reasons. Three decades later, that figure has become a near-universal anchor for monetary policy across rich economies.\n\nBut the post-pandemic era has strained the credibility of the framework. When inflation surged to double digits in many countries, central banks raised rates aggressively. The medicine worked, but the episode exposed a troubling possibility: supply-driven inflation is harder to control than the models assumed.\n\nA growing number of economists now argue that the 2% target is subtly wrong. Too low, they say, in a world where supply shocks are more frequent and where monetary policy has less room to manoeuvre when interest rates are already near zero.`},
+  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'The AI investment boom: separating signal from noise',lede:'Hundreds of billions of dollars are flowing into artificial intelligence. History suggests that not all of it will be well spent—but the productive core may be larger than sceptics suppose.',readtime:'16 min',tag:'TECHNOLOGY',url:'https://economist.com',fullText:`The figures are staggering. In 2024 alone, venture capital investment in AI companies exceeded $90bn globally. Hyperscalers—Microsoft, Google, Amazon, Meta—committed a combined $300bn to AI infrastructure. If history is any guide, a significant fraction of this will be wasted.\n\nTech investment booms reliably overshoot. The dotcom bubble saw billions poured into companies whose business models were, at best, premature. The subsequent bust was painful. Yet the underlying infrastructure—fibre optic cables, server farms, standardised internet protocols—turned out to be extraordinarily valuable. The froth evaporated; the foundation remained.\n\nThe question for AI is whether the same dynamic applies. The answer, we believe, is yes—with important caveats. The current wave of generative AI investment is producing genuine capability improvements at a rapid pace.`},
+
+  // ── MIT Technology Review ──
+  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'The quiet revolution in AI inference: why your next model might run on your phone',lede:'For years, frontier AI has been synonymous with vast data centres and colossal compute budgets. A new generation of efficient architectures is challenging that assumption.',readtime:'14 min',tag:'ARTIFICIAL INTELLIGENCE',url:'https://technologyreview.com',fullText:`The race to the frontier has always been a race to scale. Bigger models, trained on more data, with more compute, reliably outperform their smaller predecessors.\n\nSomething unexpected happened in 2024. A series of smaller models began matching the performance of much larger predecessors at a fraction of the computational cost. The gains came from better training data, improved architectures, and inference optimisation.\n\nModels that run locally cannot be surveilled by a cloud provider. They operate without a network connection and respond in milliseconds rather than seconds.`},
+  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'How CRISPR is being used to treat sickle cell disease—and what comes next',lede:'The first approved CRISPR therapy marks a watershed moment in medicine. But the technology\'s real promise—and its most difficult challenges—lies in what follows.',readtime:'12 min',tag:'BIOTECHNOLOGY',url:'https://technologyreview.com',fullText:`In December 2023, the FDA approved the first CRISPR-based therapy for sickle cell disease. The treatment, developed by Vertex Pharmaceuticals and CRISPR Therapeutics, edits patients' own stem cells to reactivate a foetal form of haemoglobin that the disease normally suppresses.\n\nThe results from clinical trials have been remarkable. The majority of patients who received the therapy have remained free of the painful crises that characterise the disease for years after treatment. For many, it represents a functional cure.\n\nBut the approval also exposed the technology's current limitations. The treatment costs approximately $2.2 million per patient. The manufacturing process requires extracting a patient's own cells, editing them in a laboratory, and reinfusing them—a process that takes months and requires specialised facilities.`},
+  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'The carbon capture conundrum: why it\'s harder than it looks',lede:'Governments and companies are betting billions on technologies that pull carbon dioxide from the atmosphere. The engineering works. The economics are brutal.',readtime:'15 min',tag:'CLIMATE',url:'https://technologyreview.com',fullText:`The Intergovernmental Panel on Climate Change is clear: limiting global warming to 1.5°C above pre-industrial levels will almost certainly require removing carbon dioxide from the atmosphere at gigaton scale. Yet despite years of investment and policy support, direct air capture remains stubbornly expensive.\n\nThe thermodynamic challenge is fundamental. Carbon dioxide makes up only about 420 parts per million of the atmosphere. Extracting it requires moving enormous volumes of air across chemical sorbents that selectively bind CO₂, then releasing and concentrating it using heat. The energy requirements are substantial.\n\nCurrent costs for leading direct air capture facilities run between $400 and $1,000 per tonne of CO₂ removed. At those prices, removing the 10 gigatons per year that models suggest is needed by mid-century would cost between $4 and $10 trillion annually.`},
+
+  // ── Quartz ──
+  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'The housing crisis is not a supply problem. It\'s a land problem.',lede:'Decades of zoning reform advocacy have produced real results in some cities, yet prices remain stubbornly elevated. A growing body of research suggests the framing has been subtly wrong.',readtime:'11 min',tag:'ECONOMICS',url:'https://qz.com',fullText:`The consensus among urban economists has shifted dramatically. Restrictive zoning has played the central role in constraining supply and driving up costs.\n\nYet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted. The explanation may lie in what economists call the land value problem.\n\nWhen zoning restrictions are relaxed, some of the value accrues to landowners rather than to renters. Without complementary policies—land value taxes, community land trusts—supply reform alone redistributes rather than creates affordability.`},
+  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'Remote work didn\'t kill cities. It transformed them.',lede:'Five years after the pandemic triggered a mass exodus from urban centres, the data tells a more nuanced story. Downtowns are struggling; neighbourhoods are thriving.',readtime:'10 min',tag:'URBAN ECONOMICS',url:'https://qz.com',fullText:`The obituaries were premature. When knowledge workers fled San Francisco, New York, and Chicago during the pandemic, commentators predicted the end of the dense city. Tax bases would collapse, transit systems would wither, restaurants would shutter. Some of that happened.\n\nBut a different story has also been unfolding. With workers no longer tethered to central business districts, residential neighbourhoods in cities have experienced a renaissance. Foot traffic data shows that local commercial strips—the kind of neighbourhood that urbanists have long championed—are busier than ever.\n\nThe office market remains deeply troubled. Vacancy rates in major American downtowns have exceeded 20% in some cities. But residential demand in those same cities has, in many cases, remained robust. People want to live near the amenities that cities offer; they just no longer want to commute to an office five days a week.`},
+  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'The loneliness economy: how solitude became a business opportunity',lede:'As social isolation rises across wealthy nations, a new industry is emerging to fill the gap—from AI companions to professional friendship services.',readtime:'9 min',tag:'SOCIETY',url:'https://qz.com',fullText:`Loneliness statistics have become impossible to ignore. In the United States, the Surgeon General declared an epidemic of loneliness in 2023. In Japan, the government has had a Minister of Loneliness since 2021. In the UK, a similar post was created after a parliamentary commission found that millions of citizens had no meaningful social contact on most days.\n\nInto this gap has stepped a new industry. AI companion apps like Replika and Character.ai have attracted tens of millions of users. In Japan and South Korea, professional "friend rental" services—where people pay for someone to accompany them to social events, listen to their problems, or simply share a meal—have expanded rapidly.\n\nThe commercial response to loneliness raises uncomfortable questions. Can technology substitute for genuine human connection? Does treating loneliness as a market opportunity address its causes, or merely its symptoms?`},
+];
+const CLASSICS=[
+  {en:'It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.',cn:'我们每天所需的食物和饮料，不是出自屠夫、酿酒师或面包师的恩惠，而是出于他们自身利益的打算。',src:'— Adam Smith, The Wealth of Nations (1776)'},
+  {en:'Far from being a luxury, the capacity to tolerate ambiguity is the mark of the educated mind.',cn:'容忍模糊性的能力远非奢侈品，而是受过良好教育的心智的标志。',src:'— Isaiah Berlin'},
+  {en:'The investor who says "this time it\'s different" when in fact it\'s the same old story is destined to be behind the curve.',cn:'当事情实际上与以往相同时却说"这次不一样"的投资者，注定会落后于时代。',src:'— Howard Marks'},
+  {en:'Price is what you pay. Value is what you get.',cn:'价格是你所付出的，价值是你所得到的。',src:'— Warren Buffett'},
+];
+
+// ══════════════════════════════════════
+// CHART DATA
+// ══════════════════════════════════════
+function makeLabels(weeks){
+  const labels=[];const d=new Date();d.setDate(d.getDate()-weeks*7);
+  for(let i=0;i<weeks;i++){d.setDate(d.getDate()+7);labels.push(d.toISOString().slice(0,7));}
+  return labels;
+}
+function genSeries(start,vol,trend,n){
+  const d=[start];for(let i=1;i<n;i++){const r=(Math.random()-.47)*vol;d.push(+(d[d.length-1]*(1+r+trend)).toFixed(3));}return d;
+}
+const SERIES={
+  sp500:{s5:genSeries(3200,.025,.0008,260),label:'S&P 500'},
+  nasdaq:{s5:genSeries(10800,.032,.001,260),label:'NASDAQ'},
+  nikkei:{s5:genSeries(22000,.024,.0007,260),label:'Nikkei 225'},
+  csi1000:{s5:genSeries(6500,.03,-.0002,260),label:'CSI 1000'},
+  hsi:{s5:genSeries(26000,.028,-.0005,260),label:'Hang Seng'},
+  dax:{s5:genSeries(14000,.022,.0006,260),label:'DAX'},
+  ust10:{s5:genSeries(1.5,.04,.0003,260),label:'US 10Y Yield'},
+  ust2:{s5:genSeries(0.2,.05,.0005,260),label:'US 2Y Yield'},
+  bund:{s5:genSeries(-0.5,.05,.0004,260),label:'DE 10Y Bund'},
+  jgb:{s5:genSeries(0.02,.03,.0003,260),label:'JP 10Y JGB'},
+  gilt:{s5:genSeries(0.4,.04,.0004,260),label:'UK 10Y Gilt'},
+  gold:{s5:genSeries(1600,.018,.0004,260),label:'Gold'},
+  silver:{s5:genSeries(16,.025,.0003,260),label:'Silver'},
+  wti:{s5:genSeries(55,.03,.0002,260),label:'WTI Crude'},
+  brent:{s5:genSeries(58,.028,.0002,260),label:'Brent Crude'},
+  copper:{s5:genSeries(3.2,.022,.0003,260),label:'Copper'},
+  natgas:{s5:genSeries(2.5,.05,-.0001,260),label:'Natural Gas'},
+  btc:{s5:genSeries(9000,.08,.002,260),label:'Bitcoin'},
+  eth:{s5:genSeries(200,.09,.0018,260),label:'Ethereum'},
+  sol:{s5:genSeries(2,.12,.003,260),label:'Solana'},
+  bnb:{s5:genSeries(25,.07,.0015,260),label:'BNB'},
+  xrp:{s5:genSeries(0.2,.065,.001,260),label:'XRP'},
+  eurusd:{s5:genSeries(1.08,.01,-.00001,260),label:'EUR/USD'},
+  usdjpy:{s5:genSeries(104,.015,.0003,260),label:'USD/JPY'},
+  gbpusd:{s5:genSeries(1.24,.012,.00002,260),label:'GBP/USD'},
+  dxy:{s5:genSeries(90,.012,.0001,260),label:'DXY'},
+  usdcny:{s5:genSeries(6.5,.008,.0001,260),label:'USD/CNY'},
+  usdchf:{s5:genSeries(0.91,.01,-.00002,260),label:'USD/CHF'},
+};
+const WK5=makeLabels(260),WK3=makeLabels(156),WK1=makeLabels(52);
+
+let activeChart=null,activeKey=null,activeRange='1y';
+
+function getSlice(key,range){
+  const s=SERIES[key].s5;
+  if(range==='1y')return{labels:WK1,data:s.slice(-52)};
+  if(range==='3y')return{labels:WK3,data:s.slice(-156)};
+  return{labels:WK5,data:s};
+}
+
+function drawMainChart(key){
+  activeKey=key;
+  const {labels,data}=getSlice(key,activeRange);
+  const name=SERIES[key].label;
+  const up=data[data.length-1]>=data[0];
+  const color=up?'#1a6e2e':'#c41230';
+  const fill=up?'rgba(26,110,46,.05)':'rgba(196,18,48,.05)';
+  document.getElementById('chart-title').textContent=name;
+  document.getElementById('chart-panel').classList.add('show');
+  const ctx=document.getElementById('main-chart');
+  if(activeChart)activeChart.destroy();
+  activeChart=new Chart(ctx,{
+    type:'line',
+    data:{labels,datasets:[{data,borderColor:color,borderWidth:1.5,pointRadius:0,fill:true,backgroundColor:fill,tension:.3}]},
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{mode:'index',intersect:false,callbacks:{label:c=>`${name}: ${c.parsed.y.toLocaleString()}`}}},
+      scales:{
+        x:{grid:{display:false},ticks:{maxTicksLimit:8,font:{family:'IBM Plex Mono',size:10},color:'#999'}},
+        y:{grid:{color:'#e8e4de',lineWidth:.5},ticks:{font:{family:'IBM Plex Mono',size:10},color:'#999'},position:'right'}
+      },
+      interaction:{mode:'nearest',axis:'x',intersect:false}
+    }
+  });
+  // Scroll to chart
+  document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function setRange(range,el){
+  activeRange=range;
+  document.querySelectorAll('.range-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  if(activeKey)drawMainChart(activeKey);
+}
+
+// Sparklines
+const sparkCharts={};
+function drawSparkline(canvasId,key){
+  const data=SERIES[key]?.s5.slice(-52);
+  if(!data||!document.getElementById(canvasId))return;
+  const up=data[data.length-1]>=data[0];
+  const c=document.getElementById(canvasId).getContext('2d');
+  if(sparkCharts[canvasId])sparkCharts[canvasId].destroy();
+  sparkCharts[canvasId]=new Chart(c,{
+    type:'line',
+    data:{labels:data.map((_,i)=>i),datasets:[{data,borderColor:up?'#1a6e2e':'#c41230',borderWidth:1.5,pointRadius:0,fill:false,tension:.3}]},
+    options:{responsive:false,plugins:{legend:{display:false},tooltip:{enabled:false}},scales:{x:{display:false},y:{display:false}},animation:false}
+  });
+}
+
+// ══════════════════════════════════════
+// RENDER
+// ══════════════════════════════════════
+
+function renderNews(cat){
+  const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
+  const lead=list.find(n=>n.lead)||list[0];
+  const rest=list.filter(n=>n!==lead);
+  document.getElementById('news-main').innerHTML=`
+    <div class="lead-story">
+      <div class="story-source">${lead.source} · ${lead.cat.toUpperCase()}</div>
+      <div class="story-headline" onclick="openNewsModal('${lead.id}')">${lead.headline}</div>
+      <div class="story-deck">${lead.deck}</div>
+      <div class="story-byline">
+        <span>${lead.time}</span>
+        <button class="translate-btn" onclick="translateNews(this,'${lead.id}')">中 中文摘要</button>
+      </div>
+      <div class="tx-box" id="tx-${lead.id}"></div>
+    </div>
+    ${rest.slice(0,5).map((n,i)=>`
+    <div class="secondary-story" onclick="openNewsModal('${n.id}')">
+      <div class="sec-num">0${i+1}</div>
+      <div class="sec-content">
+        <div class="sec-headline">${n.headline}</div>
+        <div class="sec-meta"><span>${n.source}</span><span>${n.cat.toUpperCase()}</span><span>${n.time}</span>
+          <button class="translate-btn" onclick="event.stopPropagation();translateNews(this,'${n.id}')">中</button>
+        </div>
+        <div class="tx-box" id="tx-${n.id}"></div>
+      </div>
+    </div>`).join('')}
+  `;
+  document.getElementById('news-sidebar').innerHTML=`
+    <div class="sidebar-section">
+      <div class="sidebar-heading">Also Today</div>
+      ${NEWS.filter(n=>n!==lead).slice(0,6).map(n=>`
+      <div class="sidebar-item" onclick="openNewsModal('${n.id}')">
+        <div class="sidebar-hl">${n.headline}</div>
+        <div class="sidebar-src">${n.source} · ${n.time}</div>
+      </div>`).join('')}
+    </div>
+  `;
+}
+
+function renderVideos(lang){
+  // Flatten all videos with creator info, sort by sort value (0=today, lower=newer)
+  let creators=lang==='cn'?CREATORS_CN:lang==='en'?CREATORS_EN:ALL_CREATORS;
+  let allVideos=[];
+  creators.forEach(cr=>{
+    cr.videos.forEach(v=>{
+      allVideos.push({...v,creator:cr});
+    });
+  });
+  // Sort: sort value ascending (today=0 first)
+  allVideos.sort((a,b)=>a.sort-b.sort);
+
+  document.getElementById('vd-grid').innerHTML=allVideos.map((v,i)=>`
+    <div class="vd-card" style="animation:slideup .4s ease ${i*.04}s both">
+      <div class="vd-thumb" style="background:${v.creator.color}12;border-bottom:1px solid var(--rule2)">
+        <div class="vd-play" style="background:${v.creator.color}">
+          <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+        ${v.isNew?'<div class="vd-badge">New</div>':''}
+      </div>
+      <div class="vd-info">
+        <div class="vd-ch">${v.creator.name} · ${v.creator.topic}</div>
+        <div class="vd-title">${v.title}</div>
+        <div class="vd-meta-row">
+          <span>${v.days} · ${v.views}</span>
+          <span class="vd-tx" onclick="translateVd(this,'vdcn-${v.creator.handle}-${i}','${v.title.replace(/'/g,"\\'").replace(/"/g,'&quot;')}')">→中文</span>
+        </div>
+        <div class="vd-cn-box" id="vdcn-${v.creator.handle}-${i}"></div>
+      </div>
+    </div>`).join('');
+}
+
+function renderAssets(){
+  const wrap=document.getElementById('assets-wrap');
+  // 解析涨幅字符串为数字，用于排序
+  function parseChg(s){return parseFloat(s.replace('%','').replace('+',''))||0;}
+  wrap.innerHTML=ASSET_SECTIONS.map(sec=>{
+    const sorted=[...sec.items].sort((a,b)=>parseChg(b.chgY)-parseChg(a.chgY));
+    return `
+    <div class="asset-section-block">
+      <div class="asset-section-title">${sec.title}</div>
+      <table class="asset-table">
+        <thead><tr>
+          <th>Name</th><th>Price</th><th>Change</th><th>1Y Return</th><th>52W Range</th><th style="width:90px">1Y Trend</th>
+        </tr></thead>
+        <tbody>
+          ${sorted.map(item=>`
+          <tr onclick="selectAssetRow(this,'${item.key}')">
+            <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
+            <td class="td-price">${item.price}</td>
+            <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
+            <td><span class="td-chg ${item.chgY.startsWith('+')?'up':'dn'}">${item.chgY}</span></td>
+            <td class="td-range">${item.range52}</td>
+            <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
+          </tr>`).join('')}
+        </tbody>
+      </table>
+    </div>`;}
+  ).join('');
+  requestAnimationFrame(()=>{
+    ASSET_SECTIONS.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key)));
+  });
+}
+
+function selectAssetRow(tr,key){
+  document.querySelectorAll('.asset-table tbody tr').forEach(r=>r.classList.remove('selected'));
+  tr.classList.add('selected');
+  drawMainChart(key);
+  document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function renderReading(pubKey){
+  const list=(!pubKey||pubKey==='all')?ARTICLES:ARTICLES.filter(a=>a.pubKey===pubKey);
+  // Use global indices for stable translate IDs
+  document.getElementById('reading-main').innerHTML=list.map(a=>{
+    const i=ARTICLES.indexOf(a);
+    return `<div class="article-card" style="animation:slideup .4s ease both">
+      <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
+      <div class="art-hl" onclick="openArticleModal(${i})">${a.headline}</div>
+      <div class="art-lede">${a.lede}</div>
+      <div class="art-meta">
+        <span>${a.readtime} read</span>
+        <span class="art-tag">${a.tag}</span>
+        <button class="translate-btn" onclick="translateArticle(this,${i})">中 中文摘要</button>
+      </div>
+      <div class="tx-box" id="art-tx-${i}"></div>
+    </div>`;
+  }).join('');
+  // Classic passage only on first load
+  if(!document.getElementById('classic-cn')){
+    const cl=CLASSICS[Math.floor(Math.random()*CLASSICS.length)];
+    document.getElementById('classic-box').innerHTML=`
+      <div class="classic-label">Today's Classic · 每日经典</div>
+      <div class="classic-en">"${cl.en}"</div>
+      <div class="classic-cn" id="classic-cn">${cl.cn}</div>
+      <div class="classic-src">${cl.src}</div>
+      <div style="margin-top:12px"><button class="translate-btn" onclick="document.getElementById('classic-cn').classList.toggle('show')">中 显示/隐藏</button></div>
+    `;
+  }
+}
+function renderOpinions(cat){
+  const list=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
+  const lead=list[0];const rest=list.slice(1);
+  document.getElementById('op-main').innerHTML=list.map((o,i)=>`
+    <div class="op-card" style="animation:slideup .4s ease ${i*.06}s both">
+      <div class="op-person-row">
+        <div class="op-avatar" style="background:${o.color}">${o.nameZh.charAt(0)}</div>
+        <div class="op-person-info">
+          <div class="op-name">${o.nameZh} <span style="font-family:var(--body);font-size:13px;font-weight:400;color:var(--ink3)">${o.name}</span></div>
+          <div class="op-role">${o.role}</div>
+        </div>
+      </div>
+      <div class="op-quote">${o.quote}</div>
+      <div class="op-meta">
+        <span class="op-source-tag">${o.source}</span>
+        <span>${o.date}</span>
+        <button class="translate-btn" onclick="translateOpinion(this,'op-tx-${o.id}','${o.id}')">中 中文摘要</button>
+      </div>
+      <div class="tx-box" id="op-tx-${o.id}"></div>
+    </div>`).join('');
+  const sidebar=(!cat||cat==='all')?OPINIONS.slice(0,6):OPINIONS.filter(o=>o.cat!==cat).slice(0,5);
+  document.getElementById('op-sidebar').innerHTML=sidebar.map(o=>`
+    <div class="op-sidebar-person">
+      <div class="op-sp-name">${o.nameZh} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
+      <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
+    </div>`).join('');
+}
+function filterOpinions(cat,el){
+  document.querySelectorAll('#op-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');renderOpinions(cat);
+}
+async function translateOpinion(btn,boxId,id){
+  const box=document.getElementById(boxId);if(!box)return;
+  if(box.classList.contains('show')){box.classList.remove('show');btn.innerHTML='中 中文摘要';btn.classList.remove('done');return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  const o=OPINIONS.find(x=>x.id===id);if(!o)return;
+  btn.classList.add('loading');btn.textContent='生成中…';
+  try{const cn=await callClaude(`以下是${o.nameZh}（${o.role}）的最新观点，请用流畅中文做简洁解读（150字以内），分析其背景和意义：\n"${o.quote}"\n来源：${o.source}\n直接输出中文解读。`);
+  box.textContent=cn;box.classList.add('show');btn.classList.remove('loading');btn.classList.add('done');btn.innerHTML='中 已解读';
+  }catch{box.textContent='解读暂时不可用';box.classList.add('show');btn.classList.remove('loading');}
+}
+
+function filterReading(key,el){
+  document.querySelectorAll('#rd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  renderReading(key);
+}
+
+// ══════════════════════════════════════
+// CLAUDE API
+// ══════════════════════════════════════
+async function callClaude(prompt){
+  const r=await fetch('https://api.anthropic.com/v1/messages',{
+    method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({model:'claude-sonnet-4-20250514',max_tokens:800,messages:[{role:'user',content:prompt}]})
+  });
+  const d=await r.json();return d.content?.[0]?.text||'翻译暂时不可用';
+}
+async function translateNews(btn,id){
+  const box=document.getElementById('tx-'+id);
+  if(box.classList.contains('show')){box.classList.remove('show');btn.innerHTML='中 中文摘要';btn.classList.remove('done');return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  const item=NEWS.find(n=>n.id===id);if(!item)return;
+  btn.classList.add('loading');btn.textContent='生成中…';
+  try{const cn=await callClaude(`用流畅中文为以下英文新闻生成简洁摘要（150字以内），含核心事实和意义。\n标题：${item.headline}\n内容：${item.deck}\n直接输出中文摘要。`);
+  box.textContent=cn;box.classList.add('show');btn.classList.remove('loading');btn.classList.add('done');btn.innerHTML='中 已翻译';
+  }catch{box.textContent='翻译失败，请稍后重试。';box.classList.add('show');btn.classList.remove('loading');}
+}
+async function translateArticle(btn,i){
+  const box=document.getElementById('art-tx-'+i);
+  if(box.classList.contains('show')){box.classList.remove('show');btn.innerHTML='中 中文摘要';btn.classList.remove('done');return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  const a=ARTICLES[i];btn.classList.add('loading');btn.textContent='生成中…';
+  try{const cn=await callClaude(`用流畅中文为以下长文生成精炼摘要（200字以内），抓住核心论点。\n标题：${a.headline}\n内容：${a.fullText.slice(0,500)}\n直接输出中文摘要。`);
+  box.textContent=cn;box.classList.add('show');btn.classList.remove('loading');btn.classList.add('done');btn.innerHTML='中 已翻译';
+  }catch{box.textContent='翻译失败，请稍后重试。';box.classList.add('show');btn.classList.remove('loading');}
+}
+async function translateVd(btn,boxId,title){
+  const box=document.getElementById(boxId);if(!box)return;
+  if(box.classList.contains('show')){box.classList.remove('show');btn.textContent='→中文';return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  btn.textContent='生成中…';
+  try{const cn=await callClaude(`用一句话（50字以内）说明以下视频标题的核心内容：\n"${title}"\n直接输出中文。`);
+  box.textContent=cn;box.classList.add('show');btn.textContent='✓ 已翻译';
+  }catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
+}
+
+// ══════════════════════════════════════
+// MODALS
+// ══════════════════════════════════════
+function openNewsModal(id){
+  const item=NEWS.find(n=>n.id===id);if(!item)return;
+  document.getElementById('modal-src').textContent=`${item.source} · ${item.cat.toUpperCase()} · ${item.time}`;
+  document.getElementById('modal-hl').textContent=item.headline;
+  document.getElementById('modal-body').innerHTML=`
+    <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.8;margin-bottom:16px">${item.deck}</div>
+    <button class="translate-btn" style="font-size:11px;padding:5px 12px;margin-bottom:12px" onclick="translateNewsModal('${id}')">中 生成中文摘要</button>
+    <div id="mcn-${id}" style="display:none;font-family:var(--cn);font-size:14px;line-height:1.9;color:var(--ink2);padding:14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:14px"></div>
+    <hr style="border:none;border-top:1px solid var(--rule);margin:12px 0">
+    <a href="${item.url}" target="_blank" style="font-family:var(--mono);font-size:11px;color:var(--accent2);text-decoration:underline">Read full article →</a>`;
+  document.getElementById('modal').classList.add('open');
+}
+async function translateNewsModal(id){
+  const item=NEWS.find(n=>n.id===id);const box=document.getElementById('mcn-'+id);if(!box||!item)return;
+  box.style.display='block';box.innerHTML='<div class="modal-loading"><div class="spinner"></div>正在生成…</div>';
+  try{box.innerHTML=await callClaude(`用流畅中文提供详细摘要（300字以内），含背景、核心内容和影响分析：\n标题：${item.headline}\n内容：${item.deck}\n直接输出中文。`);}
+  catch{box.innerHTML='翻译失败，请稍后重试。';}
+}
+function openArticleModal(i){
+  const a=ARTICLES[i];
+  document.getElementById('modal-src').textContent=`${a.pub} · ${a.tag}`;
+  document.getElementById('modal-hl').textContent=a.headline;
+  const paras=a.fullText.split('\n\n').map(p=>`<p style="margin-bottom:14px">${p}</p>`).join('');
+  document.getElementById('modal-body').innerHTML=`
+    <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:16px">${paras}</div>
+    <button class="translate-btn" style="font-size:11px;padding:5px 12px;margin-bottom:12px" onclick="translateArticleModal(${i})">中 生成中文摘要</button>
+    <div id="macn-${i}" style="display:none;font-family:var(--cn);font-size:14px;line-height:1.9;color:var(--ink2);padding:14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:14px"></div>
+    <hr style="border:none;border-top:1px solid var(--rule);margin:12px 0">
+    <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:11px;color:var(--accent2);text-decoration:underline">Read full article →</a>`;
+  document.getElementById('modal').classList.add('open');
+}
+async function translateArticleModal(i){
+  const a=ARTICLES[i];const box=document.getElementById('macn-'+i);if(!box)return;
+  box.style.display='block';box.innerHTML='<div class="modal-loading"><div class="spinner"></div>正在生成…</div>';
+  try{box.innerHTML=await callClaude(`用流畅中文提供详细摘要（400字以内），含核心论点、数据和读者启示：\n标题：${a.headline}\n内容：${a.fullText}\n直接输出中文。`);}
+  catch{box.innerHTML='翻译失败，请稍后重试。';}
+}
+function closeModal(){document.getElementById('modal').classList.remove('open');}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+
+// ══════════════════════════════════════
+// NAV
+// ══════════════════════════════════════
+function showPanel(id,el){
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+  document.getElementById('panel-'+id).classList.add('active');
+  el.classList.add('active');
+  if(id==='assets'&&!document.getElementById('assets-wrap').children.length){renderAssets();}
+  if(id==='opinions'&&!document.getElementById('op-main').children.length){renderOpinions('all');}
+}
+function filterNews(cat,el){
+  document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');renderNews(cat);
+}
+function filterVd(lang,el){
+  document.querySelectorAll('#vd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');renderVideos(lang);
+}
+
+// ══════════════════════════════════════
+// TICKER
+// ══════════════════════════════════════
+const TICKERS=[
+  {l:'EUR/USD',v:'1.0891',c:'+0.12%',up:true},{l:'USD/JPY',v:'148.24',c:'-0.08%',up:false},
+  {l:'S&P 500',v:'5,642',c:'+0.31%',up:true},{l:'NASDAQ',v:'17,845',c:'+0.54%',up:true},
+  {l:'Gold',v:'$2,318',c:'-0.22%',up:false},{l:'BTC',v:'$68,420',c:'+1.84%',up:true},
+  {l:'CSI 1000',v:'5,228',c:'+0.67%',up:true},{l:'WTI',v:'$83.12',c:'-0.41%',up:false},
+  {l:'DXY',v:'104.2',c:'+0.19%',up:true},{l:'10Y UST',v:'4.31%',c:'+3bp',up:false},
+];
+const th=TICKERS.map(t=>`<div class="mitem"><span>${t.l}</span><span class="mval">${t.v}</span><span class="${t.up?'up':'dn'}">${t.c}</span></div>`).join('');
+document.getElementById('mtrack').innerHTML=th+th;
+
+// ══════════════════════════════════════
+// INIT — fetch external JSON data
+// ══════════════════════════════════════
+document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
+
+async function loadData(){
+  // 加载 NEWS
+  try{
+    const r=await fetch('data/news.json?t='+Date.now());
+    if(r.ok) window.NEWS=await r.json();
+  }catch(e){console.warn('news.json load failed, using built-in data');}
+
+  // 加载 OPINIONS
+  try{
+    const r=await fetch('data/opinions.json?t='+Date.now());
+    if(r.ok) window.OPINIONS=await r.json();
+  }catch(e){console.warn('opinions.json load failed, using built-in data');}
+
+  // 渲染
+  renderNews('all');
+  renderVideos('all');
+  renderReading('all');
+}
+
+loadData();
+</script>
+</body>
+</html>
 
