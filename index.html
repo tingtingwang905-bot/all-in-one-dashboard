@@ -957,7 +957,7 @@ async function loadData(){
   }catch(e){console.warn('news.json load failed',e);}
 
   try{
-    const r=await fetch('data/opinions.json?t='+Date.now());
+    const r=await fetch('./data/opinions.json?t='+Date.now());
     if(r.ok){
       const data=await r.json();
       OPINIONS.length=0;
