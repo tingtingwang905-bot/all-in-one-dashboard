@@ -728,6 +728,11 @@ function toggleDeck(id){
   if(el) el.style.display=el.style.display==='none'?'block':'none';
 }
 
+function toggleDeck(id){
+  const el=document.getElementById(id);
+  if(el) el.style.display=el.style.display==='none'?'block':'none';
+}
+
 function renderAssets(){
   const wrap=document.getElementById('assets-wrap');
   // 解析涨幅字符串为数字，用于排序
