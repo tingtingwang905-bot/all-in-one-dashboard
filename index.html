@@ -950,7 +950,7 @@ async function loadData(){
   // 加载 NEWS
   try{
     const r=await fetch('data/news.json?t='+Date.now());
-    if(r.ok) window.NEWS=await r.json();
+   if(r.ok) NEWS=await r.json();
   }catch(e){console.warn('news.json load failed, using built-in data');}
 
   // 加载 OPINIONS
