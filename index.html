@@ -947,19 +947,24 @@ document.getElementById('mtrack').innerHTML=th+th;
 document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
 
 async function loadData(){
-  // 加载 NEWS
   try{
     const r=await fetch('data/news.json?t='+Date.now());
-   if(r.ok) NEWS=await r.json();
-  }catch(e){console.warn('news.json load failed, using built-in data');}
+    if(r.ok){
+      const data=await r.json();
+      NEWS.length=0;
+      data.forEach(item=>NEWS.push(item));
+    }
+  }catch(e){console.warn('news.json load failed',e);}
 
-  // 加载 OPINIONS
   try{
     const r=await fetch('data/opinions.json?t='+Date.now());
-    if(r.ok) window.OPINIONS=await r.json();
-  }catch(e){console.warn('opinions.json load failed, using built-in data');}
+    if(r.ok){
+      const data=await r.json();
+      OPINIONS.length=0;
+      data.forEach(item=>OPINIONS.push(item));
+    }
+  }catch(e){console.warn('opinions.json load failed',e);}
 
-  // 渲染
   renderNews('all');
   renderVideos('all');
   renderReading('all');
