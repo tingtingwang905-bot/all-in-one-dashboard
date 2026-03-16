@@ -678,36 +678,54 @@ function renderNews(cat){
   `;
 }
 
-function renderVideos(lang){
-  // Flatten all videos with creator info, sort by sort value (0=today, lower=newer)
-  let creators=lang==='cn'?CREATORS_CN:lang==='en'?CREATORS_EN:ALL_CREATORS;
-  let allVideos=[];
-  creators.forEach(cr=>{
-    cr.videos.forEach(v=>{
-      allVideos.push({...v,creator:cr});
-    });
-  });
-  // Sort: sort value ascending (today=0 first)
-  allVideos.sort((a,b)=>a.sort-b.sort);
+function renderNews(cat){
+  const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
+  const lead=list.find(n=>n.lead)||list[0];
+  const rest=list.filter(n=>n!==lead);
+  document.getElementById('news-main').innerHTML=`
+    <div class="lead-story">
+      <div class="story-source">${lead.source} · ${lead.cat.toUpperCase()}</div>
+      <div class="story-headline" onclick="toggleDeck('deck-${lead.id}')" style="cursor:pointer">${lead.cnSummary||lead.headline}</div>
+      <div id="deck-${lead.id}" style="display:none;margin:8px 0 10px">
+        <div style="font-family:var(--mono);font-size:11px;color:var(--ink4);line-height:1.6">${lead.headline}</div>
+      </div>
+      <div class="story-byline">
+        <span>${lead.time}</span>
+        <a href="${lead.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
+      </div>
+    </div>
+    ${rest.slice(0,8).map((n,i)=>`
+    <div class="secondary-story">
+      <div class="sec-num">0${i+1}</div>
+      <div class="sec-content">
+        <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer">${n.cnSummary||n.headline}</div>
+        <div id="deck-${n.id}" style="display:none;margin:6px 0 8px">
+          <div style="font-family:var(--mono);font-size:10px;color:var(--ink4);line-height:1.6">${n.headline}</div>
+        </div>
+        <div class="sec-meta">
+          <span>${n.source}</span>
+          <span>${n.time}</span>
+          <a href="${n.url}" target="_blank" onclick="event.stopPropagation()" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
+        </div>
+      </div>
+    </div>`).join('')}
+  `;
+  document.getElementById('news-sidebar').innerHTML=`
+    <div class="sidebar-section">
+      <div class="sidebar-heading">Also Today</div>
+      ${NEWS.filter(n=>n!==lead).slice(0,6).map(n=>`
+      <div class="sidebar-item">
+        <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer">${n.cnSummary||n.headline}</div>
+        <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;font-family:var(--mono);font-size:10px;color:var(--ink4);line-height:1.6">${n.headline}</div>
+        <div class="sidebar-src">${n.source} · ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></div>
+      </div>`).join('')}
+    </div>
+  `;
+}
 
-  document.getElementById('vd-grid').innerHTML=allVideos.map((v,i)=>`
-    <div class="vd-card" style="animation:slideup .4s ease ${i*.04}s both">
-      <div class="vd-thumb" style="background:${v.creator.color}12;border-bottom:1px solid var(--rule2)">
-        <div class="vd-play" style="background:${v.creator.color}">
-          <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-        ${v.isNew?'<div class="vd-badge">New</div>':''}
-      </div>
-      <div class="vd-info">
-        <div class="vd-ch">${v.creator.name} · ${v.creator.topic}</div>
-        <div class="vd-title">${v.title}</div>
-        <div class="vd-meta-row">
-          <span>${v.days} · ${v.views}</span>
-          <span class="vd-tx" onclick="translateVd(this,'vdcn-${v.creator.handle}-${i}','${v.title.replace(/'/g,"\\'").replace(/"/g,'&quot;')}')">→中文</span>
-        </div>
-        <div class="vd-cn-box" id="vdcn-${v.creator.handle}-${i}"></div>
-      </div>
-    </div>`).join('');
+function toggleDeck(id){
+  const el=document.getElementById(id);
+  if(el) el.style.display=el.style.display==='none'?'block':'none';
 }
 
 function renderAssets(){
