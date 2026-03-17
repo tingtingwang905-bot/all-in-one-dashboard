@@ -9,14 +9,14 @@ from datetime import datetime, timezone, timedelta
 # ─────────────────────────────────────────
 CHANNELS = [
     # ── 中文频道 ──
-    {"name": "方方土",        "id": "UCkFSMHTqHReSEWN_Y8JR9ZA", "lang": "cn"},
-    {"name": "王志安",        "id": "UCBKDRq35-L8xev4O7ZqBeLg", "lang": "cn"},
-    {"name": "马斯库",        "id": "UCsT6pDcSHom4N6-5T-RO5kw",  "lang": "cn"},
-    {"name": "小Lin说",       "id": "UCilwQlk62k1z7aUEZPOB6yw",  "lang": "cn"},
-    {"name": "小岛大浪吹",    "id": "UCYPT3wl0MgbOz63ho166KOw",  "lang": "cn"},
-    {"name": "文昭谈古论今",  "id": "UCzRVHBCAFBBFMGdOhz3Bv8A",  "lang": "cn"},
-    {"name": "凤凰卫视Official","id": "UCqBn06vJOVWn-K-p2MBnxaw","lang": "cn"},
-    {"name": "柴静",          "id": "UCZMgnCxEe3zQ-OSoFXLa2ow",  "lang": "cn"},
+    {"name": "方方土",          "id": "UCjuNibFJ21MiSNpu8LZyV4w", "lang": "cn"},
+    {"name": "王志安",          "id": "UCBKDRq35-L8xev4O7ZqBeLg", "lang": "cn"},
+    {"name": "马斯库",          "id": "UC-CckeotGQCZigg3nETreCQ", "lang": "cn"},
+    {"name": "小Lin说",         "id": "UCilwQlk62k1z7aUEZPOB6yw", "lang": "cn"},
+    {"name": "小岛大浪吹",      "id": "UCYPT3wl0MgbOz63ho166KOw", "lang": "cn"},
+    {"name": "文昭谈古论今",    "id": "UCtAIPjABiQD3qjlEl1T5VpA", "lang": "cn"},
+    {"name": "凤凰卫视Official","id": "UCwAnu01qlnVg1Ai2AbtTMaA", "lang": "cn"},
+    {"name": "柴静",            "id": "UC3411UsjUC2t-Xfr1gwIhzg", "lang": "cn"},
     # ── 英文频道 ──
     {"name": "Matt Wolfe",       "id": "UChpleBmo18P08aKCIgti38g", "lang": "en"},
     {"name": "Tina Huang",       "id": "UC2UXDak6o7rBm23k3Vv5dww", "lang": "en"},
