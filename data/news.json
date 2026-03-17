@@ -1,5 +1,96 @@
 [
   {
+    "headline": "Tim Cook squashes retirement rumors, says he 'can't imagine life without Apple'",
+    "deck": "Apple CEO Tim Cook's 'Good Morning America' comments follow a recent executive shakeup and renewed questions about the company's stragey for AI.",
+    "cnTitle": "Tim Cook否认退休传言，称离不开苹果",
+    "cnDeck": "Apple CEO Tim Cook在接受《早安美国》采访时表示他\"无法想象没有苹果的生活\"，此前苹果公司经历了高管调整，外界对该公司的AI战略产生了新的疑问。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T15:02:11+00:00",
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
+    "deck": "CEO Ed Bastian told CNBC's Phil LeBeau that Delta had taken a $400 million fuel hit in the quarter, but that demand has been \"really, really great.\"",
+    "cnTitle": "航空公司上调收入指引，燃油成本上升",
+    "cnDeck": "Delta首席执行官Ed Bastian在接受CNBC采访时表示，该公司在本季度遭受了4亿美元的燃油打击，但需求一直\"非常非常强劲\"。尽管面临燃油成本上升的压力，航空公司仍然上调了收入指引，反映出旅行需求的持续增长势头。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:53:22+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+    "deck": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
+    "cnTitle": "Mastercard以18亿美元收购稳定币初创公司",
+    "cnDeck": "Mastercard宣布收购稳定币初创公司BVNK，交易金额为18亿美元。这笔交易发生在唐纳德·特朗普2024年末再次当选总统后，新一轮加密货币友好型监管政策随之而来。稳定币初创公司自此成为热门商品。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:40:39+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'",
+    "deck": "\"Iran posed no imminent threat to our nation,\" Kent wrote in his letter to President Donald Trump.",
+    "cnTitle": "美国反恐主任因伊朗政策辞职",
+    "cnDeck": "\"伊朗对我国不构成迫在眉睫的威胁,\"肯特在致特朗普总统的信中写道。美国反恐主任乔·肯特辞职,理由是对伊朗政策的分歧。他在辞职信中明确表示,\"伊朗对我国不构成迫在眉睫的威胁\"。这表明特朗普政府内部在伊朗问题上存在重大分歧。肯特在信中对美国的反恐战略和对伊朗的政策立场提出质疑,暗示政府的鹰派政策可能过度。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:37:09+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "A 'significant' private credit shakeout on par with Covid losses is coming, predicts Morgan Stanley",
+    "deck": "Morgan Stanley expects direct lending default rates to reach as high as 8%.",
+    "cnTitle": "私募信贷市场将面临重大调整",
+    "cnDeck": "摩根士丹利预计直接借贷违约率可能达到8%。摩根士丹利的分析师预测，私募信贷市场即将经历一次\"重大\"的调整，其严重程度可能与新冠疫情期间的损失相当。该行预计直接借贷（direct lending）的违约率将上升至8%的高位。这一预警反映了市场对私募信贷领域潜在风险的担忧。私募信贷市场在近年来快速增长，但其风险管理和借款人质量问题也逐渐显现。摩根士丹利的这一预测可能引发对整个信贷市场稳定性的关注。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/private-credit-shakeout-matching-covid-losses-coming-morgan-stanley-says.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:25:53+00:00",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "European markets need to get their act together, CEO of Norway’s $2 trillion wealth fund says. ‘The winner takes it all’",
+    "deck": "Nicolai Tangen, CEO of Norges Bank Investment Management, warned Europe is facing a crisis and that “it is time to act.”",
+    "cnTitle": "欧洲市场需要整顿，挪威主权基金CEO警告",
+    "cnDeck": "Nicolai Tangen，挪威央行投资管理公司CEO，警告欧洲正面临危机，\"现在是采取行动的时候了\"。这家管理资产规模达2万亿美元的主权基金负责人表示，欧洲市场需要\"行动起来\"。他的言论反映了对欧洲经济竞争力的担忧，暗示如果欧洲不采取措施，将在全球经济竞争中落后。\"赢家通吃\"这一表述进一步强调了当前全球经济竞争的激烈程度。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:23:35+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "US Stocks Slip as Iran Attacks Add Pressure on Oil: Markets Wrap - Bloomberg.com",
+    "deck": "US Stocks Slip as Iran Attacks Add Pressure on Oil: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美股下跌伊朗攻击推高油价",
+    "cnDeck": "美国股市周二下滑，原油价格承压上升，伊朗攻击引发地缘政治担忧。能源板块因油价波动面临压力，投资者对中东局势升级表示关切。分析人士指出，地缘政治风险可能继续影响全球能源市场和股市表现。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW9WWDdfaHk1NTRMbXBJTFpXaWk2UEo1eUpoV2xlWVFGVWRxd0c2RlJRSmo5Vm9GdkJxemlJanVpOHdQdV84UWtEci1JdFlRMmZoQ2FreUJXUks4S2d2ZjN3T2Vsdm1BV3VDS3BWcWlLNG5NNUpRa20tNGwtX2RwVnRCNW5SS2ttQ1ZTXzVaMVdPZkJRV0E?oc=5",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T14:16:37+00:00",
+    "id": "n7",
+    "lead": false
+  },
+  {
     "headline": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
     "deck": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
     "cnTitle": "油价因荷木兹海峡保护计划受阻而回落",
@@ -9,8 +100,8 @@
     "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:01:26+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n8",
+    "lead": false
   },
   {
     "headline": "Disney trades at a historically low valuation. Sarat Sethi sees a great buying opportunity",
@@ -22,7 +113,33 @@
     "url": "https://www.cnbc.com/2026/03/17/disney-trades-at-a-historically-low-valuation-sarat-sethi-sees-a-great-buying-opportunity.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:59:19+00:00",
-    "id": "n2",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
+    "deck": "CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.",
+    "cnTitle": "蜥蜴机器人为美国海军舰船维修提供AI技术",
+    "cnDeck": "Gecko Robotics将其AI技术引入美国海军舰船维修工作。CEO Jake Loosararian表示，Gecko正在支持海军实现到2027年80%舰队就绪率的目标。该交易是最新一代国防技术应用的例子，反映了美国军方对AI和自动化技术的战略投资。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-17T13:53:13+00:00",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Stocks Globally Are Sinking Even if US Shares Are Holding Up - Bloomberg.com",
+    "deck": "Stocks Globally Are Sinking Even if US Shares Are Holding Up&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "全球股市下跌，美股相对抗跌",
+    "cnDeck": "Stocks Globally Are Sinking Even if US Shares Are Holding Up. 全球股市正在下跌，尽管美国股市相对保持稳定。Bloomberg报道显示，国际股市面临压力，而美国股市表现出相对韧性。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnZUV1haT0FNVkMxU3k4X3NaVFNBcVowRENJc19sQjRsM2xWZzNsMTJSV0tXMGJwYWl6a2NUOWVVRHBIbTUydEN1aVFPcWN6SUhJa0RnQmh0Z3U5Q1NQSnAzR09GYXNVRGZfM1Q3YUlraHQ1Rk1yLTlXUGtiOXNLQ1h0SVlEakRINmx0UWFWdjhfdGJzWTFEWkJBMWFLdnJscUctQ3k3UFRxb29mZjJOX2ZlUWY?oc=5",
+    "time": "1小时前",
+    "published_iso": "2026-03-17T13:51:28+00:00",
+    "id": "n11",
     "lead": false
   },
   {
@@ -35,7 +152,7 @@
     "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:49:11+00:00",
-    "id": "n3",
+    "id": "n12",
     "lead": false
   },
   {
@@ -48,7 +165,7 @@
     "url": "https://www.cnbc.com/2026/03/17/stagflation-and-your-money.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:44:29+00:00",
-    "id": "n4",
+    "id": "n13",
     "lead": false
   },
   {
@@ -61,7 +178,7 @@
     "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:37:27+00:00",
-    "id": "n5",
+    "id": "n14",
     "lead": false
   },
   {
@@ -74,7 +191,20 @@
     "url": "https://www.cnbc.com/2026/03/17/goldman-sachs-thinks-stock-market-underestimates-iran-war-risk-after-mondays-bounce.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:31:03+00:00",
-    "id": "n6",
+    "id": "n15",
+    "lead": false
+  },
+  {
+    "headline": "Morgan Stanley Sticks With June Rate Cut Call Despite Oil Surge - Bloomberg.com",
+    "deck": "Morgan Stanley Sticks With June Rate Cut Call Despite Oil Surge&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美国银行维持6月降息预期",
+    "cnDeck": "摩根士丹利（Morgan Stanley）坚持其6月美联储降息的预期，尽管油价上涨。该行分析师认为，近期油价波动不足以改变美联储的货币政策路径。摩根士丹利维持对美联储在今年上半年实施降息的预测，认为通胀压力虽然存在，但不会完全阻止美联储启动降息周期。这一立场与市场对油价上升可能延缓降息的担忧形成对比。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDVZeWVPbmxOenNucjNJcUdoT0poZWhDcl94LWh4ZmppQ0lDSEsxODhXTGd3WXlBMjFLY01JR3RBRGEwcGh3X25HLVFjdDdWUmRySU5TR29lMmRHLU1NdmpMVzRLN3czaWE5cnJPWmhOcUVRZ1ExZFd5SEhtSG1qMFRKeDJJdURXVl9iSzM4Qy1VUlV6SDI5SFBsS05qT290bG5EamNGWV9pcE5xa0R1aDNIOXo?oc=5",
+    "time": "2小时前",
+    "published_iso": "2026-03-17T13:02:50+00:00",
+    "id": "n16",
     "lead": false
   },
   {
@@ -87,7 +217,7 @@
     "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:50:37+00:00",
-    "id": "n7",
+    "id": "n17",
     "lead": false
   },
   {
@@ -100,7 +230,33 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:48:36+00:00",
-    "id": "n8",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves premarket: Nvidia, Delta Air Lines, Eli Lilly & more",
+    "deck": "These are the stocks posting the largest moves premarket.",
+    "cnTitle": "英伟达、达美航空、礼来等",
+    "cnDeck": "[美国股市盘前交易中，英伟达、达美航空、礼来公司等股票出现较大波动。]",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/stocks-making-the-biggest-moves-premarket-nvda-dal-lly.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-17T12:15:49+00:00",
+    "id": "n19",
+    "lead": false
+  },
+  {
+    "headline": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+    "deck": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening.",
+    "cnTitle": "尼日利亚东北部连环爆炸造成至少23人丧生",
+    "cnDeck": "[周一晚间，多起爆炸袭击了迈杜古里最繁忙的几个地点。尼日利亚东北部发生多起疑似自杀式袭击。]",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T12:00:43+00:00",
+    "id": "n20",
     "lead": false
   },
   {
@@ -113,7 +269,46 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHRZZEdoeDh5M0hYZVBPbjk1YTJNTXh1ZFdrVGI5VFRWQS04emVQSDR2OXRlN1VWVkN4X3FGTGV5cWt3cWxnb3lMS0FoYXRUNDNUTDZTaVlES3MwZzF2clhGMGg3WUdlSk53eFdDT0hoaGJZTDN2YUdTaElRMUREdXB4YnRpdkljM0dPVUFVaThQdXcyWFRpanRmV0RIRFFwRmZmcHZiN3MxTDhBWFJHYVJaMkM5T2NEWEFqT2p3Tm5ocHcwQzltbW03MA?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T12:00:02+00:00",
-    "id": "n9",
+    "id": "n21",
+    "lead": false
+  },
+  {
+    "headline": "US Premarket Movers: Coherent, Delta, Nvidia, Semtech, Uber - Bloomberg.com",
+    "deck": "US Premarket Movers: Coherent, Delta, Nvidia, Semtech, Uber&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "芯片与科技股异动",
+    "cnDeck": "美国盘前交易中，Coherent、Delta、Nvidia、Semtech、Uber等股票出现异动。其中Nvidia作为全球芯片巨头，其股价波动对科技市场具有重要影响力。Semtech作为模拟芯片设计商，也是半导体板块的重要参与者。Uber作为科技平台企业代表，其市场表现反映科技股整体走势。这些个股的盘前异动通常预示美国股市当日开盘后的交易情绪和资金流向。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON25KMTdRUGtBcGdOTXc4VWhzWmxWVVViMkt5d0xQVmV0bjN4eldkZEJQNzVKdXBEUVNRcVdscm5xXzdfSzVuc0pKRV9Pd09TX2pxTEpOSElLdnp3bEljWHF0V0pvaUl4S2lZLXNmdENaMWNRVTkyOWV1WG8tdGdzRXNHM3ZpdTJOS3RZaUI5SUlVRnVFMlRuOGh2SVNYSWJHWUx6VVBFdGgzXzJr?oc=5",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T11:53:31+00:00",
+    "id": "n22",
+    "lead": false
+  },
+  {
+    "headline": "Traders Are Ditching Giant Hedge Funds to Set Their Own Terms - Bloomberg.com",
+    "deck": "Traders Are Ditching Giant Hedge Funds to Set Their Own Terms&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "交易员离开大型对冲基金独立创业",
+    "cnDeck": "交易员们正在离开大型对冲基金，以便按照自己的条件进行交易。据彭博社报道，许多资深交易员选择离职创办自己的基金或独立交易业务，以获得更高的利润分配、更灵活的投资策略和更自主的决策权。这一趋势反映了对冲基金行业的人才流失加剧，以及独立交易者通过技术进步和资本获取便利性提高而获得更多机会。大型对冲基金面临留住顶级人才的压力，因为传统的薪酬结构和业务模式对资深交易员的吸引力下降。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjEzeUFfejlqbkt6WlJFZXZJdmEwbUtYNThVWk51UGd5UmVmUU9Oak5abjJPOGFiU1VrOU9QY1B5U0paSUFJVlNmZVJvSl81aTUwbjBjT3c2OGJJUWRfSzJmcm5famN6Q2E4ZmRtem90OW9hSm1VQ2c0R0RpTzBVRWV5dDdGVmVtSjNmMml0eWJiYzdFN1ZRaUJTcjFIbk9mQVA1YXZvX3c5ZjdsN0dId013?oc=5",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T11:30:02+00:00",
+    "id": "n23",
+    "lead": false
+  },
+  {
+    "headline": "Gold Steady as Dollar Eases and Traders Weigh Oil-Supply Crunch - Bloomberg.com",
+    "deck": "Gold Steady as Dollar Eases and Traders Weigh Oil-Supply Crunch&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美元走弱黄金保持稳定油价供应承压",
+    "cnDeck": "Gold remained steady as the dollar eased from recent highs, while traders assessed the potential impact of tightening oil supplies. The greenback's weakness provided support for the precious metal, making it cheaper for buyers using other currencies. Simultaneously, concerns about disruptions in global oil production drove crude prices higher, as geopolitical tensions and production cuts continued to weigh on energy markets. Market participants monitored these dynamics closely, balancing inflationary pressures from energy costs against monetary policy expectations.",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWR2ZDlsaGFaRHR4NzB0dzMwWkRwem1UdHJPbVNoSjZsT1pNSklJYWtfQkVuQUJKNEtQMDR1NENPbmJQdkpjY0tlaklmeDNZWUYyWE9WTXZ4VDFYNmNlRjZ5WUxYQmlkY2d6SlptdEtYU2lwWUZBTzloc0tQWjNOV0xfenpnc0lsa2VZRlpZcHg2N1dlQ3JQcVJrajhMUk1HUks3X1RPVkZWLU1tbzV5T1RsWWo?oc=5",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T11:29:50+00:00",
+    "id": "n24",
     "lead": false
   },
   {
@@ -126,7 +321,7 @@
     "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-17T11:25:13+00:00",
-    "id": "n10",
+    "id": "n25",
     "lead": false
   },
   {
@@ -139,7 +334,46 @@
     "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-17T10:33:49+00:00",
-    "id": "n11",
+    "id": "n26",
+    "lead": false
+  },
+  {
+    "headline": "Millions without electricity as Cuba's power grid collapses",
+    "deck": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
+    "cnTitle": "古巴电力系统崩溃数百万人停电",
+    "cnDeck": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island. The country's aging power infrastructure, combined with limited access to fuel, has led to widespread blackouts affecting millions of residents. The collapse of the power grid represents a critical challenge to Cuba's economy and public services.",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-03-17T10:32:25+00:00",
+    "id": "n27",
+    "lead": false
+  },
+  {
+    "headline": "Oil Holds Decline as Investors Weigh Iran War Impact on Supply - Bloomberg.com",
+    "deck": "Oil Holds Decline as Investors Weigh Iran War Impact on Supply&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "石油维持下跌，投资者评估伊朗战争对供应影响",
+    "cnDeck": "Oil prices continued their decline as market participants assessed potential supply disruptions from escalating tensions in Iran. Investors are weighing geopolitical risks against demand concerns, with Brent crude and WTI showing mixed signals. Analysts noted that while conflict risks typically support prices, current economic slowdown fears are offsetting traditional safe-haven demand for energy commodities. OPEC+ production decisions and global inventory levels remain key factors influencing the market direction.",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWRHeEdJUTRDSDZEQVNqd0NIMi1PS2JsZVF2ZTlXWE1PVTFLSkQ1TUQ4TzRyRXRqX01vWkJVZ3ZNc3J2R092S1FubE5uZnNlY3hTUzRQMFZSLWVTYjJWLThHVkUyclFfSzdVTWN4UUdGMmdpd3d1bVkwdmZxUXBTTkNoMzFiU19DdVptRkEzd2JjV21JX3RXdXZrUVVjN3B3?oc=5",
+    "time": "4小时前",
+    "published_iso": "2026-03-17T10:21:23+00:00",
+    "id": "n28",
+    "lead": false
+  },
+  {
+    "headline": "Stock-Market Euphoria Fades as Investors Turn Bearish, BofA Says - Bloomberg.com",
+    "deck": "Stock-Market Euphoria Fades as Investors Turn Bearish, BofA Says&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "股市乐观情绪褪去，投资者转向悲观",
+    "cnDeck": "美银表示，随着投资者情绪转变，股市之前的乐观氛围正在褪去。该行通过其客户数据和市场指标观察到，机构投资者和散户投资者的风险偏好出现明显下降，市场参与者对经济前景的信心有所减弱。这种情绪转变反映在股票配置、期权头寸和资金流向等多个方面。美银警告称，如果这种悲观情绪继续蔓延，可能会对股市造成进一步压力。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzVwS2JkaGRVbk0zbjYtck52MEl2eFc4bXJOU0RZY2xxRnBtdDNEYWc4QTFxQWgyZkZHTzJNMW0tNkJQeE5xN2VrWjlTNC1xRVg0VlJYa2cxTWphNTJRaUVLLU82MXRqYlFmNHEyOF9ZNjRad3RLbldQYkczVjJERFN5UjVUTUxVQ0NIT0tQcWFUSnZJNllaSm1CNDFTRFNscUFjSmU4U1JJS1lRRllTSTgyYWg?oc=5",
+    "time": "5小时前",
+    "published_iso": "2026-03-17T09:54:24+00:00",
+    "id": "n29",
     "lead": false
   },
   {
@@ -152,7 +386,7 @@
     "url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
     "time": "5小时前",
     "published_iso": "2026-03-17T09:00:01+00:00",
-    "id": "n12",
+    "id": "n30",
     "lead": false
   },
   {
@@ -165,7 +399,20 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQajFtZXlIRnF5cDVaUlkwOG9hUzZYVUVpRElyMzVLWjU4LVQ0bUllQllneEVZZGc0U3BuUF9HSVdJUHVwNEZwa3R3SFQyQzJRYWdia2puSXJTNngtd29qYnZ3dFdqaFFhQk55cUxnT2NwUjB6UFdzVjNNVG9qb01WdXJTTDNRUFdiRnNUckN2RHhpb0RDYU52cm1RMXVCSTE4SlNtcTMtRFYzMDJOUkY4dTNtSWc4WEU2cVhGbGZYQUJ2ZGZLRzU4YnNsYjFuNWtYcGZMRjB6TG0wc1ZtbkZ3?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-17T09:00:00+00:00",
-    "id": "n13",
+    "id": "n31",
+    "lead": false
+  },
+  {
+    "headline": "Tesla, LG Energy to Build $4.3 Billion Michigan Plant - Bloomberg.com",
+    "deck": "Tesla, LG Energy to Build $4.3 Billion Michigan Plant&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "特斯拉与LG能源在密歇根建厂",
+    "cnDeck": "特斯拉与LG能源将在美国密歇根州建设一座耗资43亿美元的工厂。该项目是两家公司的合作计划，旨在扩大电池生产能力。这家新工厂将支持特斯拉在北美地区的电动汽车生产。LG能源解决方案公司是全球领先的电池制造商之一。该投资反映了电动汽车市场的持续增长，以及对本地化电池供应链的需求。项目将为当地创造就业机会，促进美国制造业发展。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3RHcWhXalVLUE5yWGE2QlNMMFBNYVNYSGhNZ003OV9NVGhncm1wdmFoY2FYazI2ZHhfVDBqNHAyM1N0YWFNU3JXUkg2Zmt2bTZPWnMxcWdLNV9QVkowaXJrWmNPbU12S24wVkVaZlMteklWMXBjM1JRelNXRjlxazRnUWZpS1BTZHZjR3d5Q3l6ZW1hdTVzUzZfWVZFTTNnYkFlMGloVXBOQmdLa0hYUjl6VQ?oc=5",
+    "time": "6小时前",
+    "published_iso": "2026-03-17T08:37:07+00:00",
+    "id": "n32",
     "lead": false
   },
   {
@@ -178,7 +425,7 @@
     "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-17T08:25:53+00:00",
-    "id": "n14",
+    "id": "n33",
     "lead": false
   },
   {
@@ -191,7 +438,20 @@
     "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-17T08:03:01+00:00",
-    "id": "n15",
+    "id": "n34",
+    "lead": false
+  },
+  {
+    "headline": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+    "deck": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+    "cnTitle": "伊朗局势可能冲击印度天然气供应",
+    "cnDeck": "[伊朗战争已经影响了液化石油气使用者。印度管道天然气网络是否会面临下一轮压力？伊朗作为全球主要能源供应国，其地缘政治局势的恶化可能直接威胁到依赖进口能源的印度的能源安全。通过管道运输的天然气是印度能源结构的重要组成部分，而伊朗冲突升级可能导致能源供应中断、价格波动或运输路线受阻。这不仅影响印度的能源成本，还可能对其工业生产和经济增长造成压力。]",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-03-17T06:47:42+00:00",
+    "id": "n35",
     "lead": false
   },
   {
@@ -204,7 +464,7 @@
     "url": "https://www.cnbc.com/2026/03/17/us-dollar-recovery-forex-currencies-gold-sterling-euro.html",
     "time": "7小时前",
     "published_iso": "2026-03-17T06:42:59+00:00",
-    "id": "n16",
+    "id": "n36",
     "lead": false
   },
   {
@@ -217,7 +477,20 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanhDMDVZaVF3SEJIZVlnRTJpc282REMyMXZLQTdKREdFSnJvMkhGLVBfT3RZbHl5WjU0bGxOUkNZTkRvYkFoMjFkeUhGd3BHUWdiSnF6RDBwdzFvdmdiZDRNRm5QeUtZT2liR2NGck5hXzlMQmk2V0puTi00V1dPNmtyUDI3TktQY1JsOWJCVC04Z1JZR05NeWl6TmVVS3hfakdOQ2E3Ql8xVGhndE9oVDIyWjV1ZW9XanUyUHlTRUVuRzF2S29LVTg5Z3lkdw?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-17T05:45:00+00:00",
-    "id": "n17",
+    "id": "n37",
+    "lead": false
+  },
+  {
+    "headline": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most - Bloomberg.com",
+    "deck": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "油价剧震将最严重打击成品油",
+    "cnDeck": "Goldman Sachs表示，石油市场最大的冲击将对成品油造成最严重的影响。该分析指出，在油价剧烈波动的情况下，汽油、柴油等成品油产品的价格波动幅度将超过原油，这将对全球运输、物流等多个行业产生连锁影响，进而影响消费品价格和经济增长前景。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZIMkUyOUgwQXR6WDFWNTQ5aE1CdU4tQUFybm9SckRIbElNc0VjNWc1bHZaREdWTVV1Y0tORHpGZXdLbG1pOTZQRjdZVEJ5OFExc09VU0ZsTU1mUG9YNmFDMDFsMHNlNFROdGNiNmR2WXF2SDRad3VseUpXaXJqR21HbXJQR3VBUk5GR0hKM2U5WHNaV0dnNlZxWXlaTEZGV3lYMjJVVkU2bEFNQnBZTXItbw?oc=5",
+    "time": "9小时前",
+    "published_iso": "2026-03-17T05:20:00+00:00",
+    "id": "n38",
     "lead": false
   },
   {
@@ -230,7 +503,33 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzRFY3lhSFhkRE5RUndTMUV3VVF0VHczZUxuUk9CeVNFWjEteGttY0RGeDZLX0ZFZmdNZ0Rwa3cyT0FjZ0dRX1lJaVVTMzlSR2Vxb29ib2EtMGZqc3RnOTh1bHF6WTdSbV95V2VWUUNETm9kTFVQWVg2N294d1VjMUNxbXZIQ3JQSEV4Y1hHWW1WMllQZnBoaDRUVjBqQ3czaHozR0F2UXdSZGZucGF6Y3ZuM0VyZVlEakVwNUs1UVdHajFoMmc?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-17T02:06:00+00:00",
-    "id": "n18",
+    "id": "n39",
+    "lead": false
+  },
+  {
+    "headline": "Surge in US gas prices deepens political peril for Trump over Iran",
+    "deck": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+    "cnTitle": "美国油价飙升加重特朗普伊朗政治困境",
+    "cnDeck": "美国汽油价格上升加剧了总统在伊朗问题上的政治风险。战争快速解决的可能性日益渺茫，对总统的政治赌注也在不断增加。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-17T00:24:01+00:00",
+    "id": "n40",
+    "lead": false
+  },
+  {
+    "headline": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+    "deck": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+    "cnTitle": "南苏丹局势恶化数万人被迫撤离",
+    "cnDeck": "[南苏丹军方警告将在jonglei州发动大规模军事攻势,约5万人被告知需要撤离家园。据报道,\"火从天空降下来烧死了他们\",反映了当地平民面临的严峻安全形势。jonglei州作为南苏丹东部重要地区,长期处于武装冲突的前线。军方此次大规模军事行动警告表明该国内战局势进一步升级,humanitarian crisis(人道主义危机)加重。]",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-17T00:08:56+00:00",
+    "id": "n41",
     "lead": false
   },
   {
@@ -243,7 +542,7 @@
     "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-17T00:08:32+00:00",
-    "id": "n19",
+    "id": "n42",
     "lead": false
   },
   {
@@ -256,7 +555,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnExdXkxMUtGdlBfT3lXV0NWSmp1V0tsU0laSkNGaVhxQTFEYmZEUk1INWREeVQzT1FkSjU4YTA1SF9QOXhjZkZxZTJDYUlINlF3Z1QwajlEVzBSQ3NuWmRGZWtObmVLRVRsWmNEWW5jMUMzOVEzS2doblZLMjFjdHlKTHliaUI1MEFPbU1iaVBTOEFuNUh3MnZzQ0c2MmdRZXd3VUtCQm8xVkdHNC04blFXY0NsMmQ0aFBuNVB6cnhxZGp6WHVELWFTOA?oc=5",
     "time": "15小时前",
     "published_iso": "2026-03-16T22:30:00+00:00",
-    "id": "n20",
+    "id": "n43",
     "lead": false
   },
   {
@@ -269,7 +568,20 @@
     "url": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-16T21:25:52+00:00",
-    "id": "n21",
+    "id": "n44",
+    "lead": false
+  },
+  {
+    "headline": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27",
+    "deck": "At Nvidia's annual developer conference, CEO Jensen Huang said the company is seeing booming demand for its latest technology.",
+    "cnTitle": "Nvidia CEO预计黑威尔芯片订单达1万亿美元",
+    "cnDeck": "英伟达年度开发者大会上，CEO詹森·黄表示公司对最新技术的需求旺盛。黄在GTC 2026大会上披露，公司正看到针对其最新Blackwell和Vera Rubin芯片的订单高达1万亿美元，预计这些订单将持续到2027年。这反映出AI芯片市场的强劲需求，以及英伟达作为领先芯片制造商的市场地位。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
+    "time": "18小时前",
+    "published_iso": "2026-03-16T20:51:22+00:00",
+    "id": "n45",
     "lead": false
   },
   {
@@ -282,7 +594,20 @@
     "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
     "time": "18小时前",
     "published_iso": "2026-03-16T19:44:15+00:00",
-    "id": "n22",
+    "id": "n46",
+    "lead": false
+  },
+  {
+    "headline": "Wary allies show there's no quick fix to Trump's Iran crisis",
+    "deck": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+    "cnTitle": "欧洲盟国对特朗普伊朗政策态度谨慎",
+    "cnDeck": "欧洲领导人对帮助特朗普确保霍尔木兹海峡安全持保留态度，但他们知道对伊朗战争问题无所作为也不是真正的选择。欧洲盟国正在就如何应对伊朗局势升级面临两难困境——既要考虑与美国的战略关系，又要权衡自身利益和地区稳定性。虽然对伊朗采取行动可能带来严重后果，包括地区冲突升级和能源市场波动，但彻底的政策真空也会产生更大的风险。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+    "time": "21小时前",
+    "published_iso": "2026-03-16T17:34:13+00:00",
+    "id": "n47",
     "lead": false
   },
   {
@@ -295,7 +620,20 @@
     "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-03-16T17:34:08+00:00",
-    "id": "n23",
+    "id": "n48",
+    "lead": false
+  },
+  {
+    "headline": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
+    "deck": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
+    "cnTitle": "私募股权软件估值存在系统性高估",
+    "cnDeck": "Apollo全球首席执行官John Zito质疑私募股权对软件公司的估值方法，指出\"所有的估值都是错的\"。他表示，尽管华尔街多位人士已警示私募信贷风险，但Zito是私募信贷行业内首批坦率承认该领域存在弱点的高管之一。这一表态反映出私募股权市场对科技公司估值的广泛担忧，特别是在利率环境变化和市场调整的背景下，软件公司的高估值面临重新评估压力。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
+    "time": "21小时前",
+    "published_iso": "2026-03-16T17:17:36+00:00",
+    "id": "n49",
     "lead": false
   },
   {
@@ -308,7 +646,7 @@
     "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-16T12:43:32+00:00",
-    "id": "n24",
+    "id": "n50",
     "lead": false
   },
   {
@@ -321,7 +659,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZTMENHMndMOGV3SFcwdEMxY3AzLWpFSUN2aGRHVEROamVQOE9SZE1NRFpwZUR2X01KNlRwWF9adW9pVGlqM05hT1QyaVNkMkpTdm13a1BkVGQtUmdzTTRMekdfQ2lQQThabWlvbk1WdjA4aWx0M3FMV09JLWw2dk15U01IYjN3MW1neTFKcXRkcXhsUm1qOHpIZmkzU0YxejkxQTB5NVhvbml5cHBYVC1oUEt2SmIzdTF5WllTWHdOSlFZdDdsWA?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-16T10:44:36+00:00",
-    "id": "n25",
+    "id": "n51",
     "lead": false
   },
   {
@@ -334,7 +672,7 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlJkeFk0WWJCcVZ3dU9uUDZDOVZCeDNldzhfRmxlWVc0YUtMNC1nWEFMb1Z3Tzh0VDViVkZXRmhPWHhFRkpSelFmQ3dleFV6X21wdnRpcUluZzZPMjk4U3FsYllQbGdiUktQZkdFaURqVy1mb1pTeDdfYjVwTTUtOGI4TU5hV0dhZ2JlUHktYWQ3WUZrVEpWNlFURXZFU2dVM2hXMVRnY1VpUFpjU3JJUTh2UDlWcjdmdDZFeTdlaDJxMnl4Q29HQ2F3?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-16T06:35:00+00:00",
-    "id": "n26",
+    "id": "n52",
     "lead": false
   },
   {
@@ -347,7 +685,7 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHp3OTlFUjdyVDJoRU5nQmJ4ZnFXRDFGRUs2VWlWRlpvNGpNR2VpNl9WTEN5TjRxVS02YVN4X2FQYVRVVE5mN0dwWVpfZ2U0RDlKTGdjcGQ5WTVFTFhua3NJWkxiLWprQmxCTm50XzRGN0d3YmZ5NFRacWp5bDU0S1NCUDgzUFgxeE1iY0Mtd3c0N3pDemhhcE9tVXBBV0hIUnhCUmZOblp6dGdGNmcwel95UVFLUndseUZkY1JNc2wwYmJDZmVwSS1kMlU?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-16T02:40:00+00:00",
-    "id": "n27",
+    "id": "n53",
     "lead": false
   },
   {
@@ -360,7 +698,7 @@
     "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-15T20:08:33+00:00",
-    "id": "n28",
+    "id": "n54",
     "lead": false
   }
 ]
