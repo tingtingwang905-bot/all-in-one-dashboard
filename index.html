@@ -646,8 +646,8 @@ function renderNews(cat){
   document.getElementById('news-main').innerHTML=`
     <div class="lead-story">
       <div class="story-source">${lead.source} · ${lead.cat.toUpperCase()}</div>
-      <div class="story-headline" onclick="toggleDeck('deck-${lead.id}')" style="cursor:pointer">${lead.cnSummary||lead.headline}</div>
-      <div id="deck-${lead.id}" style="display:none;margin:8px 0 10px;font-family:var(--mono);font-size:11px;color:var(--ink4);line-height:1.6">${lead.headline}</div>
+      <div class="story-headline" onclick="toggleDeck('deck-${lead.id}')" style="cursor:pointer">${lead.cnTitle||lead.headline}</div>
+      <div id="deck-${lead.id}" style="display:none;margin:8px 0 10px;padding:12px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;color:var(--ink2);line-height:1.8">${lead.cnDeck||lead.deck}</div>
       <div class="story-byline">
         <span>${lead.time}</span>
         <a href="${lead.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
@@ -657,8 +657,8 @@ function renderNews(cat){
     <div class="secondary-story">
       <div class="sec-num">0${i+1}</div>
       <div class="sec-content">
-        <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer">${n.cnSummary||n.headline}</div>
-        <div id="deck-${n.id}" style="display:none;margin:6px 0 8px;font-family:var(--mono);font-size:10px;color:var(--ink4);line-height:1.6">${n.headline}</div>
+        <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer">${n.cnTitle||n.headline}</div>
+        <div id="deck-${n.id}" style="display:none;margin:6px 0 8px;padding:10px 12px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;color:var(--ink2);line-height:1.8">${n.cnDeck||n.deck}</div>
         <div class="sec-meta">
           <span>${n.source}</span><span>${n.time}</span>
           <a href="${n.url}" target="_blank" onclick="event.stopPropagation()" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
@@ -671,14 +671,13 @@ function renderNews(cat){
       <div class="sidebar-heading">Also Today</div>
       ${NEWS.filter(n=>n!==lead).slice(0,6).map(n=>`
       <div class="sidebar-item">
-        <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer">${n.cnSummary||n.headline}</div>
-        <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;font-family:var(--mono);font-size:10px;color:var(--ink4);line-height:1.6">${n.headline}</div>
+        <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer">${n.cnTitle||n.headline}</div>
+        <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:12px;color:var(--ink2);line-height:1.7">${n.cnDeck||n.deck}</div>
         <div class="sidebar-src">${n.source} · ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></div>
       </div>`).join('')}
     </div>
   `;
 }
-
 function toggleDeck(id){
   const el=document.getElementById(id);
   if(el) el.style.display=el.style.display==='none'?'block':'none';
