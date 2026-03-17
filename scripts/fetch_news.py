@@ -7,17 +7,15 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 
 RSS_FEEDS = [
-    {"url": "https://feeds.reuters.com/reuters/businessNews", "source": "Reuters", "cat": "economy"},
-    {"url": "https://feeds.reuters.com/reuters/technologyNews", "source": "Reuters", "cat": "tech"},
-    {"url": "https://feeds.reuters.com/reuters/worldNews", "source": "Reuters", "cat": "politics"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US", "source": "Reuters", "cat": "economy"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg", "cat": "finance"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:ft.com&ceid=US:en&hl=en-US&gl=US", "source": "FT", "cat": "finance"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:wsj.com&ceid=US:en&hl=en-US&gl=US", "source": "WSJ", "cat": "finance"},
     {"url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC", "cat": "economy"},
     {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC", "cat": "tech"},
     {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC", "cat": "politics"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "source": "CNBC", "cat": "finance"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
-    {"url": "https://feeds.ft.com/rss/home/uk", "source": "FT", "cat": "finance"},
-    {"url": "https://www.wsj.com/xml/rss/3_7085.xml", "source": "WSJ", "cat": "finance"},
-    {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "cat": "finance"},
 ]
 
 def get_time_ago(published):
