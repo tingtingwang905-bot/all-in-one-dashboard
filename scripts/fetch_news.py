@@ -17,6 +17,7 @@ RSS_FEEDS = [
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
     {"url": "https://feeds.ft.com/rss/home/uk", "source": "FT", "cat": "finance"},
     {"url": "https://www.wsj.com/xml/rss/3_7085.xml", "source": "WSJ", "cat": "finance"},
+    {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "cat": "finance"},
 ]
 
 def get_time_ago(published):
