@@ -2,6 +2,7 @@ import feedparser
 import json
 import os
 import requests
+import re
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 
@@ -14,8 +15,6 @@ RSS_FEEDS = [
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "source": "CNBC", "cat": "finance"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
 ]
-
-
 
 def get_time_ago(published):
     try:
@@ -33,10 +32,10 @@ def get_time_ago(published):
     except:
         return "今天"
 
-def generate_cn_summary(headline, deck, source):
+def generate_cn_content(headline, deck):
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
-        return ""
+        return "", ""
     try:
         response = requests.post(
             "https://openrouter.ai/api/v1/chat/completions",
@@ -49,20 +48,21 @@ def generate_cn_summary(headline, deck, source):
                 "max_tokens": 200,
                 "messages": [{
                     "role": "user",
-                    "content": f"用简洁中文（80字以内）概括以下新闻的核心内容，直接输出中文，不要任何前缀：\n标题：{headline}\n内容：{deck}"
+                    "content": f"针对以下新闻，请输出两行：\n第一行：15字以内的中文标题\n第二行：100字以内的中文摘要\n不要任何前缀和标签，直接输出两行：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
         )
         data = response.json()
-        choices = data.get("choices", "NO CHOICES")
-        print(f"choices: {str(choices)[:300]}")
         content = data["choices"][0]["message"]["content"].strip()
-        print(f"content: {content[:100]}")
-        return content
+        lines = content.split('\n', 1)
+        cn_title = lines[0].strip()
+        cn_deck = lines[1].strip() if len(lines) > 1 else ""
+        print(f"cnTitle: {cn_title[:30]}")
+        return cn_title, cn_deck
     except Exception as e:
-        print(f"OpenRouter API error: {e}")
-        return ""
+        print(f"API error: {e}")
+        return "", ""
 
 def fetch_news():
     news = []
@@ -78,21 +78,16 @@ def fetch_news():
                     continue
                 seen.add(title)
 
-                # 获取原文链接
                 link = entry.get("link", "")
                 if not link:
                     continue
 
                 deck = entry.get("summary", "")
-                # 清理 HTML 标签
-                import re
                 deck = re.sub(r'<[^>]+>', '', deck).strip()[:300]
-
                 time_str = get_time_ago(entry.get("published", ""))
 
-                # 生成中文摘要
-                print(f"Generating CN summary for: {title[:50]}...")
-                cn_summary = generate_cn_summary(title, deck, feed_info["source"])
+                print(f"Processing: {title[:50]}...")
+                cn_title, cn_deck = generate_cn_content(title, deck)
 
                 news.append({
                     "id": f"n{idx}",
@@ -100,7 +95,8 @@ def fetch_news():
                     "source": feed_info["source"],
                     "headline": title,
                     "deck": deck,
-                    "cnSummary": cn_summary,
+                    "cnTitle": cn_title,
+                    "cnDeck": cn_deck,
                     "time": time_str,
                     "url": link,
                     "lead": idx == 1
@@ -109,7 +105,7 @@ def fetch_news():
                 if idx > 12:
                     break
         except Exception as e:
-            print(f"Error fetching {feed_info['url']}: {e}")
+            print(f"Error: {e}")
         if idx > 12:
             break
 
@@ -117,7 +113,7 @@ def fetch_news():
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
 
-    print(f"Done: {len(news)} articles saved to data/news.json")
+    print(f"Done: {len(news)} articles")
 
 if __name__ == "__main__":
     fetch_news()
