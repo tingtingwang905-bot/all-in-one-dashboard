@@ -1,5 +1,18 @@
 [
   {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "deck": "Nvidia's estimates need to go higher, and a move up in oil prices isn't putting a lid on stocks this morning.",
+    "cnTitle": "油价上升与Nvidia估值调整影响股市走向",
+    "cnDeck": "内容：Jim Cramer指出Nvidia的估值预期需要上调，同时油价上升并未对今日股市造成压制。他列出了投资者需要关注的十大股市要点，其中包括对芯片龙头企业估值的重新评估以及能源价格波动对市场的潜在影响。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T13:15:50+00:00",
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Mines, Missiles, and the Strait of Hormuz - Bloomberg.com",
     "deck": "Mines, Missiles, and the Strait of Hormuz&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "霍尔木兹海峡：地雷、导弹与全球能源安全",
@@ -9,8 +22,21 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG9CSGQzTjRkQTlhTFFadzd2cFh4bkFNYmppeVZCeV9XSmtkYVV6NEpzdU1HSWt3YXhYWWdUaDBPZDdCbFhqMGliYjA4UDBfdmZ0cUJSeDU0SHQ3MUVvaTAwT1owRUZxUWRPUTJ6aGl4SzA4OVNGSkxRV0pwZDFUSDVETjRoOUh3YU1KY3BDUHVydHN2SjItVA?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:06:15+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Morgan Stanley Sticks With June Rate Cut Call Despite Oil Surge - Bloomberg.com",
+    "deck": "Morgan Stanley Sticks With June Rate Cut Call Despite Oil Surge&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "摩根士丹利坚持6月降息预期，油价上涨未改态度",
+    "cnDeck": "摩根士丹利维持其关于美联储6月降息的预测，尽管近期油价大幅上涨。该机构认为油价上升不足以改变美联储的降息路径，通胀压力虽有所增加但仍在可控范围内。摩根士丹利的经济学家表示，美联储将继续关注就业市场和核心通胀数据，目前这两个关键指标支持降息决策。尽管能源价格波动可能对通胀产生短期影响，但不会根本改变美联储今年的政策方向。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDVZeWVPbmxOenNucjNJcUdoT0poZWhDcl94LWh4ZmppQ0lDSEsxODhXTGd3WXlBMjFLY01JR3RBRGEwcGh3X25HLVFjdDdWUmRySU5TR29lMmRHLU1NdmpMVzRLN3czaWE5cnJPWmhOcUVRZ1ExZFd5SEhtSG1qMFRKeDJJdURXVl9iSzM4Qy1VUlV6SDI5SFBsS05qT290bG5EamNGWV9pcE5xa0R1aDNIOXo?oc=5",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T13:02:50+00:00",
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Delta, American raise revenue guidance, citing growth in demand",
@@ -22,7 +48,7 @@
     "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:48:16+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +61,7 @@
     "url": "https://www.cnbc.com/2026/03/17/eli-lilly-stock-lly-novo-downgrade-hsbc-obesity-market.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:37:07+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +74,7 @@
     "url": "https://www.cnbc.com/2026/03/17/tuesday-top-stocks-from-analyst-calls-nvda-tsla-uber-lly-amzn.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:34:15+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +87,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:02:50+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +100,7 @@
     "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:00:43+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +113,7 @@
     "url": "https://www.cnbc.com/2026/03/17/tsla-partnership-autonomous-vehicle-driving-will-give-this-stock-a-boost-says-morgan-stanley.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:50:19+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +126,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T11:43:10+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +139,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmlTenFPazFWM21WaFh0UmpRY2tpNW9uYnVGY0VubGNKNUNXUUdyaC1iWHlMNWdTU2h2cEhQcGpxd2N5cWZmaUJ0RXdOQ1dMQTAyaG50UjlQek4tNnludmE4RE5qM1NaTTYxN3NLc2pkd2FxZkhQTWM4N0FKaF82OXJ3WUhheU1hX2d0aS1HR3dvYTJZeFFYcmthLUUyaVFEeUVtaXN2NnhTQWsxdHlnQ3pjVEdzZw?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:29:53+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,7 +152,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWR2ZDlsaGFaRHR4NzB0dzMwWkRwem1UdHJPbVNoSjZsT1pNSklJYWtfQkVuQUJKNEtQMDR1NENPbmJQdkpjY0tlaklmeDNZWUYyWE9WTXZ4VDFYNmNlRjZ5WUxYQmlkY2d6SlptdEtYU2lwWUZBTzloc0tQWjNOV0xfenpnc0lsa2VZRlpZcHg2N1dlQ3JQcVJrajhMUk1HUks3X1RPVkZWLU1tbzV5T1RsWWo?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:29:50+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,7 +165,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T11:27:20+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -152,7 +178,7 @@
     "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:25:13+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -165,7 +191,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW9WWDdfaHk1NTRMbXBJTFpXaWk2UEo1eUpoV2xlWVFGVWRxd0c2RlJRSmo5Vm9GdkJxemlJanVpOHdQdV84UWtEci1JdFlRMmZoQ2FreUJXUks4S2d2ZjN3T2Vsdm1BV3VDS3BWcWlLNG5NNUpRa20tNGwtX2RwVnRCNW5SS2ttQ1ZTXzVaMVdPZkJRV0E?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T11:12:01+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -178,7 +204,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW9WWDdfaHk1NTRMbXBJTFpXaWk2UEo1eUpoV2xlWVFGVWRxd0c2RlJRSmo5Vm9GdkJxemlJanVpOHdQdV84UWtEci1JdFlRMmZoQ2FreUJXUks4S2d2ZjN3T2Vsdm1BV3VDS3BWcWlLNG5NNUpRa20tNGwtX2RwVnRCNW5SS2ttQ1ZTXzVaMVdPZkJRV0E?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:12:01+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -191,7 +217,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUI5QWlCX3FKTmEySW1GekZURUFWeUdiZU5WVEp5cVZTQnI3ZWtoS3NRRjlrNDVnQS1zQTFCY010MzBMT2FUdmhFVmlwaVEyZHRDb2ljVVN5SDR1RmhjMUVpMnh1SGNNMEFFQlp6cDk4UzMxQk5yZTB2UEJ5WlJZeXJPd3FHWXh5TEY1c3Y2M29NYVNKVG9jYW1UdVlZV19jdUlaVGJOcWZxbjBjX1VGeDFrOXlsQkU?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T11:03:45+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -204,7 +230,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUNsT1M2cy1rMjF4TEhOUVhkRHF3ZHZobWhicm16cmJjXzR1NWx5LWJSVmo0dG1WZ0VCN0twYlZ5dUtsNS1mc1lFQ0RoWUhiNnVldjR2M25iMkNzNGNZTXVoZ3FKMkdVQnI4NXhMRjl2V3lzY0w3MHg1MmhuR2hzeVFlbUM3cDZmNGhWMUtPOXRlbDFtS1RfUDRHNWxQLWpPMm5SWTZudzlzdWhDSUdpcXB6ZkdGa2pKdlNud3hPdTZETGQ1dmltTllQYXZ5RGozUTRJ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T10:49:42+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -217,7 +243,7 @@
     "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T10:32:25+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -230,7 +256,7 @@
     "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
     "time": "2小时前",
     "published_iso": "2026-03-17T10:29:21+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -243,7 +269,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWRHeEdJUTRDSDZEQVNqd0NIMi1PS2JsZVF2ZTlXWE1PVTFLSkQ1TUQ4TzRyRXRqX01vWkJVZ3ZNc3J2R092S1FubE5uZnNlY3hTUzRQMFZSLWVTYjJWLThHVkUyclFfSzdVTWN4UUdGMmdpd3d1bVkwdmZxUXBTTkNoMzFiU19DdVptRkEzd2JjV21JX3RXdXZrUVVjN3B3?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T10:21:23+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -256,7 +282,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmRWTms3elowaEx5aXlpWVNyaEhhODM3NS1yeUVhRlM4SDRLVlNZdmlwaWNqcUo5aXZLbVBXeWx5dkZyUUdTR1pUYTExeTdxYjc0WUh0bnAzcTRCcjcyRjBfMDh2NVl6clROQTNhTGJNbkQ3RTZlNDNlT2JvUEVyV3hOYnFPSnk5OTZ5MWt3VlN5X1IwTG04S2drU2xwNGdzdlhRcjJodGtiVnltQ2pscFZ3NFk?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T10:17:31+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -269,7 +295,7 @@
     "url": "https://www.cnbc.com/2026/03/17/private-credit-liquidity-jitters-crisis-investors-redemptions-withdrawals-defaults-risk-debt.html",
     "time": "3小时前",
     "published_iso": "2026-03-17T10:13:57+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -282,7 +308,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzVwS2JkaGRVbk0zbjYtck52MEl2eFc4bXJOU0RZY2xxRnBtdDNEYWc4QTFxQWgyZkZHTzJNMW0tNkJQeE5xN2VrWjlTNC1xRVg0VlJYa2cxTWphNTJRaUVLLU82MXRqYlFmNHEyOF9ZNjRad3RLbldQYkczVjJERFN5UjVUTUxVQ0NIT0tQcWFUSnZJNllaSm1CNDFTRFNscUFjSmU4U1JJS1lRRllTSTgyYWg?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-17T09:54:24+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -295,7 +321,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JOdEVCbTBKZzA1bHVlSFlZQU1oUGwzNkU0NDdhOHlIWmJUMnZiWXAzSHlacjNtR1pkNTBQcVZ1S0FHOUpGN1BxYWhMTUV6em9mb1p5SERZMjJvNng4eFZlUk5aSV93c3dBVXBXYXpqcHpZQWtMODVINXRwSEtZUVNxVkFfbG5xbEI4RUFYY202UkRsQlFQZ0lUa0NvT01FcWJ4RmxJMTFxY3dUWkVpQWRaTQ?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T09:51:52+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -308,7 +334,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnlQT1FITDEwdHoyNXZxNEZmNmtrWDcwZWNFQ0c4RWZmam5BOUg0bmdyRXctMnhQX1NNSm1Idk9aR1ZkQ0JqS1JTSWpkeVJyWnFnSkRJdzNEVzF4ZDc2b3g0UzFSX2xIREZHcjIyZFJMSkdHc3lJelRkOEZpUnN2TkJwQ0NRRTg1bk5qaTZXSEZRMVIyd2RwTWtRZF9VQUZvQUY1VGtsUGd6NkNhUHRmM184QWNHTEk?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-17T09:45:01+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -321,7 +347,7 @@
     "url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
     "time": "4小时前",
     "published_iso": "2026-03-17T09:00:01+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -334,7 +360,7 @@
     "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
     "time": "3小时前",
     "published_iso": "2026-03-17T09:00:01+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -347,7 +373,7 @@
     "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
     "time": "3小时前",
     "published_iso": "2026-03-17T08:44:48+00:00",
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -360,7 +386,7 @@
     "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-17T08:25:53+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -373,7 +399,7 @@
     "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-17T07:19:27+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -386,7 +412,7 @@
     "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-17T06:47:42+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -399,7 +425,7 @@
     "url": "https://www.cnbc.com/2026/03/17/us-dollar-recovery-forex-currencies-gold-sterling-euro.html",
     "time": "5小时前",
     "published_iso": "2026-03-17T06:42:59+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -412,7 +438,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDNsZFM0MGxUU09HNnhaUnZvdkpwTHFvczJGT0k5Y05jcTRVRzNSX3RZV0piUk9qNDdwQUhUbzF6U0lSa1QwSjNRTzhXdE1XZ1ZxZDBuTm92UmItNFhYel9sWFVsbWJCcE1xb3c3ai1NZGtYaTlVckZDT3U3Y21LaXRvTFZtNE1NMDhvWXhJWDFUSHRTVEV0SS1OX09wSF9BSHlxZnFyQk5KWWl3eHc?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-17T03:44:00+00:00",
-    "id": "n32",
+    "id": "n34",
     "lead": false
   },
   {
@@ -425,7 +451,20 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTdSeHlrZmxPWDZHc3pGd05RbnNGQ3NHdHROQmhuMnhPNXlKa2dyNF9XaC1mcll6c25FaTZGZk1WU1FBbFJ2LTdQNHFQelhmbFhPY2tGR2hhMUplWFYteWN4NXIzcHZGZTMtT2VTQzNZVHZ3N3ZrR0JoVmJVZG1pZHlyNmU4bU8yYlhydGttcnExeWVIcU1fUnVHWk54aVRDN1puSndvSFJzb3o0MXRIQ3lLeEs3UnFqTnF6TXFmd0s3Y2Nvc19tZA?oc=5",
     "time": "10小时前",
     "published_iso": "2026-03-17T02:51:00+00:00",
-    "id": "n33",
+    "id": "n35",
+    "lead": false
+  },
+  {
+    "headline": "Memory Chip Crunch to Persist Till 2030, SK Chairman Says - Bloomberg.com",
+    "deck": "Memory Chip Crunch to Persist Till 2030, SK Chairman Says&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "存储芯片短缺将持续至2030年",
+    "cnDeck": "内容：SK海力士董事长表示，存储芯片的短缺问题将一直持续到2030年。这位业界高管的观点反映了全球芯片市场长期面临的供应压力。存储芯片作为关键的电子元器件，广泛应用于数据中心、消费电子等领域，其持续短缺可能对全球科技产业链产生长期影响。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzRFY3lhSFhkRE5RUndTMUV3VVF0VHczZUxuUk9CeVNFWjEteGttY0RGeDZLX0ZFZmdNZ0Rwa3cyT0FjZ0dRX1lJaVVTMzlSR2Vxb29ib2EtMGZqc3RnOTh1bHF6WTdSbV95V2VWUUNETm9kTFVQWVg2N294d1VjMUNxbXZIQ3JQSEV4Y1hHWW1WMllQZnBoaDRUVjBqQ3czaHozR0F2UXdSZGZucGF6Y3ZuM0VyZVlEakVwNUs1UVdHajFoMmc?oc=5",
+    "time": "11小时前",
+    "published_iso": "2026-03-17T02:06:00+00:00",
+    "id": "n36",
     "lead": false
   },
   {
@@ -438,7 +477,7 @@
     "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-17T00:24:01+00:00",
-    "id": "n34",
+    "id": "n37",
     "lead": false
   },
   {
@@ -451,7 +490,7 @@
     "url": "https://www.cnbc.com/2026/03/16/2-of-our-biggest-takeaways-from-nvidia-ceo-jensen-huangs-gtc-keynote-speech.html",
     "time": "11小时前",
     "published_iso": "2026-03-17T00:20:03+00:00",
-    "id": "n35",
+    "id": "n38",
     "lead": false
   },
   {
@@ -464,7 +503,7 @@
     "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-17T00:08:56+00:00",
-    "id": "n36",
+    "id": "n39",
     "lead": false
   },
   {
@@ -477,7 +516,7 @@
     "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-17T00:08:32+00:00",
-    "id": "n37",
+    "id": "n40",
     "lead": false
   },
   {
@@ -490,7 +529,7 @@
     "url": "https://www.bbc.com/news/articles/cj98meelzv3o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-16T23:37:57+00:00",
-    "id": "n38",
+    "id": "n41",
     "lead": false
   },
   {
@@ -503,7 +542,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2NJR2NhQUZWVzUxWGwya3BhS2FHR0w5eFVmREZJSXl5TVRQREVyRzlaNldNbVpkSS11UVRJUEJJTXRPYWRtNWtYbE5rTENXVnJhNzdnM0ZoQW1XUnpDZS10bFYxQWxCS3ZrRnp6U2xodEZURUM0WjZlV1l5RVRKYWhka1VOM05BY0EtSEI3dnlVVUdzSXdQdHVNS2NldmcxUXZUbnFnT0taWVgx?oc=5",
     "time": "13小时前",
     "published_iso": "2026-03-16T23:03:27+00:00",
-    "id": "n39",
+    "id": "n42",
     "lead": false
   },
   {
@@ -516,7 +555,20 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjY4Q0I2bnVwaXdGZkJGN2tpekdwbWJBaHNfWkhhVDhLS3hsRHpHVGpoNmhhc2NwZE9RNkFsNWRfbTZ6SjNRWi1oZG5hYkE4enpRTk5EeGF2QmRjUW1nVTdtcDlZNmVDYWx5MC1ZSF9xM0R3X3dremUwREhCRzFIQ0FvYVpoWmFtS1oxdmlOM0lKdjVNWVV6a3ZkWXhEc2VRY2JmdDlZVF9yNmxIaEhN?oc=5",
     "time": "13小时前",
     "published_iso": "2026-03-16T22:57:49+00:00",
-    "id": "n40",
+    "id": "n43",
+    "lead": false
+  },
+  {
+    "headline": "Reeves Pledges Fastest AI Adoption in G7 in UK Growth Vision - Bloomberg.com",
+    "deck": "Reeves Pledges Fastest AI Adoption in G7 in UK Growth Vision&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "英国财政大臣承诺G7中最快AI采用速度",
+    "cnDeck": "英国财政大臣Reeves在增长愿景中承诺，英国将实现G7国家中最快的AI采用速度。这是英国政府为提升经济增长而制定的更广泛战略的一部分。Reeves强调，加快人工智能技术的应用和部署将有助于提高生产力，推动英国经济竞争力。此举反映了英国致力于在全球AI竞争中保持领先地位的决心，同时也表明政府正在将技术创新作为实现经济增长目标的关键手段。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnExdXkxMUtGdlBfT3lXV0NWSmp1V0tsU0laSkNGaVhxQTFEYmZEUk1INWREeVQzT1FkSjU4YTA1SF9QOXhjZkZxZTJDYUlINlF3Z1QwajlEVzBSQ3NuWmRGZWtObmVLRVRsWmNEWW5jMUMzOVEzS2doblZLMjFjdHlKTHliaUI1MEFPbU1iaVBTOEFuNUh3MnZzQ0c2MmdRZXd3VUtCQm8xVkdHNC04blFXY0NsMmQ0aFBuNVB6cnhxZGp6WHVELWFTOA?oc=5",
+    "time": "14小时前",
+    "published_iso": "2026-03-16T22:30:00+00:00",
+    "id": "n44",
     "lead": false
   },
   {
@@ -529,7 +581,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbG43V2M2NXFoeVZTeWs1eE9JODl3c2J3emswZ1pCeDJIRFlKMERVOHk5bVRxU08zTjFJRGVfNXhVa2pXWEhGNGJsXzd1WHVJMC1BNkdNNGZjUFBNb2pWZ2ZZVVVzSVUyRXNIaTVGMmNxYk9ucDdCTFlMa3dZRlh4NWhqUXFEclVFVXlvS2dRNlhVb1BHcExFQ2FOeDRLVUJ1ZDB5U0d6YTVfZW4xVzdtdw?oc=5",
     "time": "16小时前",
     "published_iso": "2026-03-16T21:16:22+00:00",
-    "id": "n41",
+    "id": "n45",
     "lead": false
   },
   {
@@ -542,7 +594,7 @@
     "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-03-16T21:06:51+00:00",
-    "id": "n42",
+    "id": "n46",
     "lead": false
   },
   {
@@ -555,7 +607,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGFUVExEbXkxV1kzT2hGMmdiTVNDa2tXQXRqeEpmU2Z5Uk9JYlJSQXp4OExSY19paXpJalhmczhuMXBIRDlNelVDcngyOUg0R3NvLVEyeUtMZHZYQ2F5bVlKaXV5MUl2QUp4X183dlhaVVRSSHM0U2NqSnBYRE95QlBvQ180dUNleVpXZ2NGY1RnYl9ZTExoQjhaMGNXNDhTNVJKQTVoTV9fbjdjMEE?oc=5",
     "time": "15小时前",
     "published_iso": "2026-03-16T21:03:56+00:00",
-    "id": "n43",
+    "id": "n47",
     "lead": false
   },
   {
@@ -568,7 +620,7 @@
     "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
     "time": "15小时前",
     "published_iso": "2026-03-16T20:51:22+00:00",
-    "id": "n44",
+    "id": "n48",
     "lead": false
   },
   {
@@ -581,7 +633,7 @@
     "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
     "time": "16小时前",
     "published_iso": "2026-03-16T19:44:15+00:00",
-    "id": "n45",
+    "id": "n49",
     "lead": false
   },
   {
@@ -594,7 +646,7 @@
     "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-03-16T17:34:13+00:00",
-    "id": "n46",
+    "id": "n50",
     "lead": false
   },
   {
@@ -607,7 +659,7 @@
     "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-03-16T17:34:08+00:00",
-    "id": "n47",
+    "id": "n51",
     "lead": false
   },
   {
@@ -620,7 +672,7 @@
     "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
     "time": "19小时前",
     "published_iso": "2026-03-16T17:17:36+00:00",
-    "id": "n48",
+    "id": "n52",
     "lead": false
   },
   {
@@ -633,7 +685,20 @@
     "url": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-midday-nvda-pton-meta-dltr.html",
     "time": "20小时前",
     "published_iso": "2026-03-16T16:27:04+00:00",
-    "id": "n49",
+    "id": "n53",
+    "lead": false
+  },
+  {
+    "headline": "Bank of America Increases Hyperscaler Issuance Forecast to $175B - Bloomberg.com",
+    "deck": "Bank of America Increases Hyperscaler Issuance Forecast to $175B&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美银上调超大规模数据中心融资预测至175亿美元",
+    "cnDeck": "内容：美国银行（Bank of America）上调了对超大规模数据中心运营商债券发行规模的预测，预计今年将达到175亿美元。这反映了全球科技巨头对AI基础设施建设的持续投资需求，以及资本市场对这一领域融资的支持力度不断增强。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXRjaWtkZnkwWWhuMXFUMmI1VkFxR25SRDFlVDgyTkZOZXZoeDhYQ09tS25LT1FjaDA5aGlNdlRrSkQ5X1cwMWhjZ3BvS3plRDBVNENXcjdoNHFNVVdvZ0NvTVNjMW54aGZac0dwYVpKWDBackw0V1VyUlYtb3lJRktoV2JTcU1DRzFWLVVuRFdwYUpJZ1ViRHJSeGhmdUh6WDAwenYzREwzR2RnU2lTS2p2bGl1S1NaNzVUY2RpUXM1cjIzWURXQ1otc09HaTg?oc=5",
+    "time": "21小时前",
+    "published_iso": "2026-03-16T15:42:15+00:00",
+    "id": "n54",
     "lead": false
   },
   {
@@ -646,7 +711,7 @@
     "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
     "time": "23小时前",
     "published_iso": "2026-03-16T13:56:51+00:00",
-    "id": "n50",
+    "id": "n55",
     "lead": false
   },
   {
@@ -659,7 +724,7 @@
     "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-16T12:43:32+00:00",
-    "id": "n51",
+    "id": "n56",
     "lead": false
   },
   {
@@ -672,7 +737,33 @@
     "url": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-premarket-mu-nbis-dltr.html",
     "time": "1天前",
     "published_iso": "2026-03-16T12:20:38+00:00",
-    "id": "n52",
+    "id": "n57",
+    "lead": false
+  },
+  {
+    "headline": "Ant Is Said to Near Approval for Hong Kong Brokerage Acquisition - Bloomberg.com",
+    "deck": "Ant Is Said to Near Approval for Hong Kong Brokerage Acquisition&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "蚂蚁集团接近获准收购香港券商",
+    "cnDeck": "蚂蚁集团接近获得香港金融监管部门的批准，以收购香港一家券商。这笔交易将扩展蚂蚁集团在港澳地区的金融服务版图，涉及证券经纪业务的战略布局。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelhHWGZtSHI2YlU1c2dkTGJVMkJXaU5zU1Z0dEpMUlVqV3g3S21CWGxybWRsOWY4c2d3QXY2U3Z6Y2tRR1ZIbGJ4MjVWRnRTUS1DLWVKcmNYZDdQTEluZ0VPR2dJbFhaVUI0ejMtV3o4c3RxZWNZUGg3OTBTSFV3cWdvNG1Qc3FPSjVwa0NVMFZFRXJkVXhwalJEdVp4OW1heXJBaU1LMDd3YmJST2YwUWZXUmxKTGx3YXEwRDZPbEVkMGxuVWxjYnZqcmg4cGZ1?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-16T09:52:05+00:00",
+    "id": "n58",
+    "lead": false
+  },
+  {
+    "headline": "Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears - Bloomberg.com",
+    "deck": "Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "英伟达合作伙伴鸿海利润不及预期引发AI需求担忧",
+    "cnDeck": "鸿海精密工业公司公布的利润未达预期，引发市场对AI芯片需求的担忧。作为英伟达的重要合作伙伴，鸿海的业绩表现通常被视为AI产业景气度的风向标。利润miss可能反映出AI服务器等相关产品的订单增速放缓，或者产能利用率下降。这一信号可能影响投资者对英伟达及整个AI芯片产业链的预期，进而影响相关上市公司的股价表现。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlJkeFk0WWJCcVZ3dU9uUDZDOVZCeDNldzhfRmxlWVc0YUtMNC1nWEFMb1Z3Tzh0VDViVkZXRmhPWHhFRkpSelFmQ3dleFV6X21wdnRpcUluZzZPMjk4U3FsYllQbGdiUktQZkdFaURqVy1mb1pTeDdfYjVwTTUtOGI4TU5hV0dhZ2JlUHktYWQ3WUZrVEpWNlFURXZFU2dVM2hXMVRnY1VpUFpjU3JJUTh2UDlWcjdmdDZFeTdlaDJxMnl4Q29HQ2F3?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-16T06:35:00+00:00",
+    "id": "n59",
     "lead": false
   },
   {
@@ -685,7 +776,20 @@
     "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
     "time": "1天前",
     "published_iso": "2026-03-16T06:11:06+00:00",
-    "id": "n53",
+    "id": "n60",
+    "lead": false
+  },
+  {
+    "headline": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO - Bloomberg.com",
+    "deck": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "百度支持的生物地图秘密申报香港IPO",
+    "cnDeck": "内容：据知情人士透露，百度支持的生物技术公司BioMap已秘密向香港交易所提交IPO申请。BioMap是一家专注于生物计算和AI驱动药物发现的企业，该公司利用人工智能技术加速新药开发过程。这一IPO举动反映了中国科技企业对香港资本市场的持续兴趣，也显示了百度在生物科技领域的战略布局扩展。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHp3OTlFUjdyVDJoRU5nQmJ4ZnFXRDFGRUs2VWlWRlpvNGpNR2VpNl9WTEN5TjRxVS02YVN4X2FQYVRVVE5mN0dwWVpfZ2U0RDlKTGdjcGQ5WTVFTFhua3NJWkxiLWprQmxCTm50XzRGN0d3YmZ5NFRacWp5bDU0S1NCUDgzUFgxeE1iY0Mtd3c0N3pDemhhcE9tVXBBV0hIUnhCUmZOblp6dGdGNmcwel95UVFLUndseUZkY1JNc2wwYmJDZmVwSS1kMlU?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-16T02:40:00+00:00",
+    "id": "n61",
     "lead": false
   },
   {
@@ -698,7 +802,7 @@
     "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-15T20:08:33+00:00",
-    "id": "n54",
+    "id": "n62",
     "lead": false
   }
 ]
