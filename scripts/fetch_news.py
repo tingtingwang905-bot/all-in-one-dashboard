@@ -50,8 +50,7 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 200,
                 "messages": [{
                     "role": "user",
-                    "content": f"针对以下新闻，请输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n不要任何前缀和标签，直接输出两行：\n标题：{headline}\n内容：{deck}"
-                }]
+                    "content": f"判断以下新闻是否为重要热门新闻（涉及重大政治经济事件、市场行情、科技突破）。\n如果是重要新闻，输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n如果不重要（如软性内容、地方小事），只输出一个词：SKIP\n直接输出，不要前缀：\n标题：{headline}\n内容：{deck}"
             },
             timeout=15
         )
