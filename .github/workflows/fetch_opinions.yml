@@ -1,0 +1,28 @@
+name: Fetch Opinions
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # 每周一 UTC 9点更新一次（观点不需要太频繁）
+  workflow_dispatch:
+
+jobs:
+  fetch-opinions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install feedparser requests
+      - name: Fetch opinions
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python scripts/fetch_opinions.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/opinions.json
+          git diff --cached --quiet || git commit -m "Auto-update opinions data [skip ci]"
+          git push
