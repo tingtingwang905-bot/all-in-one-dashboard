@@ -74,7 +74,7 @@ def fetch_news():
     for feed_info in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:4]:
+            for entry in feed.entries[:6]:
                 title = entry.get("title", "").strip()
                 if not title or title in seen:
                     continue
