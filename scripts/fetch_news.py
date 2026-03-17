@@ -91,14 +91,14 @@ def generate_cn_content(headline, deck):
 
         # 清理可能残留的前缀
         # 清理标题前缀
-for prefix in ['标题：', '第一行：', '中文标题：', '标题:', '一、', '1.', '1、']:
-    cn_title = cn_title.replace(prefix, '').strip()
+        for prefix in ['标题：', '第一行：', '中文标题：', '标题:', '一、', '1.', '1、']:
+        cn_title = cn_title.replace(prefix, '').strip()
 
-# 如果清理后标题就是「标题」「无」「N/A」等无意义词，直接跳过
-invalid_titles = {'标题', '无', 'n/a', 'none', '/', '-', ''}
-if cn_title.lower() in invalid_titles or len(cn_title) < 3:
-    print(f"  Invalid title after cleaning: '{cn_title}', skipping")
-    continue
+        # 如果清理后标题就是「标题」「无」「N/A」等无意义词，直接跳过
+        invalid_titles = {'标题', '无', 'n/a', 'none', '/', '-', ''}
+        if cn_title.lower() in invalid_titles or len(cn_title) < 3:
+        print(f"  Invalid title after cleaning: '{cn_title}', skipping")
+        continue
         for prefix in ['摘要：', '第二行：', '中文摘要：', '翻译：']:
             cn_deck = cn_deck.replace(prefix, '').strip()
         for prefix in ['分类：', '第三行：', 'category:']:
