@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-17T15:07:51.248313+00:00",
+  "updated_at": "2026-03-17T20:01:37.944425+00:00",
   "keep_hours": 336,
-  "total_videos": 70,
+  "total_videos": 72,
   "channels": [
     {
       "channel_name": "方方土",
@@ -462,7 +462,7 @@
         },
         {
           "id": "JyWdgDcsmbk",
-          "title": "NVIDIA Is Everywhere Right Now",
+          "title": "The REAL Story from NVIDIA GTC This Week!",
           "description": "Sharing what I found interesting from Day 1 of NVIDIA GTC.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave P",
           "thumbnail": "https://i.ytimg.com/vi/JyWdgDcsmbk/maxresdefault.jpg",
           "published_at": "2026-03-17T06:27:28Z",
@@ -613,6 +613,15 @@
       "lang": "en",
       "videos": [
         {
+          "id": "kKG5MDF_234",
+          "title": "My Favorite AI Workflow",
+          "description": "Start building with Bolt for free (no credit card required): https://bolt.new/?utm_medium=social&utm_source=influencer&utm_campaign=V2&utm_content=tinahuang\n#BoltPartner\n\n🤖 Want to get ahead in your c",
+          "thumbnail": "https://i.ytimg.com/vi/kKG5MDF_234/maxresdefault.jpg",
+          "published_at": "2026-03-17T15:20:55Z",
+          "url": "https://www.youtube.com/watch?v=kKG5MDF_234",
+          "embed_url": "https://www.youtube.com/embed/kKG5MDF_234"
+        },
+        {
           "id": "9HTggyAjeDw",
           "title": "3 AI Coding Tools in 2026",
           "description": "Which one are you using right now? Drop it in the comments 👇\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
@@ -682,6 +691,15 @@
       "channel_thumb": "https://yt3.ggpht.com/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
       "videos": [
+        {
+          "id": "aK3lAZ5hhm0",
+          "title": "How to Switch from ChatGPT to Gemini (Without Losing Anything!)",
+          "description": "Subscribe for more video tutorials teaching you how to use AI tools!\n\nIn this video, Igor shows you how to transfer all of the relevant information from ChatGPT over to Gemini so that you can make the",
+          "thumbnail": "https://i.ytimg.com/vi/aK3lAZ5hhm0/maxresdefault.jpg",
+          "published_at": "2026-03-17T16:15:37Z",
+          "url": "https://www.youtube.com/watch?v=aK3lAZ5hhm0",
+          "embed_url": "https://www.youtube.com/embed/aK3lAZ5hhm0"
+        },
         {
           "id": "ITWcvB1AZtk",
           "title": "GPT-5.4 Full Breakdown & AI News You Can Use",
