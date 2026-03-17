@@ -76,7 +76,7 @@ def fetch_news():
     for feed_info in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:3]:
+            for entry in feed.entries[:4]:
                 title = entry.get("title", "").strip()
                 if not title or title in seen:
                     continue
@@ -106,11 +106,11 @@ def fetch_news():
                     "lead": idx == 1
                 })
                 idx += 1
-                if idx > 12:
+                if idx > 40:
                     break
         except Exception as e:
             print(f"Error: {e}")
-        if idx > 12:
+        if idx > 40:
             break
 
     os.makedirs("data", exist_ok=True)
