@@ -738,12 +738,10 @@ async function loadReading(){
 // ══════════════════════════════════════
 function renderOpinions(cat){
   const raw=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
-  // 每人只显示最新一条
   const seen=new Set();
   const list=raw.filter(o=>{const k=o.id||o.name;if(seen.has(k))return false;seen.add(k);return true;});
 
   document.getElementById('op-main').innerHTML=list.map((o,i)=>{
-    const cnId=`op-cn-${o.id||i}`;
     const hasCn=!!(o.quoteZh||o.quote_zh);
     const cnText=o.quoteZh||o.quote_zh||'';
     const isNew=o.is_new===true;
@@ -759,8 +757,7 @@ function renderOpinions(cat){
       </div>
       <div class="op-quote-wrap">
         <div class="op-quote">${o.quote}</div>
-        ${hasCn?`<div class="op-quote-cn" id="${cnId}">${cnText}</div>
-        <span class="op-bilingual-btn" onclick="toggleOpCn('${cnId}',this)">显示中文 ↓</span>`:''}
+        ${hasCn?`<div style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.8;padding:10px 14px;border-left:3px solid var(--rule2);margin-top:8px;background:var(--bg-light)">${cnText}</div>`:''}
       </div>
       <div class="op-meta">
         <span class="op-source-tag">${o.source}</span>
@@ -768,6 +765,16 @@ function renderOpinions(cat){
         ${o.url?`<a href="${o.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>`:''}
       </div>
     </div>`}).join('');
+
+  const seen2=new Set();
+  const sideList=OPINIONS.filter(o=>{const k=o.id||o.name;if(seen2.has(k))return false;seen2.add(k);return true;})
+    .filter(o=>!cat||cat==='all'?true:o.cat!==cat).slice(0,6);
+  document.getElementById('op-sidebar').innerHTML=sideList.map(o=>`
+    <div class="op-sidebar-person">
+      <div class="op-sp-name">${o.nameZh||''} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
+      <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
+    </div>`).join('');
+}
 
   // 侧边栏：其他人快速浏览
   const sidebar=(!cat||cat==='all')?OPINIONS.slice(0,8):OPINIONS.filter(o=>o.cat!==cat).slice(0,6);
