@@ -106,12 +106,10 @@ def fetch_news():
                     "lead": idx == 1
                 })
                 idx += 1
-                if idx > 40:
-                    break
+            
         except Exception as e:
             print(f"Error: {e}")
-        if idx > 40:
-            break
+      
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
