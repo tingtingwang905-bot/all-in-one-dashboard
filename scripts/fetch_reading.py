@@ -57,7 +57,7 @@ def generate_reading_content(title, summary, url):
             },
             json={
                 "model": "anthropic/claude-haiku-4-5",
-                "max_tokens": 1800,
+                "max_tokens": 2500,
                 "messages": [{
                     "role": "user",
                     "content": (
