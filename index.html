@@ -634,7 +634,7 @@ function filterVd(channelId, el) {
 }
 
 function openVdModal(embedUrl, channelName, title) {
-  document.getElementById('vd-iframe').src = embedUrl + '?autoplay=1';
+  document.getElementById('vd-iframe').src = embedUrl + '?autoplay=1&cc_load_policy=1&cc_lang_pref=zh-Hans&hl=zh-Hans';
   document.getElementById('vd-modal-ch').textContent = channelName;
   document.getElementById('vd-modal-title').textContent = title;
   document.getElementById('vd-modal').classList.add('open');
