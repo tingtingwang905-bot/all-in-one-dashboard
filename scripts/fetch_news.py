@@ -59,7 +59,7 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 300,
                 "messages": [{
                     "role": "user",
-                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不含任何前缀\n第二行：200字以内的中文摘要，不含任何前缀\n如果不值得关注，只回复：SKIP\n直接输出，不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
+                   "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出三行：\n第一行：15字以内的中文标题，不含任何前缀\n第二行：200字以内的中文摘要，不含任何前缀\n第三行：分类，只能从以下四个选一个：economy / tech / finance / politics\n分类说明：economy=宏观经济/央行/贸易，tech=科技/AI/芯片/互联网公司，finance=金融市场/股票/外汇/加密货币，politics=地缘政治/战争/选举\n如果不值得关注，只回复：SKIP\n直接输出，不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
@@ -68,11 +68,13 @@ def generate_cn_content(headline, deck):
         content = data["choices"][0]["message"]["content"].strip()
         if "SKIP" in content.upper() or "不值得" in content or "无需关注" in content or len(content) < 5:
             return "SKIP", ""
-        lines = content.split('\n', 1)
-        cn_title = lines[0].strip()
-        for prefix in ['标题：', '第一行：', '15字以内', '中文标题']:
-            cn_title = cn_title.replace(prefix, '').strip()
-        cn_deck = lines[1].strip() if len(lines) > 1 else ""
+      lines = [l.strip() for l in content.split('\n') if l.strip()]
+cn_title = lines[0] if len(lines) > 0 else ""
+cn_deck  = lines[1] if len(lines) > 1 else ""
+ai_cat   = lines[2].lower() if len(lines) > 2 else ""
+# 验证分类合法
+if ai_cat not in ('economy', 'tech', 'finance', 'politics'):
+    ai_cat = ""
         for prefix in ['摘要：', '第二行：', '中文摘要']:
             cn_deck = cn_deck.replace(prefix, '').strip()
         print(f"cnTitle: {cn_title[:30]}")
@@ -157,7 +159,7 @@ def fetch_news():
                 "deck": item["deck"],
                 "cnTitle": cn_title,
                 "cnDeck": cn_deck,
-                "cat": item["cat"],
+                "cat": ai_cat if ai_cat else item["cat"],
                 "source": source,
                 "url": item["link"],
                 "time": get_time_ago(dt),
