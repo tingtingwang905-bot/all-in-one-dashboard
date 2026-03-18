@@ -21,7 +21,6 @@ RSS_FEEDS = [
 MAX_PER_SOURCE = 10
 KEEP_HOURS = 48
 
-# 无效标题集合
 INVALID_TITLES = {
     '标题', '标题：', '标题:', '题目', '无', '无标题',
     'n/a', 'none', 'null', '/', '-', '', 'title', 'headline'
@@ -51,22 +50,16 @@ def get_time_ago(dt):
 
 
 def clean_title(raw):
-    """清理标题，去除所有可能的前缀和括号"""
     t = raw.strip()
-    # 去除方括号
     t = t.strip('[]【】')
-    # 去除各种前缀
     for prefix in ['标题：', '标题:', '第一行：', '第一行:', '中文标题：',
                    '中文标题:', '一、', '1. ', '1、', 'Title:', 'title:']:
         if t.startswith(prefix):
             t = t[len(prefix):].strip()
-    # 如果还有冒号且总长度很短，取冒号后面部分
     if '：' in t and len(t) < 20:
         t = t.split('：', 1)[-1].strip()
-    # 如果太长（超过30字）说明是摘要内容混进来了，直接丢弃
     if len(t) > 30:
         return ""
-    # 验证是否有效
     if t.lower() in INVALID_TITLES or len(t) < 3:
         return ""
     return t
@@ -112,13 +105,10 @@ def generate_cn_content(headline, deck):
         if "SKIP" in content.upper() or "不值得" in content or "无需关注" in content or len(content) < 5:
             return "SKIP", "", ""
 
-        # 解析三行
         lines = [l.strip() for l in content.split('\n') if l.strip()]
-
         if len(lines) < 1:
             return "SKIP", "", ""
 
-        # 清理并验证标题
         cn_title = clean_title(lines[0])
         if not cn_title:
             print(f"  Invalid title after cleaning: '{lines[0]}', skipping")
@@ -127,11 +117,9 @@ def generate_cn_content(headline, deck):
         cn_deck = lines[1] if len(lines) > 1 else ""
         ai_cat  = lines[2].lower() if len(lines) > 2 else ""
 
-        # 清理摘要前缀
         for prefix in ['摘要：', '摘要:', '第二行：', '中文摘要：', '翻译：', '内容：']:
             cn_deck = cn_deck.replace(prefix, '').strip()
 
-        # 清理分类前缀并验证
         for prefix in ['分类：', '分类:', '第三行：', 'category:', 'Category:']:
             ai_cat = ai_cat.replace(prefix, '').strip()
         if ai_cat not in ('economy', 'tech', 'finance', 'politics'):
@@ -149,9 +137,9 @@ def fetch_news():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=KEEP_HOURS)
 
-    # ── 加载历史数据，保留48小时内的 ──
+    # 加载历史数据，保留48小时内，清除旧 is_new 标记，用 URL 去重
     existing = []
-    existing_headlines = set()
+    existing_urls = set()
     try:
         with open("data/news.json", "r", encoding="utf-8") as f:
             existing = json.load(f)
@@ -160,14 +148,17 @@ def fetch_news():
             if item.get("published_iso") and
                datetime.fromisoformat(item["published_iso"]) >= cutoff
         ]
-        existing_headlines = {item["headline"] for item in existing}
+        for item in existing:
+            item.pop("is_new", None)
+        existing_urls = {item["url"] for item in existing}
         print(f"Loaded {len(existing)} existing items within 48h")
     except Exception as e:
         print(f"No existing news.json or parse error: {e}")
 
-    # ── 抓取新内容 ──
+    # 抓取新内容，用 URL + 标题双重去重
     source_candidates = {}
-    seen_titles = set(existing_headlines)
+    seen_urls = set(existing_urls)
+    seen_titles = set()
 
     for feed_info in RSS_FEEDS:
         source = feed_info["source"]
@@ -177,16 +168,17 @@ def fetch_news():
             feed = feedparser.parse(feed_info["url"])
             for entry in feed.entries[:20]:
                 title = entry.get("title", "").strip()
-                if not title or title in seen_titles:
+                link = entry.get("link", "")
+                if not title or not link:
+                    continue
+                if link in seen_urls or title in seen_titles:
                     continue
                 published_str = entry.get("published", "")
                 dt = parse_published(published_str)
                 if dt and dt < cutoff:
                     continue
+                seen_urls.add(link)
                 seen_titles.add(title)
-                link = entry.get("link", "")
-                if not link:
-                    continue
                 deck = entry.get("summary", "")
                 deck = re.sub(r'<[^>]+>', '', deck).strip()[:300]
                 source_candidates[source].append({
@@ -201,7 +193,7 @@ def fetch_news():
         except Exception as e:
             print(f"Error fetching {feed_info['url']}: {e}")
 
-    # ── AI 筛选 + 分类 ──
+    # AI 筛选 + 分类，新文章加 is_new: True
     new_items = []
     for source, candidates in source_candidates.items():
         count = 0
@@ -225,10 +217,11 @@ def fetch_news():
                 "url": item["link"],
                 "time": get_time_ago(dt),
                 "published_iso": dt.isoformat() if dt else now.isoformat(),
+                "is_new": True,
             })
             count += 1
 
-    # ── 合并新旧，按时间排序 ──
+    # 合并新旧，按时间排序
     all_news = new_items + existing
     all_news.sort(key=lambda x: x.get("published_iso", ""), reverse=True)
 
