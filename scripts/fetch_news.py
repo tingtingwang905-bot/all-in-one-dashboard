@@ -78,7 +78,7 @@ def generate_cn_content(headline, deck):
             },
             json={
                 "model": "anthropic/claude-haiku-4-5",
-                "max_tokens": 600,
+                "max_tokens": 1500,
                 "messages": [{
                     "role": "user",
                     "content": (
@@ -87,7 +87,7 @@ def generate_cn_content(headline, deck):
                         f"不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n"
                         f"严格按以下格式输出，共三行，每行之间用换行分隔，不加任何前缀标签：\n"
                         f"[中文标题，15字以内]\n"
-                        f"[原文直译，保留数字/人名/机构名/引语，300字以内，不要总结归纳]\n"
+                        f"[原文直译，保留数字/人名/机构名/引语，1000字以内，不要总结归纳]\n"
                         f"[分类：economy 或 tech 或 finance 或 politics 其中一个]\n"
                         f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
                         f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n"
