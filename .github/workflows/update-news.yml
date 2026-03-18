@@ -17,11 +17,13 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python scripts/fetch_news.py
-      - name: Commit and push
+     - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/news.json
+          git stash
+          git pull --rebase origin main
+          git stash pop
           git diff --cached --quiet || git commit -m "Auto-update news data [skip ci]"
           git push
