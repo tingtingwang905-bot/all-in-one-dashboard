@@ -634,14 +634,30 @@ function renderReading(pubKey){
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
       <div class="art-hl">${a.cnTitle||a.headline}</div>
       <div class="art-lede">${a.lede||''}</div>
-      ${a.enSummary?`
-      <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">
-        ${a.enSummary.split(/\n\n+/).filter(p=>p.trim()).map(p=>`<p style="margin-bottom:16px">${p.trim()}</p>`).join('')}
-      </div>`:''}
-      ${a.cnSummary?`
-      <div style="font-family:var(--cn);font-size:14px;color:var(--ink2);line-height:1.9;padding:16px 18px;background:var(--bg-light);border-left:3px solid var(--accent2);margin:14px 0">
-        ${a.cnSummary.split(/\n\n+/).filter(p=>p.trim()).map(p=>`<p style="margin-bottom:14px">${p.trim()}</p>`).join('')}
-      </div>`:''}
+   ${(()=>{
+        const enPs=(a.enSummary||'').split(/\n\n+/).filter(p=>p.trim());
+        const cnPs=(a.cnSummary||'').split(/\n\n+/).filter(p=>p.trim());
+        if(!enPs.length&&!cnPs.length)return'';
+        const len=Math.max(enPs.length,cnPs.length);
+        return `<div style="margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">
+          ${Array.from({length:len},(_,i)=>`
+            ${enPs[i]?`<p style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:8px">${enPs[i].trim()}</p>`:''}
+            ${cnPs[i]?`<p style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.9;padding:10px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:18px">${cnPs[i].trim()}</p>`:''}
+          `).join('')}
+        </div>`;
+      })()}
+```
+
+效果变成：
+```
+英文第一段
+中文第一段
+
+英文第二段
+中文第二段
+
+英文第三段
+中文第三段
       <div class="art-meta" style="margin-top:14px">
         <span>${a.readtime} read</span>
         <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline;border:1px solid var(--rule);border-radius:2px;padding:2px 8px;">阅读原文 →</a>
