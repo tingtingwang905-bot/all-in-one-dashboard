@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
+    "deck": "Uber plans to invest up to $1.25 billion in Rivian as part of a deal to deploy up to 50,000 robotaxis in several countries through 2031.",
+    "cnTitle": "Uber投资12.5亿美元支持Rivian自动驾驶出租车计划",
+    "cnDeck": "Uber计划投资最高12.5亿美元支持电动汽车制造商Rivian，作为部署多达50,000辆机器人出租车协议的一部分。根据该交易，Uber和Rivian将在多个国家通过2031年部署这些自动驾驶出租车。这笔投资体现了Uber对自动驾驶技术和电动汽车领域的战略布局，同时也反映了Rivian作为新兴电动汽车制造商获得主流科技公司支持的重要性。此举将加速自动驾驶出租车商业化进程，推动智能交通和城市出行的未来发展方向。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-19T12:18:33+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
     "deck": "The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.",
     "cnTitle": "阿里巴巴Q4营收未达预期净利润下滑66%",
@@ -9,9 +23,8 @@
     "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T11:52:17+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Gulf states have tolerated Iranian strikes so far — but their 'defensive' stance won't last forever",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:16:26+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,21 @@
     "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:14:02+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+    "deck": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
+    "cnTitle": "塞浦路斯总统批评英国军事基地为\"殖民遗留\"",
+    "cnDeck": "塞浦路斯总统尼科斯·克里斯托杜利德斯表示，英国在塞浦路斯岛上的两个军事基地是该岛的\"殖民后果\"。克里斯托杜利德斯呼吁就此问题进行坦诚讨论，认为这些基地代表了历史遗留的殖民主义影响。英国在塞浦路斯维持两个重要军事基地，这是英国在地中海地区的战略存在的重要组成部分。塞浦路斯对这些基地的存在长期存在异议，认为其违反了塞浦路斯的主权。此番总统的言论反映了塞浦路斯政府对英国军事存在的不满，并暗示塞浦路斯希望重新审视英塞之间关于军事基地的协议。这一立场可能会引发英塞之间在防务和主权问题上的进一步讨论。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-03-19T11:05:55+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T10:30:42+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-19T10:29:19+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T05:55:42+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,7 +115,7 @@
     "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T05:10:32+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -106,7 +128,7 @@
     "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T04:43:44+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -119,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T04:36:07+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -132,7 +154,7 @@
     "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T03:37:57+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -145,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
     "time": "2小时前",
     "published_iso": "2026-03-19T03:13:10+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -158,7 +180,7 @@
     "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html",
     "time": "2小时前",
     "published_iso": "2026-03-19T03:01:27+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -171,8 +193,7 @@
     "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
     "time": "9小时前",
     "published_iso": "2026-03-19T03:01:02+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -185,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-19T01:35:37+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -198,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-19T00:10:32+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -211,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-19T00:04:46+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -224,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-18T23:31:03+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -237,7 +258,7 @@
     "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
     "time": "6小时前",
     "published_iso": "2026-03-18T22:31:17+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -250,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-18T22:20:16+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -263,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-18T22:18:19+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -276,7 +297,7 @@
     "url": "https://www.cnbc.com/2026/03/18/odds-of-a-fed-rate-hike-by-june-are-now-higher-than-chances-for-rate-cut.html",
     "time": "8小时前",
     "published_iso": "2026-03-18T20:59:55+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -289,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-18T20:20:24+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -302,7 +323,7 @@
     "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
     "time": "9小时前",
     "published_iso": "2026-03-18T20:11:57+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -315,8 +336,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3JUX1JkRVhBS1ltN1pWallGaFljVWdCYkliN2VTUHFoaTdpZmhhRjJlY05sUjhqMXpWQ20yTFdEVzd2aUdpQ25fbFpVSko5NWtHWFo0QS1aZThqcVhWenl5dU9qX3l5Z3N6anJZOGdvQ1hWMnZiV1pRSGV0V2JKMTI3cmRmVDVINktLbTdGUVJfYVV2UGR3T0xPM0oybHZuLUFVeU9YdVlxLVZDZWdxSnJyT0FvZ2xKc0ZrRmlGcU04NHVTdXIwcGRyRjd2aDRZ?oc=5",
     "time": "16小时前",
     "published_iso": "2026-03-18T20:05:00+00:00",
-    "is_new": true,
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -329,7 +349,7 @@
     "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-18T19:40:15+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -342,7 +362,7 @@
     "url": "https://www.cnbc.com/2026/03/18/income-generating-plays-can-yield-up-to-6percent-as-the-fed-holds-rate-steady.html",
     "time": "10小时前",
     "published_iso": "2026-03-18T19:17:09+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -355,8 +375,7 @@
     "url": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html",
     "time": "17小时前",
     "published_iso": "2026-03-18T18:59:40+00:00",
-    "is_new": true,
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -369,8 +388,7 @@
     "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
     "time": "18小时前",
     "published_iso": "2026-03-18T18:05:12+00:00",
-    "is_new": true,
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -383,7 +401,7 @@
     "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-18T17:05:46+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -396,7 +414,7 @@
     "url": "https://www.bbc.com/news/articles/clyznzrqeggo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-18T17:03:33+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -409,7 +427,7 @@
     "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:56:12+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -422,7 +440,7 @@
     "url": "https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:53:00+00:00",
-    "id": "n32",
+    "id": "n34",
     "lead": false
   },
   {
@@ -435,7 +453,7 @@
     "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:42:37+00:00",
-    "id": "n33",
+    "id": "n35",
     "lead": false
   },
   {
@@ -448,7 +466,7 @@
     "url": "https://www.cnbc.com/2026/03/18/state-unemployment-benefits.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:31:03+00:00",
-    "id": "n34",
+    "id": "n36",
     "lead": false
   },
   {
@@ -461,7 +479,7 @@
     "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:29:31+00:00",
-    "id": "n35",
+    "id": "n37",
     "lead": false
   },
   {
@@ -474,7 +492,7 @@
     "url": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:23:16+00:00",
-    "id": "n36",
+    "id": "n38",
     "lead": false
   },
   {
@@ -487,7 +505,7 @@
     "url": "https://www.cnbc.com/2026/03/18/three-reasons-netflix-shares-are-going-to-breakout-according-to-citi.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T15:04:52+00:00",
-    "id": "n37",
+    "id": "n39",
     "lead": false
   },
   {
@@ -500,7 +518,7 @@
     "url": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
     "time": "1小时前",
     "published_iso": "2026-03-18T14:45:17+00:00",
-    "id": "n38",
+    "id": "n40",
     "lead": false
   },
   {
@@ -513,7 +531,7 @@
     "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
     "time": "1小时前",
     "published_iso": "2026-03-18T14:21:25+00:00",
-    "id": "n39",
+    "id": "n41",
     "lead": false
   },
   {
@@ -526,8 +544,7 @@
     "url": "https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html",
     "time": "22小时前",
     "published_iso": "2026-03-18T13:37:07+00:00",
-    "is_new": true,
-    "id": "n40",
+    "id": "n42",
     "lead": false
   },
   {
@@ -540,7 +557,7 @@
     "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
     "time": "3小时前",
     "published_iso": "2026-03-18T12:48:29+00:00",
-    "id": "n41",
+    "id": "n43",
     "lead": false
   },
   {
@@ -553,7 +570,7 @@
     "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
     "time": "3小时前",
     "published_iso": "2026-03-18T12:34:56+00:00",
-    "id": "n42",
+    "id": "n44",
     "lead": false
   },
   {
@@ -566,8 +583,7 @@
     "url": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
     "time": "1天前",
     "published_iso": "2026-03-18T10:35:42+00:00",
-    "is_new": true,
-    "id": "n43",
+    "id": "n45",
     "lead": false
   },
   {
@@ -580,7 +596,7 @@
     "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-18T04:36:46+00:00",
-    "id": "n44",
+    "id": "n46",
     "lead": false
   },
   {
@@ -593,7 +609,7 @@
     "url": "https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T00:40:54+00:00",
-    "id": "n45",
+    "id": "n47",
     "lead": false
   },
   {
@@ -606,7 +622,7 @@
     "url": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-18T00:30:49+00:00",
-    "id": "n46",
+    "id": "n48",
     "lead": false
   },
   {
@@ -619,7 +635,7 @@
     "url": "https://www.cnbc.com/2026/03/17/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T00:11:52+00:00",
-    "id": "n47",
+    "id": "n49",
     "lead": false
   },
   {
@@ -632,7 +648,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
     "time": "刚刚",
     "published_iso": "2026-03-18T00:06:59+00:00",
-    "id": "n48",
+    "id": "n50",
     "lead": false
   },
   {
@@ -645,7 +661,7 @@
     "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T22:49:03+00:00",
-    "id": "n49",
+    "id": "n51",
     "lead": false
   },
   {
@@ -658,7 +674,7 @@
     "url": "https://www.cnbc.com/2026/03/17/tesla-to-buy-4-point-3-billion-lg-energy-battery-cells-made-in-michigan.html",
     "time": "2小时前",
     "published_iso": "2026-03-17T22:43:16+00:00",
-    "id": "n50",
+    "id": "n52",
     "lead": false
   },
   {
@@ -671,7 +687,7 @@
     "url": "https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html",
     "time": "2小时前",
     "published_iso": "2026-03-17T22:38:12+00:00",
-    "id": "n51",
+    "id": "n53",
     "lead": false
   },
   {
@@ -684,7 +700,7 @@
     "url": "https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html",
     "time": "3小时前",
     "published_iso": "2026-03-17T21:52:34+00:00",
-    "id": "n52",
+    "id": "n54",
     "lead": false
   },
   {
@@ -697,7 +713,7 @@
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-17T21:48:08+00:00",
-    "id": "n53",
+    "id": "n55",
     "lead": false
   },
   {
@@ -710,7 +726,7 @@
     "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
     "time": "3小时前",
     "published_iso": "2026-03-17T21:17:31+00:00",
-    "id": "n54",
+    "id": "n56",
     "lead": false
   },
   {
@@ -723,7 +739,7 @@
     "url": "https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html",
     "time": "4小时前",
     "published_iso": "2026-03-17T20:34:38+00:00",
-    "id": "n55",
+    "id": "n57",
     "lead": false
   },
   {
@@ -736,7 +752,7 @@
     "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
     "time": "4小时前",
     "published_iso": "2026-03-17T20:29:55+00:00",
-    "id": "n56",
+    "id": "n58",
     "lead": false
   },
   {
@@ -749,7 +765,7 @@
     "url": "https://www.cnbc.com/2026/03/17/the-big-lows-in-the-stock-market-are-not-in-yet-says-bank-of-america.html",
     "time": "4小时前",
     "published_iso": "2026-03-17T20:18:37+00:00",
-    "id": "n57",
+    "id": "n59",
     "lead": false
   },
   {
@@ -762,7 +778,7 @@
     "url": "https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html",
     "time": "5小时前",
     "published_iso": "2026-03-17T19:40:14+00:00",
-    "id": "n58",
+    "id": "n60",
     "lead": false
   },
   {
@@ -775,7 +791,7 @@
     "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-17T19:21:00+00:00",
-    "id": "n59",
+    "id": "n61",
     "lead": false
   },
   {
@@ -788,7 +804,7 @@
     "url": "https://www.cnbc.com/2026/03/17/these-high-yielding-energy-plays-could-be-a-win/win-bank-of-america-says.html",
     "time": "5小时前",
     "published_iso": "2026-03-17T19:14:22+00:00",
-    "id": "n60",
+    "id": "n62",
     "lead": false
   },
   {
@@ -801,7 +817,7 @@
     "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-17T18:55:17+00:00",
-    "id": "n61",
+    "id": "n63",
     "lead": false
   },
   {
@@ -814,7 +830,7 @@
     "url": "https://www.cnbc.com/2026/03/17/nissan-toyota-honda-export-japan.html",
     "time": "6小时前",
     "published_iso": "2026-03-17T18:44:50+00:00",
-    "id": "n62",
+    "id": "n64",
     "lead": false
   },
   {
@@ -827,7 +843,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakdfWGNzZGxlZ2h1VF9fcWFvZGVSTUxCdFJ2MzlOWWZNeG5Vd1dnVXNkeWdONVo2T1lvLVFGcktKaGUwTzFDX3ZBR0hyYW5US3NENzFsa2hRNUQwLXBlM2dPTDZsZUVoTkhrNkJqR3lBTFFWVXFraC1SdGpFaDVhSGN4Q2dKalZvSV80cDd5WVJfMzNBQ1lsc1lRWkJTem1BRDNjaE1Jd05DMVY0OVE?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-17T17:50:31+00:00",
-    "id": "n63",
+    "id": "n65",
     "lead": false
   },
   {
@@ -840,7 +856,7 @@
     "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-17T16:35:29+00:00",
-    "id": "n64",
+    "id": "n66",
     "lead": false
   },
   {
@@ -853,7 +869,7 @@
     "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-17T16:10:06+00:00",
-    "id": "n65",
+    "id": "n67",
     "lead": false
   },
   {
@@ -866,7 +882,7 @@
     "url": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-17T15:49:46+00:00",
-    "id": "n66",
+    "id": "n68",
     "lead": false
   },
   {
@@ -879,7 +895,7 @@
     "url": "https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T15:02:11+00:00",
-    "id": "n67",
+    "id": "n69",
     "lead": false
   },
   {
@@ -892,7 +908,7 @@
     "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:53:22+00:00",
-    "id": "n68",
+    "id": "n70",
     "lead": false
   },
   {
@@ -905,7 +921,7 @@
     "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:40:39+00:00",
-    "id": "n69",
+    "id": "n71",
     "lead": false
   },
   {
@@ -918,7 +934,7 @@
     "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:37:09+00:00",
-    "id": "n70",
+    "id": "n72",
     "lead": false
   },
   {
@@ -931,7 +947,7 @@
     "url": "https://www.cnbc.com/2026/03/17/private-credit-shakeout-matching-covid-losses-coming-morgan-stanley-says.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:25:53+00:00",
-    "id": "n71",
+    "id": "n73",
     "lead": false
   },
   {
@@ -944,7 +960,7 @@
     "url": "https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:23:35+00:00",
-    "id": "n72",
+    "id": "n74",
     "lead": false
   },
   {
@@ -957,7 +973,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW9WWDdfaHk1NTRMbXBJTFpXaWk2UEo1eUpoV2xlWVFGVWRxd0c2RlJRSmo5Vm9GdkJxemlJanVpOHdQdV84UWtEci1JdFlRMmZoQ2FreUJXUks4S2d2ZjN3T2Vsdm1BV3VDS3BWcWlLNG5NNUpRa20tNGwtX2RwVnRCNW5SS2ttQ1ZTXzVaMVdPZkJRV0E?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:16:37+00:00",
-    "id": "n73",
+    "id": "n75",
     "lead": false
   },
   {
@@ -970,7 +986,7 @@
     "url": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-03-17T14:12:13+00:00",
-    "id": "n74",
+    "id": "n76",
     "lead": false
   },
   {
@@ -983,7 +999,7 @@
     "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T14:01:26+00:00",
-    "id": "n75",
+    "id": "n77",
     "lead": false
   },
   {
@@ -996,7 +1012,7 @@
     "url": "https://www.cnbc.com/2026/03/17/disney-trades-at-a-historically-low-valuation-sarat-sethi-sees-a-great-buying-opportunity.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:59:19+00:00",
-    "id": "n76",
+    "id": "n78",
     "lead": false
   },
   {
@@ -1009,7 +1025,7 @@
     "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T13:53:13+00:00",
-    "id": "n77",
+    "id": "n79",
     "lead": false
   },
   {
@@ -1022,7 +1038,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnZUV1haT0FNVkMxU3k4X3NaVFNBcVowRENJc19sQjRsM2xWZzNsMTJSV0tXMGJwYWl6a2NUOWVVRHBIbTUydEN1aVFPcWN6SUhJa0RnQmh0Z3U5Q1NQSnAzR09GYXNVRGZfM1Q3YUlraHQ1Rk1yLTlXUGtiOXNLQ1h0SVlEakRINmx0UWFWdjhfdGJzWTFEWkJBMWFLdnJscUctQ3k3UFRxb29mZjJOX2ZlUWY?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T13:51:28+00:00",
-    "id": "n78",
+    "id": "n80",
     "lead": false
   },
   {
@@ -1035,7 +1051,7 @@
     "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:49:11+00:00",
-    "id": "n79",
+    "id": "n81",
     "lead": false
   },
   {
@@ -1048,7 +1064,7 @@
     "url": "https://www.cnbc.com/2026/03/17/stagflation-and-your-money.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:44:29+00:00",
-    "id": "n80",
+    "id": "n82",
     "lead": false
   },
   {
@@ -1061,7 +1077,7 @@
     "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:37:27+00:00",
-    "id": "n81",
+    "id": "n83",
     "lead": false
   },
   {
@@ -1074,7 +1090,7 @@
     "url": "https://www.cnbc.com/2026/03/17/goldman-sachs-thinks-stock-market-underestimates-iran-war-risk-after-mondays-bounce.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:31:03+00:00",
-    "id": "n82",
+    "id": "n84",
     "lead": false
   },
   {
@@ -1087,7 +1103,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDVZeWVPbmxOenNucjNJcUdoT0poZWhDcl94LWh4ZmppQ0lDSEsxODhXTGd3WXlBMjFLY01JR3RBRGEwcGh3X25HLVFjdDdWUmRySU5TR29lMmRHLU1NdmpMVzRLN3czaWE5cnJPWmhOcUVRZ1ExZFd5SEhtSG1qMFRKeDJJdURXVl9iSzM4Qy1VUlV6SDI5SFBsS05qT290bG5EamNGWV9pcE5xa0R1aDNIOXo?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T13:02:50+00:00",
-    "id": "n83",
+    "id": "n85",
     "lead": false
   },
   {
@@ -1100,7 +1116,7 @@
     "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:50:37+00:00",
-    "id": "n84",
+    "id": "n86",
     "lead": false
   },
   {
@@ -1113,7 +1129,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:48:36+00:00",
-    "id": "n85",
+    "id": "n87",
     "lead": false
   }
 ]
