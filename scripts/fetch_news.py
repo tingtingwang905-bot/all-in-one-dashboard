@@ -65,6 +65,22 @@ def clean_title(raw):
     return t
 
 
+def clean_deck(text):
+    """清除摘要中可能残留的前缀废话"""
+    if not text:
+        return ""
+    # 去除常见的 AI 废话前缀
+    prefixes = [
+        '摘要：', '摘要:', '中文摘要：', '中文摘要:', '内容：', '内容:',
+        '翻译：', '翻译:', '第二行：', '第二行:', '直译：', '直译:',
+        '原文：', '原文:', '正文：', '正文:',
+    ]
+    for p in prefixes:
+        if text.startswith(p):
+            text = text[len(p):].strip()
+    return text.strip()
+
+
 def generate_cn_content(headline, deck):
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
@@ -84,14 +100,19 @@ def generate_cn_content(headline, deck):
                     "content": (
                         f"判断以下新闻是否值得关注。\n"
                         f"只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n"
-                        f"不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n"
-                        f"严格按以下格式输出，共三行，每行之间用换行分隔，不加任何前缀标签：\n"
-                        f"[中文标题，15字以内]\n"
-                        f"[原文直译，保留数字/人名/机构名/引语，1000字以内，不要总结归纳]\n"
-                        f"[分类：economy 或 tech 或 finance 或 politics 其中一个]\n"
-                        f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
-                        f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n"
+                        f"不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n\n"
                         f"如果不值得关注，只回复：SKIP\n\n"
+                        f"如果值得关注，严格按以下格式输出，共三行，行与行之间只有换行符，"
+                        f"每行【不加任何前缀、标签、序号、冒号】，直接输出内容：\n"
+                        f"第1行：中文标题，15字以内，直接写标题文字\n"
+                        f"第2行：中文摘要，将原文直译成中文，保留数字/人名/机构名/引语，200字以内，直接写摘要文字\n"
+                        f"第3行：分类，只能是 economy 或 tech 或 finance 或 politics 四个词之一\n\n"
+                        f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
+                        f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n\n"
+                        f"示例输出（注意：没有任何前缀标签）：\n"
+                        f"美联储维持利率不变\n"
+                        f"美联储周三宣布维持联邦基金利率目标区间在5.25%-5.5%不变，符合市场预期。主席鲍威尔表示，在通胀明确回落至2%目标前，不会考虑降息。\n"
+                        f"economy\n\n"
                         f"新闻标题：{headline}\n"
                         f"新闻内容：{deck}"
                     )
@@ -114,12 +135,10 @@ def generate_cn_content(headline, deck):
             print(f"  Invalid title after cleaning: '{lines[0]}', skipping")
             return "SKIP", "", ""
 
-        cn_deck = lines[1] if len(lines) > 1 else ""
+        cn_deck = clean_deck(lines[1]) if len(lines) > 1 else ""
         ai_cat  = lines[2].lower() if len(lines) > 2 else ""
 
-        for prefix in ['摘要：', '摘要:', '第二行：', '中文摘要：', '翻译：', '内容：']:
-            cn_deck = cn_deck.replace(prefix, '').strip()
-
+        # 清除分类字段的残留前缀
         for prefix in ['分类：', '分类:', '第三行：', 'category:', 'Category:']:
             ai_cat = ai_cat.replace(prefix, '').strip()
         if ai_cat not in ('economy', 'tech', 'finance', 'politics'):
