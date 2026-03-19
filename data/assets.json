@@ -1,0 +1,317 @@
+{
+  "updated_at": "2026-03-19T13:15:26.045582+00:00",
+  "updated_display": "Mar 19, 2026 13:15 UTC",
+  "sections": [
+    {
+      "title": "Equities 股票",
+      "items": [
+        {
+          "key": "sp500",
+          "name": "S&P 500",
+          "sub": "USA",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "nasdaq",
+          "name": "NASDAQ",
+          "sub": "USA Tech",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "nikkei",
+          "name": "Nikkei 225",
+          "sub": "Japan",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "csi1000",
+          "name": "CSI 1000",
+          "sub": "China",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "hsi",
+          "name": "Hang Seng",
+          "sub": "Hong Kong",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "dax",
+          "name": "DAX",
+          "sub": "Germany",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        }
+      ]
+    },
+    {
+      "title": "Bonds 债券",
+      "items": [
+        {
+          "key": "ust10",
+          "name": "US 10Y Yield",
+          "sub": "Treasury",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "ust2",
+          "name": "US 2Y Yield",
+          "sub": "Treasury",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "bund",
+          "name": "DE 10Y Bund",
+          "sub": "Germany",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        }
+      ]
+    },
+    {
+      "title": "Commodities 商品",
+      "items": [
+        {
+          "key": "gold",
+          "name": "Gold",
+          "sub": "XAU/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "silver",
+          "name": "Silver",
+          "sub": "XAG/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "wti",
+          "name": "WTI Crude",
+          "sub": "Oil",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "brent",
+          "name": "Brent Crude",
+          "sub": "Oil",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "copper",
+          "name": "Copper",
+          "sub": "LME",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "natgas",
+          "name": "Natural Gas",
+          "sub": "NYMEX",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        }
+      ]
+    },
+    {
+      "title": "Crypto 加密货币",
+      "items": [
+        {
+          "key": "btc",
+          "name": "Bitcoin",
+          "sub": "BTC/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "eth",
+          "name": "Ethereum",
+          "sub": "ETH/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "sol",
+          "name": "Solana",
+          "sub": "SOL/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "bnb",
+          "name": "BNB",
+          "sub": "BNB/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "xrp",
+          "name": "XRP",
+          "sub": "XRP/USD",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        }
+      ]
+    },
+    {
+      "title": "FX 外汇",
+      "items": [
+        {
+          "key": "eurusd",
+          "name": "EUR/USD",
+          "sub": "Euro / Dollar",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "usdjpy",
+          "name": "USD/JPY",
+          "sub": "Dollar / Yen",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "gbpusd",
+          "name": "GBP/USD",
+          "sub": "Cable",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "dxy",
+          "name": "DXY",
+          "sub": "Dollar Index",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "usdcny",
+          "name": "USD/CNY",
+          "sub": "Offshore CNH",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        },
+        {
+          "key": "usdchf",
+          "name": "USD/CHF",
+          "sub": "Swissie",
+          "price": "N/A",
+          "chg": "N/A",
+          "up": true,
+          "range52": "N/A",
+          "raw_price": null,
+          "raw_chg_pct": null
+        }
+      ]
+    }
+  ]
+}
