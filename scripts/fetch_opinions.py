@@ -39,8 +39,8 @@ PEOPLE = [
      "search": "Geoffrey Hinton AI said statement interview 2026"},
 ]
 
-KEEP_MONTHS = 6    # 保留最近6个月的观点
-SEARCH_DAYS = 30   # 每次搜索最近30天的新观点
+KEEP_MONTHS = 6
+SEARCH_DAYS = 30
 
 
 def search_person_quotes(person):
@@ -65,7 +65,6 @@ def search_person_quotes(person):
             link = entry.get("link", "")
             published_str = entry.get("published", "")
 
-            # 解析时间
             try:
                 from email.utils import parsedate_to_datetime
                 dt = parsedate_to_datetime(published_str).astimezone(timezone.utc)
@@ -86,8 +85,41 @@ def search_person_quotes(person):
         return []
 
 
+def clean_quote_text(text):
+    """清除 AI 输出中常见的废话前缀和格式噪音"""
+    if not text:
+        return ""
+    # 去除方括号
+    text = text.strip("[]")
+    # 去除 ** 强调符
+    text = text.replace("**", "")
+    # 去除常见废话前缀（中文）
+    cn_prefixes = [
+        r'^根据[^，。：:]{0,30}[，。：:]\s*',
+        r'^以下是[^，。：:]{0,20}[，。：:]\s*',
+        r'^该[人物]{0,2}[的表示认为]{0,4}[，。：:]\s*',
+        r'^核心观点[：:]\s*',
+        r'^最具价值的观点[：:]\s*',
+        r'^观点[：:]\s*',
+        r'^引语[：:]\s*',
+    ]
+    for pattern in cn_prefixes:
+        text = re.sub(pattern, '', text, flags=re.MULTILINE)
+    # 去除常见废话前缀（英文）
+    en_prefixes = [
+        r'^Direct quote[^.]{0,60}\.\s*',
+        r'^Note:[^.]{0,80}\.\s*',
+        r'^Quote:\s*',
+        r'^Key quote:\s*',
+        r'^Based on[^,]{0,60},\s*',
+    ]
+    for pattern in en_prefixes:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE | re.MULTILINE)
+    return text.strip()
+
+
 def extract_quote(person, articles):
-    """让 AI 从搜索结果中提取最有价值的观点，中英双语"""
+    """让 AI 从搜索结果中提取最有价值的观点，中英双语，严格格式"""
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key or not articles:
         return None
@@ -106,22 +138,22 @@ def extract_quote(person, articles):
             },
             json={
                 "model": "anthropic/claude-haiku-4-5",
-                "max_tokens": 800,
+                "max_tokens": 600,
                 "messages": [{
                     "role": "user",
                     "content": (
-                        f"以下是关于 {person['name']}（{person['nameZh']}，{person['role']}）最近的新闻报道。\n"
-                        f"请从中提取最具价值的一段核心观点或言论。\n\n"
-                        f"要求：\n"
-                        f"1. 找出他/她最近表达的最重要观点（可以是直接引语或意思概括）\n"
-                        f"2. 必须是真实可查的内容，不要编造\n"
-                        f"3. 如果没有找到有价值的观点，回复：SKIP\n\n"
-                        f"如果找到，严格按以下格式输出：\n"
-                        f"[英文原文观点，150字以内，尽量用直接引语]\n"
-                        f"---CN---\n"
-                        f"[中文翻译，150字以内，保留直接引语风格]\n"
-                        f"---SOURCE---\n"
-                        f"[来源名称，如 Bloomberg Interview / X (Twitter) / Annual Letter 等]\n\n"
+                        f"从以下新闻中提取 {person['name']}（{person['nameZh']}）最近说的最重要的一句话或一段话。\n\n"
+                        f"规则：\n"
+                        f"- 必须是真实可查的原话或转述，不要编造\n"
+                        f"- 如果没有找到有价值的直接言论，只回复：SKIP\n\n"
+                        f"如果找到，严格按以下格式输出，共三行，【每行直接输出内容，不加任何前缀、标签、冒号】：\n"
+                        f"第1行：英文原话或英文转述，100字以内，尽量用直接引语\n"
+                        f"第2行：中文翻译，100字以内，保持直接引语风格\n"
+                        f"第3行：来源名称（如 Bloomberg / X / Annual Letter / CNBC Interview 等）\n\n"
+                        f"示例输出（注意：没有前缀，直接是内容）：\n"
+                        f"We are moving from AI as a tool to AI as an agent.\n"
+                        f"我们正在从AI作为工具转向AI作为代理。\n"
+                        f"Microsoft Build 2025\n\n"
                         f"新闻内容：\n{articles_text}"
                     )
                 }]
@@ -134,24 +166,25 @@ def extract_quote(person, articles):
         if "SKIP" in content.upper() or len(content) < 20:
             return None
 
-        # 解析格式
-        parts = content.split("---CN---")
-        if len(parts) < 2:
+        lines = [l.strip() for l in content.split('\n') if l.strip()]
+        if len(lines) < 2:
             return None
 
-        en_quote = parts[0].strip().strip("[]")
-        rest = parts[1].split("---SOURCE---")
-        cn_quote = rest[0].strip().strip("[]")
-        source = rest[1].strip().strip("[]") if len(rest) > 1 else "Media Report"
+        en_quote = clean_quote_text(lines[0])
+        cn_quote = clean_quote_text(lines[1])
+        source = clean_quote_text(lines[2]) if len(lines) > 2 else "Media Report"
 
-        if len(en_quote) < 20 or len(cn_quote) < 10:
+        # 基本验证
+        if len(en_quote) < 15 or len(cn_quote) < 8:
+            return None
+        # 如果英文里还有中文废话，说明格式错乱，丢弃
+        if re.search(r'根据|以下是|核心观点', en_quote):
             return None
 
-        # 找最新文章的 URL
         best_url = articles[0]["url"] if articles else ""
         best_dt = articles[0]["dt"] if articles else datetime.now(timezone.utc)
 
-        print(f"  ✅ Found quote: '{en_quote[:50]}...'")
+        print(f"  ✅ Found quote: '{en_quote[:60]}...'")
         return {
             "enQuote": en_quote,
             "cnQuote": cn_quote,
@@ -168,10 +201,9 @@ def extract_quote(person, articles):
 
 def fetch_opinions():
     now = datetime.now(timezone.utc)
-    cutoff_6m = now - timedelta(days=180)   # 6个月保留线
-    cutoff_search = now - timedelta(days=30) # 搜索最近1个月
+    cutoff_6m = now - timedelta(days=180)
 
-    # ── 加载历史数据，保留6个月内的 ──
+    # 加载历史数据
     existing_by_person = {}
     try:
         with open("data/opinions.json", "r", encoding="utf-8") as f:
@@ -184,8 +216,10 @@ def fetch_opinions():
             if iso:
                 try:
                     dt = datetime.fromisoformat(iso)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
                     if dt < cutoff_6m:
-                        continue   # 超过6个月，丢弃
+                        continue
                 except:
                     pass
             if pid not in existing_by_person:
@@ -196,16 +230,12 @@ def fetch_opinions():
     except Exception as e:
         print(f"No existing opinions.json or parse error: {e}")
 
-    # ── 为每个人搜索最新观点 ──
     all_opinions = []
 
     for person in PEOPLE:
         print(f"\nProcessing: {person['name']} ({person['nameZh']})")
 
-        # 已有的历史观点
         history = existing_by_person.get(person["id"], [])
-
-        # 搜索最新1个月的观点
         articles = search_person_quotes(person)
         print(f"  Found {len(articles)} recent articles")
 
@@ -213,7 +243,6 @@ def fetch_opinions():
         if articles:
             new_quote = extract_quote(person, articles)
 
-        # 合并：新观点 + 历史观点（去重）
         person_opinions = []
 
         if new_quote:
@@ -224,9 +253,8 @@ def fetch_opinions():
                 "nameZh": person["nameZh"],
                 "role": person["role"],
                 "color": person["color"],
-                # 双语观点
-                "quote": new_quote["enQuote"],       # 英文（前端显示）
-                "quoteZh": new_quote["cnQuote"],     # 中文
+                "quote": new_quote["enQuote"],
+                "quoteZh": new_quote["cnQuote"],
                 "source": new_quote["source"],
                 "url": new_quote["url"],
                 "date": new_quote["date"],
@@ -234,21 +262,17 @@ def fetch_opinions():
                 "is_new": True,
             })
 
-        # 加入历史（最多保留每人6条历史观点）
         for h in history[:6]:
-            # 避免重复（同一来源同一时期）
-            if new_quote and h.get("date") == (new_quote["date"] if new_quote else ""):
+            if new_quote and h.get("date") == new_quote["date"]:
                 continue
             person_opinions.append(h)
 
-        # 如果完全没有数据，用代码里的静态数据兜底
         if not person_opinions:
             print(f"  ⚠️  No data found, using fallback")
             person_opinions.append(get_fallback(person))
 
         all_opinions.extend(person_opinions)
 
-    # 按时间排序（最新在前）
     all_opinions.sort(key=lambda x: x.get("published_iso", ""), reverse=True)
 
     os.makedirs("data", exist_ok=True)
@@ -259,7 +283,6 @@ def fetch_opinions():
 
 
 def get_fallback(person):
-    """兜底静态数据，确保每人至少有一条"""
     FALLBACKS = {
         "elon_musk":     {"en": "Whoever controls the most compute controls the future of intelligence.", "cn": "谁掌握最多算力，谁就掌控智能的未来。", "src": "X (Twitter)"},
         "jensen_huang":  {"en": "Every company is now an AI company. Physical AI is the next wave.", "cn": "每家公司现在都是AI公司。实体AI是下一波浪潮。", "src": "GTC Keynote"},
@@ -271,7 +294,7 @@ def get_fallback(person):
         "schwarzman":    {"en": "We are entering a golden age for private credit and infrastructure.", "cn": "我们正在进入私人信贷和基础设施的黄金时代。", "src": "Davos"},
         "cathie_wood":   {"en": "The convergence of AI, robotics and genomics is creating a $200 trillion opportunity.", "cn": "AI、机器人和基因组学的融合正在创造200万亿美元的机会。", "src": "ARK Big Ideas"},
         "larry_fink":    {"en": "Infrastructure investment is the single most important asset class for the next 20 years.", "cn": "基础设施投资是未来20年最重要的资产类别。", "src": "BlackRock Annual Letter"},
-        "duan_yongping": {"en": "投资的本质是买未来现金流，其他都是噪音。", "cn": "投资的本质是买未来现金流，其他都是噪音。", "src": "雪球访谈"},
+        "duan_yongping": {"en": "Investing is simply buying future cash flows — everything else is noise.", "cn": "投资的本质是买未来现金流，其他都是噪音。", "src": "雪球访谈"},
         "fei_fei_li":    {"en": "The next frontier is machines that can perceive, reason, and act in 3D space.", "cn": "下一个前沿是能够在三维空间中感知、推理和行动的机器。", "src": "TED 2025"},
         "hinton":        {"en": "I am genuinely frightened. These systems are learning to manipulate people.", "cn": "我真的感到恐惧。这些系统正在学会操控人类。", "src": "60 Minutes Interview"},
     }
