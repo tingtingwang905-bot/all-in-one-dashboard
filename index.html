@@ -19,15 +19,11 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 body{background:var(--white);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.7;}
 a{color:inherit;text-decoration:none;}
-
-/* MASTHEAD */
 .masthead{border-bottom:none;padding:10px 0 8px;text-align:center;background:var(--white);position:sticky;top:0;z-index:200;}
 .masthead-date{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);margin-bottom:3px;}
 .masthead-title{font-family:var(--serif);font-size:38px;font-weight:700;letter-spacing:-.03em;line-height:1;}
 .masthead-tagline{font-family:var(--body);font-style:italic;font-size:12px;color:var(--ink3);}
 .masthead hr{border:none;border-top:1px solid var(--ink);margin:6px 40px 0;}
-
-/* MARKET STRIP */
 .mstrip{display:none;}
 .mstrip-label{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink4);padding:0 14px;border-right:1px solid var(--rule);height:100%;display:flex;align-items:center;white-space:nowrap;background:var(--bg-light);flex-shrink:0;}
 .mstrip-wrap{overflow:hidden;flex:1;}
@@ -35,8 +31,6 @@ a{color:inherit;text-decoration:none;}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 .mitem{font-family:var(--mono);font-size:10px;padding:0 18px;display:inline-flex;gap:6px;align-items:center;color:var(--ink3);}
 .mval{color:var(--ink);font-weight:500;}.up{color:var(--green);}.dn{color:var(--accent);}
-
-/* NAVBAR */
 .navbar{border-bottom:1px solid var(--rule2);background:var(--white);position:sticky;top:82px;z-index:190;}
 .nav-inner{display:flex;align-items:center;justify-content:center;max-width:1240px;margin:0 auto;padding:0 24px;overflow-x:auto;}
 .nav-item{font-family:var(--mono);font-size:14px;letter-spacing:.08em;text-transform:uppercase;padding:11px 20px;color:var(--ink4);cursor:pointer;border-bottom:2px solid transparent;transition:color .15s,border-color .15s;white-space:nowrap;user-select:none;font-weight:600;}
@@ -47,11 +41,8 @@ a{color:inherit;text-decoration:none;}
 .nav-item[onclick*="'reading'"].active {color:#2a4a35;border-bottom:2px solid #2a4a35;}
 .nav-item[onclick*="'opinions'"].active{color:#6b4f1e;border-bottom:2px solid #6b4f1e;}
 .nav-item[onclick*="'assets'"].active  {color:#2e3d4f;border-bottom:2px solid #2e3d4f;}
-
 .container{max-width:1240px;margin:0 auto;padding:0 24px;}
 .panel{display:none;}.panel.active{display:block;}
-
-/* TOOLBAR */
 .toolbar{display:flex;align-items:center;border-bottom:1px solid var(--rule2);padding:14px 0 0;margin-bottom:28px;overflow-x:auto;gap:0;}
 .tb-btn{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 16px 10px;color:var(--ink4);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:500;}
 .tb-btn:hover{color:var(--ink2);}
@@ -60,8 +51,6 @@ a{color:inherit;text-decoration:none;}
 #vd-toolbar   .tb-btn.active{color:#1e3a52;border-bottom-color:#1e3a52;}
 #rd-toolbar   .tb-btn.active{color:#2a4a35;border-bottom-color:#2a4a35;}
 #op-toolbar   .tb-btn.active{color:#6b4f1e;border-bottom-color:#6b4f1e;}
-
-/* NEWS */
 .news-grid{display:grid;grid-template-columns:2fr 1fr;gap:0;}
 .news-main{padding-right:32px;}
 .news-sidebar{border-left:1px solid var(--rule);padding-left:28px;}
@@ -84,8 +73,6 @@ a{color:inherit;text-decoration:none;}
 .translate-btn{font-family:var(--mono);font-size:9px;letter-spacing:.05em;text-transform:uppercase;padding:3px 9px;border:1px solid var(--rule);border-radius:2px;cursor:pointer;color:var(--ink3);background:var(--paper);transition:all .15s;display:inline-flex;align-items:center;gap:4px;}
 .translate-btn:hover{border-color:var(--accent2);color:var(--accent2);}
 @keyframes fadein{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
-
-/* VIDEOS */
 .vd-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-bottom:40px;}
 @media(max-width:1100px){.vd-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:760px){.vd-grid{grid-template-columns:repeat(2,1fr)}}
@@ -114,8 +101,6 @@ a{color:inherit;text-decoration:none;}
 .vd-skeleton-line{height:10px;background:#e8e4de;border-radius:2px;margin-bottom:8px;}
 @keyframes skeleton-shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
 .vd-updated{font-family:var(--mono);font-size:10px;color:var(--ink4);font-style:italic;margin-bottom:16px;}
-
-/* VIDEO MODAL */
 .vd-modal{display:none;position:fixed;inset:0;z-index:9000;align-items:center;justify-content:center;background:rgba(0,0,0,.75);backdrop-filter:blur(4px);}
 .vd-modal.open{display:flex;}
 .vd-modal-box{position:relative;width:min(860px,94vw);background:#111;border-radius:4px;overflow:hidden;}
@@ -126,8 +111,6 @@ a{color:inherit;text-decoration:none;}
 .vd-modal-info{padding:14px 18px 16px;}
 .vd-modal-ch{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#888;margin-bottom:4px;}
 .vd-modal-title{font-family:var(--serif);font-size:15px;font-weight:600;color:#f0f0f0;line-height:1.4;margin:0;}
-
-/* DEEP READING */
 .reading-layout{display:grid;grid-template-columns:2fr 1fr;gap:0;padding-top:28px;}
 .reading-main{padding-right:40px;}
 .reading-sidebar-col{border-left:1px solid var(--rule);padding-left:32px;}
@@ -144,8 +127,6 @@ a{color:inherit;text-decoration:none;}
 .classic-cn{font-family:var(--cn);font-size:13px;line-height:1.9;color:var(--ink3);display:none;border-top:1px solid var(--rule2);padding-top:12px;}
 .classic-cn.show{display:block;animation:fadein .3s ease;}
 .classic-src{font-family:var(--mono);font-size:10px;color:var(--gold);margin-top:10px;}
-
-/* OPINIONS */
 .op-layout{display:grid;grid-template-columns:2fr 1fr;gap:0;padding-top:28px;}
 .op-main{padding-right:40px;}
 .op-sidebar-col{border-left:1px solid var(--rule);padding-left:32px;}
@@ -166,9 +147,8 @@ a{color:inherit;text-decoration:none;}
 .op-sp-name{font-family:var(--serif);font-size:13px;font-weight:600;margin-bottom:3px;transition:color .15s;}
 .op-sidebar-person:hover .op-sp-name{color:var(--accent2);}
 .op-sp-snippet{font-family:var(--body);font-size:12px;color:var(--ink3);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
-
-/* GLOBAL ASSETS */
 .assets-wrap{padding-top:24px;}
+.assets-updated{font-family:var(--mono);font-size:10px;color:var(--ink4);font-style:italic;margin:24px 0 8px;}
 .asset-section-block{margin-bottom:32px;}
 .asset-section-title{font-family:var(--serif);font-size:18px;font-weight:700;border-bottom:2px solid var(--ink);padding-bottom:6px;margin-bottom:0;}
 .asset-table{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:12px;}
@@ -198,8 +178,6 @@ a{color:inherit;text-decoration:none;}
 .range-btn:hover{background:var(--bg-light);color:var(--ink2);}
 .range-btn.active{background:var(--accent2);color:#fff;}
 .chart-canvas-wrap{height:240px;position:relative;}
-
-/* MODAL */
 .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:500;display:none;align-items:flex-start;justify-content:center;padding:60px 20px;overflow-y:auto;}
 .modal-overlay.open{display:flex;}
 .modal{background:var(--white);border:1px solid var(--rule);max-width:760px;width:100%;padding:36px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.15);border-radius:2px;}
@@ -207,13 +185,11 @@ a{color:inherit;text-decoration:none;}
 .modal-close:hover{color:var(--ink);border-color:var(--ink3);}
 .spinner{width:15px;height:15px;border:2px solid var(--rule);border-top-color:var(--accent2);border-radius:50%;animation:spin .8s linear infinite;}
 @keyframes spin{to{transform:rotate(360deg)}}
-
 .lead-story,.secondary-story,.article-card{opacity:0;animation:slideup .4s ease forwards;}
 .lead-story{animation-delay:.05s}
 .secondary-story:nth-child(1){animation-delay:.1s}.secondary-story:nth-child(2){animation-delay:.15s}.secondary-story:nth-child(3){animation-delay:.2s}
 .article-card:nth-child(1){animation-delay:.05s}.article-card:nth-child(2){animation-delay:.12s}.article-card:nth-child(3){animation-delay:.19s}
 @keyframes slideup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-
 @media(max-width:600px){
   .masthead-title{font-size:28px}
   .container{padding:0 14px}
@@ -224,8 +200,6 @@ a{color:inherit;text-decoration:none;}
 </style>
 </head>
 <body>
-
-<!-- ARTICLE MODAL -->
 <div class="modal-overlay" id="modal" onclick="if(event.target===this)closeModal()">
   <div class="modal">
     <div class="modal-close" onclick="closeModal()">✕</div>
@@ -234,15 +208,11 @@ a{color:inherit;text-decoration:none;}
     <div id="modal-body"></div>
   </div>
 </div>
-
-<!-- VIDEO MODAL -->
 <div class="vd-modal" id="vd-modal">
   <div class="vd-modal-box">
     <button class="vd-modal-close" id="vd-modal-close">✕</button>
     <div class="vd-modal-embed">
-      <iframe id="vd-iframe" src="" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+      <iframe id="vd-iframe" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="vd-modal-info">
       <p class="vd-modal-ch" id="vd-modal-ch"></p>
@@ -250,22 +220,16 @@ a{color:inherit;text-decoration:none;}
     </div>
   </div>
 </div>
-
-<!-- MASTHEAD -->
 <div class="masthead">
   <div class="masthead-date" id="mdate"></div>
   <div class="masthead-title">All-In-One</div>
   <div class="masthead-tagline">Finance · Technology · Markets · Analysis · Deep Reading · Opinions</div>
   <hr>
 </div>
-
-<!-- MARKET STRIP -->
 <div class="mstrip">
   <div class="mstrip-label">Markets</div>
   <div class="mstrip-wrap"><div class="mstrip-track" id="mtrack"></div></div>
 </div>
-
-<!-- NAVBAR -->
 <div class="navbar">
   <div class="nav-inner">
     <div class="nav-item active" onclick="showPanel('news',this)">News</div>
@@ -275,8 +239,6 @@ a{color:inherit;text-decoration:none;}
     <div class="nav-item" onclick="showPanel('assets',this)">Global Assets</div>
   </div>
 </div>
-
-<!-- NEWS -->
 <div id="panel-news" class="panel active">
 <div class="container">
   <div class="toolbar" id="news-toolbar">
@@ -292,8 +254,6 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
-
-<!-- VIDEOS -->
 <div id="panel-videos" class="panel">
 <div class="container" style="padding-top:24px">
   <div class="vd-updated" id="vd-updated"></div>
@@ -308,8 +268,6 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
-
-<!-- DEEP READING -->
 <div id="panel-reading" class="panel">
 <div class="container">
   <div class="toolbar" id="rd-toolbar">
@@ -327,8 +285,6 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
-
-<!-- OPINIONS -->
 <div id="panel-opinions" class="panel">
 <div class="container">
   <div class="toolbar" id="op-toolbar">
@@ -346,8 +302,6 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
-
-<!-- GLOBAL ASSETS -->
 <div id="panel-assets" class="panel">
 <div class="container">
   <div class="chart-panel" id="chart-panel" style="margin-top:24px">
@@ -361,6 +315,7 @@ a{color:inherit;text-decoration:none;}
     </div>
     <div class="chart-canvas-wrap"><canvas id="main-chart"></canvas></div>
   </div>
+  <div class="assets-updated" id="assets-updated"></div>
   <div class="assets-wrap" id="assets-wrap"></div>
 </div>
 </div>
@@ -370,58 +325,19 @@ a{color:inherit;text-decoration:none;}
 // STATIC FALLBACK DATA
 // ══════════════════════════════════════
 const OPINIONS_FALLBACK=[
-  {id:'op1',cat:'biz',name:'Elon Musk',nameZh:'马斯克',role:'Tesla / SpaceX / xAI CEO',color:'#1a1a1a',
-   quote:'The thing that matters most right now is compute. Whoever controls the most compute controls the future of intelligence.',
-   quoteZh:'现在最重要的是算力。谁掌握最多算力，谁就掌控智能的未来。',
-   source:'X (Twitter)',date:'Mar 2026',url:'https://x.com'},
-  {id:'op2',cat:'biz',name:'Jensen Huang',nameZh:'黄仁勋',role:'NVIDIA CEO',color:'#76b900',
-   quote:'Every company is now an AI company. Physical AI — robots, autonomous vehicles, digital twins — is the next wave.',
-   quoteZh:'每家公司现在都是AI公司。实体AI——机器人、自动驾驶、数字孪生——是下一波浪潮。',
-   source:'GTC 2025 Keynote',date:'Mar 2025',url:'https://nvidia.com'},
-  {id:'op3',cat:'biz',name:'Satya Nadella',nameZh:'萨提亚·纳德拉',role:'Microsoft CEO',color:'#0078d4',
-   quote:'We are moving from AI as a tool to AI as an agent.',
-   quoteZh:'我们正在从AI作为工具转向AI作为代理。',
-   source:'Microsoft Build 2025',date:'Mar 2025',url:'https://microsoft.com'},
-  {id:'op4',cat:'biz',name:'Sam Altman',nameZh:'萨姆·奥特曼',role:'OpenAI CEO',color:'#10a37f',
-   quote:'I believe we will achieve AGI within the next few years.',
-   quoteZh:'我相信我们将在未来几年内实现AGI。',
-   source:'Bloomberg Interview',date:'Mar 2025',url:'https://bloomberg.com'},
-  {id:'op5',cat:'biz',name:'Jamie Dimon',nameZh:'杰米·戴蒙',role:'JPMorgan Chase CEO',color:'#003087',
-   quote:'Geopolitical risk is at a level I haven\'t seen in my career.',
-   quoteZh:'地缘政治风险处于我职业生涯中从未见过的水平。',
-   source:'JPMorgan Annual Letter',date:'Mar 2025',url:'https://jpmorganchase.com'},
-  {id:'op6',cat:'biz',name:'Dario Amodei',nameZh:'达里奥·阿莫迪',role:'Anthropic CEO',color:'#c41230',
-   quote:'We genuinely believe we might be building one of the most dangerous technologies ever — and we press forward anyway.',
-   quoteZh:'我们真心认为自己可能正在构建有史以来最危险的技术之一——但我们仍然继续前进。',
-   source:'Lex Fridman Podcast',date:'Mar 2025',url:'https://lexfridman.com'},
-  {id:'op7',cat:'invest',name:'Warren Buffett',nameZh:'沃伦·巴菲特',role:'Berkshire Hathaway Chairman',color:'#b5872a',
-   quote:'America\'s best days are still ahead. Don\'t bet against America.',
-   quoteZh:'美国最好的日子还在前头。不要押注美国会失败。',
-   source:'Berkshire Annual Letter',date:'Mar 2025',url:'https://berkshirehathaway.com'},
-  {id:'op8',cat:'invest',name:'Stephen Schwarzman',nameZh:'苏世民',role:'Blackstone Chairman & CEO',color:'#1a3a5c',
-   quote:'We are entering a golden age for private credit and infrastructure.',
-   quoteZh:'我们正在进入私人信贷和基础设施的黄金时代。',
-   source:'Davos 2025',date:'Feb 2025',url:'https://weforum.org'},
-  {id:'op9',cat:'invest',name:'Cathie Wood',nameZh:'凯茜·伍德',role:'ARK Invest CEO',color:'#6a0dad',
-   quote:'The convergence of AI, robotics and genomics is creating a $200 trillion opportunity.',
-   quoteZh:'AI、机器人和基因组学的融合正在创造200万亿美元的机会。',
-   source:'ARK Big Ideas 2025',date:'Feb 2025',url:'https://ark-invest.com'},
-  {id:'op10',cat:'invest',name:'Larry Fink',nameZh:'拉里·芬克',role:'BlackRock CEO',color:'#2c2c2c',
-   quote:'Infrastructure investment is the single most important asset class for the next 20 years.',
-   quoteZh:'基础设施投资是未来20年最重要的资产类别。',
-   source:'BlackRock Annual Letter',date:'Mar 2025',url:'https://blackrock.com'},
-  {id:'op11',cat:'invest',name:'Duan Yongping',nameZh:'段永平',role:'Investor / OPPO & BBK Founder',color:'#e07b00',
-   quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',
-   quoteZh:'A great business model: customers return and recommend others. Investing is simply buying future cash flows — everything else is noise.',
-   source:'雪球访谈',date:'Feb 2025',url:'https://xueqiu.com'},
-  {id:'op12',cat:'science',name:'Fei-Fei Li',nameZh:'李飞飞',role:'Stanford HAI Co-Director',color:'#8b1a1a',
-   quote:'The next frontier is machines that can perceive, reason, and act in 3D space.',
-   quoteZh:'下一个前沿是能够在三维空间中感知、推理和行动的机器。',
-   source:'TED 2025',date:'Mar 2025',url:'https://ted.com'},
-  {id:'op13',cat:'science',name:'Geoffrey Hinton',nameZh:'杰弗里·辛顿',role:'Nobel Laureate / AI Pioneer',color:'#1a4a1a',
-   quote:'I am genuinely frightened. These systems are learning to manipulate people.',
-   quoteZh:'我真的感到恐惧。这些系统正在学会操控人类。',
-   source:'60 Minutes Interview',date:'Mar 2025',url:'https://cbsnews.com'},
+  {id:'op1',cat:'biz',name:'Elon Musk',nameZh:'马斯克',role:'Tesla / SpaceX / xAI CEO',color:'#1a1a1a',quote:'The thing that matters most right now is compute. Whoever controls the most compute controls the future of intelligence.',quoteZh:'现在最重要的是算力。谁掌握最多算力，谁就掌控智能的未来。',source:'X (Twitter)',date:'Mar 2026',url:'https://x.com'},
+  {id:'op2',cat:'biz',name:'Jensen Huang',nameZh:'黄仁勋',role:'NVIDIA CEO',color:'#76b900',quote:'Every company is now an AI company. Physical AI — robots, autonomous vehicles, digital twins — is the next wave.',quoteZh:'每家公司现在都是AI公司。实体AI——机器人、自动驾驶、数字孪生——是下一波浪潮。',source:'GTC 2025 Keynote',date:'Mar 2025',url:'https://nvidia.com'},
+  {id:'op3',cat:'biz',name:'Satya Nadella',nameZh:'萨提亚·纳德拉',role:'Microsoft CEO',color:'#0078d4',quote:'We are moving from AI as a tool to AI as an agent.',quoteZh:'我们正在从AI作为工具转向AI作为代理。',source:'Microsoft Build 2025',date:'Mar 2025',url:'https://microsoft.com'},
+  {id:'op4',cat:'biz',name:'Sam Altman',nameZh:'萨姆·奥特曼',role:'OpenAI CEO',color:'#10a37f',quote:'I believe we will achieve AGI within the next few years.',quoteZh:'我相信我们将在未来几年内实现AGI。',source:'Bloomberg Interview',date:'Mar 2025',url:'https://bloomberg.com'},
+  {id:'op5',cat:'biz',name:'Jamie Dimon',nameZh:'杰米·戴蒙',role:'JPMorgan Chase CEO',color:'#003087',quote:'Geopolitical risk is at a level I haven\'t seen in my career.',quoteZh:'地缘政治风险处于我职业生涯中从未见过的水平。',source:'JPMorgan Annual Letter',date:'Mar 2025',url:'https://jpmorganchase.com'},
+  {id:'op6',cat:'biz',name:'Dario Amodei',nameZh:'达里奥·阿莫迪',role:'Anthropic CEO',color:'#c41230',quote:'We genuinely believe we might be building one of the most dangerous technologies ever — and we press forward anyway.',quoteZh:'我们真心认为自己可能正在构建有史以来最危险的技术之一——但我们仍然继续前进。',source:'Lex Fridman Podcast',date:'Mar 2025',url:'https://lexfridman.com'},
+  {id:'op7',cat:'invest',name:'Warren Buffett',nameZh:'沃伦·巴菲特',role:'Berkshire Hathaway Chairman',color:'#b5872a',quote:'America\'s best days are still ahead. Don\'t bet against America.',quoteZh:'美国最好的日子还在前头。不要押注美国会失败。',source:'Berkshire Annual Letter',date:'Mar 2025',url:'https://berkshirehathaway.com'},
+  {id:'op8',cat:'invest',name:'Stephen Schwarzman',nameZh:'苏世民',role:'Blackstone Chairman & CEO',color:'#1a3a5c',quote:'We are entering a golden age for private credit and infrastructure.',quoteZh:'我们正在进入私人信贷和基础设施的黄金时代。',source:'Davos 2025',date:'Feb 2025',url:'https://weforum.org'},
+  {id:'op9',cat:'invest',name:'Cathie Wood',nameZh:'凯茜·伍德',role:'ARK Invest CEO',color:'#6a0dad',quote:'The convergence of AI, robotics and genomics is creating a $200 trillion opportunity.',quoteZh:'AI、机器人和基因组学的融合正在创造200万亿美元的机会。',source:'ARK Big Ideas 2025',date:'Feb 2025',url:'https://ark-invest.com'},
+  {id:'op10',cat:'invest',name:'Larry Fink',nameZh:'拉里·芬克',role:'BlackRock CEO',color:'#2c2c2c',quote:'Infrastructure investment is the single most important asset class for the next 20 years.',quoteZh:'基础设施投资是未来20年最重要的资产类别。',source:'BlackRock Annual Letter',date:'Mar 2025',url:'https://blackrock.com'},
+  {id:'op11',cat:'invest',name:'Duan Yongping',nameZh:'段永平',role:'Investor / OPPO & BBK Founder',color:'#e07b00',quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',quoteZh:'A great business model: customers return and recommend others. Investing is simply buying future cash flows — everything else is noise.',source:'雪球访谈',date:'Feb 2025',url:'https://xueqiu.com'},
+  {id:'op12',cat:'science',name:'Fei-Fei Li',nameZh:'李飞飞',role:'Stanford HAI Co-Director',color:'#8b1a1a',quote:'The next frontier is machines that can perceive, reason, and act in 3D space.',quoteZh:'下一个前沿是能够在三维空间中感知、推理和行动的机器。',source:'TED 2025',date:'Mar 2025',url:'https://ted.com'},
+  {id:'op13',cat:'science',name:'Geoffrey Hinton',nameZh:'杰弗里·辛顿',role:'Nobel Laureate / AI Pioneer',color:'#1a4a1a',quote:'I am genuinely frightened. These systems are learning to manipulate people.',quoteZh:'我真的感到恐惧。这些系统正在学会操控人类。',source:'60 Minutes Interview',date:'Mar 2025',url:'https://cbsnews.com'},
 ];
 let OPINIONS=[...OPINIONS_FALLBACK];
 
@@ -439,24 +355,9 @@ const NEWS=[
 ];
 
 const ARTICLES_FALLBACK=[
-  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',
-   headline:'The new face of globalisation',cnTitle:'全球化的新面孔',
-   lede:'Trade flows have not retreated—they have rerouted.',
-   enSummary:'For much of the past decade, the narrative of deglobalisation has dominated headlines. Tariff walls rising, supply chains shortening — the story seemed clear. The reality is considerably more complicated.\n\nThe most dramatic shift is the rise of friend-shoring — the deliberate concentration of supply chains within politically aligned blocs. American companies have not stopped importing; they have changed whom they import from. Mexican exports to the United States have surged. Vietnam has become a manufacturing superpower virtually overnight.\n\nThis rerouting carries profound implications. Efficiency is no longer the only criterion. Resilience, redundancy and political alignment now compete with cost. The new geography of trade is being drawn not by comparative advantage alone, but by strategic calculation.',
-   cnSummary:'过去十年，去全球化的叙事主导了头条新闻。关税壁垒上升、供应链缩短——故事看似清晰，但现实要复杂得多。\n\n最显著的转变是"友岸外包"的兴起——即刻意将供应链集中在政治上一致的集团内部。美国企业并未停止进口，而是改变了进口对象。对美出口大幅攀升的是墨西哥，越南几乎一夜之间成为制造业大国。\n\n这一重新布局具有深远影响。效率不再是唯一标准，韧性、冗余度和政治一致性正在与成本展开竞争。贸易新地图的绘制，不再仅由比较优势决定，更由战略考量主导。',
-   readtime:'18 min',url:'https://economist.com'},
-  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',
-   headline:'The quiet revolution in AI inference',cnTitle:'AI推理的静默革命',
-   lede:'A new generation of efficient architectures is challenging vast data centres.',
-   enSummary:'The race to the frontier has always been a race to scale. Bigger models, trained on more data with more compute, reliably outperform their predecessors. Something unexpected happened in 2024.\n\nA series of smaller models began matching the performance of much larger predecessors at a fraction of the computational cost. The gains came from better training data, improved architectures, and inference optimisation. Models that once required server farms can now run on a laptop.\n\nThe implications extend beyond cost. Models that run locally cannot be surveilled by a cloud provider. They operate without a network connection and respond in milliseconds. A quieter, more distributed AI infrastructure is taking shape — one that shifts power away from hyperscalers toward the edge.',
-   cnSummary:'前沿竞争历来是规模竞争。更大的模型、更多的数据、更强的算力，始终是制胜法则。2024年，出现了意想不到的转折。\n\n一批更小的模型开始以极低的计算成本匹敌更大的前辈。进步来自更优质的训练数据、改进的架构以及推理优化。曾经需要服务器集群的模型，如今可以在笔记本电脑上运行。\n\n影响不止于成本。本地运行的模型无需云端监控，无需网络连接，响应速度以毫秒计。一个更安静、更分散的AI基础设施正在成形——它将权力从超大规模云服务商转移向边缘端。',
-   readtime:'14 min',url:'https://technologyreview.com'},
-  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',
-   headline:'The housing crisis is not a supply problem',cnTitle:'住房危机不是供应问题',
-   lede:'A growing body of research suggests the framing has been subtly wrong.',
-   enSummary:'The consensus among urban economists has shifted dramatically over the past decade. Restrictive zoning has played the central role in constraining supply and driving up costs. Yet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted.\n\nThe explanation may lie in what economists call the land value problem. When zoning restrictions are relaxed, some of the value accrues to landowners rather than to renters. Without complementary policies — land value taxes, community land trusts — supply reform alone redistributes rather than creates affordability.\n\nThe political economy is equally challenging. Homeowners who benefit from rising prices have strong incentives to oppose reform. Renters, who would benefit most, are less organised and less likely to vote. The result is a structural bias toward policies that benefit existing owners at the expense of future ones.',
-   cnSummary:'过去十年，城市经济学家的共识已发生了显著转变：限制性区划是压制供应、推高成本的核心原因。然而，激进放开区划限制的城市并不总能看到模型预测的价格缓解。\n\n原因或许在于经济学家所说的"土地价值问题"。当区划限制放宽时，部分价值流向了土地所有者而非租户。若没有配套政策——如土地价值税、社区土地信托——单纯的供应改革只是重新分配，而非真正创造可负担性。\n\n政治经济学层面的挑战同样严峻。受益于房价上涨的房主有强烈动机反对改革；而本应最大受益的租户群体，组织化程度低，投票意愿也更弱。结果是系统性偏向于保护现有房主利益的政策，以未来新居民的利益为代价。',
-   readtime:'11 min',url:'https://qz.com'},
+  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'The new face of globalisation',cnTitle:'全球化的新面孔',lede:'Trade flows have not retreated—they have rerouted.',enSummary:'For much of the past decade, the narrative of deglobalisation has dominated headlines. Tariff walls rising, supply chains shortening — the story seemed clear. The reality is considerably more complicated.\n\nThe most dramatic shift is the rise of friend-shoring — the deliberate concentration of supply chains within politically aligned blocs. American companies have not stopped importing; they have changed whom they import from. Mexican exports to the United States have surged. Vietnam has become a manufacturing superpower virtually overnight.\n\nThis rerouting carries profound implications. Efficiency is no longer the only criterion. Resilience, redundancy and political alignment now compete with cost. The new geography of trade is being drawn not by comparative advantage alone, but by strategic calculation.',cnSummary:'过去十年，去全球化的叙事主导了头条新闻。关税壁垒上升、供应链缩短——故事看似清晰，但现实要复杂得多。\n\n最显著的转变是"友岸外包"的兴起——即刻意将供应链集中在政治上一致的集团内部。美国企业并未停止进口，而是改变了进口对象。对美出口大幅攀升的是墨西哥，越南几乎一夜之间成为制造业大国。\n\n这一重新布局具有深远影响。效率不再是唯一标准，韧性、冗余度和政治一致性正在与成本展开竞争。贸易新地图的绘制，不再仅由比较优势决定，更由战略考量主导。',readtime:'18 min',url:'https://economist.com'},
+  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'The quiet revolution in AI inference',cnTitle:'AI推理的静默革命',lede:'A new generation of efficient architectures is challenging vast data centres.',enSummary:'The race to the frontier has always been a race to scale. Bigger models, trained on more data with more compute, reliably outperform their predecessors. Something unexpected happened in 2024.\n\nA series of smaller models began matching the performance of much larger predecessors at a fraction of the computational cost. The gains came from better training data, improved architectures, and inference optimisation. Models that once required server farms can now run on a laptop.\n\nThe implications extend beyond cost. Models that run locally cannot be surveilled by a cloud provider. They operate without a network connection and respond in milliseconds. A quieter, more distributed AI infrastructure is taking shape — one that shifts power away from hyperscalers toward the edge.',cnSummary:'前沿竞争历来是规模竞争。更大的模型、更多的数据、更强的算力，始终是制胜法则。2024年，出现了意想不到的转折。\n\n一批更小的模型开始以极低的计算成本匹敌更大的前辈。进步来自更优质的训练数据、改进的架构以及推理优化。曾经需要服务器集群的模型，如今可以在笔记本电脑上运行。\n\n影响不止于成本。本地运行的模型无需云端监控，无需网络连接，响应速度以毫秒计。一个更安静、更分散的AI基础设施正在成形——它将权力从超大规模云服务商转移向边缘端。',readtime:'14 min',url:'https://technologyreview.com'},
+  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'The housing crisis is not a supply problem',cnTitle:'住房危机不是供应问题',lede:'A growing body of research suggests the framing has been subtly wrong.',enSummary:'The consensus among urban economists has shifted dramatically over the past decade. Restrictive zoning has played the central role in constraining supply and driving up costs. Yet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted.\n\nThe explanation may lie in what economists call the land value problem. When zoning restrictions are relaxed, some of the value accrues to landowners rather than to renters. Without complementary policies — land value taxes, community land trusts — supply reform alone redistributes rather than creates affordability.\n\nThe political economy is equally challenging. Homeowners who benefit from rising prices have strong incentives to oppose reform. Renters, who would benefit most, are less organised and less likely to vote. The result is a structural bias toward policies that benefit existing owners at the expense of future ones.',cnSummary:'过去十年，城市经济学家的共识已发生了显著转变：限制性区划是压制供应、推高成本的核心原因。然而，激进放开区划限制的城市并不总能看到模型预测的价格缓解。\n\n原因或许在于经济学家所说的"土地价值问题"。当区划限制放宽时，部分价值流向了土地所有者而非租户。若没有配套政策——如土地价值税、社区土地信托——单纯的供应改革只是重新分配，而非真正创造可负担性。\n\n政治经济学层面的挑战同样严峻。受益于房价上涨的房主有强烈动机反对改革；而本应最大受益的租户群体，组织化程度低，投票意愿也更弱。结果是系统性偏向于保护现有房主利益的政策，以未来新居民的利益为代价。',readtime:'11 min',url:'https://qz.com'},
 ];
 let ARTICLES=[...ARTICLES_FALLBACK];
 
@@ -466,49 +367,8 @@ const CLASSICS=[
   {en:'Price is what you pay. Value is what you get.',cn:'价格是你所付出的，价值是你所得到的。',src:'— Warren Buffett'},
 ];
 
-const ASSET_SECTIONS=[
-  {title:'Equities 股票',items:[
-    {key:'sp500',name:'S&P 500',sub:'USA',price:'5,642',chg:'+0.31%',chgY:'+24.1%',range52:'4,103 – 5,784',up:true},
-    {key:'nasdaq',name:'NASDAQ',sub:'USA Tech',price:'17,845',chg:'+0.54%',chgY:'+31.2%',range52:'12,540 – 18,110',up:true},
-    {key:'nikkei',name:'Nikkei 225',sub:'Japan',price:'38,240',chg:'+0.18%',chgY:'+18.6%',range52:'30,487 – 39,990',up:true},
-    {key:'csi1000',name:'CSI 1000',sub:'China',price:'5,228',chg:'+0.67%',chgY:'-8.2%',range52:'4,610 – 7,120',up:true},
-    {key:'hsi',name:'Hang Seng',sub:'Hong Kong',price:'18,340',chg:'-0.42%',chgY:'-12.4%',range52:'14,780 – 22,150',up:false},
-    {key:'dax',name:'DAX',sub:'Germany',price:'22,480',chg:'+0.23%',chgY:'+19.7%',range52:'16,820 – 23,100',up:true},
-  ]},
-  {title:'Bonds 债券',items:[
-    {key:'ust10',name:'US 10Y Yield',sub:'Treasury',price:'4.31%',chg:'+3bp',chgY:'+48bp',range52:'3.62% – 4.72%',up:false},
-    {key:'ust2',name:'US 2Y Yield',sub:'Treasury',price:'4.82%',chg:'+2bp',chgY:'+35bp',range52:'4.10% – 5.21%',up:false},
-    {key:'bund',name:'DE 10Y Bund',sub:'Germany',price:'2.48%',chg:'-1bp',chgY:'+62bp',range52:'1.72% – 2.74%',up:true},
-    {key:'jgb',name:'JP 10Y JGB',sub:'Japan',price:'1.52%',chg:'+2bp',chgY:'+102bp',range52:'0.28% – 1.58%',up:false},
-    {key:'gilt',name:'UK 10Y Gilt',sub:'UK',price:'4.68%',chg:'+4bp',chgY:'+54bp',range52:'3.82% – 4.91%',up:false},
-  ]},
-  {title:'Commodities 商品',items:[
-    {key:'gold',name:'Gold',sub:'XAU/USD',price:'$2,318',chg:'-0.22%',chgY:'+18.4%',range52:'$1,811 – $2,450',up:false},
-    {key:'silver',name:'Silver',sub:'XAG/USD',price:'$27.84',chg:'+0.38%',chgY:'+12.1%',range52:'$19.2 – $31.4',up:true},
-    {key:'wti',name:'WTI Crude',sub:'Oil',price:'$83.12',chg:'-0.41%',chgY:'+4.2%',range52:'$67 – $92',up:false},
-    {key:'brent',name:'Brent Crude',sub:'Oil',price:'$86.54',chg:'-0.35%',chgY:'+3.8%',range52:'$71 – $96',up:false},
-    {key:'copper',name:'Copper',sub:'LME',price:'$4.42',chg:'+0.67%',chgY:'+22.3%',range52:'$3.12 – $4.64',up:true},
-    {key:'natgas',name:'Natural Gas',sub:'NYMEX',price:'$1.82',chg:'+1.2%',chgY:'-38.4%',range52:'$1.52 – $3.84',up:true},
-  ]},
-  {title:'Crypto 加密货币',items:[
-    {key:'btc',name:'Bitcoin',sub:'BTC/USD',price:'$68,420',chg:'+1.84%',chgY:'+142%',range52:'$24,800 – $73,750',up:true},
-    {key:'eth',name:'Ethereum',sub:'ETH/USD',price:'$3,642',chg:'+2.1%',chgY:'+68%',range52:'$1,520 – $4,090',up:true},
-    {key:'sol',name:'Solana',sub:'SOL/USD',price:'$178',chg:'+3.2%',chgY:'+312%',range52:'$18 – $210',up:true},
-    {key:'bnb',name:'BNB',sub:'BNB/USD',price:'$582',chg:'+0.9%',chgY:'+48%',range52:'$192 – $641',up:true},
-    {key:'xrp',name:'XRP',sub:'XRP/USD',price:'$0.612',chg:'-1.1%',chgY:'+82%',range52:'$0.28 – $0.93',up:false},
-  ]},
-  {title:'FX 外汇',items:[
-    {key:'eurusd',name:'EUR/USD',sub:'Euro / Dollar',price:'1.0891',chg:'+0.12%',chgY:'-3.2%',range52:'1.0448 – 1.1276',up:true},
-    {key:'usdjpy',name:'USD/JPY',sub:'Dollar / Yen',price:'148.24',chg:'-0.08%',chgY:'+8.4%',range52:'129.6 – 151.9',up:false},
-    {key:'gbpusd',name:'GBP/USD',sub:'Cable',price:'1.2742',chg:'+0.05%',chgY:'-1.8%',range52:'1.2037 – 1.3141',up:true},
-    {key:'dxy',name:'DXY',sub:'Dollar Index',price:'104.2',chg:'+0.19%',chgY:'+3.4%',range52:'99.2 – 107.3',up:true},
-    {key:'usdcny',name:'USD/CNY',sub:'Offshore CNH',price:'7.234',chg:'+0.06%',chgY:'+2.1%',range52:'7.008 – 7.370',up:false},
-    {key:'usdchf',name:'USD/CHF',sub:'Swissie',price:'0.882',chg:'-0.04%',chgY:'+2.8%',range52:'0.840 – 0.923',up:true},
-  ]},
-];
-
 // ══════════════════════════════════════
-// CHART DATA
+// CHART DATA (sparklines & main chart)
 // ══════════════════════════════════════
 function makeLabels(weeks){const labels=[];const d=new Date();d.setDate(d.getDate()-weeks*7);for(let i=0;i<weeks;i++){d.setDate(d.getDate()+7);labels.push(d.toISOString().slice(0,7));}return labels;}
 function genSeries(start,vol,trend,n){const d=[start];for(let i=1;i<n;i++){const r=(Math.random()-.47)*vol;d.push(+(d[d.length-1]*(1+r+trend)).toFixed(3));}return d;}
@@ -517,21 +377,21 @@ const SERIES={
   nikkei:{s5:genSeries(22000,.024,.0007,260),label:'Nikkei 225'},csi1000:{s5:genSeries(6500,.03,-.0002,260),label:'CSI 1000'},
   hsi:{s5:genSeries(26000,.028,-.0005,260),label:'Hang Seng'},dax:{s5:genSeries(14000,.022,.0006,260),label:'DAX'},
   ust10:{s5:genSeries(1.5,.04,.0003,260),label:'US 10Y Yield'},ust2:{s5:genSeries(0.2,.05,.0005,260),label:'US 2Y Yield'},
-  bund:{s5:genSeries(-0.5,.05,.0004,260),label:'DE 10Y Bund'},jgb:{s5:genSeries(0.02,.03,.0003,260),label:'JP 10Y JGB'},
-  gilt:{s5:genSeries(0.4,.04,.0004,260),label:'UK 10Y Gilt'},gold:{s5:genSeries(1600,.018,.0004,260),label:'Gold'},
-  silver:{s5:genSeries(16,.025,.0003,260),label:'Silver'},wti:{s5:genSeries(55,.03,.0002,260),label:'WTI Crude'},
-  brent:{s5:genSeries(58,.028,.0002,260),label:'Brent Crude'},copper:{s5:genSeries(3.2,.022,.0003,260),label:'Copper'},
-  natgas:{s5:genSeries(2.5,.05,-.0001,260),label:'Natural Gas'},btc:{s5:genSeries(9000,.08,.002,260),label:'Bitcoin'},
-  eth:{s5:genSeries(200,.09,.0018,260),label:'Ethereum'},sol:{s5:genSeries(2,.12,.003,260),label:'Solana'},
-  bnb:{s5:genSeries(25,.07,.0015,260),label:'BNB'},xrp:{s5:genSeries(0.2,.065,.001,260),label:'XRP'},
+  gold:{s5:genSeries(1600,.018,.0004,260),label:'Gold'},silver:{s5:genSeries(16,.025,.0003,260),label:'Silver'},
+  wti:{s5:genSeries(55,.03,.0002,260),label:'WTI Crude'},brent:{s5:genSeries(58,.028,.0002,260),label:'Brent Crude'},
+  copper:{s5:genSeries(3.2,.022,.0003,260),label:'Copper'},natgas:{s5:genSeries(2.5,.05,-.0001,260),label:'Natural Gas'},
+  btc:{s5:genSeries(9000,.08,.002,260),label:'Bitcoin'},eth:{s5:genSeries(200,.09,.0018,260),label:'Ethereum'},
+  sol:{s5:genSeries(2,.12,.003,260),label:'Solana'},bnb:{s5:genSeries(25,.07,.0015,260),label:'BNB'},
+  xrp:{s5:genSeries(0.2,.065,.001,260),label:'XRP'},
   eurusd:{s5:genSeries(1.08,.01,-.00001,260),label:'EUR/USD'},usdjpy:{s5:genSeries(104,.015,.0003,260),label:'USD/JPY'},
   gbpusd:{s5:genSeries(1.24,.012,.00002,260),label:'GBP/USD'},dxy:{s5:genSeries(90,.012,.0001,260),label:'DXY'},
   usdcny:{s5:genSeries(6.5,.008,.0001,260),label:'USD/CNY'},usdchf:{s5:genSeries(0.91,.01,-.00002,260),label:'USD/CHF'},
 };
 const WK5=makeLabels(260),WK3=makeLabels(156),WK1=makeLabels(52);
 let activeChart=null,activeKey=null,activeRange='1y';
-function getSlice(key,range){const s=SERIES[key].s5;if(range==='1y')return{labels:WK1,data:s.slice(-52)};if(range==='3y')return{labels:WK3,data:s.slice(-156)};return{labels:WK5,data:s};}
+function getSlice(key,range){const s=SERIES[key]?.s5;if(!s)return{labels:WK1,data:[]};if(range==='1y')return{labels:WK1,data:s.slice(-52)};if(range==='3y')return{labels:WK3,data:s.slice(-156)};return{labels:WK5,data:s};}
 function drawMainChart(key){
+  if(!SERIES[key])return;
   activeKey=key;const{labels,data}=getSlice(key,activeRange);
   const name=SERIES[key].label;const up=data[data.length-1]>=data[0];
   const color=up?'#1a6e2e':'#c41230';const fill=up?'rgba(26,110,46,.05)':'rgba(196,18,48,.05)';
@@ -618,14 +478,14 @@ function renderNews(cat){
   document.getElementById('news-sidebar').innerHTML=`<div class="sidebar-section"><div class="sidebar-heading">Earlier</div>${older.map(n=>`
     <div class="sidebar-item">
       <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer;font-size:12px">${n.cnTitle||n.headline}</div>
-      <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck||n.deck}</div>
+      <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck||''}</div>
       <div class="sidebar-src" style="color:${srcColor(n.source)}">${n.source} <span style="color:var(--ink4)">· ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></span></div>
     </div>`).join('')}</div>`;
 }
 function toggleDeck(id){const el=document.getElementById(id);if(el)el.style.display=el.style.display==='none'?'block':'none';}
 
 // ══════════════════════════════════════
-// DEEP READING — 中英分段同步显示
+// DEEP READING
 // ══════════════════════════════════════
 function renderReading(pubKey){
   const list=(!pubKey||pubKey==='all')?ARTICLES:ARTICLES.filter(a=>a.pubKey===pubKey);
@@ -638,8 +498,7 @@ function renderReading(pubKey){
       Array.from({length:len},(_,i)=>
         (enPs[i]?'<p style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:8px">'+enPs[i].trim()+'</p>':'')+
         (cnPs[i]?'<p style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.9;padding:10px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:18px">'+cnPs[i].trim()+'</p>':'')
-      ).join('')+
-      '</div>';
+      ).join('')+'</div>';
     return `
     <div class="article-card" style="animation:slideup .4s ease ${idx*.08}s both">
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
@@ -652,7 +511,6 @@ function renderReading(pubKey){
       </div>
     </div>`;
   }).join('');
-
   if(!document.getElementById('classic-cn-inner')){
     const cl=CLASSICS[Math.floor(Math.random()*CLASSICS.length)];
     document.getElementById('classic-box').innerHTML=`
@@ -667,26 +525,30 @@ function filterReading(key,el){
   document.querySelectorAll('#rd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');renderReading(key);
 }
-async function loadReading(){
-  try{
-    const r=await fetch('./data/reading.json?t='+Date.now());
-    if(r.ok){const data=await r.json();if(data&&data.length>0){ARTICLES.length=0;data.forEach(item=>ARTICLES.push(item));}}
-  }catch(e){console.warn('reading.json load failed',e);}
-  renderReading('all');
-}
 
 // ══════════════════════════════════════
-// OPINIONS — 中英同步显示，无需点击
+// OPINIONS
 // ══════════════════════════════════════
+function cleanQuote(text){
+  if(!text)return'';
+  text=text.replace(/^根据[^：:]{0,30}[：:]\s*/,'');
+  text=text.replace(/^以下是[^：:]{0,20}[：:]\s*/,'');
+  text=text.replace(/^核心观点[：:]\s*/,'');
+  text=text.replace(/^观点[：:]\s*/,'');
+  text=text.replace(/\s*\[[^\]]{0,80}\]\s*/g,' ').trim();
+  text=text.replace(/\*\*/g,'');
+  text=text.replace(/^Direct quote[^.]{0,60}\.\s*/i,'');
+  text=text.replace(/^Note:[^.]{0,80}\.\s*/i,'');
+  return text.trim();
+}
 function renderOpinions(cat){
   const raw=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
   const seen=new Set();
   const list=raw.filter(o=>{const k=o.id||o.name;if(seen.has(k))return false;seen.add(k);return true;});
-
   document.getElementById('op-main').innerHTML=list.map((o,i)=>{
     const isNew=o.is_new===true;
-    const enText=o.quote||'';
-    const cnText=o.quoteZh||o.quote_zh||'';
+    const enText=cleanQuote(o.quote||'');
+    const cnText=cleanQuote(o.quoteZh||o.quote_zh||'');
     return `
     <div class="op-card" style="animation:slideup .4s ease ${i*.05}s both">
       <div class="op-person-row">
@@ -708,51 +570,76 @@ function renderOpinions(cat){
       </div>
     </div>`;
   }).join('');
-
   const seen2=new Set();
-  const sideList=OPINIONS
-    .filter(o=>{const k=o.id||o.name;if(seen2.has(k))return false;seen2.add(k);return true;})
-    .filter(o=>!cat||cat==='all'?true:o.cat!==cat)
-    .slice(0,6);
+  const sideList=OPINIONS.filter(o=>{const k=o.id||o.name;if(seen2.has(k))return false;seen2.add(k);return true;}).filter(o=>!cat||cat==='all'?true:o.cat!==cat).slice(0,6);
   document.getElementById('op-sidebar').innerHTML=sideList.map(o=>`
     <div class="op-sidebar-person">
       <div class="op-sp-name">${o.nameZh||''} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
-      <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
+      <div class="op-sp-snippet">${cleanQuote(o.quote).slice(0,60)}…</div>
     </div>`).join('');
 }
 function filterOpinions(cat,el){
   document.querySelectorAll('#op-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');renderOpinions(cat);
 }
-async function loadOpinions(){
-  try{
-    const r=await fetch('./data/opinions.json?t='+Date.now());
-    if(r.ok){const data=await r.json();if(data&&data.length>0){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}}
-  }catch(e){console.warn('opinions.json load failed',e);}
-}
 
 // ══════════════════════════════════════
-// ASSETS
+// GLOBAL ASSETS — 读取 data/assets.json
 // ══════════════════════════════════════
-function renderAssets(){
+async function loadAssets(){
   const wrap=document.getElementById('assets-wrap');
-  function parseChg(s){return parseFloat(s.replace('%','').replace('+',''))||0;}
-  wrap.innerHTML=ASSET_SECTIONS.map(sec=>{
-    const sorted=[...sec.items].sort((a,b)=>parseChg(b.chgY)-parseChg(a.chgY));
-    return `<div class="asset-section-block"><div class="asset-section-title">${sec.title}</div>
-    <table class="asset-table"><thead><tr><th>Name</th><th>Price</th><th>Change</th><th>1Y Return</th><th>52W Range</th><th style="width:90px">1Y Trend</th></tr></thead>
-    <tbody>${sorted.map(item=>`<tr onclick="selectAssetRow(this,'${item.key}')">
-      <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
-      <td class="td-price">${item.price}</td>
-      <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
-      <td><span class="td-chg ${item.chgY.startsWith('+')?'up':'dn'}">${item.chgY}</span></td>
-      <td class="td-range">${item.range52}</td>
-      <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
-    </tr>`).join('')}</tbody></table></div>`;
+  wrap.innerHTML='<p style="font-family:var(--mono);font-size:11px;color:var(--ink4);padding:40px 0;text-align:center">Loading market data…</p>';
+  let ASSET_DATA=null;
+  try{
+    const res=await fetch('./data/assets.json?t='+Date.now());
+    if(res.ok)ASSET_DATA=await res.json();
+  }catch(e){console.warn('assets.json load failed:',e);}
+
+  // 更新时间戳
+  const tsEl=document.getElementById('assets-updated');
+  if(ASSET_DATA&&ASSET_DATA.updated_display){
+    tsEl.textContent='Updated '+ASSET_DATA.updated_display;
+  } else {
+    tsEl.textContent='';
+  }
+
+  if(!ASSET_DATA){wrap.innerHTML='<p style="font-family:var(--mono);font-size:11px;color:var(--ink4);padding:40px 0;text-align:center">Market data unavailable.</p>';return;}
+
+  function parseChg(s){return parseFloat((s||'').replace('%','').replace('+','').replace('bp',''))||0;}
+
+  wrap.innerHTML=ASSET_DATA.sections.map(sec=>{
+    const sorted=[...sec.items].sort((a,b)=>parseChg(b.chg)-parseChg(a.chg));
+    return `<div class="asset-section-block">
+      <div class="asset-section-title">${sec.title}</div>
+      <table class="asset-table">
+        <thead><tr>
+          <th>Name</th><th>Price</th>
+          <th style="text-align:right">Change (24h)</th>
+          <th style="text-align:right">52W Range</th>
+          <th style="width:90px;text-align:right">Trend</th>
+        </tr></thead>
+        <tbody>${sorted.map(item=>`
+        <tr onclick="selectAssetRow(this,'${item.key}')">
+          <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
+          <td class="td-price">${item.price}</td>
+          <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
+          <td class="td-range">${item.range52}</td>
+          <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
+        </tr>`).join('')}</tbody>
+      </table>
+    </div>`;
   }).join('');
-  requestAnimationFrame(()=>ASSET_SECTIONS.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key))));
+
+  requestAnimationFrame(()=>{
+    ASSET_DATA.sections.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key)));
+  });
 }
-function selectAssetRow(tr,key){document.querySelectorAll('.asset-table tbody tr').forEach(r=>r.classList.remove('selected'));tr.classList.add('selected');drawMainChart(key);document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'start'});}
+function selectAssetRow(tr,key){
+  document.querySelectorAll('.asset-table tbody tr').forEach(r=>r.classList.remove('selected'));
+  tr.classList.add('selected');
+  if(SERIES[key])drawMainChart(key);
+  document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'start'});
+}
 
 // ══════════════════════════════════════
 // CLAUDE API
