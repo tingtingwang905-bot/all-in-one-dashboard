@@ -102,6 +102,7 @@ def get_videos_within_window(playlist_id, cutoff):
                 "published_at": published_str,
                 "url": f"https://www.youtube.com/watch?v={vid_id}",
                 "embed_url": f"https://www.youtube.com/embed/{vid_id}",
+                "duration_seconds": None,  # 后续填充
             })
 
         page_token = data.get("nextPageToken")
@@ -109,6 +110,53 @@ def get_videos_within_window(playlist_id, cutoff):
             break
 
     return videos
+
+
+def parse_duration(iso_duration):
+    """解析 ISO 8601 时长，返回秒数。如 PT1H2M3S = 3723"""
+    import re
+    pattern = r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?'
+    m = re.match(pattern, iso_duration or '')
+    if not m: return 0
+    h = int(m.group(1) or 0)
+    mi = int(m.group(2) or 0)
+    s = int(m.group(3) or 0)
+    return h * 3600 + mi * 60 + s
+
+
+def filter_long_videos(videos, api_key, min_seconds=300):
+    """批量查询视频时长，过滤掉短于 min_seconds 的视频"""
+    if not videos:
+        return videos
+    ids = [v["id"] for v in videos]
+    # 每次最多50个
+    durations = {}
+    for i in range(0, len(ids), 50):
+        batch = ids[i:i+50]
+        try:
+            r = requests.get(
+                f"{BASE_URL}/videos",
+                params={"part": "contentDetails", "id": ",".join(batch), "key": api_key},
+                timeout=15
+            )
+            r.raise_for_status()
+            for item in r.json().get("items", []):
+                vid_id = item["id"]
+                dur = item.get("contentDetails", {}).get("duration", "")
+                durations[vid_id] = parse_duration(dur)
+        except Exception as e:
+            print(f"  ⚠️  Duration fetch error: {e}")
+
+    filtered = []
+    for v in videos:
+        dur = durations.get(v["id"], 0)
+        v["duration_seconds"] = dur
+        if dur >= min_seconds:
+            filtered.append(v)
+        else:
+            print(f"  ⏭️  Skipped short video ({dur}s): {v['title'][:40]}")
+    print(f"  📹 {len(filtered)}/{len(videos)} videos ≥{min_seconds}s kept")
+    return filtered
 
 
 def fetch_all():
@@ -131,6 +179,7 @@ def fetch_all():
                 continue
 
             videos = get_videos_within_window(playlist_id, cutoff)
+            videos = filter_long_videos(videos, API_KEY, min_seconds=300)
 
             entry = {
                 "channel_name": ch["name"],
