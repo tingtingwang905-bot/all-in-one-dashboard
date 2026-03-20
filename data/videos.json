@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T14:35:59.012054+00:00",
+  "updated_at": "2026-03-20T19:50:28.310675+00:00",
   "keep_hours": 336,
   "total_videos": 46,
   "channels": [
@@ -18,7 +18,7 @@
       "videos": [
         {
           "id": "Mt5vBOoPlkw",
-          "title": "利润超全国外汇数倍，暗卖两伊军火，揭开保利红二代们的第一桶金 20260220【新闻大写】",
+          "title": "利润超全国外汇数倍，拿现役武器去伊朗套现，深度揭秘保利红二代们的第一桶金 20260220【新闻大写】",
           "description": "1981年，中国倾举国之力，全部外汇储备最惨淡时不到30亿美元。但在同一个平行时空，几个背景通天的特权子弟组成的“皮包公司”，靠着掏空现役武库向正打得血流成河的伊朗倒卖军火，竟在暗箱中狂揽超70亿美元！\n\n一家权贵前台公司私赚的黑金，竟然碾压当时整个大国总外汇储备的好几倍！\n\n这笔连国家审计署都不敢查的天量外汇，最后究竟洗去了哪？\n\n打开今天保利集团的官网，满屏都是“岁月静好”的高端地产与爱国主旋",
           "thumbnail": "https://i.ytimg.com/vi/Mt5vBOoPlkw/maxresdefault.jpg",
           "published_at": "2026-03-20T12:00:45Z",
@@ -438,6 +438,16 @@
       "lang": "en",
       "videos": [
         {
+          "id": "V4un_4uTEHs",
+          "title": "AI News: Every Major Announcement From This Week",
+          "description": "Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code MATTWOLFE to build your own OpenClaw AI agent easier and more securely.\n\nDiscover Mo",
+          "thumbnail": "https://i.ytimg.com/vi/V4un_4uTEHs/maxresdefault.jpg",
+          "published_at": "2026-03-20T15:04:52Z",
+          "url": "https://www.youtube.com/watch?v=V4un_4uTEHs",
+          "embed_url": "https://www.youtube.com/embed/V4un_4uTEHs",
+          "duration_seconds": 2130
+        },
+        {
           "id": "JyWdgDcsmbk",
           "title": "The REAL Story from NVIDIA GTC This Week!",
           "description": "Sharing what I found interesting from Day 1 of NVIDIA GTC.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave P",
@@ -466,16 +476,6 @@
           "url": "https://www.youtube.com/watch?v=njIDEpMolRA",
           "embed_url": "https://www.youtube.com/embed/njIDEpMolRA",
           "duration_seconds": 1410
-        },
-        {
-          "id": "JH2ak7kS43E",
-          "title": "AI News: Everyone's Leaving ChatGPT!",
-          "description": "Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business here: https://www.box.com/ai?utm_source=youtube&utm_medium=paidinfluencer&ut",
-          "thumbnail": "https://i.ytimg.com/vi/JH2ak7kS43E/maxresdefault.jpg",
-          "published_at": "2026-03-06T17:25:19Z",
-          "url": "https://www.youtube.com/watch?v=JH2ak7kS43E",
-          "embed_url": "https://www.youtube.com/embed/JH2ak7kS43E",
-          "duration_seconds": 2282
         }
       ]
     },
@@ -532,6 +532,16 @@
       "lang": "en",
       "videos": [
         {
+          "id": "ILMQu9NGQEI",
+          "title": "Anthropic Made a Safer OpenClaw & More AI News You Can Use",
+          "description": "Subscribe to the channel for weekly videos breaking down the AI news you can actually use!\n\nCome join Igor on March 26th for a live webinar teaching you AI in collaboration with IBM! 👉 https://ibm.biz",
+          "thumbnail": "https://i.ytimg.com/vi/ILMQu9NGQEI/maxresdefault.jpg",
+          "published_at": "2026-03-20T17:37:32Z",
+          "url": "https://www.youtube.com/watch?v=ILMQu9NGQEI",
+          "embed_url": "https://www.youtube.com/embed/ILMQu9NGQEI",
+          "duration_seconds": 1040
+        },
+        {
           "id": "aK3lAZ5hhm0",
           "title": "How to Switch from ChatGPT to Gemini (Without Losing Anything!)",
           "description": "Subscribe for more video tutorials teaching you how to use AI tools!\n\nIn this video, Igor shows you how to transfer all of the relevant information from ChatGPT over to Gemini so that you can make the",
@@ -560,16 +570,6 @@
           "url": "https://www.youtube.com/watch?v=Q5GxIpzOxOI",
           "embed_url": "https://www.youtube.com/embed/Q5GxIpzOxOI",
           "duration_seconds": 800
-        },
-        {
-          "id": "9FruIqE0OEw",
-          "title": "OpenAI Strikes Back & More AI News You Can Use",
-          "description": "Subscribe for more weekly AI news you can use!\n\nThis week, Igor covers the new model releases from OpenAI including GPT-5.3 and 5.4, plus he shows off the new Project Sources update for ChatGPT. He al",
-          "thumbnail": "https://i.ytimg.com/vi/9FruIqE0OEw/maxresdefault.jpg",
-          "published_at": "2026-03-06T16:30:24Z",
-          "url": "https://www.youtube.com/watch?v=9FruIqE0OEw",
-          "embed_url": "https://www.youtube.com/embed/9FruIqE0OEw",
-          "duration_seconds": 1187
         }
       ]
     }
