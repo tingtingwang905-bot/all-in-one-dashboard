@@ -52,13 +52,13 @@ a{color:inherit;text-decoration:none;}
 .vd-toolbar-wrap{display:flex;flex-direction:column;gap:0;border-bottom:1px solid var(--rule2);margin-bottom:28px;}
 .vd-toolbar-row{display:flex;align-items:center;padding:8px 0;overflow-x:auto;gap:0;flex-wrap:nowrap;}
 .vd-toolbar-row+.vd-toolbar-row{border-top:1px solid var(--rule2);}
-.vd-lang-label{font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 16px 4px 0;white-space:nowrap;flex-shrink:0;}
+.vd-lang-label{font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 16px 4px 0;white-space:nowrap;flex-shrink:0;cursor:pointer;border-radius:2px;transition:all .15s;border:1px solid transparent;}
 .vd-lang-label.cn{color:#7a2828;}
+.vd-lang-label.cn:hover{background:#fdf5f5;}
+.vd-lang-label.cn.active{background:#fdf5f5;border-color:#e8b4b4;}
 .vd-lang-label.en{color:#2a4a35;}
-/* 顶部 ALL/中文/English 按钮 */
-.vd-tb-top{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:5px 18px;color:var(--ink4);cursor:pointer;border-radius:2px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:600;border:1px solid transparent;margin-right:4px;}
-.vd-tb-top:hover{color:var(--ink);background:var(--bg-light);}
-.vd-tb-top.active{color:#1e3a52;background:#eef3fa;border-color:#b4c8d8;font-weight:700;}
+.vd-lang-label.en:hover{background:#f5fdf7;}
+.vd-lang-label.en.active{background:#f5fdf7;border-color:#b4d8bc;}
 /* 中文频道按钮 */
 .vd-tb-cn{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:4px 14px;color:var(--ink4);cursor:pointer;border-radius:2px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:500;border:1px solid transparent;}
 .vd-tb-cn:hover{color:#7a2828;background:#fdf5f5;}
@@ -276,16 +276,11 @@ a{color:inherit;text-decoration:none;}
 <div class="container" style="padding-top:24px">
   <div class="vd-updated" id="vd-updated"></div>
   <div class="vd-toolbar-wrap" id="vd-toolbar-wrap">
-    <div class="vd-toolbar-row" id="vd-row-top">
-      <div class="vd-tb-top active" id="vd-top-all" onclick="setVdTop('all',this)">All</div>
-      <div class="vd-tb-top" id="vd-top-cn" onclick="setVdTop('cn',this)">中文</div>
-      <div class="vd-tb-top" id="vd-top-en" onclick="setVdTop('en',this)">English</div>
-    </div>
     <div class="vd-toolbar-row" id="vd-row-cn">
-      <span class="vd-lang-label cn">中文频道</span>
+      <span class="vd-lang-label cn" id="vd-lbl-cn" onclick="setVdTop('cn',this)">中文频道</span>
     </div>
     <div class="vd-toolbar-row" id="vd-row-en">
-      <span class="vd-lang-label en">English</span>
+      <span class="vd-lang-label en" id="vd-lbl-en" onclick="setVdTop('en',this)">English</span>
     </div>
   </div>
   <div class="vd-grid" id="vd-grid">
@@ -492,8 +487,7 @@ async function loadVideos(){
       btn.className='vd-tb-cn';
       btn.textContent=ch.channel_name;
       btn.onclick=function(){
-        document.querySelectorAll('.vd-tb-top').forEach(b=>b.classList.remove('active'));
-        document.querySelectorAll('.vd-tb-cn,.vd-tb-en').forEach(b=>b.classList.remove('active'));
+        clearAllActive();
         this.classList.add('active');
         renderVideos(ch.channel_id);
       };
@@ -505,15 +499,13 @@ async function loadVideos(){
       btn.className='vd-tb-en';
       btn.textContent=ch.channel_name;
       btn.onclick=function(){
-        document.querySelectorAll('.vd-tb-top').forEach(b=>b.classList.remove('active'));
-        document.querySelectorAll('.vd-tb-cn,.vd-tb-en').forEach(b=>b.classList.remove('active'));
+        clearAllActive();
         this.classList.add('active');
         renderVideos(ch.channel_id);
       };
       rowEn.appendChild(btn);
     });
 
-    // 默认显示全部
     renderVideos('all');
   }catch(e){
     console.warn('videos.json load failed:',e);
@@ -521,14 +513,16 @@ async function loadVideos(){
   }
 }
 
+function clearAllActive(){
+  document.querySelectorAll('.vd-tb-cn,.vd-tb-en,.vd-lang-label').forEach(b=>b.classList.remove('active'));
+}
 function setVdTop(lang, el){
-  document.querySelectorAll('.vd-tb-top').forEach(b=>b.classList.remove('active'));
-  document.querySelectorAll('.vd-tb-cn,.vd-tb-en').forEach(b=>b.classList.remove('active'));
+  clearAllActive();
   el.classList.add('active');
-  if(lang==='all') renderVideos('all');
-  else if(lang==='cn') renderVideos('cn-all');
+  if(lang==='cn') renderVideos('cn-all');
   else renderVideos('en-all');
 }
+
 
 // ══════════════════════════════════════
 // NEWS
