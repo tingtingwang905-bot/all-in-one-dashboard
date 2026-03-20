@@ -16,11 +16,9 @@ CHANNELS = [
     {"name": "小岛大浪吹",        "id": "UCYPT3wl0MgbOz63ho166KOw",  "lang": "cn"},
     {"name": "文昭谈古论今",      "id": "UCtAIPjABiQD3qjlEl1T5VpA",  "lang": "cn"},
     {"name": "柴静",              "id": "UCjuNibFJ21MiSNpu8LZyV4w",  "lang": "cn"},
-    {"name": "李老师不是你老师",  "id": "UCrMjr7dY8syS_m9TdqM-g_Q",  "lang": "cn"},
     {"name": "自由亚洲电台",      "id": "UCnUYZLuoy1rq1aVMwx4aTzw",  "lang": "cn"},
     {"name": "美国之音中文",      "id": "UCt5zpwa264A0B-gaYtv1IpA",  "lang": "cn"},
     {"name": "马克时空",          "id": "UCejNr6vMTCstFMb-UisJRaw",  "lang": "cn"},
-    {"name": "远见快评Jason",     "id": "UCKVO0GNQ1f3Wzhn4BuZ0rdQ",  "lang": "cn"},
     # ── 英文频道 ──
     {"name": "Matt Wolfe",        "id": "UChpleBmo18P08aKCIgti38g",  "lang": "en"},
     {"name": "Tina Huang",        "id": "UC2UXDak6o7rBm23k3Vv5dww",  "lang": "en"},
