@@ -33,7 +33,7 @@ CHANNELS = [
     {"name": "The AI Daily Brief","id": "UCKelCK4ZaO6HeEI1KQjqzWA",  "lang": "en"},
 ]
 
-MAX_PER_CHANNEL = 200
+MAX_PER_CHANNEL = 50
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
 BASE_URL = "https://www.googleapis.com/youtube/v3"
