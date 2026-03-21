@@ -8,7 +8,7 @@ from datetime import datetime, timezone, timedelta
 # lang: "cn" = 中文频道, "en" = 英文频道
 # ─────────────────────────────────────────
 CHANNELS = [
-    # ── 中文频道 ──
+    # ── 中文 ──
     {"name": "方方土",            "id": "UC-CckeotGQCZigg3nETreCQ", "lang": "cn"},
     {"name": "王志安",            "id": "UCBKDRq35-L8xev4O7ZqBeLg", "lang": "cn"},
     {"name": "马斯库",            "id": "UC3411UsjUC2t-Xfr1gwIhzg",  "lang": "cn"},
@@ -19,11 +19,17 @@ CHANNELS = [
     {"name": "自由亚洲电台",      "id": "UCnUYZLuoy1rq1aVMwx4aTzw",  "lang": "cn"},
     {"name": "美国之音中文",      "id": "UCt5zpwa264A0B-gaYtv1IpA",  "lang": "cn"},
     {"name": "马克时空",          "id": "UCejNr6vMTCstFMb-UisJRaw",  "lang": "cn"},
-    # ── 英文频道 ──
+    # ── AI ──
     {"name": "Matt Wolfe",        "id": "UChpleBmo18P08aKCIgti38g",  "lang": "en"},
     {"name": "Tina Huang",        "id": "UC2UXDak6o7rBm23k3Vv5dww",  "lang": "en"},
     {"name": "Jeff Su",           "id": "UCwAnu01qlnVg1Ai2AbtTMaA",  "lang": "en"},
     {"name": "The AI Advantage",  "id": "UCHhYXsLBEVVnbvsq57n1MTQ",  "lang": "en"},
+    {"name": "Linus Tech Tips",  "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",  "lang": "en"},
+    {"name": "跟李沐学AI",  "id": "UC8WCW6C3BWLKSZ5cMzD8Gyw",  "lang": "en"},
+    {"name": "Andrej karpathy",  "id": "UCXUPKJO5MZQN11PqgIvyuvQ",  "lang": "en"},
+    {"name": "Hung-yi Lee",  "id": "UC2ggjtuuWvxrHHHiaDH1dlQ",  "lang": "en"},
+    {"name": "Dwarkesh Patel",  "id": "UCXl4i9dYBrFOabk0xGmbkRA",  "lang": "en"},
+    {"name": "The AI Daily Brief",  "id": "UCKelCK4ZaO6HeEI1KQjqzWA",  "lang": "en"},
 ]
 
 KEEP_HOURS = 336         # 保留过去336小时（14天）的视频
