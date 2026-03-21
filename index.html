@@ -221,12 +221,42 @@ a{color:inherit;text-decoration:none;}
 .secondary-story:nth-child(1){animation-delay:.1s}.secondary-story:nth-child(2){animation-delay:.15s}.secondary-story:nth-child(3){animation-delay:.2s}
 .article-card:nth-child(1){animation-delay:.05s}.article-card:nth-child(2){animation-delay:.12s}.article-card:nth-child(3){animation-delay:.19s}
 @keyframes slideup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── TTS 朗读栏 ── */
+.tts-bar{
+  display:inline-flex;align-items:center;gap:10px;
+  margin-left:auto;padding:0 0 10px;flex-shrink:0;
+}
+.tts-btn{
+  font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;
+  padding:4px 13px;border:1px solid var(--rule);border-radius:2px;
+  cursor:pointer;color:var(--ink3);background:var(--paper);
+  display:inline-flex;align-items:center;gap:6px;
+  transition:all .15s;white-space:nowrap;user-select:none;
+}
+.tts-btn:hover{border-color:var(--ink3);color:var(--ink);}
+.tts-btn.playing{background:#7a2828;color:#fff;border-color:#7a2828;}
+.tts-btn.playing:hover{background:#5a1818;}
+.tts-btn.paused{background:var(--paper);color:#7a2828;border-color:#7a2828;}
+.tts-progress{
+  font-family:var(--mono);font-size:10px;color:var(--ink4);
+  letter-spacing:.04em;white-space:nowrap;display:flex;align-items:center;gap:5px;
+}
+.tts-dot{
+  display:inline-block;width:6px;height:6px;border-radius:50%;
+  background:#7a2828;flex-shrink:0;
+  animation:tts-pulse 1s ease-in-out infinite;
+}
+@keyframes tts-pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.3;transform:scale(.6)}}
+
 @media(max-width:600px){
   .masthead-title{font-size:28px}
   .container{padding:0 14px}
   .nav-inner{padding:0 8px;justify-content:flex-start}
   .asset-table th:nth-child(5),.asset-table td:nth-child(5){display:none}
   .sparkline-cell,.asset-table th:nth-child(6),.asset-table td:nth-child(6){display:none}
+  .tts-bar{gap:6px;}
+  .tts-progress{display:none;}
 }
 </style>
 </head>
@@ -280,6 +310,14 @@ a{color:inherit;text-decoration:none;}
     <div class="tb-btn" onclick="filterNews('tech',this)">Technology 科技</div>
     <div class="tb-btn" onclick="filterNews('politics',this)">Politics 政治</div>
     <div class="tb-btn" onclick="filterNews('finance',this)">Finance 金融</div>
+    <!-- ★ TTS 播放栏 -->
+    <div class="tts-bar">
+      <div class="tts-progress" id="tts-progress"></div>
+      <div class="tts-btn" id="tts-btn" onclick="toggleTTS()">
+        <span id="tts-icon">🔊</span>
+        <span id="tts-label">朗读新闻</span>
+      </div>
+    </div>
   </div>
   <div class="news-grid">
     <div class="news-main" id="news-main"></div>
@@ -292,14 +330,11 @@ a{color:inherit;text-decoration:none;}
 <div id="panel-videos" class="panel">
 <div class="container" style="padding-top:24px">
   <div class="vd-updated" id="vd-updated"></div>
-
-  <!-- ★ 排序栏：仅选中具体频道时出现 -->
   <div id="vd-sort-bar">
     <span class="vd-sort-label">排序</span>
     <div class="tb-btn active" id="vd-sort-new" onclick="setVdSort('new',this)">最新</div>
     <div class="tb-btn" id="vd-sort-hot" onclick="setVdSort('hot',this)">最热</div>
   </div>
-
   <div class="vd-toolbar-wrap" id="vd-toolbar-wrap">
     <div class="vd-toolbar-row" id="vd-row-cn">
       <span class="vd-lang-label cn" id="vd-lbl-cn" onclick="setVdTop('cn',this)">中文</span>
@@ -469,31 +504,23 @@ function drawSparkline(canvasId,key){
 // VIDEOS  ★ 含排序功能
 // ══════════════════════════════════════
 let VIDEO_DATA=[];
-let VD_ACTIVE_CHANNEL='all'; // ★
-let VD_SORT='new';           // ★ 'new' | 'hot'
+let VD_ACTIVE_CHANNEL='all';
+let VD_SORT='new';
 
 function fmtVideoDate(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});}
 
 function renderVideos(filterChannel,sort){
   if(filterChannel!==undefined) VD_ACTIVE_CHANNEL=filterChannel;
   if(sort!==undefined) VD_SORT=sort;
-
   const grid=document.getElementById('vd-grid');
   grid.innerHTML='';
-
   if(VIDEO_DATA.length===0){
     grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');
     return;
   }
-
-  // ★ 单频道模式：选中了某个具体频道（不是 all / cn-all / en-all）
   const isSingle = VD_ACTIVE_CHANNEL!=='all' && VD_ACTIVE_CHANNEL!=='cn-all' && VD_ACTIVE_CHANNEL!=='en-all';
-
-  // ★ 排序栏显示/隐藏
   const sortBar=document.getElementById('vd-sort-bar');
   if(sortBar) sortBar.style.display = isSingle ? 'flex' : 'none';
-
-  // 收集符合筛选条件的视频
   let allVideos=[];
   VIDEO_DATA.forEach(ch=>{
     if(VD_ACTIVE_CHANNEL==='cn-all' && ch.lang!=='cn') return;
@@ -501,16 +528,10 @@ function renderVideos(filterChannel,sort){
     if(isSingle && ch.channel_id!==VD_ACTIVE_CHANNEL) return;
     ch.videos.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
   });
-
-  // ★ 排序（仅单频道时有意义）
   if(isSingle){
-    if(VD_SORT==='hot'){
-      allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
-    } else {
-      allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
-    }
+    if(VD_SORT==='hot') allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
+    else allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
   }
-
   let idx=0;
   allVideos.forEach((v,vi)=>{
     const ch={channel_name:v._chName, channel_id:v._chId};
@@ -523,11 +544,9 @@ function renderVideos(filterChannel,sort){
     grid.appendChild(card);
     idx++;
   });
-
   if(grid.children.length===0) grid.innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
 }
 
-// ★ 切换排序
 function setVdSort(sort,el){
   VD_SORT=sort;
   document.querySelectorAll('#vd-sort-bar .tb-btn').forEach(b=>b.classList.remove('active'));
@@ -554,7 +573,6 @@ async function translateVd(btn,boxId,title){
   catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
 }
 
-// ★ 清除频道高亮，同时重置排序为「最新」
 function clearAllActive(){
   document.querySelectorAll('.vd-tb-cn,.vd-tb-en,.vd-lang-label').forEach(b=>b.classList.remove('active'));
   VD_SORT='new';
@@ -584,31 +602,20 @@ async function loadVideos(){
     const rowEn=document.getElementById('vd-row-en');
     rowCn.querySelectorAll('.vd-tb-cn').forEach(b=>b.remove());
     rowEn.querySelectorAll('.vd-tb-en').forEach(b=>b.remove());
-
     VIDEO_DATA.filter(ch=>ch.lang==='cn').forEach(ch=>{
       const btn=document.createElement('div');
       btn.className='vd-tb-cn';
       btn.textContent=ch.channel_name;
-      btn.onclick=function(){
-        clearAllActive();
-        this.classList.add('active');
-        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
-      };
+      btn.onclick=function(){clearAllActive();this.classList.add('active');renderVideos(ch.channel_id);};
       rowCn.appendChild(btn);
     });
-
     VIDEO_DATA.filter(ch=>ch.lang==='en').forEach(ch=>{
       const btn=document.createElement('div');
       btn.className='vd-tb-en';
       btn.textContent=ch.channel_name;
-      btn.onclick=function(){
-        clearAllActive();
-        this.classList.add('active');
-        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
-      };
+      btn.onclick=function(){clearAllActive();this.classList.add('active');renderVideos(ch.channel_id);};
       rowEn.appendChild(btn);
     });
-
     renderVideos('all');
   }catch(e){
     console.warn('videos.json load failed:',e);
@@ -812,7 +819,12 @@ function showPanel(id,el){
   if(id==='opinions'&&!document.getElementById('op-main').children.length)renderOpinions('all');
   if(id==='reading'&&!document.getElementById('reading-main').children.length)renderReading('all');
 }
-function filterNews(cat,el){document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));el.classList.add('active');renderNews(cat);}
+function filterNews(cat,el){
+  ttsStop(); // 切换分类时停止播放
+  document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  renderNews(cat);
+}
 function closeModal(){document.getElementById('modal').classList.remove('open');}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeModal();closeVdModal();}});
 
@@ -822,6 +834,130 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeModal();closeV
 const TICKERS=[{l:'EUR/USD',v:'1.0891',c:'+0.12%',up:true},{l:'USD/JPY',v:'148.24',c:'-0.08%',up:false},{l:'S&P 500',v:'5,642',c:'+0.31%',up:true},{l:'NASDAQ',v:'17,845',c:'+0.54%',up:true},{l:'Gold',v:'$2,318',c:'-0.22%',up:false},{l:'BTC',v:'$68,420',c:'+1.84%',up:true},{l:'CSI 1000',v:'5,228',c:'+0.67%',up:true},{l:'WTI',v:'$83.12',c:'-0.41%',up:false},{l:'DXY',v:'104.2',c:'+0.19%',up:true},{l:'10Y UST',v:'4.31%',c:'+3bp',up:false}];
 const th=TICKERS.map(t=>`<div class="mitem"><span>${t.l}</span><span class="mval">${t.v}</span><span class="${t.up?'up':'dn'}">${t.c}</span></div>`).join('');
 document.getElementById('mtrack').innerHTML=th+th;
+
+// ══════════════════════════════════════
+// TTS 朗读新闻
+// ══════════════════════════════════════
+const ttsState={playing:false,paused:false,idx:0};
+
+function getTTSList(){
+  // 取当前激活分类的新闻（主栏 today + 侧栏 older 全部）
+  const activeBtn=document.querySelector('#news-toolbar .tb-btn.active');
+  const label=activeBtn?activeBtn.textContent.trim():'All';
+  let list;
+  if(label==='All') list=NEWS;
+  else if(label.includes('Economy')) list=NEWS.filter(n=>n.cat==='economy');
+  else if(label.includes('Technology')) list=NEWS.filter(n=>n.cat==='tech');
+  else if(label.includes('Politics')) list=NEWS.filter(n=>n.cat==='politics');
+  else if(label.includes('Finance')) list=NEWS.filter(n=>n.cat==='finance');
+  else list=NEWS;
+  return list.map(n=>({
+    title: n.cnTitle||n.headline,
+    deck:  n.cnDeck||n.deck||''
+  }));
+}
+
+function ttsUpdateUI(){
+  const btn=document.getElementById('tts-btn');
+  const icon=document.getElementById('tts-icon');
+  const label=document.getElementById('tts-label');
+  const prog=document.getElementById('tts-progress');
+  if(ttsState.playing){
+    btn.className='tts-btn playing';
+    icon.textContent='⏸';
+    label.textContent='暂停';
+    const total=getTTSList().length;
+    prog.innerHTML=`<span class="tts-dot"></span><span>第${ttsState.idx+1}条 / 共${total}条</span>`;
+  } else if(ttsState.paused){
+    btn.className='tts-btn paused';
+    icon.textContent='▶';
+    label.textContent='继续';
+    const total=getTTSList().length;
+    prog.innerHTML=`<span style="color:var(--ink4)">第${ttsState.idx+1}条 / 共${total}条（已暂停）</span>`;
+  } else {
+    btn.className='tts-btn';
+    icon.textContent='🔊';
+    label.textContent='朗读新闻';
+    prog.innerHTML='';
+  }
+}
+
+function ttsReadNext(){
+  if(!ttsState.playing) return;
+  const list=getTTSList();
+  if(ttsState.idx>=list.length){ttsStop();return;}
+  ttsUpdateUI();
+  const item=list[ttsState.idx];
+  // 朗读文字：标题 + 摘要
+  const text=`第${ttsState.idx+1}条。${item.title}。${item.deck}`;
+  const utt=new SpeechSynthesisUtterance(text);
+  utt.lang='zh-CN';
+  utt.rate=0.92;
+  utt.pitch=1;
+  // 优先中文声音
+  const voices=window.speechSynthesis.getVoices();
+  const zhVoice=voices.find(v=>v.lang==='zh-CN')||voices.find(v=>v.lang==='zh-TW')||voices.find(v=>v.lang.startsWith('zh'));
+  if(zhVoice) utt.voice=zhVoice;
+  utt.onend=()=>{
+    if(!ttsState.playing) return;
+    ttsState.idx++;
+    setTimeout(ttsReadNext, 700); // 条间停顿700ms
+  };
+  utt.onerror=()=>{
+    if(!ttsState.playing) return;
+    ttsState.idx++;
+    setTimeout(ttsReadNext, 300);
+  };
+  window.speechSynthesis.speak(utt);
+}
+
+function ttsStart(){
+  if(!window.speechSynthesis){
+    alert('您的浏览器不支持语音朗读，建议使用 Chrome 或 Edge。');return;
+  }
+  window.speechSynthesis.cancel();
+  ttsState.playing=true;
+  ttsState.paused=false;
+  ttsState.idx=0;
+  ttsUpdateUI();
+  // 等声音列表加载
+  if(window.speechSynthesis.getVoices().length===0){
+    window.speechSynthesis.onvoiceschanged=()=>{
+      window.speechSynthesis.onvoiceschanged=null;
+      ttsReadNext();
+    };
+  } else {
+    ttsReadNext();
+  }
+}
+
+function ttsPause(){
+  ttsState.playing=false;
+  ttsState.paused=true;
+  window.speechSynthesis.cancel(); // cancel更可靠（pause在某些浏览器不稳定）
+  ttsUpdateUI();
+}
+
+function ttsResume(){
+  ttsState.playing=true;
+  ttsState.paused=false;
+  ttsUpdateUI();
+  ttsReadNext(); // 从当前idx重新开始这条
+}
+
+function ttsStop(){
+  ttsState.playing=false;
+  ttsState.paused=false;
+  ttsState.idx=0;
+  window.speechSynthesis.cancel();
+  ttsUpdateUI();
+}
+
+function toggleTTS(){
+  if(ttsState.playing) ttsPause();
+  else if(ttsState.paused) ttsResume();
+  else ttsStart();
+}
 
 // ══════════════════════════════════════
 // INIT
