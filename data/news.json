@@ -360,7 +360,6 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEVubnpQQm00N25zb1NmSzhEN1U3bU83Z055TUJiUThlSGdTMHJ1YVlQOFlmMXlDZFJQUHU5V3FFalJBVHRFcktfX045N1MyTUpUakxHaFpMc3BsWXRwQW1GbFlzSXBNWTRWUmJZSWRVVTJNYmdnaTZWWENQMlVXWWdxNlV3ZldQLTZURjdBVjZoSllCUGVuODVJSWxUSzFxVUUzTXRQVl9Fd0pMNFFiVUpfR24tS3IyQ1dYQlEzak11MEVBaG03eDlRcEUyMTA?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T13:00:00+00:00",
-    "is_new": true,
     "id": "n28",
     "lead": false
   },
@@ -609,32 +608,6 @@
     "time": "11小时前",
     "published_iso": "2026-03-19T18:09:36+00:00",
     "id": "n47",
-    "lead": false
-  },
-  {
-    "headline": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
-    "deck": "The knock-on effects of the war in the Gulf go beyond a hold on interest rates and are set to reverberate for months.",
-    "cnTitle": "伊朗战争对英国经济造成重大冲击",
-    "cnDeck": "英国经济记者费萨尔·伊斯兰(Faisal Islam)报道，中东地区的战争产生的连锁反应远超出对利率的影响，其经济后果将在未来数月持续产生重大影响。伊斯兰指出，波斯湾战争带来的经济冲击已经超越了对英国央行货币政策的直接影响，战争引发的供应链中断、能源价格波动等问题将继续对英国经济造成深远影响。这表明地缘政治紧张局势与军事冲突对全球经济体系的渗透程度更深，不仅影响石油和天然气等能源价格，还会通过贸易、投资和金融市场等多个渠道对英国经济产生广泛而持久的冲击。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-19T16:21:28+00:00",
-    "id": "n48",
-    "lead": false
-  },
-  {
-    "headline": "Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in reduced visibility",
-    "deck": "The investigation involves Model S, X, 3, Y and Cybertruck EVs that can use the company's FSD-branded driver assistance systems.",
-    "cnTitle": "特斯拉自动驾驶系统遭美国监管机构调查",
-    "cnDeck": "美国国家公路交通安全管理局(NHTSA)正加强对特斯拉\"完全自动驾驶\"(FSD)系统在能见度降低情况下表现的调查。调查涉及特斯拉Model S、Model X、Model 3、Model Y和Cybertruck等五款电动车型,这些车型均可使用该公司的FSD品牌驾驶辅助系统。此次监管审查反映了美国监管机构对自动驾驶技术在恶劣天气或低能见度条件下安全性的持续关注,也代表了特斯拉作为自动驾驶技术领先企业面临的监管压力不断增加。该调查将可能影响特斯拉FSD系统的发展进程和商业化推进,同时也可能推动整个自动驾驶行业的安全标准制定。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
-    "time": "22小时前",
-    "published_iso": "2026-03-19T15:58:34+00:00",
-    "id": "n49",
     "lead": false
   }
 ]
