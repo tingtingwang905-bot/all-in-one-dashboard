@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Iran targeted but did not hit Diego Garcia base with missiles, WSJ reports",
+    "deck": "One missile failed in flight, while the other was intercepted, The Wall Street Journal reports, quoting U.S. officials.",
+    "cnTitle": "伊朗导弹未击中迪戈加西亚基地",
+    "cnDeck": "据《华尔街日报》援引美国官员报道，伊朗向美军迪戈加西亚基地发射的导弹未能击中目标。其中一枚导弹在飞行中失败，另一枚被拦截。迪戈加西亚是位于印度洋的重要美军基地，战略位置至关重要。这次导弹袭击是伊朗对美国军事行动的直接回应，反映了中东地区紧张局势的升级。此事件涉及伊朗与美国之间的军事对抗，对中东地缘政治格局产生重要影响。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-21T09:11:47+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "United Airlines to cut more flights as it eyes oil above $100 through 2027",
+    "deck": "Chief Executive Scott Kirby says United's annual fuel bill would rise by about $11 billion if oil prices stay above $100 a barrel through next year.",
+    "cnTitle": "美联航因油价高企削减航班计划",
+    "cnDeck": "美联航首席执行官斯科特·柯比表示，如果油价在未来一年保持在每桶100美元以上，美联航的年度燃油成本将增加约110亿美元。受此影响，美联航计划削减更多航班。这反映出航空业对能源成本上升的担忧，以及全球油价波动对航空运输业的深远影响。高油价压力正迫使航空公司采取成本控制措施，包括削减运力和优化路线网络。柯比的言论表明，美联航预期高油价环境将持续到2027年，这将对航空业的运营成本和盈利能力造成长期压力。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-21T07:20:59+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "U.S. issues 30-day sanctions waiver for sale of Iranian oil at sea",
     "deck": "The Trump administration on Friday issued a 30-day sanctions waiver for the purchase of Iranian oil at sea to ease energy supply pressures since the start of the U.S.-Israeli war on Iran, U.S. Treasury Secretary Scott Bessent said.",
     "cnTitle": "美国发放伊朗石油海上销售30天豁免",
@@ -9,8 +37,8 @@
     "url": "https://www.cnbc.com/2026/03/20/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea.html",
     "time": "3小时前",
     "published_iso": "2026-03-21T01:08:32+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock - Bloomberg.com",
@@ -22,7 +50,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ViTXFGNlVQNmx3RkVuOTlmVjRGNW04a29vQlhselBscXM5Tll2XzNubW93YzgxV3QybU9pVnBPRDAwWjFRdzl0Z3doWFJXMjlwNllYeUlXRHlhNzBlel8xdlg4Mmk2VmtmOTQwQ18xZVJlRlZZc3lhWFhYODFOcmg5b2dKejRIYW9aNDdqYWNYWFlSSmhDVFVsXzZZOVExczZxSXR0RmpkVHZTUVRRUHlIUmE?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:48:43+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:44:09+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:52:55+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,8 +89,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
     "time": "8小时前",
     "published_iso": "2026-03-20T22:23:55+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:18:07+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZjTHdoXzVJY1dNejVtSlpiTE9qS2pZTGlJY2xDUWo5MWNRYVRGclhRY2hBNTYyZEZTMDNKRm5qSkdQRlFYZFVzX2xjSlpHV0psYXp1STRQUjQwTGNyd0pTM2ZrMkZQUk94aEsyVE1fejdSaFhYOTdLUkh4TjRWeXpOYm9uVm1CVzB3YVVGUnRwQXdOTkpQNF96VUJKTjdU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:55:11+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:30:35+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
     "time": "11小时前",
     "published_iso": "2026-03-20T17:12:58+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZ6X1BseG82N1JPY1lmMFVrR3hQYW9MR1M5Z2luaEJkRFhoQ21lS1VFMlNwWjYxb3dGS1hrSFFLcEh0QjNfLXhCdGdrcUZkM0xkMlFaYXF3ejlLSWpBMDBCVUZ2MUxSNXoxaDhGUDhUdU1mTnRXTnVEbXZfUnpxSGtSSWZDY25Zc3R5czBXVm5WYWp6eXliVzN2Ujc2eDdIMDBWQ0RwOWJva2k0bDh2SXVwSHI?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T16:36:09+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,21 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEpuMWNfQkpYSU1QZEV2ZjVZYnpXcXNUYWU2azhGTXRjNDJBN1B0OE8xQ1VLUTFLNkZDcHRWWHZrM0h0SWxvTGRRZXQ5SmtsTHk2UnBSQkRYQ3BYRk1NRGRKSXdKVFJTZHZUSDhadERweEZ3THAzZWkzaTlGY0NrUWgxNExvTzJqZTNqNFViSUdrRUZtMERMMzVhYUdzalJ0cFNhVmlic2luMm1uaDl6MC1Xbw?oc=5",
     "time": "14小时前",
     "published_iso": "2026-03-20T14:54:19+00:00",
-    "id": "n11",
+    "id": "n13",
+    "lead": false
+  },
+  {
+    "headline": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+    "deck": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
+    "cnTitle": "欧洲债券市场面临\"完美风暴\"",
+    "cnDeck": "伊朗局势升温引发欧洲央行担忧，债券收益率大幅上升。欧洲央行正面临新的通胀压力，市场对地缘政治风险的担忧加剧。伊朗相关冲突可能推高能源价格，进而影响欧元区通胀前景。债券市场的波动反映出投资者对经济前景的不确定性增加，欧洲央行可能需要重新评估其货币政策立场。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+    "time": "18小时前",
+    "published_iso": "2026-03-20T14:52:52+00:00",
+    "is_new": true,
+    "id": "n14",
     "lead": false
   },
   {
@@ -153,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-20T14:13:39+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -166,7 +207,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:57:56+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -179,7 +220,7 @@
     "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:36:43+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -192,7 +233,7 @@
     "url": "https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T12:00:50+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -205,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-20T11:33:17+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -218,7 +259,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T07:35:51+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -231,7 +272,7 @@
     "url": "https://www.cnbc.com/2026/03/19/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T04:09:05+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -244,7 +285,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczRadVVLMDByNy1KXy1VRzVfRnkwOHVEZDM1X3M4SlJ4V0JiMzhveDgzU0xrVHpYOW9EY19BbmM5ZjNhSWxTOWZJZDFtSnE0UVVZRlNkMUZSWXZsWWpuOEhXa3U0Mjdzbm56UGYwQlg3UEV1cHZMREdKUEZyVFhBcUc1RmFoSHRXUkJpTnBGNVNkamxzRHlHZW9OWV9vRGo4YnFFa2dmUjVLYWZGbVA5a19R?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:37:00+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -257,7 +298,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:32:58+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -270,7 +311,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUpyWGNGRkc5alFSYjcwcEpLUVNuWThwQ1BmQXBwZS1zNHdlOEFGMnR6NTFUMDAxOFpkUldyQVQ1VjNZNXhQNDZXNmVZM2p5X1dCdUxqTzZiNU56bFk4QXhQSlhFZ3liMEVOOFNWcDVCMDBjWXJRanFyMnZLam9OY1BHYkhHNmU1YW52V1JmNFctc1FPSWZtTU5YVjk2Ym0xYnlRUmdTTkNmSzlxMlJSRzVyZko5VTVDZHBQNkFpNHdoeUdSSUFr?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:25:54+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -283,7 +324,7 @@
     "url": "https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T03:06:58+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -296,8 +337,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0VIUk81Q2xJN0pwcmJvREl5NVNQam51M0tzNU5LSWdsWjcwZ1Z1YnJrZGl2ZE81WlJhWWtERjQ2d0V2Y3dCME4tYThyeDNXb2s2ZUdNcUNLSWZMeVZrT2lPWmJtc2stOEk1QmYyRGpIYzdEMENxSGZrQUpWTkdia241X3BNN0NCbGlPZVJGR2RmUWNjUjNja2c3RFV5TFNuU1J0b2FtOFdhMEo4ZVlLQlRmd1Q1c0NuOHVOcUVmVGxRR0thaGp5Xw?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T01:47:00+00:00",
-    "is_new": true,
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -310,7 +350,7 @@
     "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
     "time": "3小时前",
     "published_iso": "2026-03-20T01:13:33+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -323,7 +363,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
     "time": "4小时前",
     "published_iso": "2026-03-20T00:29:36+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -336,7 +376,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUFCZGpNR3YwSDdjcXBDVE1YRGpheGpLMmw0c0pteUFCOXprZHlZZ1JNQ3o4SUNYNE5pVzhLV25pZHl0bGFqVEhXZWtoNkExWlBYcGR0RnVKemZ2T29iS0VlbkxxYlpUaWdsbkYxOTZOX0tJQ3NCUFhQdHQ5aDdvemhhUjE4bVNWNFk4?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T00:01:20+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -349,7 +389,7 @@
     "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T22:41:40+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -362,7 +402,7 @@
     "url": "https://www.cnbc.com/2026/03/19/goldman-sees-risks-of-market-correction-rising-and-bonds-wont-help-weather-it.html",
     "time": "9小时前",
     "published_iso": "2026-03-19T20:07:23+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -375,7 +415,7 @@
     "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
     "time": "18小时前",
     "published_iso": "2026-03-19T20:04:17+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -388,7 +428,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-19T19:55:51+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -401,7 +441,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHNfbmdRaEtpWjVsd1hZU19PY2luTXZVdVozRG9VbE5mWUZmUzIxS20tLTIxTm9oM1VZZlNDT29vcWlUa3NMUXJqYk13ZGh5eU1xaXdod3ZlWUJxM0ZKcFZ3Y3NBOHFvVUVuLVJWM003Y1J4V1RUMUo1N0NFeHFiX29peUFUTlhEVzU4RnVmZGhneHZNazM2RVZub3YtY2RTMVNSZC16d3BIclExQ013?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-19T18:09:36+00:00",
-    "id": "n31",
+    "id": "n34",
     "lead": false
   },
   {
@@ -414,8 +454,7 @@
     "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-19T16:21:28+00:00",
-    "is_new": true,
-    "id": "n32",
+    "id": "n35",
     "lead": false
   },
   {
@@ -428,7 +467,7 @@
     "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
     "time": "22小时前",
     "published_iso": "2026-03-19T15:58:34+00:00",
-    "id": "n33",
+    "id": "n36",
     "lead": false
   },
   {
@@ -441,7 +480,7 @@
     "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
     "time": "1天前",
     "published_iso": "2026-03-19T14:59:50+00:00",
-    "id": "n34",
+    "id": "n37",
     "lead": false
   },
   {
@@ -454,7 +493,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T14:34:47+00:00",
-    "id": "n35",
+    "id": "n38",
     "lead": false
   },
   {
@@ -467,7 +506,7 @@
     "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T14:30:59+00:00",
-    "id": "n36",
+    "id": "n39",
     "lead": false
   },
   {
@@ -480,7 +519,7 @@
     "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
     "time": "1天前",
     "published_iso": "2026-03-19T14:09:38+00:00",
-    "id": "n37",
+    "id": "n40",
     "lead": false
   },
   {
@@ -493,7 +532,7 @@
     "url": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T13:46:34+00:00",
-    "id": "n38",
+    "id": "n41",
     "lead": false
   },
   {
@@ -506,7 +545,7 @@
     "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T13:30:01+00:00",
-    "id": "n39",
+    "id": "n42",
     "lead": false
   },
   {
@@ -519,7 +558,7 @@
     "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T13:26:01+00:00",
-    "id": "n40",
+    "id": "n43",
     "lead": false
   },
   {
@@ -532,7 +571,7 @@
     "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:48:26+00:00",
-    "id": "n41",
+    "id": "n44",
     "lead": false
   },
   {
@@ -545,7 +584,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXEzdjBZdTBRbTJ2UXdMVmpqWHpBSWtpOWdNTzlHZ2lfSW1HdW1IQndJTjQzd1NSU09XUGtIUkk5aS1JdFY0Qzg3bnBNUmZ6TWFwSHdDaUJKMDJoZ2hKYXE4dy1GemRSekhmN1BSRW9vaWNCaE5tX0VlcERURWRGQmtycGdfektudExVZVhRV1JfdURhR04wMGEyd1AwckRleTdtUXRfbUljWUk?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:47:00+00:00",
-    "id": "n42",
+    "id": "n45",
     "lead": false
   },
   {
@@ -558,7 +597,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:45:40+00:00",
-    "id": "n43",
+    "id": "n46",
     "lead": false
   },
   {
@@ -571,7 +610,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWkyZTIxajFXY2o1RVhfWnFTdFZ1MUZSelo0MjAwMEZWdjdJTlJyT2ZVUGhYOE1KaUxUOWJ2UWdmRjRxZFNRU2pWbzI3SEhMdHVmSm5ZZVBLRGxhRE1QS2tYN1JnSTN1YzJySWdPY0RHOUQ0cUo0UDh3MFhyME4wOFNqcTBYallpUkFkaEVzQzZLQ09MRTBPWVl6Nm5LQzZBV216cE1JdS1EaHdfYzVJeUNfRQ?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:26:19+00:00",
-    "id": "n44",
+    "id": "n47",
     "lead": false
   },
   {
@@ -584,7 +623,7 @@
     "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:18:33+00:00",
-    "id": "n45",
+    "id": "n48",
     "lead": false
   },
   {
@@ -597,7 +636,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcERCVThGSmk3Y1NGNlNMV3U1WW1xbl9TUFRfNFBJTENXcGhWbVZLVmtMVGZFX0dFY2lkaVhxdW5RQXJ4VFBRRHJUcEhMaEtVSjMtN09aT0wwejluV3lDUVZYWWJwY0dsdG8zZVdrQ2l3V21nMENFOVBLaThab2NnUDZHUElRX0ZEWUxYQ3BrVHlzVXZ6eTZjLWtxb1phQVBMYVUtT3VZLXFuZw?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:00:01+00:00",
-    "id": "n46",
+    "id": "n49",
     "lead": false
   },
   {
@@ -610,7 +649,7 @@
     "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:52:17+00:00",
-    "id": "n47",
+    "id": "n50",
     "lead": false
   },
   {
@@ -623,7 +662,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzcwOTR5RE0xRk00eGlYSTdQYXJTM0NvRGg1eVN3aFlnaVhNZWpVSXp0bkxGU0dKN1FfUEtZRmlvMmJQTWJQSmpwcGRxbVZZLXFTNGQtZmJMZFdzRkx4Zjc4X1BUVVBZUnF4WFVYODBPR2E3b2xDVHlGcTQ4bDBUaFNlSVl1RDhPUDB3QkhNRXJOSWJucG1DS09uSENMY1BfTzc0Wk0wOVhCQ1VfRkRZ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:46:23+00:00",
-    "id": "n48",
+    "id": "n51",
     "lead": false
   },
   {
@@ -636,7 +675,21 @@
     "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:25:49+00:00",
-    "id": "n49",
+    "id": "n52",
+    "lead": false
+  },
+  {
+    "headline": "Crypto.com to Lay Off 12% of Staff in AI Overhaul - Bloomberg.com",
+    "deck": "Crypto.com to Lay Off 12% of Staff in AI Overhaul&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "Crypto.com裁员12%推进AI转型",
+    "cnDeck": "Crypto.com计划裁减员工总数的12%，作为其人工智能改革的一部分。这一重组措施显示加密货币交易所正在调整其业务战略，将更多资源投向AI技术开发。该公司通过此次裁员来优化成本结构，并加速在人工智能领域的布局。这反映了科技行业普遍的AI优先战略转变，即使在加密货币等新兴行业也不例外。Crypto.com此前已多次进行组织调整，以应对加密市场的波动性和竞争压力。本次AI相关的重组预计将影响该公司数百名员工。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHVVbnpKWjJDSEViV3VzcV9WQ0ZBcm52RkNDSGI1djNxR0xfbjJ3SXUxSEZMbm9TSzNpcnJuSXdoOHItRnItSnhxcDR1QzdJdU5mVDN4VGZDZ2lqeS1YZmxXT1lqT2t3b0xkSGVtVW9WNUUwbUtiekg0OXI3UUMtaGRwSkYzall2TVZyQThBaFplSk90RjdnOV9IX1BYX3ZoajZGZjlnaTNmTDNGQnVyV0RwZlY2Yk1QRmh3?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-19T11:25:37+00:00",
+    "is_new": true,
+    "id": "n53",
     "lead": false
   },
   {
@@ -649,7 +702,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTdqNWptXzI5ZV9TR29aOUJPM0xHOU1kZTZDLWZRSXUxSlMtQlo0TmF6Y296SWFmYkk0dkp2ZlVwaG1DSDJGUEN5ZDFFWFAxY0lIZzN5ZFhQOUFnY1djYUxiWEtrR3dRT3h3aDZLM2QxaDd0X0k0VmV0TWQ2WWc2anc5WTUwa0xlS3NzRDVfOXFTU2RCU2c?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:24:13+00:00",
-    "id": "n50",
+    "id": "n54",
     "lead": false
   },
   {
@@ -662,7 +715,7 @@
     "url": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:16:26+00:00",
-    "id": "n51",
+    "id": "n55",
     "lead": false
   },
   {
@@ -675,7 +728,7 @@
     "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:14:02+00:00",
-    "id": "n52",
+    "id": "n56",
     "lead": false
   },
   {
@@ -688,7 +741,7 @@
     "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:05:55+00:00",
-    "id": "n53",
+    "id": "n57",
     "lead": false
   },
   {
@@ -701,7 +754,7 @@
     "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-19T10:30:42+00:00",
-    "id": "n54",
+    "id": "n58",
     "lead": false
   },
   {
@@ -714,7 +767,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkV4YzREMzlwMnFKcnNpci1QZkRBVURtdnYxTGgzYjZ2MDNBbFZqWVlTcHdyck01MzBldjdqUW96MXkzMlZyM0lfMk1oUXd5bXpiSDFsUkRUWXdYQzdUUXl2RGtmTVNqdDd4Ri02MlB2bDFNN3FrRG1URzV0NHVNT1ZQSklvLXlqUmgxd1Q0a1MxZzh3c1ZNd3NxbjdCSktYRFJNekFxcXZSbXRZdlNPejdR?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-19T09:53:20+00:00",
-    "id": "n55",
+    "id": "n59",
     "lead": false
   },
   {
@@ -727,20 +780,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjdYUzMwdW9zU3Y1eEV3NVlfczU5SS1waTFWSDJWRV9Rdm1fWFJiZXdHRW1GQ3dSLUZuRnl3TGhUSjNIMGY4RmZublZrcVFyRndleFR4UlBlNnpHa1NsMEYyYU5RYThZOE5IVzBXeG00RUNVcHYyUEpIQ1NPQUNEbWFVdzJMQW1qZDZ3eGROSjdCNU9ZLWhBQ0Z4QmlEMXRY?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-19T09:31:42+00:00",
-    "id": "n56",
-    "lead": false
-  },
-  {
-    "headline": "Pay grows at slowest rate in more than five years",
-    "deck": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says.",
-    "cnTitle": "英国工资增长创五年新低",
-    "cnDeck": "根据英国国家统计局数据，11月至1月期间年收入增长率为3.8%，创五年多以来的最低增速。这一数据反映了英国劳动力市场的显著放缓。工资增长放缓通常与经济活动减弱、企业招聘需求下降以及劳动力市场紧张程度降低密切相关。3.8%的年增长率低于此前数月的增速，表明英国就业市场的冷却趋势明显。这对英国央行的政策决策将产生重要影响，可能支持降息的论据，因为工资压力减弱有助于缓解通胀压力。同时，工资增长放缓也可能影响消费支出，对英国经济增长前景构成下行风险。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-03-19T08:48:29+00:00",
-    "id": "n57",
+    "id": "n60",
     "lead": false
   }
 ]
