@@ -524,7 +524,7 @@ function renderVideos(filterChannel,sort){
     const card=document.createElement('div');
     card.className='vd-card';
     card.style.animationDelay=`${idx*0.04}s`;
-    card.innerHTML=`<div class="vd-thumb" onclick="openYoutube('${v.embed_url}')" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
+    card.innerHTML=`<div class="vd-thumb" onclick="openVdModal('${v.embed_url}','${ch.channel_name.replace(/'/g,"&#39;")}',this.dataset.title)" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
     grid.appendChild(card);
     idx++;
   });
