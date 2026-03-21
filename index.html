@@ -48,7 +48,6 @@ a{color:inherit;text-decoration:none;}
 .tb-btn:hover{color:var(--ink2);}
 .tb-btn.active{font-weight:700;}
 #news-toolbar .tb-btn.active{color:#7a2828;border-bottom-color:#7a2828;}
-#vd-toolbar   .tb-btn.active{color:#1e3a52;border-bottom-color:#1e3a52;}
 .vd-toolbar-wrap{display:flex;flex-direction:column;gap:0;border-bottom:1px solid var(--rule2);margin-bottom:28px;}
 .vd-toolbar-row{display:flex;align-items:center;padding:8px 0;overflow-x:auto;gap:0;flex-wrap:nowrap;}
 .vd-toolbar-row+.vd-toolbar-row{border-top:1px solid var(--rule2);}
@@ -59,16 +58,30 @@ a{color:inherit;text-decoration:none;}
 .vd-lang-label.en{color:#2a4a35;}
 .vd-lang-label.en:hover{background:#f5fdf7;}
 .vd-lang-label.en.active{background:#f5fdf7;border-color:#b4d8bc;}
-/* 中文频道按钮 */
 .vd-tb-cn{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:4px 14px;color:var(--ink4);cursor:pointer;border-radius:2px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:500;border:1px solid transparent;}
 .vd-tb-cn:hover{color:#7a2828;background:#fdf5f5;}
 .vd-tb-cn.active{color:#7a2828;background:#fdf5f5;border-color:#e8b4b4;font-weight:700;}
-/* 英文频道按钮 */
 .vd-tb-en{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:4px 14px;color:var(--ink4);cursor:pointer;border-radius:2px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:500;border:1px solid transparent;}
 .vd-tb-en:hover{color:#2a4a35;background:#f5fdf7;}
 .vd-tb-en.active{color:#2a4a35;background:#f5fdf7;border-color:#b4d8bc;font-weight:700;}
 #rd-toolbar   .tb-btn.active{color:#2a4a35;border-bottom-color:#2a4a35;}
 #op-toolbar   .tb-btn.active{color:#6b4f1e;border-bottom-color:#6b4f1e;}
+
+/* ── 排序栏 ── */
+#vd-sort-bar{
+  display:none;
+  align-items:center;
+  gap:0;
+  border-bottom:1px solid var(--rule2);
+  margin-bottom:20px;
+}
+#vd-sort-bar .vd-sort-label{
+  font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink4);padding:0 16px 10px 0;flex-shrink:0;white-space:nowrap;
+}
+#vd-sort-bar .tb-btn{padding:6px 20px 10px;}
+#vd-sort-bar .tb-btn.active{color:#1e3a52;border-bottom-color:#1e3a52;}
+
 .news-grid{display:grid;grid-template-columns:2fr 1fr;gap:0;}
 .news-main{padding-right:32px;}
 .news-sidebar{border-left:1px solid var(--rule);padding-left:28px;}
@@ -257,6 +270,8 @@ a{color:inherit;text-decoration:none;}
     <div class="nav-item" onclick="showPanel('assets',this)">Global Assets</div>
   </div>
 </div>
+
+<!-- NEWS -->
 <div id="panel-news" class="panel active">
 <div class="container">
   <div class="toolbar" id="news-toolbar">
@@ -272,9 +287,19 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
+
+<!-- VIDEOS -->
 <div id="panel-videos" class="panel">
 <div class="container" style="padding-top:24px">
   <div class="vd-updated" id="vd-updated"></div>
+
+  <!-- ★ 排序栏：仅选中具体频道时出现 -->
+  <div id="vd-sort-bar">
+    <span class="vd-sort-label">排序</span>
+    <div class="tb-btn active" id="vd-sort-new" onclick="setVdSort('new',this)">最新</div>
+    <div class="tb-btn" id="vd-sort-hot" onclick="setVdSort('hot',this)">最热</div>
+  </div>
+
   <div class="vd-toolbar-wrap" id="vd-toolbar-wrap">
     <div class="vd-toolbar-row" id="vd-row-cn">
       <span class="vd-lang-label cn" id="vd-lbl-cn" onclick="setVdTop('cn',this)">中文</span>
@@ -291,6 +316,8 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
+
+<!-- DEEP READING -->
 <div id="panel-reading" class="panel">
 <div class="container">
   <div class="toolbar" id="rd-toolbar">
@@ -308,6 +335,8 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
+
+<!-- OPINIONS -->
 <div id="panel-opinions" class="panel">
 <div class="container">
   <div class="toolbar" id="op-toolbar">
@@ -325,6 +354,8 @@ a{color:inherit;text-decoration:none;}
   </div>
 </div>
 </div>
+
+<!-- GLOBAL ASSETS -->
 <div id="panel-assets" class="panel">
 <div class="container">
   <div class="chart-panel" id="chart-panel" style="margin-top:24px">
@@ -391,7 +422,7 @@ const CLASSICS=[
 ];
 
 // ══════════════════════════════════════
-// CHART DATA (sparklines & main chart)
+// CHART DATA
 // ══════════════════════════════════════
 function makeLabels(weeks){const labels=[];const d=new Date();d.setDate(d.getDate()-weeks*7);for(let i=0;i<weeks;i++){d.setDate(d.getDate()+7);labels.push(d.toISOString().slice(0,7));}return labels;}
 function genSeries(start,vol,trend,n){const d=[start];for(let i=1;i<n;i++){const r=(Math.random()-.47)*vol;d.push(+(d[d.length-1]*(1+r+trend)).toFixed(3));}return d;}
@@ -435,29 +466,75 @@ function drawSparkline(canvasId,key){
 }
 
 // ══════════════════════════════════════
-// VIDEOS
+// VIDEOS  ★ 含排序功能
 // ══════════════════════════════════════
 let VIDEO_DATA=[];
+let VD_ACTIVE_CHANNEL='all'; // ★
+let VD_SORT='new';           // ★ 'new' | 'hot'
+
 function fmtVideoDate(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});}
-function renderVideos(filterChannel){
-  const grid=document.getElementById('vd-grid');grid.innerHTML='';
-  if(VIDEO_DATA.length===0){grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');return;}
-  let idx=0;
+
+function renderVideos(filterChannel,sort){
+  if(filterChannel!==undefined) VD_ACTIVE_CHANNEL=filterChannel;
+  if(sort!==undefined) VD_SORT=sort;
+
+  const grid=document.getElementById('vd-grid');
+  grid.innerHTML='';
+
+  if(VIDEO_DATA.length===0){
+    grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');
+    return;
+  }
+
+  // ★ 单频道模式：选中了某个具体频道（不是 all / cn-all / en-all）
+  const isSingle = VD_ACTIVE_CHANNEL!=='all' && VD_ACTIVE_CHANNEL!=='cn-all' && VD_ACTIVE_CHANNEL!=='en-all';
+
+  // ★ 排序栏显示/隐藏
+  const sortBar=document.getElementById('vd-sort-bar');
+  if(sortBar) sortBar.style.display = isSingle ? 'flex' : 'none';
+
+  // 收集符合筛选条件的视频
+  let allVideos=[];
   VIDEO_DATA.forEach(ch=>{
-    if(filterChannel==='cn-all'&&ch.lang!=='cn')return;
-    if(filterChannel==='en-all'&&ch.lang!=='en')return;
-    if(filterChannel!=='all'&&filterChannel!=='cn-all'&&filterChannel!=='en-all'&&ch.channel_id!==filterChannel)return;
-    ch.videos.forEach((v,vi)=>{
-      const boxId=`vd-cn-${ch.channel_id.slice(-6)}-${vi}`;
-      const safeTitle=v.title.replace(/'/g,'&#39;').replace(/"/g,'&quot;');
-      const card=document.createElement('div');card.className='vd-card';card.style.animationDelay=`${idx*0.04}s`;
-      card.innerHTML=`<div class="vd-thumb" onclick="openVdModal('${v.embed_url}','${ch.channel_name.replace(/'/g,"&#39;")}',this.dataset.title)" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
-      grid.appendChild(card);idx++;
-    });
+    if(VD_ACTIVE_CHANNEL==='cn-all' && ch.lang!=='cn') return;
+    if(VD_ACTIVE_CHANNEL==='en-all' && ch.lang!=='en') return;
+    if(isSingle && ch.channel_id!==VD_ACTIVE_CHANNEL) return;
+    ch.videos.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
   });
-  if(grid.children.length===0)grid.innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
+
+  // ★ 排序（仅单频道时有意义）
+  if(isSingle){
+    if(VD_SORT==='hot'){
+      allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
+    } else {
+      allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
+    }
+  }
+
+  let idx=0;
+  allVideos.forEach((v,vi)=>{
+    const ch={channel_name:v._chName, channel_id:v._chId};
+    const boxId=`vd-cn-${ch.channel_id.slice(-6)}-${vi}`;
+    const safeTitle=v.title.replace(/'/g,'&#39;').replace(/"/g,'&quot;');
+    const card=document.createElement('div');
+    card.className='vd-card';
+    card.style.animationDelay=`${idx*0.04}s`;
+    card.innerHTML=`<div class="vd-thumb" onclick="openVdModal('${v.embed_url}','${ch.channel_name.replace(/'/g,"&#39;")}',this.dataset.title)" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
+    grid.appendChild(card);
+    idx++;
+  });
+
+  if(grid.children.length===0) grid.innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
 }
-function filterVd(channelId,el){document.querySelectorAll('#vd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));if(el)el.classList.add('active');renderVideos(channelId);}
+
+// ★ 切换排序
+function setVdSort(sort,el){
+  VD_SORT=sort;
+  document.querySelectorAll('#vd-sort-bar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  renderVideos();
+}
+
 function openVdModal(embedUrl,channelName,title){
   document.getElementById('vd-iframe').src=embedUrl+'?autoplay=1&cc_load_policy=1&cc_lang_pref=zh-Hans&hl=zh-Hans';
   document.getElementById('vd-modal-ch').textContent=channelName;
@@ -467,6 +544,32 @@ function openVdModal(embedUrl,channelName,title){
 function closeVdModal(){document.getElementById('vd-modal').classList.remove('open');document.getElementById('vd-iframe').src='';}
 document.getElementById('vd-modal-close').addEventListener('click',closeVdModal);
 document.getElementById('vd-modal').addEventListener('click',e=>{if(e.target===document.getElementById('vd-modal'))closeVdModal();});
+
+async function translateVd(btn,boxId,title){
+  const box=document.getElementById(boxId);if(!box)return;
+  if(box.classList.contains('show')){box.classList.remove('show');btn.textContent='→中文';return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  btn.textContent='生成中…';
+  try{const cn=await callClaude(`用一句话（50字以内）说明以下视频标题的核心内容：\n"${title}"\n直接输出中文。`);box.textContent=cn;box.classList.add('show');btn.textContent='✓ 已翻译';}
+  catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
+}
+
+// ★ 清除频道高亮，同时重置排序为「最新」
+function clearAllActive(){
+  document.querySelectorAll('.vd-tb-cn,.vd-tb-en,.vd-lang-label').forEach(b=>b.classList.remove('active'));
+  VD_SORT='new';
+  document.querySelectorAll('#vd-sort-bar .tb-btn').forEach(b=>b.classList.remove('active'));
+  const sn=document.getElementById('vd-sort-new');
+  if(sn) sn.classList.add('active');
+}
+
+function setVdTop(lang,el){
+  clearAllActive();
+  el.classList.add('active');
+  if(lang==='cn') renderVideos('cn-all');
+  else renderVideos('en-all');
+}
+
 async function loadVideos(){
   try{
     const res=await fetch('./data/videos.json?t='+Date.now());
@@ -489,7 +592,7 @@ async function loadVideos(){
       btn.onclick=function(){
         clearAllActive();
         this.classList.add('active');
-        renderVideos(ch.channel_id);
+        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
       };
       rowCn.appendChild(btn);
     });
@@ -501,7 +604,7 @@ async function loadVideos(){
       btn.onclick=function(){
         clearAllActive();
         this.classList.add('active');
-        renderVideos(ch.channel_id);
+        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
       };
       rowEn.appendChild(btn);
     });
@@ -512,17 +615,6 @@ async function loadVideos(){
     document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;
   }
 }
-
-function clearAllActive(){
-  document.querySelectorAll('.vd-tb-cn,.vd-tb-en,.vd-lang-label').forEach(b=>b.classList.remove('active'));
-}
-function setVdTop(lang, el){
-  clearAllActive();
-  el.classList.add('active');
-  if(lang==='cn') renderVideos('cn-all');
-  else renderVideos('en-all');
-}
-
 
 // ══════════════════════════════════════
 // NEWS
@@ -654,7 +746,7 @@ function filterOpinions(cat,el){
 }
 
 // ══════════════════════════════════════
-// GLOBAL ASSETS — 读取 data/assets.json
+// GLOBAL ASSETS
 // ══════════════════════════════════════
 async function loadAssets(){
   const wrap=document.getElementById('assets-wrap');
@@ -664,33 +756,19 @@ async function loadAssets(){
     const res=await fetch('./data/assets.json?t='+Date.now());
     if(res.ok)ASSET_DATA=await res.json();
   }catch(e){console.warn('assets.json load failed:',e);}
-
-  // 更新时间戳
   const tsEl=document.getElementById('assets-updated');
-  if(ASSET_DATA&&ASSET_DATA.updated_display){
-    tsEl.textContent='Updated '+ASSET_DATA.updated_display;
-  } else {
-    tsEl.textContent='';
-  }
-
+  if(ASSET_DATA&&ASSET_DATA.updated_display){tsEl.textContent='Updated '+ASSET_DATA.updated_display;}else{tsEl.textContent='';}
   if(!ASSET_DATA){wrap.innerHTML='<p style="font-family:var(--mono);font-size:11px;color:var(--ink4);padding:40px 0;text-align:center">Market data unavailable.</p>';return;}
-
   function parseChg(s){return parseFloat((s||'').replace('%','').replace('+','').replace('bp',''))||0;}
-
   wrap.innerHTML=ASSET_DATA.sections.map(sec=>{
     const sorted=[...sec.items].sort((a,b)=>parseChg(b.chg)-parseChg(a.chg));
     return `<div class="asset-section-block">
       <div class="asset-section-title">${sec.title}</div>
       <table class="asset-table">
         <thead><tr>
-          <th>Name</th>
-          <th style="text-align:right">Price</th>
-          <th style="text-align:right">24H</th>
-          <th style="text-align:right">6M</th>
-          <th style="text-align:right">1Y</th>
-          <th style="text-align:right">3Y</th>
-          <th style="text-align:right">52W Range</th>
-          <th style="width:80px;text-align:right">Trend</th>
+          <th>Name</th><th style="text-align:right">Price</th><th style="text-align:right">24H</th>
+          <th style="text-align:right">6M</th><th style="text-align:right">1Y</th><th style="text-align:right">3Y</th>
+          <th style="text-align:right">52W Range</th><th style="width:80px;text-align:right">Trend</th>
         </tr></thead>
         <tbody>${sorted.map(item=>`
         <tr onclick="selectAssetRow(this,'${item.key}')">
@@ -706,10 +784,7 @@ async function loadAssets(){
       </table>
     </div>`;
   }).join('');
-
-  requestAnimationFrame(()=>{
-    ASSET_DATA.sections.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key)));
-  });
+  requestAnimationFrame(()=>{ASSET_DATA.sections.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key)));});
 }
 function selectAssetRow(tr,key){
   document.querySelectorAll('.asset-table tbody tr').forEach(r=>r.classList.remove('selected'));
@@ -724,14 +799,6 @@ function selectAssetRow(tr,key){
 async function callClaude(prompt){
   const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({model:'claude-sonnet-4-20250514',max_tokens:800,messages:[{role:'user',content:prompt}]})});
   const d=await r.json();return d.content?.[0]?.text||'翻译暂时不可用';
-}
-async function translateVd(btn,boxId,title){
-  const box=document.getElementById(boxId);if(!box)return;
-  if(box.classList.contains('show')){box.classList.remove('show');btn.textContent='→中文';return;}
-  if(box.textContent.length>5){box.classList.add('show');return;}
-  btn.textContent='生成中…';
-  try{const cn=await callClaude(`用一句话（50字以内）说明以下视频标题的核心内容：\n"${title}"\n直接输出中文。`);box.textContent=cn;box.classList.add('show');btn.textContent='✓ 已翻译';}
-  catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
 }
 
 // ══════════════════════════════════════
