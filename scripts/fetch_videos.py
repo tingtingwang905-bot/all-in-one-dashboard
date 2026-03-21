@@ -24,16 +24,17 @@ CHANNELS = [
     {"name": "Tina Huang",        "id": "UC2UXDak6o7rBm23k3Vv5dww",  "lang": "en"},
     {"name": "Jeff Su",           "id": "UCwAnu01qlnVg1Ai2AbtTMaA",  "lang": "en"},
     {"name": "The AI Advantage",  "id": "UCHhYXsLBEVVnbvsq57n1MTQ",  "lang": "en"},
-    {"name": "Linus Tech Tips",  "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",  "lang": "en"},
-    {"name": "跟李沐学AI",  "id": "UC8WCW6C3BWLKSZ5cMzD8Gyw",  "lang": "en"},
-    {"name": "Andrej karpathy",  "id": "UCXUPKJO5MZQN11PqgIvyuvQ",  "lang": "en"},
-    {"name": "Hung-yi Lee",  "id": "UC2ggjtuuWvxrHHHiaDH1dlQ",  "lang": "en"},
-    {"name": "Dwarkesh Patel",  "id": "UCXl4i9dYBrFOabk0xGmbkRA",  "lang": "en"},
-    {"name": "The AI Daily Brief",  "id": "UCKelCK4ZaO6HeEI1KQjqzWA",  "lang": "en"},
+    {"name": "Linus Tech Tips",   "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",  "lang": "en"},
+    {"name": "跟李沐学AI",        "id": "UC8WCW6C3BWLKSZ5cMzD8Gyw",  "lang": "en"},
+    {"name": "Andrej Karpathy",   "id": "UCXUPKJO5MZQN11PqgIvyuvQ",  "lang": "en"},
+    {"name": "Hung-yi Lee",       "id": "UC2ggjtuuWvxrHHHiaDH1dlQ",  "lang": "en"},
+    {"name": "Dwarkesh Patel",    "id": "UCXl4i9dYBrFOabk0xGmbkRA",  "lang": "en"},
+    {"name": "The AI Daily Brief","id": "UCKelCK4ZaO6HeEI1KQjqzWA",  "lang": "en"},
 ]
 
-KEEP_HOURS = 336         # 保留过去336小时（14天）的视频
-MAX_PER_CHANNEL = 20     # 每个频道最多抓取条数
+KEEP_HOURS = 168         # 每次抓取过去7天的新视频（历史靠 merge 永久累积）
+MAX_PER_CHANNEL = 20     # 每次每个频道最多抓取条数
+MAX_TOTAL_PER_CHANNEL = 200  # 每个频道历史最多保留条数（防止文件无限增大）
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
 BASE_URL = "https://www.googleapis.com/youtube/v3"
@@ -79,7 +80,7 @@ def get_videos_within_window(playlist_id, cutoff):
                 continue
             try:
                 published_dt = datetime.fromisoformat(published_str.replace("Z", "+00:00"))
-            except:
+            except Exception:
                 continue
 
             # 超过时间窗口就停止（播放列表按时间倒序）
@@ -106,7 +107,7 @@ def get_videos_within_window(playlist_id, cutoff):
                 "published_at": published_str,
                 "url": f"https://www.youtube.com/watch?v={vid_id}",
                 "embed_url": f"https://www.youtube.com/embed/{vid_id}",
-                "duration_seconds": None,  # 后续填充
+                "duration_seconds": None,
             })
 
         page_token = data.get("nextPageToken")
@@ -121,7 +122,8 @@ def parse_duration(iso_duration):
     import re
     pattern = r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?'
     m = re.match(pattern, iso_duration or '')
-    if not m: return 0
+    if not m:
+        return 0
     h = int(m.group(1) or 0)
     mi = int(m.group(2) or 0)
     s = int(m.group(3) or 0)
@@ -133,7 +135,6 @@ def filter_long_videos(videos, api_key, min_seconds=300):
     if not videos:
         return videos
     ids = [v["id"] for v in videos]
-    # 每次最多50个
     durations = {}
     for i in range(0, len(ids), 50):
         batch = ids[i:i+50]
@@ -171,6 +172,21 @@ def fetch_all():
     cutoff = now - timedelta(hours=KEEP_HOURS)
     print(f"Fetching videos published after: {cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
 
+    # ── 读取已有历史数据 ──
+    existing_path = "data/videos.json"
+    existing_channels = {}  # channel_id -> channel entry（含历史视频）
+
+    if os.path.exists(existing_path):
+        try:
+            with open(existing_path, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+            for ch in old_data.get("channels", []):
+                existing_channels[ch["channel_id"]] = ch
+            print(f"📂 Loaded existing data: {len(existing_channels)} channels, "
+                  f"{sum(len(c['videos']) for c in existing_channels.values())} total videos")
+        except Exception as e:
+            print(f"⚠️  Could not load existing data (starting fresh): {e}")
+
     cn_channels = []
     en_channels = []
 
@@ -182,15 +198,38 @@ def fetch_all():
                 print(f"  ⚠️  Channel not found, skipping")
                 continue
 
-            videos = get_videos_within_window(playlist_id, cutoff)
-            videos = filter_long_videos(videos, API_KEY, min_seconds=300)
+            # 抓取最新窗口内的视频
+            new_videos = get_videos_within_window(playlist_id, cutoff)
+            new_videos = filter_long_videos(new_videos, API_KEY, min_seconds=300)
+
+            # ── Merge：新视频 + 历史视频去重合并 ──
+            cid = ch["id"]
+            old_videos = existing_channels.get(cid, {}).get("videos", [])
+            old_ids = {v["id"] for v in old_videos}
+            new_ids = {v["id"] for v in new_videos}
+
+            # 新视频中不在历史里的才算新增
+            added_count = len([v for v in new_videos if v["id"] not in old_ids])
+
+            # 合并：新视频优先（覆盖同 id），旧视频补充
+            merged_map = {v["id"]: v for v in old_videos}
+            for v in new_videos:
+                merged_map[v["id"]] = v  # 新数据覆盖旧数据（thumbnail 等可能更新）
+
+            merged = list(merged_map.values())
+            # 按发布时间倒序排列
+            merged.sort(key=lambda v: v.get("published_at", ""), reverse=True)
+            # 限制每频道最大保留条数，防止文件无限增大
+            merged = merged[:MAX_TOTAL_PER_CHANNEL]
+
+            print(f"  ➕ +{added_count} new  |  📚 {len(merged)} total stored")
 
             entry = {
                 "channel_name": ch["name"],
-                "channel_id": ch["id"],
+                "channel_id": cid,
                 "channel_thumb": channel_thumb,
                 "lang": ch["lang"],
-                "videos": videos,
+                "videos": merged,
             }
 
             if ch["lang"] == "cn":
@@ -198,10 +237,17 @@ def fetch_all():
             else:
                 en_channels.append(entry)
 
-            print(f"  ✅  {len(videos)} videos in past {KEEP_HOURS}h")
-
         except Exception as e:
+            # 如果抓取失败，保留历史数据不丢失
             print(f"  ❌  Error: {e}")
+            cid = ch["id"]
+            if cid in existing_channels:
+                old_entry = existing_channels[cid]
+                print(f"  ♻️  Keeping existing {len(old_entry['videos'])} videos for {ch['name']}")
+                if ch["lang"] == "cn":
+                    cn_channels.append(old_entry)
+                else:
+                    en_channels.append(old_entry)
 
     # 合并，中文在前
     all_channels = cn_channels + en_channels
@@ -215,7 +261,7 @@ def fetch_all():
     }
 
     os.makedirs("data", exist_ok=True)
-    with open("data/videos.json", "w", encoding="utf-8") as f:
+    with open(existing_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\n✅ Done — {len(cn_channels)} CN + {len(en_channels)} EN channels, {total} videos total")
