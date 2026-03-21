@@ -32,7 +32,7 @@ CHANNELS = [
     {"name": "The AI Daily Brief","id": "UCKelCK4ZaO6HeEI1KQjqzWA",  "lang": "en"},
 ]
 
-MAX_PER_CHANNEL = 200    # 每个频道最多抓取200条（全量）
+MAX_PER_CHANNEL = 200
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
 BASE_URL = "https://www.googleapis.com/youtube/v3"
@@ -52,7 +52,6 @@ def get_channel_uploads_playlist(channel_id):
 
 
 def get_all_videos(playlist_id):
-    """从播放列表抓取所有视频，不限时间，直到 MAX_PER_CHANNEL"""
     url = f"{BASE_URL}/playlistItems"
     videos = []
     page_token = None
@@ -61,7 +60,7 @@ def get_all_videos(playlist_id):
         params = {
             "part": "snippet",
             "playlistId": playlist_id,
-            "maxResults": 50,   # 每次拿满50条，减少翻页次数
+            "maxResults": 50,
             "key": API_KEY,
         }
         if page_token:
@@ -97,6 +96,8 @@ def get_all_videos(playlist_id):
                 "url": f"https://www.youtube.com/watch?v={vid_id}",
                 "embed_url": f"https://www.youtube.com/embed/{vid_id}",
                 "duration_seconds": None,
+                "view_count": 0,
+                "like_count": 0,
             })
 
         page_token = data.get("nextPageToken")
@@ -118,36 +119,55 @@ def parse_duration(iso_duration):
     return h * 3600 + mi * 60 + s
 
 
-def filter_long_videos(videos, min_seconds=300):
-    """批量查询视频时长，过滤掉短于 min_seconds 的视频（Shorts等）"""
+def enrich_videos(videos, min_seconds=300):
+    """
+    批量查询 contentDetails + statistics，同时：
+    - 过滤掉短于 min_seconds 的视频（Shorts）
+    - 填充 duration_seconds、view_count、like_count
+    """
     if not videos:
         return videos
+
     ids = [v["id"] for v in videos]
-    durations = {}
+    stats_map = {}
+
     for i in range(0, len(ids), 50):
         batch = ids[i:i+50]
         try:
             r = requests.get(
                 f"{BASE_URL}/videos",
-                params={"part": "contentDetails", "id": ",".join(batch), "key": API_KEY},
+                params={
+                    "part": "contentDetails,statistics",
+                    "id": ",".join(batch),
+                    "key": API_KEY,
+                },
                 timeout=15
             )
             r.raise_for_status()
             for item in r.json().get("items", []):
                 vid_id = item["id"]
                 dur = item.get("contentDetails", {}).get("duration", "")
-                durations[vid_id] = parse_duration(dur)
+                stats = item.get("statistics", {})
+                stats_map[vid_id] = {
+                    "duration_seconds": parse_duration(dur),
+                    "view_count": int(stats.get("viewCount", 0)),
+                    "like_count": int(stats.get("likeCount", 0)),
+                }
         except Exception as e:
-            print(f"  ⚠️  Duration fetch error: {e}")
+            print(f"  ⚠️  Stats fetch error: {e}")
 
     filtered = []
     for v in videos:
-        dur = durations.get(v["id"], 0)
+        info = stats_map.get(v["id"], {})
+        dur = info.get("duration_seconds", 0)
         v["duration_seconds"] = dur
+        v["view_count"] = info.get("view_count", 0)
+        v["like_count"] = info.get("like_count", 0)
         if dur >= min_seconds:
             filtered.append(v)
         else:
             print(f"  ⏭️  Skipped short video ({dur}s): {v['title'][:40]}")
+
     print(f"  📹 {len(filtered)}/{len(videos)} videos ≥{min_seconds}s kept")
     return filtered
 
@@ -172,9 +192,9 @@ def fetch_all():
                 continue
 
             videos = get_all_videos(playlist_id)
-            videos = filter_long_videos(videos, min_seconds=300)
+            videos = enrich_videos(videos, min_seconds=300)
 
-            # 按发布时间倒序排列
+            # 默认按发布时间倒序存储
             videos.sort(key=lambda v: v.get("published_at", ""), reverse=True)
 
             entry = {
@@ -200,7 +220,7 @@ def fetch_all():
 
     output = {
         "updated_at": now.isoformat(),
-        "keep_hours": 0,        # 0 表示全量，无时间限制
+        "keep_hours": 0,
         "total_videos": total,
         "channels": all_channels,
     }
