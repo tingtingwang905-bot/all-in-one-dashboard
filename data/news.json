@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Amazon's Zoox to debut robotaxis in Austin, Miami later this year as it awaits paid ride approval",
+    "deck": "It marks the latest expansion for Amazon's Zoox self-driving unit, which opened rides to the public in some parts of Las Vegas and San Francisco last year.",
+    "cnTitle": "Amazon旗下Zoox将在美推出无人出租车",
+    "cnDeck": "亚马逊旗下自动驾驶公司Zoox将在今年晚些时候在奥斯汀和迈阿密推出无人出租车服务。这是Zoox最新的业务扩展举措。Zoox在去年已经在拉斯维加斯和旧金山的部分地区向公众开放了无人驾驶出租车服务。此次在奥斯汀和迈阿密的推出标志着该公司继续推进自动驾驶商业化的步伐。Zoox正在等待相关部门批准其付费骑行服务的运营。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/24/amazon-zoox-robotaxi-rides-austin-miami.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-24T13:23:11+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+    "deck": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
+    "cnTitle": "澳大利亚与欧盟达成全面贸易安全协议",
+    "cnDeck": "澳大利亚和欧盟在多年谈判后签署了全面的贸易和安全协议。这项协议涵盖了双方在商业、投资和安全领域的合作，是两个重要经济体在全球不确定性加剧背景下加强关系的重要举措。该贸易协议将促进双方商品和服务的流动，降低关税壁垒，扩大投资机会。安全协议则强化了两方在印太地区的防务和安全合作，反映了对地区稳定性的共同关切。这个协议的达成表明尽管全球存在贸易保护主义和地缘政治风险，但主要民主国家仍在推进开放和互利的经贸关系。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-24T12:14:15+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oil back above $100 as conflicting reports emerge on US-Iran talks",
     "deck": "Stock markets had originally rebounded on Monday said Trump said he would hold off strikes on Iran.",
     "cnTitle": "油价突破100美元，美伊谈判传言引发波动",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-24T04:29:25+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Asia-Pacific markets pare gains as oil rebounds on Iran war-linked uncertainty",
@@ -23,8 +50,7 @@
     "url": "https://www.cnbc.com/2026/03/24/asia-markets-live-updates-oil-nikkei-225-hang-seng-index-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-24T03:13:03+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.cnbc.com/2026/03/24/japan-cpi-inflation-february-.html",
     "time": "2小时前",
     "published_iso": "2026-03-24T02:39:13+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,21 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU19IaWZXZ21JMkg4a29qRmRIcmhGZEdSNEp2OXR1NnBJVFRDbHBnVWxVOE9TQTVlYXJQZXNmX2JmcE9iR3ZmYk8wWDJXRU4ybVR1MjJjSGdHOWhfODRYZlpEdHRuR2hnZ0p2cjgteURFeFU3dDhPRGdvZGxTM2RUYmxOZlVqQ1VIX3FfNTR1c2l2SjhVY0xRYUJqd2Z5MndxUlYtSHUtaVIxT1V5TjlEREUxVl9mYmJ3NE9yZDNEZ1pmWXdBYkU0dzczMTU?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-24T02:25:00+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "US Senate confirms Markwayne Mullin as homeland security chief",
+    "deck": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
+    "cnTitle": "美国参议院确认穆林为国土安全部长",
+    "cnDeck": "美国参议院确认美国参议员马克韦恩·穆林(Markwayne Mullin)为国土安全部长。穆林将接管这个陷入困境的部门,该部门最近在移民执法方面犯了一系列错误。国土安全部是美国联邦政府的重要部门,负责国内安全、边境执法、移民管理、海岸警卫队等多项职能。穆林作为俄克拉荷马州共和党参议员,将在特朗普政府中担任关键角色。这一任命反映了特朗普政府对强化移民执法的优先级,也标志着国土安全部领导层的重要变化。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-03-24T02:01:21+00:00",
     "is_new": true,
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -65,8 +103,7 @@
     "url": "https://www.cnbc.com/2026/03/24/oil-prices-today-wti-brent-middle-east-iran-war.html",
     "time": "3小时前",
     "published_iso": "2026-03-24T01:51:32+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -79,8 +116,7 @@
     "url": "https://www.cnbc.com/2026/03/23/stock-market-today-live-updates.html",
     "time": "3小时前",
     "published_iso": "2026-03-24T01:51:07+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -93,8 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-24T00:18:10+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -107,8 +142,7 @@
     "url": "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
     "time": "5小时前",
     "published_iso": "2026-03-23T23:36:42+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -121,8 +155,7 @@
     "url": "https://www.cnbc.com/2026/03/23/iran-war-strait-hormuz-uae-adnoc.html",
     "time": "6小时前",
     "published_iso": "2026-03-23T22:59:45+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -135,8 +168,7 @@
     "url": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
     "time": "8小时前",
     "published_iso": "2026-03-23T20:47:50+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -149,8 +181,7 @@
     "url": "https://www.cnbc.com/2026/03/23/stock-slump-was-deeper-than-it-looked-that-bodes-well-for-a-future-rally.html",
     "time": "9小时前",
     "published_iso": "2026-03-23T20:04:44+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -163,8 +194,7 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2RZdVZ5ZGhqWDFyeVZnNjFqY1NWTzJoNzFjOUdjUEJlOE1hdC0wRkg2ZkhhTGt4aXhJdzhweG1nMDR2MHJ5WnZLbG53MHFSRUFEQXozdTVmVTVzc2M1V2tfbDN6UldMNHA5VktqMzF0dXlISW5VWXVyeER3aERiU1VvemhBdnN0U0FSTWlIQjNGYTlPc0hPMWw3LXd1cEZrdU82YURCWDZBSXdHV1JmNHp1SFBUT3F4aGJDNW9iclZYUV9DcVpVYmJWTU80UTNuWU9SVGMzalNFU1ZEQ2I3eg?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-23T17:44:26+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -177,7 +207,7 @@
     "url": "https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html",
     "time": "刚刚",
     "published_iso": "2026-03-23T15:34:37+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -190,7 +220,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVEzOGVuQjZQOGJZMFU3d3VBd2ozUndLcHRhbWRYT09KOGdNNXlRbWM2cG1QYzYxYmltdTllNWhNZnVmM0Y4dWl5b2Zz?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-23T15:00:19+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -203,7 +233,7 @@
     "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html",
     "time": "刚刚",
     "published_iso": "2026-03-23T14:52:33+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -216,7 +246,7 @@
     "url": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
     "time": "1小时前",
     "published_iso": "2026-03-23T14:06:43+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -229,7 +259,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlpVcENnRURHQWh6TWx1aHE1U21QVk12U3p4Z1RjZEMxbGJHbG5pMm1XWi1CMkN4YXBHY3h0OFhBd2ZBX1VkQ0tjdEFxdWt0LUh2N2d6Yk5MbHVsTFl2Zm14cGswRGhDSnVTN2lwUUJvMUpRWExoMjE1YmZfOGlyQ3I0ZHcxeWI3dS1qZmZDZEw2TmR2cVdPSzZWLWRBQnk4UlcxbDd1ekdNZw?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-23T14:06:11+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -242,7 +272,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzJyMVRVVm1ZX0szc2I3T3ZwZGJIQ0pfZmpDNWZjbVRydTVPMk9ac0N4NWNtUUFjeGh6TDI1RHFsaGI3SlBVMUdUeTJOeF9Fb183T1draHd5MmRBc01kUDhfNE5MbHdScnlObDFEXzVqSEJ1ZXVmamtMVmU5c0NRbkZEMno4X3RpUFpRcnFuc3E0TmxLVTA2X3Jody1SS3lMMDFkX2RJVjdvZ0tnUklxSVdEMA?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-23T13:10:32+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -255,7 +285,7 @@
     "url": "https://www.cnbc.com/2026/03/23/sen-warren-dod-anthropic-blacklist-hegseth.html",
     "time": "3小时前",
     "published_iso": "2026-03-23T12:10:17+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -268,8 +298,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2RCYlliMWp0STlDRFhoMzFEaVhNaTQzT0JzUWhQc3RMcC11dUhHTUdqRWhqcnBTeTY0TTVxU1Z6a0ZWR2IydlJWb3pjTkpVTFQ5ZDJfeFJucHJrMHNTS29rNWpDN0RTSEZMMmJ2WUdSckJuRGU1TGctVTV6eExlOGtlSEplM2RVa1dCWWpDSEwtZEIwZVhsbXNEc1J3bmFRVUdMZXo3ZTl5bktVajJUeG5fTXBCeEh2TmlyWnQtOC13Z2pZVmhTZ2dndw?oc=5",
     "time": "17小时前",
     "published_iso": "2026-03-23T11:30:00+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -282,7 +311,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTl4SW44NDhMVGZURTVIWllRSG1DZEVBaXVKX2s4dWZ0V0xRVlg1Ti1FT3hjRzYxN1JRbXllZWUwUDVlMmRNMzJ6R2JDVGZYVzduTlR3R1lxMVhwWG92MHRhOUkwV19mWkxydnRINDFLV0J2NGtjMzJYUTZYT25ZeHZfY1VGOGxDQWtlOTJDeXUxd3dramRTSDBKMHQ3RlFE?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-23T10:36:17+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -295,8 +324,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjNyTDVoZzNHS3JRU3o0TXByNDFNYUxPX0xUU1RzMzFZSGJVMlgyVDFjMjlfejJ5X1lxUTlnd3JtaUU4cVJlZmJkcXlLR0tza3NONnlzRXJMZU5LZC12WXFfd2RKM3AtRXNzcmNvMV9FS3FVbTItcXRQRGVVLUgzSWItYjJWM3dBZklWM09EYTY1a1lIZXk3TDJHRDlIdHlFQ0dnR09CSGdFbk1YZDUzVXdtcFlydzAwNURpSDBqR3A2NEhJR3BzWTlWZnRxTVNv?oc=5",
     "time": "19小时前",
     "published_iso": "2026-03-23T10:00:00+00:00",
-    "is_new": true,
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -309,7 +337,7 @@
     "url": "https://www.cnbc.com/2026/03/23/iran-war-energy-oil-gas-middle-east-iea-us-uae-qatar.html",
     "time": "5小时前",
     "published_iso": "2026-03-23T09:48:06+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -322,7 +350,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNoS2ZwZUx6djh5LTVDeGs1OTQ2MWdXVXUzS25mQkE4OEw3by03WnFPN0ljSC0zMC1RZVpzTzAyRm9jQmlzX3ExR0pkSEVWcENmZWltU3huRlVoMUxtTkU0R000cGtxVEdxbXNqeWdhTkNOS0QtamhsV2hZbmhacER0TGZSNmRoYVEyMHBxVHQwN09STnR3amw0RlowNDJ3cGlKZ1g5XzZVNllFcm5iUXBLQ1M?oc=5",
     "time": "7小时前",
     "published_iso": "2026-03-23T08:14:15+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -335,7 +363,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGdjaUVTcVJ5UmdBdlUyMWxJTjYzTFhyVWFxeHhLbEZ4dDhsc2wzcGRqNHRmS0FYRHNKcXRLbVZwSW5iRDVxaW9GdHBhLWx6SHJrNG1qbS03WllNNWZQT3VyTWRYTHBaM1AxeEpzSEhVcTBGbzNsZEYtOV8xbkRpLWkzR1FCRktJbHRxN280UWNkNmJ2ZG9ZOW05Vko1MUFOTm10ZldTWTJQQm94R0VwZE5oZ24?oc=5",
     "time": "10小时前",
     "published_iso": "2026-03-23T05:42:00+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -348,7 +376,7 @@
     "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-23T05:12:14+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -361,7 +389,7 @@
     "url": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
     "time": "1小时前",
     "published_iso": "2026-03-23T04:41:14+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -374,7 +402,7 @@
     "url": "https://www.cnbc.com/2026/03/23/asia-markets-us-iran-threats-strait-of-hormuz-oil-nikkei-kospi-hsi-hang-seng.html",
     "time": "2小时前",
     "published_iso": "2026-03-23T03:42:34+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -387,8 +415,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXBpVTN3NHc5ak5kRF9ydkhpX1hhdUJoUVhObmJobUFCZl9vMEN5T3A4WXpJV0sxb0o3eXNKVk1oaE14NzBTTXJ6UHF4S3lSVHdCUjRDVjNiZENkRy10TEhRbF9MRzBBM3BLSHE0bW9LUG05Ykh6MWQ2Z3IzV3AwVG9sVG8zWXd2T0JXcFU2VFAycm42MGFydlE2ZlA1TmNnMGNOOWJrSTlpXzRVMjR2dk5rRnlyWFBVX1BOaFdabDJNVE9tOVRyQzJxMFRhdw?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-23T03:00:00+00:00",
-    "is_new": true,
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -401,7 +428,7 @@
     "url": "https://www.cnbc.com/2026/03/22/saudi-aramco-boss-pulls-out-of-ceraweek-due-to-iran-conflict-reuters.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T23:27:05+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -414,7 +441,7 @@
     "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-22T23:08:10+00:00",
-    "id": "n31",
+    "id": "n34",
     "lead": false
   },
   {
@@ -427,7 +454,7 @@
     "url": "https://www.cnbc.com/2026/03/23/chinas-emotional-economy-is-on-the-rise.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T22:58:58+00:00",
-    "id": "n32",
+    "id": "n35",
     "lead": false
   },
   {
@@ -440,7 +467,7 @@
     "url": "https://www.cnbc.com/2026/03/22/stock-market-today-live-updates.html",
     "time": "7小时前",
     "published_iso": "2026-03-22T22:27:29+00:00",
-    "id": "n33",
+    "id": "n36",
     "lead": false
   },
   {
@@ -453,7 +480,7 @@
     "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-22T20:23:07+00:00",
-    "id": "n34",
+    "id": "n37",
     "lead": false
   },
   {
@@ -466,59 +493,7 @@
     "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-22T17:35:19+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "China vows to continue opening its economy amid trade tensions with U.S.",
-    "deck": "China has reached a temporary truce with the U.S. on trade. The world's second-biggest economy reported a record $1.2 trillion trade surplus for 2025.",
-    "cnTitle": "中国承诺继续开放经济应对美国贸易紧张",
-    "cnDeck": "中国与美国在贸易问题上达成了临时休战。这个全球第二大经济体报告称2025年创纪录的贸易顺差达1.2万亿美元。中国承诺将继续推进经济开放政策，以应对与美国之间持续的贸易紧张局势。这一声明反映了中国在面对美国贸易压力下，仍然坚持对外开放的立场。贸易顺差的创纪录水平表明中国在出口方面保持了强劲表现，同时也显示了中美之间贸易不平衡的问题。中国的这一承诺对全球贸易格局和经济前景具有重要影响。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/22/china-vows-to-continue-opening-its-economy-amid-us-trade-tensions.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-22T12:47:30+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
-    "deck": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia.",
-    "cnTitle": "OpenAI调整数据中心战略淡化野心",
-    "cnDeck": "OpenAI在为潜在首次公开募股（IPO）做准备之际，已经制定了更加温和的基础设施战略，并已放弃与英伟达的雄心勃勃协议。这一转变反映出该公司面临的资本支出压力以及投资者对其长期盈利能力的担忧。OpenAI之前曾与英伟达达成涉及大规模芯片采购的协议，旨在支持其AI模型的训练和推理需求。然而，随着对成本控制和财务健康状况的重新评估，OpenAI现已调整了这一策略，转向更加务实的基础设施扩展计划。这一举措将可能减少公司的资本密集型支出，从而改善其在IPO前的财务状况。华尔街分析人士长期以来一直担忧OpenAI等AI公司的巨额支出是否能够获得相应的收益。OpenAI的基础设施调整可能旨在回应这些关切，展示其对财务纪律和可持续增长的重视。这一转变对于投资者评估OpenAI的估值和未来前景具有重要意义，也反映了科技行业在面对经济不确定性时对支出的更加谨慎态度。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-22T12:00:01+00:00",
-    "id": "n37",
-    "lead": false
-  },
-  {
-    "headline": "The AI race between China and the U.S. heats up. These stocks could be winners, Bernstein says",
-    "deck": "Whether China or the U.S. wins the race for artificial intelligence ultimately relies on the ability to power the new technology, according to Bernstein.",
-    "cnTitle": "中美AI竞赛升温芯片产业受关注",
-    "cnDeck": "伯恩斯坦分析指出，中美人工智能竞赛的最终胜负取决于双方为新技术提供动力的能力。在全球AI发展竞争日益激烈的背景下，芯片产业成为关键战场。伯恩斯坦认为，谁能够提供更强大、更高效的芯片技术来支撑人工智能系统的运行，谁就能在这场战略竞争中占据优势地位。这一观点反映了当前全球科技竞争中芯片产业的重要性。芯片制造和设计能力直接影响人工智能模型的训练速度、推理效率以及整体计算性能。伯恩斯坦进一步指出，相关芯片产业的上市公司可能因此成为这场竞争中的赢家，因为它们将受益于对高性能芯片日益增长的需求。中国和美国都在加大对芯片研发的投入，试图在AI芯片领域取得突破。美国拥有英伟达等领先的芯片设计公司，而中国也在积极发展自主芯片技术。这场芯片竞争将深刻影响人工智能技术的发展方向和全球科技格局。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/22/winning-stocks-in-the-ai-race-between-china-and-the-us-per-bernstein.html",
-    "time": "2小时前",
-    "published_iso": "2026-03-22T11:27:37+00:00",
     "id": "n38",
-    "lead": false
-  },
-  {
-    "headline": "From satellites to space data centers: Why low earth orbit is attracting billions in investment",
-    "deck": "Big Tech companies including Nvidia and Elon Musk's SpaceX are making large bets on a new layer of critical infrastructure that's emerging above our heads.",
-    "cnTitle": "低轨卫星与空间数据中心吸引数十亿美元投资",
-    "cnDeck": "英伟达、SpaceX等科技巨头正在大规模投资低地球轨道基础设施。低地球轨道是距地球表面160至2000公里之间的空间区域，正在成为一个新的投资热点。这一轨道层正在吸引数十亿美元的资金流入，科技巨头们看好其战略价值。埃隆·马斯克旗下的SpaceX通过其星链项目已在该领域建立了先发优势，计划部署数万颗卫星提供全球互联网覆盖。英伟达等科技公司也在探索利用低地球轨道进行数据处理、存储和计算的可能性，这被认为是未来科技基础设施的关键组成部分。低地球轨道的商业化前景吸引了包括传统航空航天公司和新兴太空初创企业在内的广泛参与者。业界人士认为，低地球轨道基础设施将在通信、遥感、地球观测等多个领域产生深远影响，并可能成为继陆地网络之后的下一代关键信息基础设施。这一新兴领域的投资热潮反映了全球科技产业对太空经济的日益重视。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
-    "time": "6小时前",
-    "published_iso": "2026-03-22T07:10:09+00:00",
-    "id": "n39",
     "lead": false
   }
 ]
