@@ -1,5 +1,131 @@
 [
   {
+    "headline": "Arm jumps 20% as company expects revenue windfall from new chip, a 'significant shift'",
+    "deck": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025.",
+    "cnTitle": "Arm芯片业务收入预期大幅增长",
+    "cnDeck": "芯片设计公司Arm预计，其新芯片将在2031年产生的收入是2025年40亿美元收益的六倍。Arm股价因这一前景大幅上涨20%。该公司认为这代表了一个\"重大转变\"，表明其新芯片技术将在未来几年内为公司带来显著的商业价值增长。这一预期反映了全球芯片市场的发展趋势以及Arm在芯片设计领域的战略地位提升。根据Arm的预测，到2031年，新芯片产生的收入可能达到240亿美元，这将代表公司收入结构的重大调整。这一积极的财务展望激发了投资者信心，推动公司股价显著上升。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-25T15:46:16+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+    "deck": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+    "cnTitle": "民主党翻转特朗普Mar-a-Lago所在佛州州议席",
+    "cnDeck": "民主党候选人艾米丽·格雷戈里（Emily Gregory）在佛州州议会选举中取得预期胜利。这一选区在2024年由共和党候选人以19个百分点的优势赢得，此次民主党的胜利表明该地区政治格局发生重大转变。这个立法选区包括前总统特朗普位于佛罗里达州的Mar-a-Lago庄园所在地。格雷戈里的胜利打破了共和党在该地区的传统优势，反映出佛州中部地区选民投票倾向的变化。这一结果对2026年中期选举和州级政治动态具有重要意义，表明民主党在传统共和党堡垒中获得了突破口。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-25T15:07:13+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Ghana demands compensation for slavery in landmark UN vote",
+    "deck": "Nations will vote on whether to designate the slave trade as \"the gravest crime against humanity\".",
+    "cnTitle": "加纳要求奴隶贸易赔偿获联合国投票支持",
+    "cnDeck": "加纳在联合国推动对奴隶贸易的历史问题进行正式认定，要求联合国成员国投票表决是否将奴隶贸易定性为\"对人类最严重的罪行\"。这一举措旨在为历史上遭受奴隶贸易影响的国家获取赔偿奠定基础。加纳政府表示，奴隶贸易造成了数百万人死亡和不可估量的经济损失，其后续影响至今仍在影响非洲国家的发展。联合国投票将成为国际社会对这一历史问题态度的重要指标，可能为受害国家争取历史正义和经济补偿开启新的途径。此举也反映了全球范围内对历史不公正问题日益增长的关注，以及发展中国家在国际舞台上争取话语权的努力。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-25T14:55:36+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "It’s not just oil and gas. The Strait of Hormuz blockage is rattling another vital commodity",
+    "deck": "“I'm a lot more concerned about the current crisis than I was when Russia-Ukraine happened four years ago,” one fund manager told CNBC.",
+    "cnTitle": "霍尔木兹海峡封锁威胁全球商品供应",
+    "cnDeck": "霍尔木兹海峡的封锁正在对多种重要商品造成威胁，不仅仅局限于石油和天然气。一位基金经理在接受CNBC采访时表示：\"我对当前危机的担忧程度远高于四年前俄乌战争爆发时期。\"这一评论反映了市场对霍尔木兹海峡地缘政治局势的严重关切。霍尔木兹海峡是全球最重要的能源运输枢纽之一，约三分之一的海运石油贸易经过该海峡。任何在该地区的封锁或冲突都会对全球能源市场、运输成本以及相关商品供应链产生深远影响。基金经理的担忧表明，投资者认为当前的地缘政治紧张局势可能比过去四年俄乌冲突期间更加危险，这可能会导致能源价格波动加剧、全球通胀压力增加，进而影响全球金融市场的稳定性。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/25/fertilizer-price-iran-war-food-security-inflation-urea-potash-nitrogen-farmers.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-25T14:42:46+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "US Import Prices Jumped by the Most Since 2022 Ahead of War - Bloomberg.com",
+    "deck": "US Import Prices Jumped by the Most Since 2022 Ahead of War&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美国进口价格创2022年来最大涨幅",
+    "cnDeck": "美国进口价格出现了自2022年以来最大幅度的跳跃。根据最新数据，美国进口价格指数大幅上升，这是在地缘政治紧张局势加剧的背景下出现的。经济学家认为，这一涨幅可能受到多个因素的影响，包括全球贸易格局的变化、供应链压力以及地缘政治风险溢价的上升。进口价格的上升通常会对美国国内通胀产生传导作用，可能影响美联储的货币政策决策。这一数据对于理解当前美国经济形势、评估通胀压力以及预测未来利率走向具有重要意义。",
+    "cat": "economy",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazlqUkk1T0FMQmlmZ0htcXhsalFfVmtiNHd1QmJLc0xJR2NOMHphNTBSX1VJY2Q1Sk5qcUVweHN0dnNUQnhhT1Z6Y1Bpc0lCa0dtMTFJNnhGbURUcTMxZndTTGVxSU9tbnFOdmJEQ3p0OXAzTFhaNnVSVGlGaU1aczJ1amxRNlBqUUloTWs2OHlBZkI4dWJzRjgwalF6WEVXQUNaRkRfZS1QUQ?oc=5",
+    "time": "1小时前",
+    "published_iso": "2026-03-25T14:06:17+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+    "deck": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+    "cnTitle": "经济衰退风险上升",
+    "cnDeck": "华尔街经济学家提高了经济衰退的风险评估，原因是地缘政治风险加剧和劳动力市场疲软带来的不确定性增加。根据最新市场分析，多家投行和经济研究机构上调了美国经济在未来12个月内陷入衰退的概率。经济学家们指出，虽然消费者支出仍保持相对韧性，但潜在经济压力正在浮现，包括银行系统压力持续、信贷条件收紧、商业投资增长放缓等因素。此外，全球地缘政治局势紧张，包括中东冲突升级、乌克兰局势持续等，推高了大宗商品价格和能源成本，进一步加重了美国经济的通胀压力。劳动力市场方面，招聘放缓、失业率上升的信号变得更加明显，多个行业出现裁员潮，特别是科技和金融领域。美国8月失业率虽仍处低位，但环比出现上升，职位空缺数量下降。经济学家警告称，如果美联储继续维持高利率政策以对抗通胀，可能进一步抑制经济增长，导致衰退风险上升。市场参与者普遍预期美联储即将进入降息周期，但时间和幅度仍存不确定性。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-25T13:22:06+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency",
+    "deck": "During Hugo Barra's first stint at Meta, the company was pushing heavily into VR. Now, he's back and the focus is AI agents.",
+    "cnTitle": "Hugo Barra重返Meta掌舵AI业务",
+    "cnDeck": "Hugo Barra在离开Meta五年后重新加入该公司，此举凸显了扎克伯格对人工智能的迫切关注。在Barra首次任职Meta期间，公司正在大力推进虚拟现实（VR）领域的发展。如今，他重新回归，而公司的重点已转向AI智能体的开发和部署。这一人事变动反映出Meta在AI领域的战略重心调整，从元宇宙和VR硬件转向更具现实应用价值的人工智能技术。Barra的回归被业界人士视为扎克伯格加强Meta在AI竞争中地位的重要举措，表明公司在面对OpenAI、谷歌等竞争对手时，需要引入更多高管人才来加速AI智能体的研发和商业化进程。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/25/hugo-barras-return-to-meta-5-years-after-exit-underscores-ai-urgency.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-25T13:11:46+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Estonia and Latvia say territories hit by stray Ukrainian drones",
+    "deck": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
+    "cnTitle": "爱沙尼亚拉脱维亚领土遭乌克兰无人机误击",
+    "cnDeck": "爱沙尼亚和拉脱维亚表示其领土遭到乌克兰无人机的误击。这些事件发生在乌克兰对俄罗斯靠近爱沙尼亚边境的乌斯特卢加港口发动大规模攻击的同一晚上。根据报道，乌克兰军队对俄罗斯能源和军事基础设施进行了大规模无人机攻击，其中包括对位于波罗的海地区的乌斯特卢加港口的攻击。该港口是俄罗斯重要的石油出口枢纽。在这次攻击期间，部分乌克兰无人机偏离航线，进入了邻近的北约成员国爱沙尼亚和拉脱维亚的领空，对这两个国家的领土造成了误击。这一事件引发了对乌克兰无人机操作精准度的关注，以及对北约成员国领土安全的担忧。爱沙尼亚和拉脱维亚都是北约成员国，与乌克兰一样面临俄罗斯的威胁。这类事件可能会对乌克兰与北约成员国之间的关系产生影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-25T12:42:14+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+    "deck": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
+    "cnTitle": "巴勒斯坦警告约旦河西岸定居者暴力升级",
+    "cnDeck": "自伊朗战争开始以来，以色列定居者对整个被占领土巴勒斯坦村庄的攻击大幅增加。巴勒斯坦人警告称，约旦河西岸的定居者暴力事件正在扩大，安全局势恶化。这一局面反映了中东地区紧张局势的持续升级。以色列定居者的暴力活动针对巴勒斯坦平民和社区，造成了严重的人道主义影响。巴勒斯坦方面表示，他们面临着来自定居者的持续威胁，整个地区的安全环境正在恶化。这些暴力事件的增加与中东地区更广泛的地缘政治冲突密切相关，反映了以色列与伊朗之间紧张关系对地区局势的深刻影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-25T12:27:28+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
     "headline": "OpenAI ends Disney partnership as it closes Sora video-making app",
     "deck": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
     "cnTitle": "OpenAI关闭Sora视频应用终止迪士尼合作",
@@ -9,9 +135,8 @@
     "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:48:56+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n10",
+    "lead": false
   },
   {
     "headline": "Oil Falls, Stocks Jump on Iran De-Escalation Hopes: Markets Wrap - Bloomberg.com",
@@ -23,8 +148,7 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmotMmZtZVVxclJpYnJtUEdUeWJRY0FYMzRpRVNFRGZ2U0t4cUZXVHhwamhtSVc1akdCczJOM3loc25oQmNLa0J4WTZDMm1jUXV5RFdoRXBfLTJvRC1SOEtGcTlEX3ViN3BNLUxpSFRIM0kwMjBOZnRENXFtMERPb05jN21PaWJkNGJxZ19MRmc1ZTl2?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:23:00+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n11",
     "lead": false
   },
   {
@@ -37,8 +161,7 @@
     "url": "https://www.cnbc.com/2026/03/24/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:19:51+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n12",
     "lead": false
   },
   {
@@ -51,8 +174,7 @@
     "url": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
     "time": "1小时前",
     "published_iso": "2026-03-25T03:48:51+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n13",
     "lead": false
   },
   {
@@ -65,8 +187,7 @@
     "url": "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:44:18+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n14",
     "lead": false
   },
   {
@@ -79,8 +200,7 @@
     "url": "https://www.cnbc.com/2026/03/25/gold-prices-oil-us-iran-talks-goldman-forecast-trimp-middle-east-inflation.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:36:50+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n15",
     "lead": false
   },
   {
@@ -93,8 +213,7 @@
     "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:24:06+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n16",
     "lead": false
   },
   {
@@ -107,8 +226,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUt0SElIbGluSHBwTDE2UFR0QTJIMDF2am5XQV9IQUd3Ui1nUFpLYTZYN3F4Rk5jckdlcTI0c0RmalFZX0pTMzFpWjdhR2RyVEJBOWRtVDZGZ1JOUFRsTHh0dDQwY2t1MjB1Nko1MThBZDNsSnVwdkNJRnlGbHRSVHdMNHFMYnpIcXRWUmNIeEZiaWlBY2ozbXVZYlUtdktHN1BSWmpXektRYmMzdGtIM0V3?oc=5",
     "time": "4小时前",
     "published_iso": "2026-03-25T00:57:00+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n17",
     "lead": false
   },
   {
@@ -121,8 +239,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-25T00:00:20+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n18",
     "lead": false
   },
   {
@@ -135,8 +252,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkN0WGhLaExfXzFHMWR0Z2lmZmh0THVydTFpWEtRSmpNODB0WThWWHBsUEtfcFBLdHR2TDQzbDNBaFVRa3R0d3V3NXBKMFZ1bzcxR21IYnZVNF9WQzdvNUVoZm9zVEdobXhPaWdrbFNiVVJUWGd4YVl1NE55YXhxWTN6VjVMYVJLSVQyak9ESVFaN3gzdUJNU0dxcEJjTlBSV083Nm90NmR1QmpSbjgw?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-24T23:04:00+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n19",
     "lead": false
   },
   {
@@ -149,8 +265,7 @@
     "url": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
     "time": "6小时前",
     "published_iso": "2026-03-24T22:46:48+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n20",
     "lead": false
   },
   {
@@ -163,8 +278,7 @@
     "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-24T21:47:10+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n21",
     "lead": false
   },
   {
@@ -177,8 +291,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWRNN2VHMWdyQlpSZUZWazhOUHdqS3dhdGtyTVlLZWVUc1hxamJmTDRtMzRaTkxna2twM1dMbDluQnplQndfcktxci1TLWJKaS1SX3VMaU02UWJQaW53Rld6WEstUXVRS21sdE9KWjcxSVZXQlZ5dzVRQTF6UHV1bmV5OEI2YXdSOGpJa05Uc2tzNXRVbGxDM3draEx0ZFhjTFlqWDNtWEd2MzdpclVJ?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-24T20:25:50+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n22",
     "lead": false
   },
   {
@@ -191,8 +304,7 @@
     "url": "https://www.cnbc.com/2026/03/24/iran-war-oil-strait-hormuz-kuwait-gulf.html",
     "time": "8小时前",
     "published_iso": "2026-03-24T20:24:42+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n23",
     "lead": false
   },
   {
@@ -205,8 +317,7 @@
     "url": "https://www.cnbc.com/2026/03/24/micron-mu-stock-q2-earnings-memory-shortage.html",
     "time": "9小时前",
     "published_iso": "2026-03-24T20:19:48+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n24",
     "lead": false
   },
   {
@@ -219,8 +330,49 @@
     "url": "https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html",
     "time": "10小时前",
     "published_iso": "2026-03-24T18:26:00+00:00",
+    "id": "n25",
+    "lead": false
+  },
+  {
+    "headline": "Iran Wiped 50 Israeli Firms’ Data, Hacked Cameras, Official Says - Bloomberg.com",
+    "deck": "Iran Wiped 50 Israeli Firms’ Data, Hacked Cameras, Official Says&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "伊朗黑客攻击以色列50家企业数据",
+    "cnDeck": "伊朗官员声称，伊朗网络黑客已经删除了50家以色列公司的数据，并入侵了这些公司的摄像头系统。根据彭博社报道，伊朗官方宣布实施了这次大规模网络攻击行动，针对以色列的关键基础设施和企业进行了数据窃取和系统入侵。这一事件反映了伊朗与以色列之间日益加剧的网络战争冲突。伊朗官员详细说明了此次攻击的规模和范围，涉及多个行业和部门的50家以色列企业遭受了数据泄露。被黑客入侵的摄像头系统可能被用于监视和收集情报。此次网络攻击被视为伊朗对以色列的一种报复行为，展现了中东地区地缘政治紧张局势在网络领域的升级。",
+    "cat": "politics",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEZ5S29YWXplRm1PN1N5bWpUd3REbkdVMDc4MzVhVXkwU0RzWFRBSERDNXoyRWtlVHpjaXljSWp5Sk1uY05EdTZTY1FsRGRFM1RCeHMzZXZjVzhJR2pKbmpkaHdpeXkyNW5PalIzLUpMS3lyeFczcThYcGZpM0hTMEFUb21ZcmdwVy1ialRnZmNELW1KMHZvbm1Tb1loVV9HeXc3cVJRd2xDdkMtRF92NmI5MnAxZ0t0d2g1a2lkRkN1a21Zc2QzSjFiV3Y?oc=5",
+    "time": "21小时前",
+    "published_iso": "2026-03-24T18:07:03+00:00",
     "is_new": true,
-    "id": "n16",
+    "id": "n26",
+    "lead": false
+  },
+  {
+    "headline": "Arm to Sell Its Own Chips for First Time in Bid for AI Revenue - Bloomberg.com",
+    "deck": "Arm to Sell Its Own Chips for First Time in Bid for AI Revenue&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "Arm首次自主销售芯片抢占AI市场",
+    "cnDeck": "英国芯片设计公司Arm计划首次自主销售芯片产品，标志着该公司战略的重大转变。长期以来，Arm一直采用授权模式运营，向Apple、Qualcomm和Samsung等客户许可其芯片架构设计，而由这些公司负责芯片的制造和销售。此次转变意味着Arm将直接进入芯片销售领域，与其现有的授权客户形成直接竞争。这一举措是Arm为了在快速增长的人工智能芯片市场中获取更多收入而做出的战略决定。随着AI应用的爆炸式增长，芯片需求持续攀升，Arm希望通过自主销售芯片来分享这一巨大市场机遇，而不仅仅依赖授权费用收入。此举反映了科技行业竞争格局的演变，以及在AI芯片领域日益激烈的竞争态势。Arm的这一决策可能会改变行业动态，对其现有的授权合作伙伴产生影响，同时也展现了传统芯片设计公司在面对市场变化时的创新应对。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWctSmdHRXJaUDVLRUk1R29NTk9MRWdEb081LU1NYUgzU2pnaUVHaklEUXJCeGVzbklOb1RYc1JUalAtUjBPdmVhTDlIcFVyRC1ZYjV2LU1hWFZHT1BqSm5iSVpfQjBlZWZZOWxuT2pCc0RiMzVkUF9GUzFjc0RuQjdqVTRkWkgxallZdjBjNXdPLXVaaVc5QkN1MEhUWXFtSVF2TGhUV3pRblVNS2hBOGN6ZjdrSHB2YTFrN2RscWJkWF93ZHljTzdta1dQQQ?oc=5",
+    "time": "23小时前",
+    "published_iso": "2026-03-24T16:55:29+00:00",
+    "is_new": true,
+    "id": "n27",
+    "lead": false
+  },
+  {
+    "headline": "DeepSeek’s Latest Job Postings Highlight Pivot to Agentic AI - Bloomberg.com",
+    "deck": "DeepSeek’s Latest Job Postings Highlight Pivot to Agentic AI&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "DeepSeek转向智能体AI领域",
+    "cnDeck": "DeepSeek最新招聘信息显示该公司正在转向智能体AI（Agentic AI）领域。根据彭博社报道，DeepSeek的最新职位招聘反映了公司战略方向的调整。智能体AI是指能够自主规划、决策和执行任务的人工智能系统，相比传统AI模型具有更高的自主性和复杂任务处理能力。DeepSeek通过招聘新岗位来扩展其在这一领域的技术能力和研发团队。这一转向表明DeepSeek正在从大语言模型领域拓展到更高阶的AI应用，与行业内其他科技公司如OpenAI、Google等的发展方向相呼应。智能体AI被广泛认为是未来AI发展的重要方向，能够在自动化、决策支持、复杂问题求解等多个领域应用。DeepSeek此举标志着公司在AI技术演进中的新布局。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWJ0clNVOWZXQVlZd08ybHJGcnV2TktHWjFiZWd1R19tcHB6OTkyak1VU3VFLWpXcTVBVVBYUlJIRTd0azctbnVoUXhKZkp4eWVWWUQydGVPWnJSV0hkc0FLdERfaUViam53NDFJRDBEZGd1TFZrdTlVYTlkdFVmQmtfR0E4ZmhWVC1OUXBrbGJjb3hLOXdueHVSeHlqSXFRclB1ck9mM1lRTW0yZW9YZUY5bzF2LXRMeC1YcE9iMk5PV3ByXzZ6cXdRQQ?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-24T13:42:53+00:00",
+    "is_new": true,
+    "id": "n28",
     "lead": false
   },
   {
@@ -233,7 +385,7 @@
     "url": "https://www.cnbc.com/2026/03/24/amazon-zoox-robotaxi-rides-austin-miami.html",
     "time": "2小时前",
     "published_iso": "2026-03-24T13:23:11+00:00",
-    "id": "n17",
+    "id": "n29",
     "lead": false
   },
   {
@@ -246,7 +398,7 @@
     "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-24T12:14:15+00:00",
-    "id": "n18",
+    "id": "n30",
     "lead": false
   },
   {
@@ -259,7 +411,7 @@
     "url": "https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-24T04:29:25+00:00",
-    "id": "n19",
+    "id": "n31",
     "lead": false
   },
   {
@@ -272,7 +424,7 @@
     "url": "https://www.cnbc.com/2026/03/24/asia-markets-live-updates-oil-nikkei-225-hang-seng-index-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-24T03:13:03+00:00",
-    "id": "n20",
+    "id": "n32",
     "lead": false
   },
   {
@@ -285,7 +437,7 @@
     "url": "https://www.cnbc.com/2026/03/24/japan-cpi-inflation-february-.html",
     "time": "2小时前",
     "published_iso": "2026-03-24T02:39:13+00:00",
-    "id": "n21",
+    "id": "n33",
     "lead": false
   },
   {
@@ -298,7 +450,7 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU19IaWZXZ21JMkg4a29qRmRIcmhGZEdSNEp2OXR1NnBJVFRDbHBnVWxVOE9TQTVlYXJQZXNmX2JmcE9iR3ZmYk8wWDJXRU4ybVR1MjJjSGdHOWhfODRYZlpEdHRuR2hnZ0p2cjgteURFeFU3dDhPRGdvZGxTM2RUYmxOZlVqQ1VIX3FfNTR1c2l2SjhVY0xRYUJqd2Z5MndxUlYtSHUtaVIxT1V5TjlEREUxVl9mYmJ3NE9yZDNEZ1pmWXdBYkU0dzczMTU?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-24T02:25:00+00:00",
-    "id": "n22",
+    "id": "n34",
     "lead": false
   },
   {
@@ -311,7 +463,7 @@
     "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-24T02:01:21+00:00",
-    "id": "n23",
+    "id": "n35",
     "lead": false
   },
   {
@@ -324,7 +476,7 @@
     "url": "https://www.cnbc.com/2026/03/24/oil-prices-today-wti-brent-middle-east-iran-war.html",
     "time": "3小时前",
     "published_iso": "2026-03-24T01:51:32+00:00",
-    "id": "n24",
+    "id": "n36",
     "lead": false
   },
   {
@@ -337,7 +489,7 @@
     "url": "https://www.cnbc.com/2026/03/23/stock-market-today-live-updates.html",
     "time": "3小时前",
     "published_iso": "2026-03-24T01:51:07+00:00",
-    "id": "n25",
+    "id": "n37",
     "lead": false
   },
   {
@@ -350,7 +502,7 @@
     "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-24T00:18:10+00:00",
-    "id": "n26",
+    "id": "n38",
     "lead": false
   },
   {
@@ -363,7 +515,7 @@
     "url": "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
     "time": "5小时前",
     "published_iso": "2026-03-23T23:36:42+00:00",
-    "id": "n27",
+    "id": "n39",
     "lead": false
   },
   {
@@ -376,7 +528,7 @@
     "url": "https://www.cnbc.com/2026/03/23/iran-war-strait-hormuz-uae-adnoc.html",
     "time": "6小时前",
     "published_iso": "2026-03-23T22:59:45+00:00",
-    "id": "n28",
+    "id": "n40",
     "lead": false
   },
   {
@@ -389,7 +541,7 @@
     "url": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
     "time": "8小时前",
     "published_iso": "2026-03-23T20:47:50+00:00",
-    "id": "n29",
+    "id": "n41",
     "lead": false
   },
   {
@@ -402,7 +554,7 @@
     "url": "https://www.cnbc.com/2026/03/23/stock-slump-was-deeper-than-it-looked-that-bodes-well-for-a-future-rally.html",
     "time": "9小时前",
     "published_iso": "2026-03-23T20:04:44+00:00",
-    "id": "n30",
+    "id": "n42",
     "lead": false
   },
   {
@@ -415,176 +567,7 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2RZdVZ5ZGhqWDFyeVZnNjFqY1NWTzJoNzFjOUdjUEJlOE1hdC0wRkg2ZkhhTGt4aXhJdzhweG1nMDR2MHJ5WnZLbG53MHFSRUFEQXozdTVmVTVzc2M1V2tfbDN6UldMNHA5VktqMzF0dXlISW5VWXVyeER3aERiU1VvemhBdnN0U0FSTWlIQjNGYTlPc0hPMWw3LXd1cEZrdU82YURCWDZBSXdHV1JmNHp1SFBUT3F4aGJDNW9iclZYUV9DcVpVYmJWTU80UTNuWU9SVGMzalNFU1ZEQ2I3eg?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-23T17:44:26+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Trump tells CNBC 'we are very intent on making a deal' with Iran",
-    "deck": "U.S. President Donald Trump on Monday said he would order the military to postpone strikes on Iran's power plants and energy infrastructure for five days.",
-    "cnTitle": "特朗普称有意与伊朗达成协议",
-    "cnDeck": "美国总统特朗普周一表示，他将命令军队推迟对伊朗电力和能源基础设施的打击五天。特朗普在接受CNBC采访时表示，美国\"非常有意\"与伊朗达成协议。这一声明显示特朗普政府在与伊朗的紧张局势中采取了谨慎态度，暗示可能存在谈判空间。此前美国对伊朗的军事行动威胁曾导致地区紧张局势升温，而这次五天的延迟期可能被用于外交努力。特朗普的表态表明白宫正在寻求通过谈判而非军事冲突来解决与伊朗的分歧，尽管他仍保留采取军事行动的选项。这一立场转变可能影响中东地区的地缘政治格局，以及全球能源市场的走向。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-23T15:34:37+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap - Bloomberg.com",
-    "deck": "Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美伊局势升级引发全球市场下跌",
-    "cnDeck": "美国与伊朗局势升温导致债券和股票市场出现显著下跌。根据彭博社报道，美伊双方升级了相互威胁，引发了全球金融市场的广泛担忧。在地缘政治紧张局势加剧的背景下，投资者纷纷转向避险资产，导致股票市场遭遇抛售压力，同时债券市场也出现波动。这一事件反映了地缘政治风险对全球金融市场的直接影响。美伊之间的对抗升级可能进一步影响中东地区的稳定性，进而对全球能源价格、贸易流动和金融市场造成更广泛的冲击。市场参与者正在密切关注事态发展，评估潜在的经济和金融影响。这类地缘政治事件通常会引发市场波动，投资者应密切关注相关动态。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVEzOGVuQjZQOGJZMFU3d3VBd2ozUndLcHRhbWRYT09KOGdNNXlRbWM2cG1QYzYxYmltdTllNWhNZnVmM0Y4dWl5b2Zz?oc=5",
-    "time": "刚刚",
-    "published_iso": "2026-03-23T15:00:19+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum",
-    "deck": "More than 80 global executives traveled to Beijing this weekend for the state-organized China Development Forum.",
-    "cnTitle": "中国发展论坛召开，苹果等美企高管参会",
-    "cnDeck": "超过80名全球高管本周末赴京参加由中国政府组织的中国发展论坛。这次高规格论坛汇聚了包括苹果、礼来制药等在内的美国科技和制药巨头的领导层，这些企业高管们聚焦于如何在全球第二大经济体中国市场深化业务布局和战略调整。论坛的召开反映了在中美经贸关系复杂背景下，跨国企业对中国市场的持续重视和长期承诺。苹果、礼来等知名企业的高层出席，表明这些全球科技和制药领域的龙头企业正在积极探索在华发展的新机遇和新道路。此次论坛为期间进行了广泛的商业对话和战略交流，参会企业高管就如何适应中国市场环境、推进本地化运营、加强产业合作等议题进行了深入讨论。论坛的举办也体现了中国对外资企业的欢迎态度，以及通过高层对话推动国际经贸合作的努力。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-23T14:52:33+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
-    "deck": "BlackRock CEO Larry Fink said staying invested through periods of turmoil has historically delivered far stronger returns.",
-    "cnTitle": "黑石CEO警示市场择时风险",
-    "cnDeck": "贝莱德首席执行官拉里·芬克日前发表重要观点，警示投资者避免市场择时策略可能带来的风险。芬克强调，历史数据表明，保持投资在市场波动期间的关键重要性。根据其表述，如果投资者错过市场表现最好的交易日，回报率可能会被切掉一半。芬克指出，在历史上，那些试图通过择时进出市场来规避波动的投资者，最终获得的收益远低于坚持持仓的投资者。这一观点反映了市场上长期投资策略与短期择时操作的根本差异。芬克作为全球最大资产管理公司贝莱德的掌舵人，其言论通常对全球投资者和资本市场产生重要影响。他的警示提醒广泛的市场参与者，特别是那些容易被市场波动吓唬的个人和机构投资者，应该重视长期投资纪律。这一表述也暗示了市场中频繁交易和择时操作的低成功率。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-23T14:06:43+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Bitcoin Rises After Trump Says to Postpone Iran Strikes - Bloomberg.com",
-    "deck": "Bitcoin Rises After Trump Says to Postpone Iran Strikes&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "比特币随特朗普宣布推迟伊朗打击而上涨",
-    "cnDeck": "特朗普宣布推迟对伊朗的军事打击后，比特币价格上涨。特朗普的这一声明缓解了市场对中东地区冲突升级的担忧，投资者风险偏好回升，推动加密货币市场走强。比特币作为风险资产，对地缘政治局势变化反应敏感。这一事件反映了地缘政治局势对全球金融市场的影响，中东局势的任何重大进展都可能对风险资产配置产生连锁反应。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlpVcENnRURHQWh6TWx1aHE1U21QVk12U3p4Z1RjZEMxbGJHbG5pMm1XWi1CMkN4YXBHY3h0OFhBd2ZBX1VkQ0tjdEFxdWt0LUh2N2d6Yk5MbHVsTFl2Zm14cGswRGhDSnVTN2lwUUJvMUpRWExoMjE1YmZfOGlyQ3I0ZHcxeWI3dS1qZmZDZEw2TmR2cVdPSzZWLWRBQnk4UlcxbDd1ekdNZw?oc=5",
-    "time": "1小时前",
-    "published_iso": "2026-03-23T14:06:11+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Fed’s Miran Says Too Early to Alter Outlook for Four 2026 Cuts - Bloomberg.com",
-    "deck": "Fed’s Miran Says Too Early to Alter Outlook for Four 2026 Cuts&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美联储官员称调整2026年四次降息预期为时过早",
-    "cnDeck": "美联储官员米兰表示，现在改变2026年四次降息的预期还为时过早。米兰在接受采访时指出，虽然最近的经济数据显示了一些积极信号，但在做出关于未来货币政策的重大调整之前，需要观察更多的通胀数据和就业市场表现。他强调，美联储将继续根据即将发布的经济数据来评估政策立场，目前维持2026年四次降息的中期预测仍然是合理的。米兰的言论反映了美联储在制定长期政策指引时的谨慎态度，同时也表明美联储官员对经济前景的评估仍存在一定的不确定性。这一表态对金融市场具有重要意义，因为它影响了投资者对未来利率路径和政策走向的预期。",
-    "cat": "economy",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzJyMVRVVm1ZX0szc2I3T3ZwZGJIQ0pfZmpDNWZjbVRydTVPMk9ac0N4NWNtUUFjeGh6TDI1RHFsaGI3SlBVMUdUeTJOeF9Fb183T1draHd5MmRBc01kUDhfNE5MbHdScnlObDFEXzVqSEJ1ZXVmamtMVmU5c0NRbkZEMno4X3RpUFpRcnFuc3E0TmxLVTA2X3Jody1SS3lMMDFkX2RJVjdvZ0tnUklxSVdEMA?oc=5",
-    "time": "2小时前",
-    "published_iso": "2026-03-23T13:10:32+00:00",
-    "id": "n37",
-    "lead": false
-  },
-  {
-    "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation'",
-    "deck": "Warren sent letters to Pete Hegseth and Sam Altman, asking for additional details of OpenAI's contract with the defense department and Anthropic's blacklisting.",
-    "cnTitle": "美国参议员质询国防部对Anthropic的制裁",
-    "cnDeck": "美国参议员沃伦向国防部长皮特·海格塞斯和OpenAI首席执行官萨姆·奥特曼发送信函，要求提供关于OpenAI与国防部合同的详细信息，以及Anthropic遭到制裁的具体原因。沃伦在信中质疑国防部对Anthropic的黑名单制裁\"似乎是报复行为\"。这一事件涉及两家主要AI公司在国防领域的竞争关系，以及政府采购过程中的公平性问题。沃伦要求获得更多关于这些制裁决定的透明度和细节信息，以便进行进一步的监督。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/23/sen-warren-dod-anthropic-blacklist-hegseth.html",
-    "time": "3小时前",
-    "published_iso": "2026-03-23T12:10:17+00:00",
-    "id": "n38",
-    "lead": false
-  },
-  {
-    "headline": "Ex-Goldman Banker’s AI Chip Company Secures SoftBank Funding - Bloomberg.com",
-    "deck": "Ex-Goldman Banker’s AI Chip Company Secures SoftBank Funding&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "前高盛银行家AI芯片公司获软银融资",
-    "cnDeck": "一名前高盛银行家创办的AI芯片公司获得了软银的融资支持。该公司专注于开发人工智能芯片技术，旨在满足日益增长的AI计算需求。软银作为全球知名的科技投资机构，对该公司的投资反映了市场对AI芯片领域的持续关注和投资热情。这笔融资将帮助该公司加快产品开发和市场拓展，进一步推进AI芯片产业的发展。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2RCYlliMWp0STlDRFhoMzFEaVhNaTQzT0JzUWhQc3RMcC11dUhHTUdqRWhqcnBTeTY0TTVxU1Z6a0ZWR2IydlJWb3pjTkpVTFQ5ZDJfeFJucHJrMHNTS29rNWpDN0RTSEZMMmJ2WUdSckJuRGU1TGctVTV6eExlOGtlSEplM2RVa1dCWWpDSEwtZEIwZVhsbXNEc1J3bmFRVUdMZXo3ZTl5bktVajJUeG5fTXBCeEh2TmlyWnQtOC13Z2pZVmhTZ2dndw?oc=5",
-    "time": "17小时前",
-    "published_iso": "2026-03-23T11:30:00+00:00",
-    "id": "n39",
-    "lead": false
-  },
-  {
-    "headline": "Oil Rises as Trump’s Hormuz Ultimatum Risks Escalating War - Bloomberg.com",
-    "deck": "Oil Rises as Trump’s Hormuz Ultimatum Risks Escalating War&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "特朗普霍尔木兹海峡最后通牒推高油价",
-    "cnDeck": "特朗普对霍尔木兹海峡问题的最后通牒引发市场对地区冲突升级的担忧，推高了国际油价。霍尔木兹海峡是全球最重要的石油运输枢纽，日均通过该海峡的石油运输量占全球海运石油的约三分之一。任何在该地区的军事冲突或政治紧张局势升级都可能对全球能源供应造成重大影响，进而推高能源价格。特朗普的强硬立场被市场解读为可能增加中东地区冲突风险，投资者因此在能源市场上寻求对冲，导致油价上升。这一事件反映了地缘政治风险对全球金融市场和大宗商品价格的直接影响，可能对全球经济增长和通胀前景产生连锁反应。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTl4SW44NDhMVGZURTVIWllRSG1DZEVBaXVKX2s4dWZ0V0xRVlg1Ti1FT3hjRzYxN1JRbXllZWUwUDVlMmRNMzJ6R2JDVGZYVzduTlR3R1lxMVhwWG92MHRhOUkwV19mWkxydnRINDFLV0J2NGtjMzJYUTZYT25ZeHZfY1VGOGxDQWtlOTJDeXUxd3dramRTSDBKMHQ3RlFE?oc=5",
-    "time": "5小时前",
-    "published_iso": "2026-03-23T10:36:17+00:00",
-    "id": "n40",
-    "lead": false
-  },
-  {
-    "headline": "Fink Says AI Threatens to Leave Masses Behind Unless They Invest - Bloomberg.com",
-    "deck": "Fink Says AI Threatens to Leave Masses Behind Unless They Invest&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "贝莱德CEO警告AI投资不足将加剧贫富分化",
-    "cnDeck": "贝莱德首席执行官劳伦斯·芬克（Laurence Fink）在最近的言论中警告称，人工智能技术的发展有可能将大众甩在后面，除非他们进行相关投资。芬克的这一观点触及了当前全球经济中的一个关键问题：科技进步的收益分配是否会进一步加剧贫富分化。作为全球最大资产管理公司贝莱德的掌舵人，芬克的言论代表了投资界对AI时代社会结构变化的深度思考。他强调，在AI革命中，那些能够获得并投资于AI技术的群体将获得巨大财富增长，而缺乏投资能力或对AI认知不足的大众可能会陷入相对贫困的境地。这一警告涉及全球经济不平等、科技普及、投资机会获取等多个层面的问题。芬克的评论也反映了华尔街精英阶层对科技进步带来的社会影响的担忧，以及资本市场在塑造财富分配中的关键作用。这一言论对于理解当前全球投资趋势、AI产业发展前景以及未来经济格局具有重要参考价值。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjNyTDVoZzNHS3JRU3o0TXByNDFNYUxPX0xUU1RzMzFZSGJVMlgyVDFjMjlfejJ5X1lxUTlnd3JtaUU4cVJlZmJkcXlLR0tza3NONnlzRXJMZU5LZC12WXFfd2RKM3AtRXNzcmNvMV9FS3FVbTItcXRQRGVVLUgzSWItYjJWM3dBZklWM09EYTY1a1lIZXk3TDJHRDlIdHlFQ0dnR09CSGdFbk1YZDUzVXdtcFlydzAwNURpSDBqR3A2NEhJR3BzWTlWZnRxTVNv?oc=5",
-    "time": "19小时前",
-    "published_iso": "2026-03-23T10:00:00+00:00",
-    "id": "n41",
-    "lead": false
-  },
-  {
-    "headline": "More than 40 Middle East energy assets ‘severely damaged,’ IEA chief says",
-    "deck": "The IEA’s Fatih Birol warned that damage to energy infrastructure across the Middle East would take some time to repair.",
-    "cnTitle": "中东能源设施遭严重损毁IEA负责人警告",
-    "cnDeck": "国际能源署(IEA)负责人法蒂赫·比罗尔(Fatih Birol)发出警告，中东地区超过40个能源资产遭到\"严重损毁\"。比罗尔表示，中东地区能源基础设施遭受的损害需要花费相当长的时间才能修复。这一警告涉及该地区关键能源设施的运营状况，暗示中东能源供应链面临重大风险。中东是全球能源市场的关键参与者，该地区能源基础设施的损毁可能对全球能源供应、石油和天然气价格产生重大影响。能源基础设施损毁通常需要进行大规模的重建和维修工作，这可能导致该地区能源生产能力短期内受到严重限制。此类事件历来会对国际能源市场造成冲击，推高原油价格，进而影响全球经济。IEA的警告表明中东地缘政治局势可能持续对能源供应构成威胁。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/23/iran-war-energy-oil-gas-middle-east-iea-us-uae-qatar.html",
-    "time": "5小时前",
-    "published_iso": "2026-03-23T09:48:06+00:00",
-    "id": "n42",
-    "lead": false
-  },
-  {
-    "headline": "Gilts Face Worst Month Since Liz Truss as Oil Spike Jolts UK Market - Bloomberg.com",
-    "deck": "Gilts Face Worst Month Since Liz Truss as Oil Spike Jolts UK Market&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "英国债券市场遭油价冲击创新低",
-    "cnDeck": "英国政府债券（Gilts）面临自莉兹·特拉斯（Liz Truss）担任首相时期以来最糟糕的月度表现。油价飙升对英国金融市场造成冲击，引发市场波动。英国债券收益率上升，债券价格下跌，反映出投资者对通胀前景和英国经济前景的担忧加剧。这一动向与全球能源价格上涨的大背景相关，油价上升推高了通胀预期，进而对债券市场造成压力。英国央行此前曾因莉兹·特拉斯政府的大规模财政刺激计划而面临严峻挑战，当时政府债券市场出现剧烈波动。如今油价再次引发市场震荡，表明外部因素对英国金融市场的持续影响。这对英国政府融资成本、央行货币政策走向以及整体经济前景均可能产生重要影响。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNoS2ZwZUx6djh5LTVDeGs1OTQ2MWdXVXUzS25mQkE4OEw3by03WnFPN0ljSC0zMC1RZVpzTzAyRm9jQmlzX3ExR0pkSEVWcENmZWltU3huRlVoMUxtTkU0R000cGtxVEdxbXNqeWdhTkNOS0QtamhsV2hZbmhacER0TGZSNmRoYVEyMHBxVHQwN09STnR3amw0RlowNDJ3cGlKZ1g5XzZVNllFcm5iUXBLQ1M?oc=5",
-    "time": "7小时前",
-    "published_iso": "2026-03-23T08:14:15+00:00",
     "id": "n43",
-    "lead": false
-  },
-  {
-    "headline": "‘Pandemonium’ Fuels Surge in Yields as Fed Rate-Hike Bets Emerge - Bloomberg.com",
-    "deck": "‘Pandemonium’ Fuels Surge in Yields as Fed Rate-Hike Bets Emerge&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美债收益率飙升，市场押注美联储可能加息",
-    "cnDeck": "彭博社报道，美国国债市场陷入\"混乱\"状态，收益率大幅上升，交易员开始押注美联储可能会提高利率。这一转变反映了市场对美国经济前景和通胀预期的重新评估。收益率的急剧上升表明投资者对未来政策方向的看法发生了显著变化，从之前对降息的预期转向对加息可能性的定价。这种市场情绪的转变通常与经济数据、通胀指标或联邦储备委员会官员言论的变化相关联。债券市场的这种波动对股票市场、汇率和其他资产类别都可能产生连锁反应，影响全球金融市场的整体走势。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGdjaUVTcVJ5UmdBdlUyMWxJTjYzTFhyVWFxeHhLbEZ4dDhsc2wzcGRqNHRmS0FYRHNKcXRLbVZwSW5iRDVxaW9GdHBhLWx6SHJrNG1qbS03WllNNWZQT3VyTWRYTHBaM1AxeEpzSEhVcTBGbzNsZEYtOV8xbkRpLWkzR1FCRktJbHRxN280UWNkNmJ2ZG9ZOW05Vko1MUFOTm10ZldTWTJQQm94R0VwZE5oZ24?oc=5",
-    "time": "10小时前",
-    "published_iso": "2026-03-23T05:42:00+00:00",
-    "id": "n44",
     "lead": false
   }
 ]
