@@ -100,7 +100,6 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0V5SFlORU80MWY5ZEE4LVBibERaUDVNOXBXVzlpbVIxOVI0UEpxZ1FxY1hmZkUyQW9pWmJIRkI5VVNHVmR0bjdRakl0cU9kaDNMY196THMxTjlqWXhZWkloN2g2azNueWR0aUxYdUh4VkpxMU1oam5kR0FqSXhQZTQ1OFd4NTZEQkFiaTNsUGxiZTFYVVU4OTYtOGpYQUhWRTcxcnNnSGJRWUpTTEE?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-26T21:12:47+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -118,6 +117,20 @@
     "lead": false
   },
   {
+    "headline": "Stocks and Bonds Fall as Cease-Fire Doubts Mount: Markets Wrap - Bloomberg.com",
+    "deck": "Stocks and Bonds Fall as Cease-Fire Doubts Mount: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "停火协议前景不确定股债双跌",
+    "cnDeck": "全球股票和债券市场周三走低，因为中东停火协议的前景变得更加不确定。随着地缘政治紧张局势升温，投资者对经济增长前景的担忧加剧，导致风险资产抛售。标普500指数、纳斯达克综合指数和道琼斯工业平均指数均录得下跌。美国国债收益率也出现下行，因为投资者寻求避险资产。欧洲和亚洲市场也普遍承压。分析人士指出，停火协议谈判的任何挫折都可能引发更广泛的地缘政治风险溢价。债券市场的反应表明，交易员们预期央行可能需要维持较长时间的高利率政策，以应对潜在的地缘政治冲击。原油价格受到地缘政治局势升温的支撑，保持在相对较高的水平。黄金等避险资产也吸引了投资者的关注。市场分析师表示，在停火前景明朗之前，市场波动性可能会保持在较高水平。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmtQUXZmTWJlZHZDRVpPS0FodEZMX0xZSG91RG51YXI4RndoLXJzdm44MnVHTGhtOXM4bFhUM0VSQm9UWnBZbmZjbFYtdEkwSXpTQ1I3SkN4Tm9kSzRuZzFRb3RrcHlLRmdEZ3M3UWNLUnhXWUE5Sk9vT0wyZERPMEpabmJfd2NwdEJQNzFWejVpWkxu?oc=5",
+    "time": "5小时前",
+    "published_iso": "2026-03-26T20:01:02+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
     "headline": "Trump says Justices Barrett, Gorsuch ‘sicken me’ after Supreme Court tariff ruling",
     "deck": "The Supreme Court, in a 6-3 ruling, said President Trump did not have authority under the International Emergency Economic Powers Act to impose tariffs.",
     "cnTitle": "特朗普批评最高法院关税裁决",
@@ -127,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html",
     "time": "刚刚",
     "published_iso": "2026-03-26T15:05:45+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -140,7 +153,7 @@
     "url": "https://www.cnbc.com/2026/03/26/strait-of-hormuz-israel-iran-alireza-tangsiri-middle-east-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-26T14:50:02+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -153,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/03/26/uk-could-be-worse-hit-from-iran-war-of-all-major-economies-oecd.html",
     "time": "1小时前",
     "published_iso": "2026-03-26T14:39:08+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -166,7 +179,7 @@
     "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html",
     "time": "1小时前",
     "published_iso": "2026-03-26T14:02:43+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -179,7 +192,7 @@
     "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
     "time": "2小时前",
     "published_iso": "2026-03-26T13:25:54+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -192,7 +205,7 @@
     "url": "https://www.cnbc.com/2026/03/26/trump-iran-peace-talks-troops-ceasefire-forever-war.html",
     "time": "3小时前",
     "published_iso": "2026-03-26T12:41:07+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -205,7 +218,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0RTcGVoLTl5RTllUGdsUE04RWNuSlJRanZHSjQ1aTFVeTg2MmV5VDJSU2RyMWZMbm9Db2drTl9KMjFNd2NMY0RHU0hBUkt3MWd5UTNqeXJtS0x0Y0NUcm1FSmhiVUMtVkgtNjR0M21EdDlicVNHQnhBOUo3QldReUQ2Tm9aT081anhVdVhzVDlyNnEzN2c3Q1JrbTIyVUpZb2xGdE03WVZYN2pBMzZudVJRVnN1bzBfbEQ3UGUwbEdMTDRyMUNTeEh6NFp2dw?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-26T12:38:33+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -218,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-26T10:55:56+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -231,7 +244,7 @@
     "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-26T05:20:02+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -244,7 +257,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVRvSUVpaktFbkRfR25IRExORVNJbmxOWXZhbUd1a3BHSzJGV2N6ME5tNERsMjNxemNtMl9fODQ0dF9PQXFoV09KbExEUUNtUVRZWG8zajU3OXRwM0ZXRTVPTndZb2d1RlE2WEZEd1BacTF2NGZmQUY0VWdqMEdsN2ZoSG50QWtvRWlVTVJ0TkRwRW1mTGVjcXVqdXdOdU9sblBXTDJZQkg3dw?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:54:27+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -257,7 +270,7 @@
     "url": "https://www.cnbc.com/2026/03/25/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:29:36+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -270,7 +283,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWQ4MnV5eVpBYlltcWI1dEk3WVNIS3g4cjNDRGoyMV9WeTMxUnZSRnVtSlBtUFlkOUVSQUczcWo1b3NkT3F0ZTVyT2Q5c3ZaN01ldm9yblpnZ1dyWVJ3QjJmUEhmekhZUGZxR0hDdE1ST0dwZC1vaFRMWmtpQy1HNFVic2lJQXBRNHQ1eHZYSzBLSmVmemJaWGtnSGtwazkx?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:01:00+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -283,7 +296,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkpBME90eGlmN2hVZFB2TlVQeGtYUFhpUWZNVThyYkI5Y1l4RV9WNEFVbG1yUHJUa1FqRlhNamdhMmxsc0Z3WHBmdDN1b2hOZDQ0VGxNTThWWk5BUzN0aVZ4WmJ4ZVI2RERrd3pJMUJnNUlXdDRxYTlBM29ERHFJeTZNc18wSXhOU1lYQU9mdm9mX1JYeEtkVllyUHhnbGV1LUhVcEhKRXlvdw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:45:10+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -296,7 +309,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGpYdHI4RE5PQUtkdElUT3N4TWZLQUo4Wk9JUkVDeHJ5UTNidklhdkszdVp5WEU0bEZpcm9ubzZQSVI2Y1pFU1E0YVFOQ0pybDFWbW1TdHNBTHRDb3U0d0R1WjRCLURlT245MUtqQnp0RDR1MllOQ1dPSWlQblE5WlQ3ZU45V3dpeDVDN25sdTBPWVFkUnZEY3hqMXJ3eFN4T2JISkFqd0Y1d1FHTHdOZGhhZlhHQQ?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:13:00+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -309,7 +322,7 @@
     "url": "https://www.cnbc.com/2026/03/26/asia-pacific-markets-live-updates-nikkei-225-kospi-hang-seng-index.html",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:10:32+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -322,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-26T02:01:39+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -335,7 +348,7 @@
     "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-26T01:42:26+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -348,7 +361,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU1heXBMdW5CRTI1T21xSG5KQURLZGZNeGxESU5RTWIwUWVkWDNRNEhONTI3djNiaTgycXFSMy15S1gwRlNRa1h3aGE4Q1VhSkVVMDViV25aeFdyOS1SOHYzaUF5N0hYT09tOC1RNjJ5YXVMeUdLZG1qLV92c3VQcm1BS2RDdmdSd3dVV2VOanl6ZFZROHhRdWg4VnhrMXg1NzhFYWN0T0h1cmtiYmh0YUo2RQ?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-25T23:00:00+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -361,7 +374,7 @@
     "url": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html",
     "time": "7小时前",
     "published_iso": "2026-03-25T21:57:14+00:00",
-    "id": "n28",
+    "id": "n29",
     "lead": false
   },
   {
@@ -374,7 +387,7 @@
     "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-25T21:18:55+00:00",
-    "id": "n29",
+    "id": "n30",
     "lead": false
   },
   {
@@ -387,7 +400,7 @@
     "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
     "time": "9小时前",
     "published_iso": "2026-03-25T20:49:26+00:00",
-    "id": "n30",
+    "id": "n31",
     "lead": false
   },
   {
@@ -400,7 +413,7 @@
     "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
     "time": "11小时前",
     "published_iso": "2026-03-25T18:24:19+00:00",
-    "id": "n31",
+    "id": "n32",
     "lead": false
   },
   {
@@ -413,7 +426,7 @@
     "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
     "time": "刚刚",
     "published_iso": "2026-03-25T15:46:16+00:00",
-    "id": "n32",
+    "id": "n33",
     "lead": false
   },
   {
@@ -426,7 +439,7 @@
     "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T15:07:13+00:00",
-    "id": "n33",
+    "id": "n34",
     "lead": false
   },
   {
@@ -439,7 +452,7 @@
     "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T14:55:36+00:00",
-    "id": "n34",
+    "id": "n35",
     "lead": false
   },
   {
@@ -452,7 +465,7 @@
     "url": "https://www.cnbc.com/2026/03/25/fertilizer-price-iran-war-food-security-inflation-urea-potash-nitrogen-farmers.html",
     "time": "1小时前",
     "published_iso": "2026-03-25T14:42:46+00:00",
-    "id": "n35",
+    "id": "n36",
     "lead": false
   },
   {
@@ -465,7 +478,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazlqUkk1T0FMQmlmZ0htcXhsalFfVmtiNHd1QmJLc0xJR2NOMHphNTBSX1VJY2Q1Sk5qcUVweHN0dnNUQnhhT1Z6Y1Bpc0lCa0dtMTFJNnhGbURUcTMxZndTTGVxSU9tbnFOdmJEQ3p0OXAzTFhaNnVSVGlGaU1aczJ1amxRNlBqUUloTWs2OHlBZkI4dWJzRjgwalF6WEVXQUNaRkRfZS1QUQ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-25T14:06:17+00:00",
-    "id": "n36",
+    "id": "n37",
     "lead": false
   },
   {
@@ -478,7 +491,7 @@
     "url": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-25T13:27:50+00:00",
-    "id": "n37",
+    "id": "n38",
     "lead": false
   },
   {
@@ -491,7 +504,7 @@
     "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T13:22:06+00:00",
-    "id": "n38",
+    "id": "n39",
     "lead": false
   },
   {
@@ -504,7 +517,7 @@
     "url": "https://www.cnbc.com/2026/03/25/hugo-barras-return-to-meta-5-years-after-exit-underscores-ai-urgency.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T13:11:46+00:00",
-    "id": "n39",
+    "id": "n40",
     "lead": false
   },
   {
@@ -517,7 +530,7 @@
     "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-25T12:42:14+00:00",
-    "id": "n40",
+    "id": "n41",
     "lead": false
   },
   {
@@ -530,7 +543,7 @@
     "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-25T12:27:28+00:00",
-    "id": "n41",
+    "id": "n42",
     "lead": false
   },
   {
@@ -543,7 +556,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjZLQVpVdVZBakVVQXhfaDdxNFQweG1mVl9BWGFEbEJfY3M2UkdMTks5S2h3dmoyOXBKSEFXQTR3ek9hY3g5anRHaW5KeE82U1pSdFN2OGphaExKazNnclZRVklhamJUMkZ5dE5Dc0tLME1nVG0wNkJqalBfenQxXzZWcTlQX1k5UktRZVNYQWItLVdLRDdaeWVsQ0VBSzlTNDFRYXY1M2o0eDUxV25Gc2VHYkdoQWVfeHRIblVpaUdodVpfRGpxUXBxcjM2YlNaNUI0?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-25T12:00:06+00:00",
-    "id": "n42",
+    "id": "n43",
     "lead": false
   },
   {
@@ -556,7 +569,7 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTJMMXpQQkVlLUxtT0JJWHZFX21TV0plUUxfR3Z1OHdDN1QxR3NnUHJnUU93dU5OVEktRVBrVDUyc1dfUWxhS09kZWpIZkRuN0V5TlRQSExZakdqbnROdmU4QmRVUUhRMTg3c3VBb1dkRTZ5ZXluZVlKVmEwVHJfVlFIMzFUbWVCX3NWZllFb3N0bVBoZnM4TThja09CMVRJVTh5MHVZbEx3NGZqWEkwSVZZZG5lSnhKTXk5MUlHbWVlMldVQUhYUEQxalA?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-25T05:18:00+00:00",
-    "id": "n43",
+    "id": "n44",
     "lead": false
   },
   {
@@ -569,7 +582,7 @@
     "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:48:56+00:00",
-    "id": "n44",
+    "id": "n45",
     "lead": false
   },
   {
@@ -582,7 +595,7 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmotMmZtZVVxclJpYnJtUEdUeWJRY0FYMzRpRVNFRGZ2U0t4cUZXVHhwamhtSVc1akdCczJOM3loc25oQmNLa0J4WTZDMm1jUXV5RFdoRXBfLTJvRC1SOEtGcTlEX3ViN3BNLUxpSFRIM0kwMjBOZnRENXFtMERPb05jN21PaWJkNGJxZ19MRmc1ZTl2?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:23:00+00:00",
-    "id": "n45",
+    "id": "n46",
     "lead": false
   },
   {
@@ -595,7 +608,7 @@
     "url": "https://www.cnbc.com/2026/03/24/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:19:51+00:00",
-    "id": "n46",
+    "id": "n47",
     "lead": false
   },
   {
@@ -608,7 +621,7 @@
     "url": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
     "time": "1小时前",
     "published_iso": "2026-03-25T03:48:51+00:00",
-    "id": "n47",
+    "id": "n48",
     "lead": false
   },
   {
@@ -621,8 +634,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdmxPaWtVMHFsSi1fU21wMWh4X3l6aHNka1JuWG5jQ0szWThzNFgtMjhURC16SUx6Qi1zWk9kQkpPeldMTm9mOVNMS3cyWmJpUGtaZmJreGp5bHRsRTNCQUFlUEpVWmQzTU4tMTY0TTJLRW5nOXdRQzd1T1NJRXhBWF8wc0pVSUJlb1ZtUVpIem1zRjhFV0RzbUNtZ3czMkJJVDZiMDBUcEpxdHN0QUsxbU5qZTRIejM4YUxJVkN3VGxTcTNydWtqLUJBOFVjSW8?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-25T03:20:00+00:00",
-    "is_new": true,
-    "id": "n48",
+    "id": "n49",
     "lead": false
   },
   {
@@ -635,7 +647,7 @@
     "url": "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:44:18+00:00",
-    "id": "n49",
+    "id": "n50",
     "lead": false
   },
   {
@@ -648,7 +660,7 @@
     "url": "https://www.cnbc.com/2026/03/25/gold-prices-oil-us-iran-talks-goldman-forecast-trimp-middle-east-inflation.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:36:50+00:00",
-    "id": "n50",
+    "id": "n51",
     "lead": false
   },
   {
@@ -661,7 +673,7 @@
     "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:24:06+00:00",
-    "id": "n51",
+    "id": "n52",
     "lead": false
   }
 ]
