@@ -727,18 +727,30 @@ if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefin
 // ══════════════════════════════════════
 
 // 左边：过去24小时以内
-// 识别：数字≤24 + h/hour，或任意分钟/秒，或刚刚/just now
-// 其余全部归右边（Yesterday / 1 day ago / Mar 25 / 具体日期等）
+// 支持英文：2h ago / 30min ago / just now
+// 支持中文：2小时前 / 30分钟前 / 刚刚
+// 小时数 > 24 或非此类格式 → 归右边
 function isToday(t) {
   if (!t) return false;
-  const s = t.trim().toLowerCase();
-  // 秒/分钟级别，无论多少都算今天
-  if (/^\d+\s*(s|sec|secs|second|seconds|min|mins|minute|minutes|m)\s*(ago|前)?$/.test(s)) return true;
-  // 小时：只有 ≤ 24 才算今天
-  const hMatch = s.match(/^(\d+)\s*(h|hour|hours|hr|hrs)\s*(ago|前)?$/);
-  if (hMatch) return parseInt(hMatch[1]) <= 24;
-  // 刚刚 / just now
-  if (s === '刚刚' || s === 'just now' || s === 'now') return true;
+  const s = t.trim();
+
+  // 中文：X分钟前 / X秒前（无论多少分钟都算24h内）
+  if (/^\d+\s*(分钟|分|秒)\s*前$/.test(s)) return true;
+  // 中文：X小时前，≤ 24
+  const cnH = s.match(/^(\d+)\s*小时前$/);
+  if (cnH) return parseInt(cnH[1]) <= 24;
+  // 中文：刚刚
+  if (s === '刚刚') return true;
+
+  const sl = s.toLowerCase();
+  // 英文：秒/分钟
+  if (/^\d+\s*(s|sec|secs|second|seconds|min|mins|minute|minutes|m)\s*(ago)?$/.test(sl)) return true;
+  // 英文：小时，≤ 24
+  const enH = sl.match(/^(\d+)\s*(h|hour|hours|hr|hrs)\s*(ago)?$/);
+  if (enH) return parseInt(enH[1]) <= 24;
+  // 英文：just now / now
+  if (sl === 'just now' || sl === 'now') return true;
+
   return false;
 }
 
