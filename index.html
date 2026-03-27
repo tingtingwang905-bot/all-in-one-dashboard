@@ -726,47 +726,20 @@ if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefin
 // NEWS 渲染
 // ══════════════════════════════════════
 
-/**
- * isToday(timeStr)
- * 判断一条新闻是否属于"今天"
- * 今天的格式（来自 Make.com / 手写 fallback）：
- *   "2h ago" / "30min ago" / "5 hours ago" / "刚刚" / "just now" / "10m ago"
- * 不是今天的格式（归入右侧 Earlier）：
- *   "Yesterday" / "昨天" / "1 day ago" / "2 days ago" / "前天"
- *   "Mar 25" / "March 25" / "2026-03-25" / 任何其他字符串
- */
+// 左边：过去24小时以内
+// 识别：数字≤24 + h/hour，或任意分钟/秒，或刚刚/just now
+// 其余全部归右边（Yesterday / 1 day ago / Mar 25 / 具体日期等）
 function isToday(t) {
   if (!t) return false;
   const s = t.trim().toLowerCase();
-  // 匹配：数字 + h/hour/hr/min/m/s/sec + (ago/前) 或结尾
-  if (/^\d+\s*(h|hour|hours|hr|hrs|min|mins|minute|minutes|m|s|sec|secs|second|seconds)\s*(ago|前)?$/.test(s)) return true;
-  // 匹配：刚刚 / just now
+  // 秒/分钟级别，无论多少都算今天
+  if (/^\d+\s*(s|sec|secs|second|seconds|min|mins|minute|minutes|m)\s*(ago|前)?$/.test(s)) return true;
+  // 小时：只有 ≤ 24 才算今天
+  const hMatch = s.match(/^(\d+)\s*(h|hour|hours|hr|hrs)\s*(ago|前)?$/);
+  if (hMatch) return parseInt(hMatch[1]) <= 24;
+  // 刚刚 / just now
   if (s === '刚刚' || s === 'just now' || s === 'now') return true;
   return false;
-}
-
-/**
- * 将 time 字段标准化为右侧侧栏的分组标题
- * "Yesterday" / "yesterday" / "昨天" / "1 day ago"  → "昨天 Yesterday"
- * "2 days ago" / "前天" / "2天前"                   → "前天 2 Days Ago"
- * "3 days ago" 及更早 / 具体日期                    → 原样显示（或"更早 Earlier"）
- */
-function normalizeOlderTime(t) {
-  if (!t) return 'Earlier';
-  const s = t.trim().toLowerCase();
-  if (s === 'yesterday' || s === '昨天' || s === '1 day ago' || s === '1天前') {
-    return '昨天 · Yesterday';
-  }
-  if (s === '2 days ago' || s === '前天' || s === '2天前' || s === 'the day before yesterday') {
-    return '前天 · 2 Days Ago';
-  }
-  if (/^3 days? ago$/.test(s) || s === '3天前') return '3天前 · 3 Days Ago';
-  if (/^(\d+) days? ago$/.test(s)) {
-    const n = s.match(/^(\d+)/)[1];
-    return `${n}天前 · ${n} Days Ago`;
-  }
-  // 具体日期或其他 → 原样
-  return t;
 }
 
 function srcColor(src){
@@ -776,12 +749,10 @@ function srcColor(src){
 
 function renderNews(cat) {
   const list = cat === 'all' ? NEWS : NEWS.filter(n => n.cat === cat);
-
-  // ── 今天 vs 更早 ──
-  const today = list.filter(n => isToday(n.time));
+  const today = list.filter(n =>  isToday(n.time));
   const older  = list.filter(n => !isToday(n.time));
 
-  // ══ 左边：今日新闻（完全不动）══
+  // ══ 左边：24小时内（不动）══
   document.getElementById('news-main').innerHTML = today.map((n, i) => `
     <div class="secondary-story" style="border-bottom:1px solid var(--rule2);padding:14px 0;">
       <div class="sec-num" style="font-family:var(--mono);font-size:13px;font-weight:300;color:var(--rule);min-width:36px">${String(i + 1).padStart(2, '0')}</div>
@@ -796,30 +767,18 @@ function renderNews(cat) {
       </div>
     </div>`).join('');
 
-  // ══ 右边：Earlier，按日期分组 ══
+  // ══ 右边：24小时前，平铺不分组 ══
   if (older.length === 0) {
-    // 右侧没有旧新闻时显示占位提示
     document.getElementById('news-sidebar').innerHTML = `
       <div class="sidebar-heading">Earlier · 往期</div>
-      <p style="font-family:var(--mono);font-size:10px;color:var(--ink4);padding:12px 0;line-height:1.8">
-        昨日及更早的新闻将在此显示。<br>Today's earlier stories appear here.
-      </p>`;
+      <p style="font-family:var(--mono);font-size:10px;color:var(--ink4);padding:12px 0;line-height:1.8">24小时前的新闻将在此显示。</p>`;
     return;
   }
 
-  // 按 normalizeOlderTime 分组，保持顺序（先出现的 time 先显示）
-  const groupOrder = [];
-  const groupMap   = {};
-  older.forEach(n => {
-    const key = normalizeOlderTime(n.time);
-    if (!groupMap[key]) { groupMap[key] = []; groupOrder.push(key); }
-    groupMap[key].push(n);
-  });
-
-  document.getElementById('news-sidebar').innerHTML = groupOrder.map(day => `
+  document.getElementById('news-sidebar').innerHTML = `
     <div class="sidebar-section">
-      <div class="sidebar-heading">${day}</div>
-      ${groupMap[day].map(n => `
+      <div class="sidebar-heading">Earlier · 往期</div>
+      ${older.map(n => `
         <div class="sidebar-item">
           <div class="sidebar-hl"
                onclick="toggleDeck('sdeck-${n.id}')"
@@ -831,7 +790,7 @@ function renderNews(cat) {
             <span style="color:var(--ink4)"> · ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></span>
           </div>
         </div>`).join('')}
-    </div>`).join('');
+    </div>`;
 }
 
 function toggleDeck(id){
