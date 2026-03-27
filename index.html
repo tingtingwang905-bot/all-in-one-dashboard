@@ -516,14 +516,17 @@ function renderVideos(filterChannel,sort){
     vids.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
   });
 
-  // ★ 排序（仅单频道时有意义）
-  if(isSingle){
-    if(VD_SORT==='hot'){
-      allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
-    } else {
-      allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
-    }
+  // ★ 排序：单频道支持最新/最热；汇总模式始终按时间降序
+if(isSingle){
+  if(VD_SORT==='hot'){
+    allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
+  } else {
+    allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
   }
+} else {
+  // 汇总模式：各频道2条视频混合后，统一按发布时间由新到旧排列
+  allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
+}
 
   let idx=0;
   allVideos.forEach((v,vi)=>{
