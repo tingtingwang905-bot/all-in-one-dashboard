@@ -1,5 +1,20 @@
 [
   {
+    "id": "cathie_wood",
+    "cat": "invest",
+    "name": "Cathie Wood",
+    "nameZh": "凯茜·伍德",
+    "role": "ARK Invest CEO",
+    "color": "#6a0dad",
+    "quote": "We believe Bitcoin is superior to gold as a store of value because it cannot be confiscated or frozen by governments, unlike gold which can be seized during conflicts or geopolitical tensions.",
+    "quoteZh": "我们认为比特币作为价值储存手段优于黄金，因为它无法被政府没收或冻结，而黄金在冲突或地缘政治紧张局势中可能被扣押。",
+    "source": "Yellow.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2tRTFdKWGs3ZGlJMmJRUHhZaE1BemtUUWE0cV9hWDJHSmp2R3dKNlBGam9KZXVhOS1HSWpMak9LaHNUSXVBVHlSQzZ3X2NidEd0LVN4cmhVc3VkaGRSUGFjMG00Nmp1TjlFN01SMDZnTEY5cnU4bk5EYm1xdEJoUU1zSTRzcFVUQVl5dXlwN2lNMWpPbzd5VEEzVm1HYkFMcTJfTGdCOA?oc=5",
+    "date": "Mar 26, 2026",
+    "published_iso": "2026-03-26T22:10:41+00:00",
+    "is_new": true
+  },
+  {
     "id": "jensen_huang",
     "cat": "biz",
     "name": "Jensen Huang",
