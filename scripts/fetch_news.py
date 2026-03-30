@@ -115,7 +115,7 @@ def generate_cn_content(headline, deck):
                         )
                     }]
                 }],
-                "generationConfig": {"maxOutputTokens": 2000}
+                "generationConfig": {"maxOutputTokens": 3000}
             },
             timeout=30
         )
