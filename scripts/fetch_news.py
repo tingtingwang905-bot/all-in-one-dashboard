@@ -93,7 +93,7 @@ def generate_cn_content(headline, deck):
                 "Content-Type": "application/json"
             },
             json={
-                "model": "google/gemini-2.0-flash-001",
+                "model": "meta-llama/llama-3.1-8b-instruct",
                 "max_tokens": 1500,
                 "messages": [{
                     "role": "user",
