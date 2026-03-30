@@ -121,6 +121,9 @@ def generate_cn_content(headline, deck):
             timeout=15
         )
         data = response.json()
+        if "choices" not in data:
+            print(f"  API bad response: {data}")
+            return "", "", ""
         content = data["choices"][0]["message"]["content"].strip()
 
         if "SKIP" in content.upper() or "不值得" in content or "无需关注" in content or len(content) < 5:
