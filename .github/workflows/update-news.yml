@@ -15,7 +15,7 @@ jobs:
         run: pip install feedparser requests
       - name: Fetch news
         env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          AIOGE: ${{ secrets.AIOGE }}
         run: python scripts/fetch_news.py
       - name: Commit and push
         run: |
