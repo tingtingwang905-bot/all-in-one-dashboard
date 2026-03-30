@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+    "deck": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
+    "cnTitle": "默茨预计多数叙利亚难民将回国",
+    "cnDeck": "德国主要反对党基督教民主联盟（CDU）的领导人弗里德里希·默茨（Friedrich Merz）近日发表了引人注目的言论，他预计在德国的大部分叙利亚难民将在未来三年内返回家园。这一声明标志着德国在难民和移民政策上可能采取更为强硬的立场，反映出该国当前复杂的政治和社会动态。默茨的表态不仅是对德国国内日益高涨的反移民情绪的回应，也",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-03-30T20:07:17+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "What was the 1970s oil crisis, and are we heading for something worse?",
+    "deck": "While both crises involve oil, experts say there are some important differences between what happened in the 1970s and today.",
+    "cnTitle": "石油危机重现？70年代与当今对比",
+    "cnDeck": "1970年代的石油危机是全球经济史上一个分水岭事件，深刻改变了国际政治经济格局。这场危机主要由两波冲击构成：第一次是1973年10月赎罪日战争（又称第四次中东战争）爆发后，阿拉伯石油输出国组织（OAPEC）对支持以色列的国家实施石油禁运并大幅减产，导致国际油价在短时间内从每桶约3美元飙升至每桶12美元以上；第二次是1979年伊朗革命引发的供应中断，油价再次飙升，一度接近每桶40美元。这两次冲击共同引发了西方主要工业化国家的严重滞胀（Stagflation），即经济停滞与高通胀并存的局面，伴随着高失业率、能源配给、燃料短缺和消费者信心下降。危机促使各国政府重新评估能源安全战略，推动了节能技术发展，并加速了石油期货市场等金融工具的出现。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-03-30T15:22:18+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "How Trump and the oil markets move in sync: A tango in five charts",
+    "deck": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
+    "cnTitle": "特朗普言论与油市关联性分析",
+    "cnDeck": "全球原油市场对地缘政治事件的敏感性众所周知，任何可能扰乱供应、影响需求的冲突或紧张局势，都会迅速反映在国际油价的波动中。美国前总统、现任共和党总统候选人唐纳德·特朗普的公开言论，尤其是涉及战争和国际冲突的表态，长期以来一直被全球金融市场视为影响原油价格的重要因素。分析师们指出，特朗普在位期间及其卸任后，其关于中东地区冲突、俄乌战争以及更广泛国际关系格局的观点和立场，常常引发市场对未来能源政策走向、潜在贸易制裁以及地缘政治风险溢价的重新评估。例如，当特朗普的言论被解读为可能导致特定产油区局势升级，或者暗示美国将采取可能中断石油供应的强硬外交政策时，交易员通常会立即做出反应，推高原油期货合约的价格。相反，如果他的言论被市场视为可能有助于缓解紧张局势，那么油价则可能面临下行压力。市场普遍认为，特朗普的言论能够改变投资者对风险的感知，进而影响原油这一关键大宗商品的供需预期和价格走势。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-03-30T14:10:06+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Russia expels British diplomat over spying allegations",
     "deck": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
     "cnTitle": "俄驱逐英外交官涉间谍指控",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,8 +77,21 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-03-29T23:04:10+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Cut taxes on energy bills before giving bailouts, Badenoch says",
+    "deck": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
+    "cnTitle": "先降能源税 后议补贴",
+    "cnDeck": "英国执政党保守党（Tory）的重要领导人凯米·巴德诺（Kemi Badenoch）近日就如何应对不断上涨的能源账单问题发表了关键言论。她明确表示，政府应在考虑向家庭提供直接财政援助或“救助金”（bailouts）之前，优先削减能源账单上的税费。巴德诺强调，通过降低与能源相关的税负，能更直接且可持续地减轻民众经济压力，从根本上解决高昂能源",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-03-29T11:12:33+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n7",
     "lead": false
   }
 ]
