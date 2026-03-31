@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
+    "deck": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.",
+    "cnTitle": "甲骨文裁员数千加码AI投入",
+    "cnDeck": "甲骨文公司（Oracle）正在进行新一轮裁员，预计将影响数千名员工，此举正值该公司大幅增加其在人工智能（AI）领域的支出。这一战略性调整反映了科技巨头普遍存在的趋势，即重新评估劳动力结构，以优化效率并集中资源发展新兴增长领域。对于甲骨文而言，此次裁员不仅仅是削减成本的措施，更深层次地看，它似乎是其大规模重组工作的一部分。受影响的员工",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-31T16:26:37+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+    "deck": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+    "cnTitle": "战后控制黎南部并拆屋",
+    "cnDeck": "以色列国防部长伊斯拉埃尔·卡茨（Israel Katz）近日发表强硬声明，明确表示以色列计划在与黎巴嫩真主党（Hezbollah）的军事冲突结束后，继续控制黎巴嫩南部部分地区。卡茨部长进一步指出，位于以色列边境附近的黎巴嫩村庄内的房屋将被拆除。这一系列激进措施旨在建立一个“安全区”，以永久性地消除来自黎巴嫩境内的威胁，从而确保以色列北部社区的长期安全。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-31T16:12:59+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "King Charles and Queen Camilla's state visit to US to go ahead in April",
+    "deck": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
+    "cnTitle": "查尔斯国王夫妇将四月国事访问美国",
+    "cnDeck": "英国国王查尔斯三世与卡米拉王后定于下月，即四月，对美国进行国事访问。此行旨在深化英美两国长期以来的“特殊关系”，尽管近期两国间存在一些政治紧张。这将是查尔斯国王登基以来首次对美进行国事访问，具有显著外交和象征意义。国王夫妇预计将前往美国首都华盛顿，与美国总统乔·拜登举行会晤，并可能参与一系列高层",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-03-31T14:05:10+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Goldman is betting Nvidia will get a boost from health care as industry builds out AI capabilities",
+    "deck": "Nvidia is looking to increase the adoption of AI by biotechnology companies, which could boost its shares, per Goldman Sachs.",
+    "cnTitle": "高盛看好英伟达AI医疗市场",
+    "cnDeck": "全球领先的投资银行高盛集团近日发布了一份备受市场关注的分析报告，指出芯片巨头英伟达（Nvidia）正积极寻求扩大其先进人工智能（AI）技术在生物技术公司中的应用，并认为这一战略举措有望显著提振英伟达的股价。高盛的分析师团队强调，随着全球医疗健康行业加速数字化转型，并日益依赖强大计算能力来驱动创新，英伟达在AI硬件和软件领域的领导地位使其处于一个独特的有利位置，能够抓住生物技术领域新兴的巨大市场机遇。报告详细阐述了英伟达如何通过其高性能图形处理器（GPU）和配套软件平台，赋能生物技术公司在多个关键领域取得突破。例如，在药物发现方面，AI技术能够以前所未有的速度分析海量分子数据，预测蛋白质结构，从而加速潜在药物靶点的识别和优化。在基因组学研究中，AI可以帮助处理和解读复杂的基因测序数据，揭示疾病的遗传机制。此外，AI在辅助诊断、个性化医疗方案制定、优化临床试验流程以及开发新型生物传感器等方面也展现出巨大潜力。高盛认为，英伟达不仅提供领先的计算基础设施，还在积极构建和完善一个全面的AI医疗生态系统，包括开发专门的软件开发工具包（SDK）、预训练模型和云服务，以降低生物技术公司采用AI技术的门槛，并加速其研发进程。例如，英伟达的Clara Discovery平台专为药物研发设计，通过计算生物学和化学信息学工具，帮助科学家更高效地进行分子模拟和药物筛选。随着人口老龄化加剧和全球对医疗创新的需求不断增长，生物技术行业正迎来前所未有的发展机遇。英伟达将其AI核心能力扩展到这一高增长市场，无疑将为其开辟新的营收来源，并进一步巩固其在全球AI领域的领导地位。高盛预计，如果英伟达能够成功深化与生物技术行业的合作，并将其AI技术转化为实际的商业价值，那么其股票无疑将获得进一步的估值提升。这一分析不仅是对英伟达公司战略的肯定，也反映出华尔街对AI技术与传统产业深度融合所蕴含巨大商业潜力的普遍乐观态度。投资者和行业观察者将密切关注英伟达在医疗健康领域的进展，这不仅关系到英伟达自身的增长轨迹，也将深刻影响未来科技与生物医学的发展方向。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-31T13:59:48+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "US petrol price tops $4 for first time since 2022",
+    "deck": "The Iran war continues to push up prices at the pump for US motorists.",
+    "cnTitle": "美国汽油价格突破每加仑4美元大关",
+    "cnDeck": "美国汽油平均价格近期突破了每加仑4美元的关键心理关口，这是自2022年以来的首次，标志着能源成本再次对美国经济和消费者造成显著压力。这一显著上涨的主要驱动因素是中东地区持续升级的伊朗战争，该冲突对全球石油供应构成了持续的威胁和不确定性。伊朗作为全球主要的石油生产国和地区大国，其卷入的冲突往往会对国际原油市场产生深远影响。当前战争不仅直接",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-03-31T13:56:01+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Iran using children in security roles in war, reports and witnesses say",
+    "deck": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+    "cnTitle": "伊朗战时疑用儿童执勤 11岁遇袭亡",
+    "cnDeck": "根据多份报道和目击者的陈述，伊朗被指控在战争冲突中利用儿童执行安全任务，这一指控引发了国际社会对儿童权利和国际人道主义法的严重关注。据称，这种做法已导致一起令人震惊的悲剧：在首都德黑兰发生的一次空袭中，一名年仅11岁的儿童不幸丧生。这名儿童在事发时正于一处检查站执勤。这一事件不仅凸显了冲突对平民，特别是对最脆弱群体——儿童的毁灭性影响，更直接指向了伊朗可能违反国际法和相关国际公约的行为。国际社会普遍谴责在武装冲突中使用儿童兵或让儿童承担军事相关职责。联合国儿童基金会（UNICEF）等组织长期致力于保护儿童免受武装冲突的侵害，并明确指出招募和使用18岁以下儿童参战构成战争罪。报道详细指出，伊朗涉嫌将儿童部署到关键的安全岗位上，这包括但不限于检查站的执勤。目击者的证词进一步支持了这些指控，表明这并非单一孤立事件，而是可能存在一个更为广泛的模式。将未成年人置于战区或冲突相关职责中，使其直接暴露在敌对行动的危险之下，严重侵犯了他们的生命权、健康权和受保护权。此次在德黑兰发生的空袭，导致11岁儿童死亡的事件，无疑将进一步加剧国际社会对伊朗的审查和压力。虽然原始报道并未明确指出空袭的实施方，但事件本身无疑是对儿童在冲突中命运的残酷提醒。人权组织和国际观察员呼吁对此类指控进行彻底调查，以查明真相并追究责任。此事件对伊朗的国际声誉构成严重打击，并可能导致其面临国际法律层面的谴责和制裁。国际刑事法院（ICC）的罗马规约将招募或征募未满15岁儿童参与敌对行动的行为视为战争罪。因此，如果这些指控得到证实，相关人员和实体可能面临国际司法追究。此悲剧也再次提醒国际社会，确保儿童在冲突中的安全和福祉是全人类的共同责任。各国和国际组织必须采取坚决行动，阻止任何国家或非国家行为者利用儿童参与武装冲突，并为受影响的儿童提供必要的保护和支持。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-31T12:56:45+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
     "headline": "Housing market to soften amid Iran war fallout, Nationwide says",
     "deck": "The lender says the market regained momentum in March, but rising mortgage and energy costs could hit consumer confidence.",
     "cnTitle": "Nationwide警告：伊朗冲突或致楼市疲软",
@@ -9,9 +93,8 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n7",
+    "lead": false
   },
   {
     "headline": "Autonomous boat startup Saronic raises $1.75 billion in race to modernize U.S. military",
@@ -23,8 +106,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n8",
     "lead": false
   },
   {
@@ -37,8 +119,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n9",
     "lead": false
   },
   {
@@ -51,8 +132,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n10",
     "lead": false
   },
   {
@@ -65,8 +145,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n11",
     "lead": false
   },
   {
@@ -79,8 +158,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n12",
     "lead": false
   },
   {
@@ -93,8 +171,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n13",
     "lead": false
   },
   {
@@ -107,8 +184,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n14",
     "lead": false
   },
   {
@@ -121,8 +197,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n15",
     "lead": false
   },
   {
@@ -135,8 +210,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n16",
     "lead": false
   },
   {
@@ -149,7 +223,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n11",
+    "id": "n17",
     "lead": false
   },
   {
@@ -162,7 +236,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n12",
+    "id": "n18",
     "lead": false
   },
   {
@@ -175,8 +249,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n19",
     "lead": false
   },
   {
@@ -189,8 +262,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n20",
     "lead": false
   },
   {
@@ -203,8 +275,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n21",
     "lead": false
   },
   {
@@ -217,8 +288,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "is_new": true,
-    "id": "n16",
+    "id": "n22",
     "lead": false
   },
   {
@@ -231,7 +301,7 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
-    "id": "n17",
+    "id": "n23",
     "lead": false
   },
   {
@@ -244,8 +314,7 @@
     "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
     "time": "14小时前",
     "published_iso": "2026-03-30T19:34:25+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n24",
     "lead": false
   },
   {
@@ -258,7 +327,7 @@
     "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n19",
+    "id": "n25",
     "lead": false
   },
   {
@@ -271,8 +340,7 @@
     "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-03-30T15:29:15+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n26",
     "lead": false
   },
   {
@@ -285,7 +353,7 @@
     "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-30T15:22:18+00:00",
-    "id": "n21",
+    "id": "n27",
     "lead": false
   },
   {
@@ -298,8 +366,7 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
     "time": "19小时前",
     "published_iso": "2026-03-30T14:43:49+00:00",
-    "is_new": true,
-    "id": "n22",
+    "id": "n28",
     "lead": false
   },
   {
@@ -312,7 +379,7 @@
     "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T14:10:06+00:00",
-    "id": "n23",
+    "id": "n29",
     "lead": false
   },
   {
@@ -325,7 +392,7 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n24",
+    "id": "n30",
     "lead": false
   },
   {
@@ -338,7 +405,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGEyYlZrbk42QVpwejdMT3I4ZElsU2ZIQmxPUUNnajBfVElLaWktdzJWZ1pJTWZHc0dic21QeWlzczVKcGpoRUxWczhCQllzWFc2QmtObkh4Z3NYUm0tWmVhcHVRcFdKd0pEV1ppS2p2dnNQVWhsclVNc1RqaXBsMmlrel9aYS1yR2NLQzBRNlR5TkdTQVJQazUxRDRJamlmZlFqaFRpTFprcm16ZEd0TUxfRXlGazh2bV92X2FJQV9ROUlKS1RDWWtHRQ?oc=5",
     "time": "22小时前",
     "published_iso": "2026-03-30T08:03:20+00:00",
-    "id": "n25",
+    "id": "n31",
     "lead": false
   },
   {
@@ -351,7 +418,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n26",
+    "id": "n32",
     "lead": false
   },
   {
@@ -364,8 +431,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T23:07:12+00:00",
-    "is_new": true,
-    "id": "n27",
+    "id": "n33",
     "lead": false
   },
   {
@@ -378,8 +444,7 @@
     "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T23:07:04+00:00",
-    "is_new": true,
-    "id": "n28",
+    "id": "n34",
     "lead": false
   },
   {
@@ -392,20 +457,7 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-03-29T23:04:10+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Cut taxes on energy bills before giving bailouts, Badenoch says",
-    "deck": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
-    "cnTitle": "先降能源税 后议补贴",
-    "cnDeck": "英国执政党保守党（Tory）的重要领导人凯米·巴德诺（Kemi Badenoch）近日就如何应对不断上涨的能源账单问题发表了关键言论。她明确表示，政府应在考虑向家庭提供直接财政援助或“救助金”（bailouts）之前，优先削减能源账单上的税费。巴德诺强调，通过降低与能源相关的税负，能更直接且可持续地减轻民众经济压力，从根本上解决高昂能源",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-29T11:12:33+00:00",
-    "id": "n30",
+    "id": "n35",
     "lead": false
   }
 ]
