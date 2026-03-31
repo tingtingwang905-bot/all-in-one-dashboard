@@ -1,5 +1,33 @@
 [
   {
+    "headline": "White House says Trump to sign executive order limiting mail-in voting",
+    "deck": "",
+    "cnTitle": "特朗普将签署限制邮寄投票行政令",
+    "cnDeck": "白宫今日表示，前总统唐纳德·特朗普计划一旦再次当选，将立即签署一项行政命令，旨在大幅限制美国的邮寄投票制度。这一消息由白宫新闻秘书在例行记者会上透露，并引用了特朗普竞选团队近期在内部会议上的表态。特朗普长期以来一直对邮寄投票持强烈批评态度，尤其是在2020年总统大选中，他多次声称广泛的邮寄投票导致了大规模舞弊，尽管这些指控在多州法院被驳回，且缺乏确凿证据支持。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-31T20:58:38+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Oil nears highest price since start of Iran war",
+    "deck": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
+    "cnTitle": "油价逼近伊朗战争以来新高",
+    "cnDeck": "近期，中东地区的地缘政治紧张局势急剧升级，尤其围绕美国、以色列与伊朗之间错综复杂的冲突（新闻原文将其描述为“US-Israel Iran war”），已导致一条关键航道的交通运输几乎完全中断，给全球能源市场带来了毁灭性冲击。受此影响，国际基准布伦特原油价格应声飙升，目前正逼近自“伊朗战争”爆发以来（此处“伊朗战争”是新闻原文的表述，可能指代地区长期",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-03-31T18:33:00+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
     "deck": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.",
     "cnTitle": "甲骨文裁员数千加码AI投入",
@@ -9,9 +37,8 @@
     "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:26:37+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:12:59+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T14:05:10+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:59:48+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:56:01+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T12:56:45+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -106,7 +128,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -119,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -132,7 +154,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -145,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -158,7 +180,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -171,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -184,7 +206,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -197,7 +219,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -210,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -223,7 +245,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -236,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -249,7 +271,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -262,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -275,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -288,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -301,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -314,7 +336,7 @@
     "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
     "time": "14小时前",
     "published_iso": "2026-03-30T19:34:25+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -327,7 +349,7 @@
     "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -340,7 +362,7 @@
     "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-03-30T15:29:15+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -353,7 +375,7 @@
     "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-30T15:22:18+00:00",
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -366,7 +388,7 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
     "time": "19小时前",
     "published_iso": "2026-03-30T14:43:49+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -379,7 +401,7 @@
     "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T14:10:06+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -392,7 +414,7 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -405,7 +427,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGEyYlZrbk42QVpwejdMT3I4ZElsU2ZIQmxPUUNnajBfVElLaWktdzJWZ1pJTWZHc0dic21QeWlzczVKcGpoRUxWczhCQllzWFc2QmtObkh4Z3NYUm0tWmVhcHVRcFdKd0pEV1ppS2p2dnNQVWhsclVNc1RqaXBsMmlrel9aYS1yR2NLQzBRNlR5TkdTQVJQazUxRDRJamlmZlFqaFRpTFprcm16ZEd0TUxfRXlGazh2bV92X2FJQV9ROUlKS1RDWWtHRQ?oc=5",
     "time": "22小时前",
     "published_iso": "2026-03-30T08:03:20+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -418,7 +440,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n32",
+    "id": "n34",
     "lead": false
   },
   {
@@ -431,7 +453,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T23:07:12+00:00",
-    "id": "n33",
+    "id": "n35",
     "lead": false
   },
   {
@@ -444,7 +466,7 @@
     "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T23:07:04+00:00",
-    "id": "n34",
+    "id": "n36",
     "lead": false
   },
   {
@@ -457,7 +479,7 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-03-29T23:04:10+00:00",
-    "id": "n35",
+    "id": "n37",
     "lead": false
   }
 ]
