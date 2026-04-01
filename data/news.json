@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Energy bill support would be based on household income, Reeves says",
+    "deck": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
+    "cnTitle": "能源补贴或与家庭收入挂钩",
+    "cnDeck": "英国工党影子财政大臣雷切尔·里夫斯（Rachel Reeves）近日就未来能源账单支持计划的潜在方向发表了重要声明。她向英国广播公司（BBC）表示，未来政府对家庭能源账单的支持将以家庭收入为基础进行评估。这意味着，任何旨在帮助民众应对高昂能源费用的补贴措施，都将不再是普遍性的，而是有针对性地提供给收入较低或经济困难的家庭。里夫斯指出，目前就具体细节以及哪些家庭将符合",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T06:12:24+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Asia stocks jump after Trump suggests Iran war could end in weeks",
+    "deck": "The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.",
+    "cnTitle": "特朗普暗示伊朗战事或终结",
+    "cnDeck": "美国前总统唐纳德·特朗普发表言论，暗示与伊朗相关的“战争冲突可能在数周内结束”，此番表态在全球金融市场引发显著反响，尤其是促使亚洲主要股市普遍出现大幅上涨。这一乐观预期被市场解读为地缘政治紧张局势有望缓解的积极信号，从而有效提振了投资者的信心，促使风险偏好有所回升。长期以来，与伊朗相关的地缘政治不确定性，包括地区冲突、核计划争议以及对国际航运",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-01T05:17:12+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Pay rise for 2.7 million people as minimum wage increase comes into force",
+    "deck": "Many businesses have said they will have to pass higher wage costs onto customers.",
+    "cnTitle": "270万人最低工资上涨引发通胀担忧",
+    "cnDeck": "一项旨在提升270万劳动者生活水平的最低工资上调政策正式生效，这意味着数百万低收入工人的薪资将有所增加。这一政策的实施，旨在通过提高劳动者的购买力，刺激消费支出，从而对经济增长产生积极影响。然而，此次工资上调并非没有潜在的经济挑战。许多企业已经公开表示，由于劳动力成本显著增加，它们将别无选择，只能将这些额外的运营支出转嫁给消费者。这种成本转嫁机制预计将直接导致商品和服务价格的普遍上涨，从而对通货膨胀构成新的上行压力。经济分析师普遍认为，最低工资的提升在短期内将显著改善270万受影响工人的生活质量，为他们提供更稳定的经济基础。但从宏观经济层面来看，其对整体物价水平的影响需要密切关注。如果企业普遍提高商品和服务的价格以弥补工资成本，那么消费者的整体购买力可能受到侵蚀，这尤其对中等收入和固定收入群体构成挑战。中央银行和货币政策制定者将不得不密切监测通胀数据，以评估此次工资上涨对未来物价走势的影响，并可能据此调整其货币政策立场。例如，持续的通胀压力可能会促使央行在更长时间内维持较高的利率，或在必要时考虑进一步紧缩政策。此外，此次最低工资调整也引发了关于劳动力市场动态的广泛讨论。有观点认为，更高的最低工资可能会促使一些企业考虑自动化替代人工，或在招聘新员工时变得更加谨慎，从而可能对就业增长产生复杂影响。但也有研究表明，在合理范围内上调最低工资对就业的影响有限，甚至可能通过提高员工士气和生产效率来抵消部分成本。政策制定者在平衡社会公平与经济稳定之间面临考验。此次最低工资上涨及其可能引发的通胀反应，无疑将成为未来一段时间内经济讨论的核心议题之一，其长期影响将需要持续的观察和评估。政府希望通过此举缩小贫富差距，促进社会公平，但同时也要警惕可能伴随而来的物价上涨风险，以及其对国家整体经济竞争力的潜在影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-03-31T23:01:15+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "White House says Trump to sign executive order limiting mail-in voting",
     "deck": "",
     "cnTitle": "特朗普将签署限制邮寄投票行政令",
@@ -9,9 +51,8 @@
     "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T20:58:38+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Oil nears highest price since start of Iran war",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T18:33:00+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,7 +77,7 @@
     "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:26:37+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:12:59+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T14:05:10+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,7 @@
     "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:59:48+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -89,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:56:01+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T12:56:45+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,7 +168,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -141,7 +181,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -154,7 +194,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -167,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -180,7 +220,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -193,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -206,7 +246,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -219,7 +259,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -232,7 +272,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -245,7 +285,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -258,7 +298,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -271,7 +311,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -284,7 +324,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -297,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -310,7 +350,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -323,7 +363,7 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -336,7 +376,7 @@
     "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
     "time": "14小时前",
     "published_iso": "2026-03-30T19:34:25+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -349,7 +389,7 @@
     "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -362,7 +402,7 @@
     "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-03-30T15:29:15+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -375,7 +415,7 @@
     "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-30T15:22:18+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -388,7 +428,7 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
     "time": "19小时前",
     "published_iso": "2026-03-30T14:43:49+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -401,7 +441,7 @@
     "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T14:10:06+00:00",
-    "id": "n31",
+    "id": "n34",
     "lead": false
   },
   {
@@ -414,7 +454,7 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n32",
+    "id": "n35",
     "lead": false
   },
   {
@@ -427,7 +467,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGEyYlZrbk42QVpwejdMT3I4ZElsU2ZIQmxPUUNnajBfVElLaWktdzJWZ1pJTWZHc0dic21QeWlzczVKcGpoRUxWczhCQllzWFc2QmtObkh4Z3NYUm0tWmVhcHVRcFdKd0pEV1ppS2p2dnNQVWhsclVNc1RqaXBsMmlrel9aYS1yR2NLQzBRNlR5TkdTQVJQazUxRDRJamlmZlFqaFRpTFprcm16ZEd0TUxfRXlGazh2bV92X2FJQV9ROUlKS1RDWWtHRQ?oc=5",
     "time": "22小时前",
     "published_iso": "2026-03-30T08:03:20+00:00",
-    "id": "n33",
+    "id": "n36",
     "lead": false
   },
   {
@@ -440,45 +480,6 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Why Chinese tech companies are racing to set up in Hong Kong",
-    "deck": "Mainland firms are using the territory to test products and as a springboard for global expansion.",
-    "cnTitle": "中国科技企业赴港布局谋求全球扩张",
-    "cnDeck": "近年来，中国内地科技企业正以前所未有的速度加速在香港设立分支机构，将香港作为其产品测试与全球扩张的战略跳板。这一趋势不仅反映了香港作为国际金融和商业中心的独特优势，也凸显了内地科技企业在全球化竞争中寻求新增长点的迫切需求。香港凭借其“一国两制”的特殊地位、完善的法律体系、自由的资本流动以及国际化的营商环境，成为众多内地科技巨头及新兴初创企业实现“出海”目标的首选之地。据香港投资推广署的最新数据显示，过去一年中，来自中国内地的科技企业在港设立或扩展业务的数量同比增长了15%，涵盖人工智能、金融科技、生物科技、云计算和电子商务等多个前沿领域。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-29T23:07:12+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-    "deck": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.",
-    "cnTitle": "科技巨头高管归咎AI致裁员潮",
-    "cnDeck": "近期，科技行业的领袖们出现了一个引人注目的趋势：他们越来越多地将大规模裁员归咎于人工智能（AI）工具的快速发展与广泛应用。与此同时，这些高管们也强调了公司在AI时代背景下对更多投资资金的迫切需求。这一现象引发了广泛关注，市场分析师、经济学家以及劳动力市场专家正在审视这一说辞背后的真实动机及其对未来经济格局的潜在影响。过去一年多来，全球科技行业持续",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-29T23:07:04+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Compensation details for millions of drivers set to be revealed",
-    "deck": "The City regulator will outline how millions of people can claim compensation for mis-sold car finance.",
-    "cnTitle": "英国监管机构将公布汽车金融赔偿",
-    "cnDeck": "英国金融行为监管局（FCA），通常被称为“城市监管机构”，即将公布一项重要计划，详细说明数百万消费者如何就其在过去数年间可能遭遇的“销售不当”汽车金融贷款进行索赔。此举是FCA针对英国汽车金融市场广泛调查的结果，该调查旨在揭露和纠正贷款机构在向消费者出售汽车贷款时存在的潜在不当行为。FCA的调查最初于2024年初启动，重点关注汽车经销商和贷款机构之间存在的酌情佣金安排。在这种安排下，经销商被允许在贷款利率上设定自己的加价幅度，导致一些消费者支付了过高的利息费用，而他们对此毫不知情。FCA认为，这种做法可能违反了公平待客原则，并导致了严重的消费者损害。据估计，受到影响的消费者数量可能高达数百万，涉及的潜在赔偿金额可能达到数十亿英镑。FCA在声明中表示，新的指引将明确索赔的资格标准、索赔流程以及消费者可以期待的赔偿类型。这可能包括退还多收的利息、支付额外补偿金，甚至在某些情况下，如果贷款被认定为无效，则全部撤销贷款协议。监管机构敦促所有认为自己可能受到影响的消费者关注即将发布的详细信息，并按照指引提交索赔。此消息预计将对英国汽车金融行业产生深远影响。多家大型汽车金融提供商和贷款机构可能面临巨额的赔偿支出。一些分析师此前已警告称，这可能导致行业内的利润率下降，甚至可能促使一些小型机构退出市场。英国主要银行和金融集团已经开始评估其潜在的风险敞口，并预计将在未来财报中计入相关的准备金。FCA的这一举动被视为其持续致力于保护消费者权益、确保金融市场公平透明的一部分。此前，英国在支付保护保险（PPI）销售不当事件中也经历了类似的监管干预，那次事件最终导致了数十亿英镑的赔偿。此次汽车金融索赔的规模和复杂性可能与PPI事件相媲美，甚至可能超出。消费者权益组织对此表示欢迎，并呼吁相关金融机构积极配合监管，确保受损消费者能够获得及时和公正的赔偿。FCA强调，消费者无需通过第三方索赔公司，可以直接向金融机构或通过金融申诉服务（FOS）提出申诉，以避免不必要的费用。预计FCA将在未来几周内发布官方的详细操作指南。",
-    "cat": "finance",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-03-29T23:04:10+00:00",
     "id": "n37",
     "lead": false
   }
