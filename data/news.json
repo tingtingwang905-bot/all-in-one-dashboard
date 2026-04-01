@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Claude Code users hitting usage limits 'way faster than expected'",
+    "deck": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users.",
+    "cnTitle": "Anthropic旗下Claude Code用户使用限制",
+    "cnDeck": "人工智能（AI）领域的知名公司Anthropic近日证实，其为软件开发者设计的AI编程助手“Claude Code”的用户正遭遇使用限制问题。Anthropic表示，许多用户反映他们触及了设定的使用上限，“远超预期地快”，导致服务中断，并被“屏蔽”而无法继续使用该工具进行代码辅助工作。公司已确认该问题，并声明正在积极着手修复。Claude Code作为Anthropic推出的先进AI工具，旨在通过提供代码生成、调试、重构及实时编程建议",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-01T11:59:19+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Mass robotaxi malfunction halts traffic in Chinese city",
+    "deck": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+    "cnTitle": "百度萝卜快跑故障致百辆车停摆",
+    "cnDeck": "近日，中国某城市发生一起大规模自动驾驶出租车服务故障，涉及科技巨头百度旗下的“萝卜快跑”平台。据新闻报道，此次故障造成至少100辆自动驾驶车辆在城市道路上意外停滞，严重扰乱了当地的交通秩序。截至目前，百度公司尚未就此事件的发生及具体原因回应媒体的置评请求，这使得外界对故障的深层原因和后续影响存在诸多疑问。百度作为中国领先的互联网公司，",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-01T11:34:31+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Iran threatens Nvidia, Apple and other tech giants with attack",
     "deck": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\"",
     "cnTitle": "伊朗威胁英伟达苹果等科技巨头",
@@ -9,9 +37,8 @@
     "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:28:08+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Stock futures are higher to start the month as optimism around Iran war ending grows: Live updates",
@@ -23,8 +50,7 @@
     "url": "https://www.cnbc.com/2026/03/31/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:20:04+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:19:22+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:08:20+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T09:55:28+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.cnbc.com/2026/04/01/spacex-lines-up-21-banks-for-mega-ipo-code-named-project-apex.html",
     "time": "1小时前",
     "published_iso": "2026-04-01T09:25:35+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-01T08:15:36+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -107,8 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-01T07:16:15+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -121,8 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-01T07:09:46+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -135,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T06:12:24+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -148,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-01T05:17:12+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -161,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-31T23:01:15+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -174,8 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-31T22:48:34+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -188,8 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-31T22:07:26+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -202,8 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-31T21:08:35+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -216,7 +232,7 @@
     "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T20:58:38+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -229,8 +245,7 @@
     "url": "https://www.cnbc.com/2026/03/31/morgan-stanley-says-buy-this-dividend-paying-key-beneficiary-of-rising-oil-prices.html",
     "time": "14小时前",
     "published_iso": "2026-03-31T20:07:20+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -243,8 +258,7 @@
     "url": "https://www.cnbc.com/2026/03/31/silver-just-had-its-worst-month-in-15-years-where-investors-see-it-going-next.html",
     "time": "14小时前",
     "published_iso": "2026-03-31T20:06:33+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -257,8 +271,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-03-31T20:00:00+00:00",
-    "is_new": true,
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -271,8 +284,7 @@
     "url": "https://www.cnbc.com/2026/03/31/social-security-shortfall-who-will-pay.html",
     "time": "15小时前",
     "published_iso": "2026-03-31T18:58:39+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T18:33:00+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +310,7 @@
     "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:26:37+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:12:59+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T14:05:10+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,7 +349,7 @@
     "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:59:48+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -350,7 +362,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:56:01+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -363,7 +375,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T12:56:45+00:00",
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -376,7 +388,7 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -389,7 +401,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -402,7 +414,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -415,7 +427,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -428,7 +440,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "id": "n32",
+    "id": "n34",
     "lead": false
   },
   {
@@ -441,7 +453,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "id": "n33",
+    "id": "n35",
     "lead": false
   },
   {
@@ -454,7 +466,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "id": "n34",
+    "id": "n36",
     "lead": false
   },
   {
@@ -467,7 +479,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "id": "n35",
+    "id": "n37",
     "lead": false
   },
   {
@@ -480,7 +492,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "id": "n36",
+    "id": "n38",
     "lead": false
   },
   {
@@ -493,7 +505,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "id": "n37",
+    "id": "n39",
     "lead": false
   },
   {
@@ -506,7 +518,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n38",
+    "id": "n40",
     "lead": false
   },
   {
@@ -519,7 +531,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n39",
+    "id": "n41",
     "lead": false
   },
   {
@@ -532,7 +544,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "id": "n40",
+    "id": "n42",
     "lead": false
   },
   {
@@ -545,7 +557,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "id": "n41",
+    "id": "n43",
     "lead": false
   },
   {
@@ -558,7 +570,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "id": "n42",
+    "id": "n44",
     "lead": false
   },
   {
@@ -571,7 +583,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "id": "n43",
+    "id": "n45",
     "lead": false
   },
   {
@@ -584,7 +596,7 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
-    "id": "n44",
+    "id": "n46",
     "lead": false
   },
   {
@@ -597,7 +609,7 @@
     "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
     "time": "14小时前",
     "published_iso": "2026-03-30T19:34:25+00:00",
-    "id": "n45",
+    "id": "n47",
     "lead": false
   },
   {
@@ -610,8 +622,7 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-30T18:59:19+00:00",
-    "is_new": true,
-    "id": "n46",
+    "id": "n48",
     "lead": false
   },
   {
@@ -624,59 +635,7 @@
     "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n47",
-    "lead": false
-  },
-  {
-    "headline": "Spain closes airspace to US aircraft involved in Iran war",
-    "deck": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
-    "cnTitle": "西班牙拒美军机过境涉伊朗战事",
-    "cnDeck": "西班牙政府近日做出了一项具有里程碑意义的决定，宣布将关闭其领空，禁止参与“伊朗战争”的美国飞机过境。此举紧随西班牙政府早前的一项决议，即拒绝美国使用其在安达卢西亚地区共同运营的两处军事基地，此举无疑在全球地缘政治格局中投下了一枚重磅炸弹。西班牙此番立场，标志着其在对待潜在地区冲突问题上采取了更为独立和谨慎的态度，尤其是在涉及美国中东军事行动的敏感议题上。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-03-30T15:29:15+00:00",
-    "id": "n48",
-    "lead": false
-  },
-  {
-    "headline": "What was the 1970s oil crisis, and are we heading for something worse?",
-    "deck": "While both crises involve oil, experts say there are some important differences between what happened in the 1970s and today.",
-    "cnTitle": "石油危机重现？70年代与当今对比",
-    "cnDeck": "1970年代的石油危机是全球经济史上一个分水岭事件，深刻改变了国际政治经济格局。这场危机主要由两波冲击构成：第一次是1973年10月赎罪日战争（又称第四次中东战争）爆发后，阿拉伯石油输出国组织（OAPEC）对支持以色列的国家实施石油禁运并大幅减产，导致国际油价在短时间内从每桶约3美元飙升至每桶12美元以上；第二次是1979年伊朗革命引发的供应中断，油价再次飙升，一度接近每桶40美元。这两次冲击共同引发了西方主要工业化国家的严重滞胀（Stagflation），即经济停滞与高通胀并存的局面，伴随着高失业率、能源配给、燃料短缺和消费者信心下降。危机促使各国政府重新评估能源安全战略，推动了节能技术发展，并加速了石油期货市场等金融工具的出现。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-03-30T15:22:18+00:00",
     "id": "n49",
-    "lead": false
-  },
-  {
-    "headline": "Trump says U.S. will destroy Iran’s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
-    "deck": "Donald Trump warned the U.S. will completely obliterate all of Iran's electric generating plants, oil wells and Kharg Island if a peace deal is not reached.",
-    "cnTitle": "特朗普威胁若无协议将摧毁伊朗油井与卡尔格岛",
-    "cnDeck": "唐纳德·特朗普发出严厉警告，称如果未能达成一项旨在“立即”重新开放霍尔木兹海峡的和平协议，美国将“完全摧毁”伊朗的所有发电厂、油井以及卡尔格岛。特朗普的这一言论是在其作为前美国总统，并作为目前共和党总统候选人期间发表的，反映了他一贯对伊朗采取的强硬立场。霍尔木兹海峡是连接波斯湾和阿曼湾的战略性水道，全球约五分之一的石油供应需要通过该海峡运输，其战略和经济重要性不言而喻。任何对该海峡通行的威胁或干扰，都将对全球能源市场产生巨大影响，并可能引发国际社会的高度关注。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
-    "time": "19小时前",
-    "published_iso": "2026-03-30T14:43:49+00:00",
-    "id": "n50",
-    "lead": false
-  },
-  {
-    "headline": "How Trump and the oil markets move in sync: A tango in five charts",
-    "deck": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
-    "cnTitle": "特朗普言论与油市关联性分析",
-    "cnDeck": "全球原油市场对地缘政治事件的敏感性众所周知，任何可能扰乱供应、影响需求的冲突或紧张局势，都会迅速反映在国际油价的波动中。美国前总统、现任共和党总统候选人唐纳德·特朗普的公开言论，尤其是涉及战争和国际冲突的表态，长期以来一直被全球金融市场视为影响原油价格的重要因素。分析师们指出，特朗普在位期间及其卸任后，其关于中东地区冲突、俄乌战争以及更广泛国际关系格局的观点和立场，常常引发市场对未来能源政策走向、潜在贸易制裁以及地缘政治风险溢价的重新评估。例如，当特朗普的言论被解读为可能导致特定产油区局势升级，或者暗示美国将采取可能中断石油供应的强硬外交政策时，交易员通常会立即做出反应，推高原油期货合约的价格。相反，如果他的言论被市场视为可能有助于缓解紧张局势，那么油价则可能面临下行压力。市场普遍认为，特朗普的言论能够改变投资者对风险的感知，进而影响原油这一关键大宗商品的供需预期和价格走势。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-03-30T14:10:06+00:00",
-    "id": "n51",
     "lead": false
   }
 ]
