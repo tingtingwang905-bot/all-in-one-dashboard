@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-01T11:59:19+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-01T11:34:31+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -379,6 +377,20 @@
     "lead": false
   },
   {
+    "headline": "How will car finance compensation payments work?",
+    "deck": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+    "cnTitle": "汽车金融赔偿方案启动",
+    "cnDeck": "近日，一项针对汽车金融行业佣金安排的调查披露，数百万消费者可能因贷款机构与汽车经销商之间的不当佣金协议而有权获得赔偿。此前，许多汽车金融产品中存在一种“自由裁量佣金安排”（Discretionary Commission Arrangements, DCAs），即经销商在向客户提供贷款时，被允许在一定范围内调整贷款利率。这种机制下，经销商往往有动机提高利率，因为更高的利率通常意味着他们可以从贷款机构获得更高的佣金。这种做法导致大量消费者在不知情的情况下支付了过高的贷款利息，从而蒙受了经济损失。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-03-31T09:47:58+00:00",
+    "is_new": true,
+    "id": "n30",
+    "lead": false
+  },
+  {
     "headline": "Housing market to soften amid Iran war fallout, Nationwide says",
     "deck": "The lender says the market regained momentum in March, but rising mortgage and energy costs could hit consumer confidence.",
     "cnTitle": "Nationwide警告：伊朗冲突或致楼市疲软",
@@ -388,7 +400,7 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "id": "n30",
+    "id": "n31",
     "lead": false
   },
   {
@@ -401,7 +413,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "id": "n31",
+    "id": "n32",
     "lead": false
   },
   {
@@ -414,7 +426,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "id": "n32",
+    "id": "n33",
     "lead": false
   },
   {
@@ -427,7 +439,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "id": "n33",
+    "id": "n34",
     "lead": false
   },
   {
@@ -440,7 +452,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "id": "n34",
+    "id": "n35",
     "lead": false
   },
   {
@@ -453,7 +465,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "id": "n35",
+    "id": "n36",
     "lead": false
   },
   {
@@ -466,7 +478,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "id": "n36",
+    "id": "n37",
     "lead": false
   },
   {
@@ -479,7 +491,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "id": "n37",
+    "id": "n38",
     "lead": false
   },
   {
@@ -492,7 +504,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "id": "n38",
+    "id": "n39",
     "lead": false
   },
   {
@@ -505,7 +517,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "id": "n39",
+    "id": "n40",
     "lead": false
   },
   {
@@ -518,7 +530,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n40",
+    "id": "n41",
     "lead": false
   },
   {
@@ -531,7 +543,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n41",
+    "id": "n42",
     "lead": false
   },
   {
@@ -544,7 +556,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "id": "n42",
+    "id": "n43",
     "lead": false
   },
   {
@@ -557,7 +569,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "id": "n43",
+    "id": "n44",
     "lead": false
   },
   {
@@ -570,7 +582,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "id": "n44",
+    "id": "n45",
     "lead": false
   },
   {
@@ -583,59 +595,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "id": "n45",
-    "lead": false
-  },
-  {
-    "headline": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-    "deck": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
-    "cnTitle": "默茨预计多数叙利亚难民将回国",
-    "cnDeck": "德国主要反对党基督教民主联盟（CDU）的领导人弗里德里希·默茨（Friedrich Merz）近日发表了引人注目的言论，他预计在德国的大部分叙利亚难民将在未来三年内返回家园。这一声明标志着德国在难民和移民政策上可能采取更为强硬的立场，反映出该国当前复杂的政治和社会动态。默茨的表态不仅是对德国国内日益高涨的反移民情绪的回应，也",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-03-30T20:07:17+00:00",
     "id": "n46",
-    "lead": false
-  },
-  {
-    "headline": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-    "deck": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
-    "cnTitle": "通胀可控无需因油价冲击加息",
-    "cnDeck": "美联储主席杰罗姆·鲍威尔周一在哈佛大学发表了重要讲话，就当前的通胀前景和货币政策走向阐述了看法。鲍威尔明确表示，他认为目前的通胀展望已得到有效控制，并强调“没有必要因为油价冲击而加息”。这一表态迅速吸引了全球金融市场的广泛关注，被解读为美联储可能已接近其紧缩周期终点的强烈信号。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-    "time": "14小时前",
-    "published_iso": "2026-03-30T19:34:25+00:00",
-    "id": "n47",
-    "lead": false
-  },
-  {
-    "headline": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
-    "deck": "The City regulator says 12.1 million mis-sold motor finance deals will be eligible for redress.",
-    "cnTitle": "英国数百万司机将获车贷误售赔偿",
-    "cnDeck": "英国金融行为监管局（FCA），通常被称为“伦敦金融城监管机构”，近期宣布，预计将有高达1210万笔汽车金融交易符合获得赔偿的资格。这些交易涉及过去广泛存在的“误售”行为，即汽车贷款提供商或经纪人未向消费者充分披露其从贷款安排中获得的佣金。根据初步估计，受到影响的司机平均每人将收到约829英镑的赔偿。FCA此举源于其对汽车金融市场长达数月的深入调查。该调查重点关注了从2007年到2021年期间，贷款机构向汽车经销商和经纪人支付的“酌情佣金”模式。在这种模式下，经销商可以自行设定消费者支付的贷款利率，并从中赚取更高的佣金，而消费者往往对此毫不知情，导致他们支付了过高的利息。FCA认为，这种做法可能导致了数百万消费者在不知情的情况下支付了不合理的费用，并违反了公平对待客户的原则。FCA的调查报告指出，这些误售行为普遍存在于汽车贷款市场，影响了包括个人合同购买（PCP）和分期付款（HP）等多种类型的汽车金融产品。此次赔偿方案的推出，旨在纠正历史遗留问题，保护消费者权益，并确保金融服务市场的透明度和公平性。监管机构已明确表示，相关金融机构将有义务对受影响的客户进行评估，并按照指导方针提供适当的赔偿。市场分析师预计，此次大规模赔偿将对英国汽车金融行业产生深远影响。一些主要的银行和贷款机构可能面临数十亿英镑的赔偿成本，这可能对其财务状况造成压力，并促使它们重新审视其佣金结构和销售流程。此外，这一事件也将提高消费者对汽车金融产品的警惕性，促使他们在签订协议前更仔细地审查条款和条件。FCA已设立了一个专门的流程，指导消费者如何提出索",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-30T18:59:19+00:00",
-    "id": "n48",
-    "lead": false
-  },
-  {
-    "headline": "How will car finance compensation payments work?",
-    "deck": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-    "cnTitle": "数百万车贷用户或将获赔偿",
-    "cnDeck": "近期，一项针对汽车金融行业佣金安排的重大审查正在进行中，数百万消费者有望因此获得赔偿。这一审查的核心问题在于，贷款机构与汽车经销商之间存在的隐秘佣金协议，特别是所谓的“酌情佣金安排”（Discretionary Commission Arrangements, DCAs）。在这种机制下，经销商有权在一定范围内自行设定客户的贷款利率，从而赚取更高的佣金，而消费者往往对此毫不知情，也未能充分理解其对贷款成本的影响。据初步调查显示，从2007年到2021年期间，英国金融行为监管局（FCA）所关注的这类佣金安排导致了大量消费者支付了过高的贷款利息。监管机构目前正在深入评估这些不透明的佣金结构，旨在确保金融市场的公平性和透明度。预计将有数百万受影响的消费者，他们曾通过个人合同购买（PCP）或分期付款（HP）等方式获得汽车金融服务。这些消费者在签署贷款协议时，可能并未被告知经销商从其贷款中获得的具体佣金数额，也未被告知如果经销商选择较低的利率，他们本可以支付更少的利息。FCA已于近期宣布，将对历史上的汽车金融佣金安排展开一项全面调查，以确定是否存在普遍性的消费者损害。这一举措是在收到大量消费者投诉后采取的，投诉内容大多指向因不透明佣金而导致的贷款成本不公。监管机构强调，其目标是确保消费者获得公正对待，并明确界定未来汽车金融产品销售中的佣金披露标准。FCA已暂停了与此类佣金相关的消费者投诉处理，直至其调查结果公布并确定赔偿机制。目前，关于赔偿将如何具体操作的细节尚未完全公布，但预计将涉及以下几个关键方面：首先，FCA将发布一份详细报告，阐明其调查结果和对相关金融机构的预期。其次，可能会设立一个集体的索赔框架，以便受影响的消费者能够便捷地提交赔偿申请。赔偿的形式可能包括退还多支付的利息、降低未偿还贷款余额，甚至可能包括额外的补偿。金融机构，包括主要银行和专业汽车金融贷款公司，已被要求审查其历史",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n49",
     "lead": false
   }
 ]
