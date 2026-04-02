@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-02T09:51:22+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-02T06:15:32+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -50,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-02T03:22:51+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -90,7 +87,6 @@
     "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-01T23:00:39+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -117,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-01T22:00:17+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -131,7 +126,6 @@
     "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
     "time": "20小时前",
     "published_iso": "2026-04-01T13:46:49+00:00",
-    "is_new": true,
     "id": "n10",
     "lead": false
   },
@@ -171,7 +165,6 @@
     "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-01T10:53:03+00:00",
-    "is_new": true,
     "id": "n13",
     "lead": false
   },
@@ -185,7 +178,6 @@
     "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-01T10:33:35+00:00",
-    "is_new": true,
     "id": "n14",
     "lead": false
   },
@@ -473,71 +465,6 @@
     "time": "刚刚",
     "published_iso": "2026-03-31T16:26:37+00:00",
     "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-    "deck": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-    "cnTitle": "战后控制黎南部并拆屋",
-    "cnDeck": "以色列国防部长伊斯拉埃尔·卡茨（Israel Katz）近日发表强硬声明，明确表示以色列计划在与黎巴嫩真主党（Hezbollah）的军事冲突结束后，继续控制黎巴嫩南部部分地区。卡茨部长进一步指出，位于以色列边境附近的黎巴嫩村庄内的房屋将被拆除。这一系列激进措施旨在建立一个“安全区”，以永久性地消除来自黎巴嫩境内的威胁，从而确保以色列北部社区的长期安全。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-03-31T16:12:59+00:00",
-    "id": "n37",
-    "lead": false
-  },
-  {
-    "headline": "King Charles and Queen Camilla's state visit to US to go ahead in April",
-    "deck": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
-    "cnTitle": "查尔斯国王夫妇将四月国事访问美国",
-    "cnDeck": "英国国王查尔斯三世与卡米拉王后定于下月，即四月，对美国进行国事访问。此行旨在深化英美两国长期以来的“特殊关系”，尽管近期两国间存在一些政治紧张。这将是查尔斯国王登基以来首次对美进行国事访问，具有显著外交和象征意义。国王夫妇预计将前往美国首都华盛顿，与美国总统乔·拜登举行会晤，并可能参与一系列高层",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-03-31T14:05:10+00:00",
-    "id": "n38",
-    "lead": false
-  },
-  {
-    "headline": "Goldman is betting Nvidia will get a boost from health care as industry builds out AI capabilities",
-    "deck": "Nvidia is looking to increase the adoption of AI by biotechnology companies, which could boost its shares, per Goldman Sachs.",
-    "cnTitle": "高盛看好英伟达AI医疗市场",
-    "cnDeck": "全球领先的投资银行高盛集团近日发布了一份备受市场关注的分析报告，指出芯片巨头英伟达（Nvidia）正积极寻求扩大其先进人工智能（AI）技术在生物技术公司中的应用，并认为这一战略举措有望显著提振英伟达的股价。高盛的分析师团队强调，随着全球医疗健康行业加速数字化转型，并日益依赖强大计算能力来驱动创新，英伟达在AI硬件和软件领域的领导地位使其处于一个独特的有利位置，能够抓住生物技术领域新兴的巨大市场机遇。报告详细阐述了英伟达如何通过其高性能图形处理器（GPU）和配套软件平台，赋能生物技术公司在多个关键领域取得突破。例如，在药物发现方面，AI技术能够以前所未有的速度分析海量分子数据，预测蛋白质结构，从而加速潜在药物靶点的识别和优化。在基因组学研究中，AI可以帮助处理和解读复杂的基因测序数据，揭示疾病的遗传机制。此外，AI在辅助诊断、个性化医疗方案制定、优化临床试验流程以及开发新型生物传感器等方面也展现出巨大潜力。高盛认为，英伟达不仅提供领先的计算基础设施，还在积极构建和完善一个全面的AI医疗生态系统，包括开发专门的软件开发工具包（SDK）、预训练模型和云服务，以降低生物技术公司采用AI技术的门槛，并加速其研发进程。例如，英伟达的Clara Discovery平台专为药物研发设计，通过计算生物学和化学信息学工具，帮助科学家更高效地进行分子模拟和药物筛选。随着人口老龄化加剧和全球对医疗创新的需求不断增长，生物技术行业正迎来前所未有的发展机遇。英伟达将其AI核心能力扩展到这一高增长市场，无疑将为其开辟新的营收来源，并进一步巩固其在全球AI领域的领导地位。高盛预计，如果英伟达能够成功深化与生物技术行业的合作，并将其AI技术转化为实际的商业价值，那么其股票无疑将获得进一步的估值提升。这一分析不仅是对英伟达公司战略的肯定，也反映出华尔街对AI技术与传统产业深度融合所蕴含巨大商业潜力的普遍乐观态度。投资者和行业观察者将密切关注英伟达在医疗健康领域的进展，这不仅关系到英伟达自身的增长轨迹，也将深刻影响未来科技与生物医学的发展方向。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
-    "time": "2小时前",
-    "published_iso": "2026-03-31T13:59:48+00:00",
-    "id": "n39",
-    "lead": false
-  },
-  {
-    "headline": "US petrol price tops $4 for first time since 2022",
-    "deck": "The Iran war continues to push up prices at the pump for US motorists.",
-    "cnTitle": "美国汽油价格突破每加仑4美元大关",
-    "cnDeck": "美国汽油平均价格近期突破了每加仑4美元的关键心理关口，这是自2022年以来的首次，标志着能源成本再次对美国经济和消费者造成显著压力。这一显著上涨的主要驱动因素是中东地区持续升级的伊朗战争，该冲突对全球石油供应构成了持续的威胁和不确定性。伊朗作为全球主要的石油生产国和地区大国，其卷入的冲突往往会对国际原油市场产生深远影响。当前战争不仅直接",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-03-31T13:56:01+00:00",
-    "id": "n40",
-    "lead": false
-  },
-  {
-    "headline": "Iran using children in security roles in war, reports and witnesses say",
-    "deck": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
-    "cnTitle": "伊朗战时疑用儿童执勤 11岁遇袭亡",
-    "cnDeck": "根据多份报道和目击者的陈述，伊朗被指控在战争冲突中利用儿童执行安全任务，这一指控引发了国际社会对儿童权利和国际人道主义法的严重关注。据称，这种做法已导致一起令人震惊的悲剧：在首都德黑兰发生的一次空袭中，一名年仅11岁的儿童不幸丧生。这名儿童在事发时正于一处检查站执勤。这一事件不仅凸显了冲突对平民，特别是对最脆弱群体——儿童的毁灭性影响，更直接指向了伊朗可能违反国际法和相关国际公约的行为。国际社会普遍谴责在武装冲突中使用儿童兵或让儿童承担军事相关职责。联合国儿童基金会（UNICEF）等组织长期致力于保护儿童免受武装冲突的侵害，并明确指出招募和使用18岁以下儿童参战构成战争罪。报道详细指出，伊朗涉嫌将儿童部署到关键的安全岗位上，这包括但不限于检查站的执勤。目击者的证词进一步支持了这些指控，表明这并非单一孤立事件，而是可能存在一个更为广泛的模式。将未成年人置于战区或冲突相关职责中，使其直接暴露在敌对行动的危险之下，严重侵犯了他们的生命权、健康权和受保护权。此次在德黑兰发生的空袭，导致11岁儿童死亡的事件，无疑将进一步加剧国际社会对伊朗的审查和压力。虽然原始报道并未明确指出空袭的实施方，但事件本身无疑是对儿童在冲突中命运的残酷提醒。人权组织和国际观察员呼吁对此类指控进行彻底调查，以查明真相并追究责任。此事件对伊朗的国际声誉构成严重打击，并可能导致其面临国际法律层面的谴责和制裁。国际刑事法院（ICC）的罗马规约将招募或征募未满15岁儿童参与敌对行动的行为视为战争罪。因此，如果这些指控得到证实，相关人员和实体可能面临国际司法追究。此悲剧也再次提醒国际社会，确保儿童在冲突中的安全和福祉是全人类的共同责任。各国和国际组织必须采取坚决行动，阻止任何国家或非国家行为者利用儿童参与武装冲突，并为受影响的儿童提供必要的保护和支持。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-03-31T12:56:45+00:00",
-    "id": "n41",
     "lead": false
   }
 ]
