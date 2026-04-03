@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal",
+    "deck": "The order does not affect generic medicines, the most commonly used in the US.",
+    "cnTitle": "美国拟对进口药品征收100%关税",
+    "cnDeck": "美国政府正考虑对进口药品征收高达100%的关税，除非相关制药公司能与美国达成协议。这一潜在的贸易政策调整将对全球制药行业和美国国内的药品市场产生深远影响。根据目前披露的信息，这项命令或提案特别指出，不针对美国市场上最常用的仿制药（generic medicines）。这意味着，政策的主要矛头将指向那些在美国市场销售的品牌药、专利药或某些特定高价药品。分析人士指出，美国政府此举可能旨在解决长期以来困扰美国消费者的高药价问题，并通过贸易壁垒迫使外国制药企业降低药品价格，或将生产环节转移至美国本土。征收100%的关税，意味着这些受影响的进口药品的价格将翻倍，这无疑将极大地削弱其在美国市场的竞争力。对于希望避免高额关税的制药公司而言，“达成协议”可能包括同意降低药品在美国的销售价格、承诺在美国投资建厂、增加在美国的就业岗位，或者调整其供应链策略以符合美国政府的特定要求。此政策若全面实施，预计将对全球供应链造成冲击。特别是那些高度依赖美国市场销售其品牌药品的国际制药巨头，将面临巨大的商业压力。他们可能需要重新评估其在美国的商业模式和定价策略，甚至可能被迫进行大规模的结构调整。尽管仿制药被排除在外，这一豁免在一定程度上减轻了对日常用药可负担性的影响，因为仿制药通常价格更低廉，且覆盖了大部分常见疾病的治疗。然而，对于需要使用特定品牌药或创新药的美国患者而言，如果制药公司未能达成协议，这些药品的获取成本可能会急剧上升，甚至出现供应短缺。国际贸易组织和相关国家可能会对美国此项政策表示担忧。一些国家可能会将其视为贸易保护主义的升级，并可能考虑采取对等报复措施，从而引发更广泛的国际贸易摩擦。制药行业内的游说团体已经开始积极行动，试图影响政策的最终走向。他们可能会强调高关税对药品研发投入的负面影响，以及可能损害患者获取创新疗法的机会。此外，该政策也可能鼓励美国本土制药企业增加产能，以填补进口药品的市场空白。但这需要时间，并且可能面临技术、劳动力和监管等多方面的挑战。美国政府的这一举动，无疑是其在贸易政策和医疗成本控制方面采取的又一强硬姿态，其后续发展和具体实施细节将受到全球的高度关注。这一事件体现了美国政府在全球贸易谈判中运用经济杠杆的决心，并可能为其他国家在处理本国医药产业政策时提供借鉴或警示。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-04-02T22:06:30+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "A year on: Four ways Trump's tariffs have changed the global economy",
     "deck": "US tariffs stand at the highest rate in decades. But what has the impact been?",
     "cnTitle": "特朗普关税对全球经济的影响",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-02T09:51:22+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Explosions at Burundi ammunition depot kill 13 civilians - army",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-02T06:15:32+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-02T05:57:13+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-02T03:22:51+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTVEZ3ByQnVHY2Z3Q1E4NG14Z3AyZVlFSEZ1MzJxRXFlVmlqbGtyWjhUSUlXM3d6MndtNXQ3azJZX1lhVHhmclJvZXJhNUg1UDA0d1BRU29wTmdjbVJwNmJock9oRF8xVFk1Mm1fYmhKWGVLQ1JXazVnU2dNM3duV0tITVhobXAwTWM1djI1TWd5TktlTG9sbW1kSktOOXFXWFdTZVJKWXRmMGYxRE00aVkwTEQ?oc=5",
     "time": "3小时前",
     "published_iso": "2026-04-02T02:29:00+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-01T23:59:00+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-01T23:00:39+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-01T22:35:23+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-01T22:00:17+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
     "time": "20小时前",
     "published_iso": "2026-04-01T13:46:49+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-01T11:59:19+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-01T11:34:31+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-01T10:53:03+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-01T10:33:35+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:28:08+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,7 +218,7 @@
     "url": "https://www.cnbc.com/2026/03/31/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:20:04+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -217,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:19:22+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -230,7 +244,7 @@
     "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
     "time": "刚刚",
     "published_iso": "2026-04-01T10:08:20+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -243,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T09:55:28+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -256,7 +270,7 @@
     "url": "https://www.cnbc.com/2026/04/01/spacex-lines-up-21-banks-for-mega-ipo-code-named-project-apex.html",
     "time": "1小时前",
     "published_iso": "2026-04-01T09:25:35+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -269,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-01T08:15:36+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -282,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-01T07:16:15+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -295,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-01T07:09:46+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -308,99 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T06:12:24+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Asia stocks jump after Trump suggests Iran war could end in weeks",
-    "deck": "The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.",
-    "cnTitle": "特朗普暗示伊朗战事或终结",
-    "cnDeck": "美国前总统唐纳德·特朗普发表言论，暗示与伊朗相关的“战争冲突可能在数周内结束”，此番表态在全球金融市场引发显著反响，尤其是促使亚洲主要股市普遍出现大幅上涨。这一乐观预期被市场解读为地缘政治紧张局势有望缓解的积极信号，从而有效提振了投资者的信心，促使风险偏好有所回升。长期以来，与伊朗相关的地缘政治不确定性，包括地区冲突、核计划争议以及对国际航运",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-01T05:17:12+00:00",
     "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Pay rise for 2.7 million people as minimum wage increase comes into force",
-    "deck": "Many businesses have said they will have to pass higher wage costs onto customers.",
-    "cnTitle": "270万人最低工资上涨引发通胀担忧",
-    "cnDeck": "一项旨在提升270万劳动者生活水平的最低工资上调政策正式生效，这意味着数百万低收入工人的薪资将有所增加。这一政策的实施，旨在通过提高劳动者的购买力，刺激消费支出，从而对经济增长产生积极影响。然而，此次工资上调并非没有潜在的经济挑战。许多企业已经公开表示，由于劳动力成本显著增加，它们将别无选择，只能将这些额外的运营支出转嫁给消费者。这种成本转嫁机制预计将直接导致商品和服务价格的普遍上涨，从而对通货膨胀构成新的上行压力。经济分析师普遍认为，最低工资的提升在短期内将显著改善270万受影响工人的生活质量，为他们提供更稳定的经济基础。但从宏观经济层面来看，其对整体物价水平的影响需要密切关注。如果企业普遍提高商品和服务的价格以弥补工资成本，那么消费者的整体购买力可能受到侵蚀，这尤其对中等收入和固定收入群体构成挑战。中央银行和货币政策制定者将不得不密切监测通胀数据，以评估此次工资上涨对未来物价走势的影响，并可能据此调整其货币政策立场。例如，持续的通胀压力可能会促使央行在更长时间内维持较高的利率，或在必要时考虑进一步紧缩政策。此外，此次最低工资调整也引发了关于劳动力市场动态的广泛讨论。有观点认为，更高的最低工资可能会促使一些企业考虑自动化替代人工，或在招聘新员工时变得更加谨慎，从而可能对就业增长产生复杂影响。但也有研究表明，在合理范围内上调最低工资对就业的影响有限，甚至可能通过提高员工士气和生产效率来抵消部分成本。政策制定者在平衡社会公平与经济稳定之间面临考验。此次最低工资上涨及其可能引发的通胀反应，无疑将成为未来一段时间内经济讨论的核心议题之一，其长期影响将需要持续的观察和评估。政府希望通过此举缩小贫富差距，促进社会公平，但同时也要警惕可能伴随而来的物价上涨风险，以及其对国家整体经济竞争力的潜在影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-03-31T23:01:15+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
-    "deck": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
-    "cnTitle": "伊朗冲突加剧亚洲移民工人风险",
-    "cnDeck": "近期，中东地区的地缘政治紧张局势因伊朗对海湾国家发动的袭击而急剧升级，这不仅对全球能源市场和区域稳定造成冲击，更给长期以来支撑海湾地区经济发展的亚洲移民工人带来了前所未有的严峻挑战。这些来自南亚和东南亚国家（如印度、巴基斯坦、菲律宾、孟加拉国和尼泊尔等）的数百万劳工，在海湾国家（如沙特阿拉伯、阿联酋、卡塔尔、科威特等）的建筑、服务、石油和天然气等关键行业中扮演着不可或缺的角色。他们离开家乡，在异国他乡辛勤工作，只为将宝贵的收入寄回家中，帮助自己的家庭摆脱贫困，改善生活条件，支撑子女教育，甚至推动本国经济发展。然而，随着伊朗与海湾地区之间的军事摩擦不断增多，以及“伊朗战争”爆发的潜在风险日益加剧，这些移民工人的生命安全和经济前景正面临着致命的威胁。空袭和导弹袭击的可能性让他们的日常工作环境变得危险重重。许多工人开始质疑，为了维持生计和家庭的福祉，继续留在冲突高风险区域工作是否值得付出生命的代价。他们面临着一个两难的困境：一方面，海湾地区的工作机会和相对较高的薪酬是他们养家糊口的主要来源，回国可能意味着失业和经济上的绝望；另一方面，留在海湾地区则意味着可能随时面临空袭、地区动荡乃至更大规模战争的风险。这种不确定性也对移民工人的心理健康造成了巨大压力。他们不仅要担心自己的人身安全，还要担忧远在家乡的亲人会受到何种影响。一旦大规模撤离发生，其过程也将充满挑战和危险，且可能导致他们失去在海湾地区积累的一切。此外，如果冲突进一步升级导致海湾地区经济活动大规模中断，建筑项目停工、服务业需求锐减，将会有大量移民工人失业，被迫返回原籍国。这对劳务输出国而言，也将是沉重的打击。这些国家严重依赖侨汇收入来平衡国际收支，缓解贫困，并刺激国内消费。据世界银行数据，2023年，南亚地区收到的侨汇总额预计将超过1700亿美元，其中很大一部分来自海湾地区。一旦海湾局势恶化，侨汇收入锐减，将直接冲击这些国家的经济稳定，加剧失业问题，并对社会福利系统构成巨大压力。许多家庭可能因此重新陷入贫困，甚至引发人道主义危机。因此，伊朗与海湾国家的冲突不仅仅是地区政治和军事问题，它还深刻地影响着全球劳务市场、移民群体的人权保障以及多个亚洲国家的经济和社会稳定。亚洲移民工人及其家庭正被迫在生存与安全之间做出艰难的抉择，他们的命运成为这场地缘政治博弈中最脆弱、最无声的受害者之一。国际社会和相关政府亟需关注这一群体的困境，并制定应对策略，以减轻潜在的冲突对他们的负面影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-03-31T22:48:34+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "Oil nears highest price since start of Iran war",
-    "deck": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
-    "cnTitle": "伊朗战争致油价飙升水道受阻",
-    "cnDeck": "自美以对伊朗战争爆发以来，全球能源市场正经历剧烈震荡。一项最新报告指出，由于这场冲突，一条关键国际水道的船只通行几乎完全中断，导致国际基准布伦特原油价格飙升，已逼近自战争启动以来的最高水平。这一局势对全球经济和金融市场构成了严峻挑战。据了解，这条受影响的“关键水道”极有可能是霍尔木兹海峡，该海峡连接波斯湾和阿曼湾，是全球最重要的石油运输要道之一。全球约五分之一的原油供应需要通过霍尔木兹海峡运输。战争的爆发及持续升级，使得该海峡的航运安全受到严重威胁，军事行动、潜在的袭击风险以及相关国家采取的封锁措施，导致商业船只出于安全考虑大幅减少甚至停止了在该区域的通行。这种物流中断直接引发了市场对原油供应短缺的强烈担忧。布伦特原油作为国际油价的重要风向标，其价格的飙升直接反映了这种供应风险和地缘政治溢价。当一条如此重要的航运通道几乎停止运作时",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-03-31T22:34:04+00:00",
-    "is_new": true,
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
-    "deck": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
-    "cnTitle": "黎巴嫩联合国维和人员遇袭身亡",
-    "cnDeck": "一份初步报告显示，在黎巴嫩发生的路边炸弹袭击中，联合国维和人员不幸遇难。这起事件进一步加剧了该地区本已紧张的局势。根据最新消息，两名印度尼西亚籍联合国维和人员在黎巴嫩遭遇路边炸弹袭击身亡。这起令人震惊的事件发生在前一日，另一名同样是印度尼西亚籍的联合国维和人员在黎巴嫩遇害之后不到24小时。这一连",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-    "time": "12小时前",
-    "published_iso": "2026-03-31T22:07:26+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "US journalist Shelly Kittleson kidnapped in Baghdad",
-    "deck": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-    "cnTitle": "美记者巴格达被绑架 牵出亲伊朗民兵",
-    "cnDeck": "美国国务院证实，美国记者谢莉·基特尔森（Shelly Kittleson）在伊拉克首都巴格达遭到绑架。这一事件引起了美国政府的高度关注，并可能对本已紧张的地区局势造成进一步影响。美国国务院周三发表声明，指出涉嫌参与绑架基特尔森的一名嫌疑人与一个名为“真主党旅”（Kataib Hezbollah）的伊拉克什叶派民兵组织存在关联。“真主党旅”被美国认定为外国恐怖组织，并被广泛认为是伊朗在伊拉克地区的主要代理人之一。该组织曾在伊拉克多次对美国目标发动袭击，包括针对美国大使馆和驻伊美军基地的火箭弹袭击。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-03-31T21:08:35+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "White House says Trump to sign executive order limiting mail-in voting",
-    "deck": "",
-    "cnTitle": "特朗普将签署限制邮寄投票行政令",
-    "cnDeck": "白宫今日表示，前总统唐纳德·特朗普计划一旦再次当选，将立即签署一项行政命令，旨在大幅限制美国的邮寄投票制度。这一消息由白宫新闻秘书在例行记者会上透露，并引用了特朗普竞选团队近期在内部会议上的表态。特朗普长期以来一直对邮寄投票持强烈批评态度，尤其是在2020年总统大选中，他多次声称广泛的邮寄投票导致了大规模舞弊，尽管这些指控在多州法院被驳回，且缺乏确凿证据支持。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-31T20:58:38+00:00",
-    "id": "n31",
     "lead": false
   }
 ]
