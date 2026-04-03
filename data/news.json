@@ -1,5 +1,19 @@
 [
   {
+    "headline": "US jobs surge unexpectedly in March despite Iran war",
+    "deck": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
+    "cnTitle": "美国3月就业超预期增长",
+    "cnDeck": "美国劳工部周五发布的数据显示，尽管中东地区“伊朗战争”的阴影持续笼罩，美国就业市场在三月份仍表现出人意料的强劲势头。当月，美国雇主共新增了17.8万个非农就业岗位，这一数字远超市场此前普遍预期。此前的分析普遍认为，地缘政治紧张局势的加剧，特别是中东冲突可能带来的不确定性，会促使企业在招聘方面趋于谨慎，从而",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-03T13:35:11+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump removes US Attorney General Pam Bondi",
     "deck": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
     "cnTitle": "特朗普解雇总检察长邦迪",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-03T00:31:27+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Hegseth asks US Army's top general to step down",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-02T22:57:37+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-02T22:06:30+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-02T17:01:08+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -64,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-02T16:09:24+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -78,8 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-02T16:00:58+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -92,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-02T13:41:27+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -106,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-02T11:55:37+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -120,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-02T09:51:22+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -133,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-02T06:15:32+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -146,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-02T05:57:13+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -159,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-02T03:22:51+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -172,7 +179,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTVEZ3ByQnVHY2Z3Q1E4NG14Z3AyZVlFSEZ1MzJxRXFlVmlqbGtyWjhUSUlXM3d6MndtNXQ3azJZX1lhVHhmclJvZXJhNUg1UDA0d1BRU29wTmdjbVJwNmJock9oRF8xVFk1Mm1fYmhKWGVLQ1JXazVnU2dNM3duV0tITVhobXAwTWM1djI1TWd5TktlTG9sbW1kSktOOXFXWFdTZVJKWXRmMGYxRE00aVkwTEQ?oc=5",
     "time": "3小时前",
     "published_iso": "2026-04-02T02:29:00+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -185,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-01T23:59:00+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -198,7 +205,7 @@
     "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-01T23:00:39+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -211,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-01T22:35:23+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -224,137 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-01T22:00:17+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Nike shares fall 9% on weak outlook, expected 20% sales decline in China",
-    "deck": "Nike has shown some gains in North America, its largest market, amid its turnaround, but the strength was offset by weakness in China.",
-    "cnTitle": "耐克股价大跌 中国销售预期拖累",
-    "cnDeck": "耐克公司股价在周五交易中大幅下跌9%，此前该公司发布了疲软的未来业绩展望，令投资者对这家全球运动服装巨头的增长前景感到担忧。特别值得关注的是，耐克预计其在中国市场——这个对其全球营收增长至关重要的关键区域——的销售额将面临高达20%的降幅。这一预测立即引发了市场的强烈反应，导致其股价经历显著回调，反映出华尔街对公司在中国业务表现的信心不足。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
-    "time": "20小时前",
-    "published_iso": "2026-04-01T13:46:49+00:00",
     "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Claude Code users hitting usage limits 'way faster than expected'",
-    "deck": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users.",
-    "cnTitle": "Anthropic旗下Claude Code用户使用限制",
-    "cnDeck": "人工智能（AI）领域的知名公司Anthropic近日证实，其为软件开发者设计的AI编程助手“Claude Code”的用户正遭遇使用限制问题。Anthropic表示，许多用户反映他们触及了设定的使用上限，“远超预期地快”，导致服务中断，并被“屏蔽”而无法继续使用该工具进行代码辅助工作。公司已确认该问题，并声明正在积极着手修复。Claude Code作为Anthropic推出的先进AI工具，旨在通过提供代码生成、调试、重构及实时编程建议",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-01T11:59:19+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Mass robotaxi malfunction halts traffic in Chinese city",
-    "deck": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
-    "cnTitle": "百度萝卜快跑故障致百辆车停摆",
-    "cnDeck": "近日，中国某城市发生一起大规模自动驾驶出租车服务故障，涉及科技巨头百度旗下的“萝卜快跑”平台。据新闻报道，此次故障造成至少100辆自动驾驶车辆在城市道路上意外停滞，严重扰乱了当地的交通秩序。截至目前，百度公司尚未就此事件的发生及具体原因回应媒体的置评请求，这使得外界对故障的深层原因和后续影响存在诸多疑问。百度作为中国领先的互联网公司，",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-01T11:34:31+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Iran war economic shocks will last 'months', says Australia's PM",
-    "deck": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
-    "cnTitle": "澳总理警告伊朗战争经济冲击将持续数月",
-    "cnDeck": "澳大利亚总理安东尼·阿尔巴尼斯日前通过一次罕见的电视讲话向全国民众发出警告，指出由于伊朗战争可能带来的全球性影响，未来数月“可能不会轻松”。阿尔巴尼斯总理的此次讲话，凸显了澳大利亚政府对当前国际地缘政治紧张局势，特别是中东地区潜在冲突及其经济连锁反应的高度关注。他强调，伊朗地区一旦发生军事冲突，其影响将不仅仅局限于当地，而是会通过全球化的贸易和金融体系迅速蔓延至世界各地，对包括澳大利亚在内的多个国家造成深远冲击。分析人士普遍认为，伊朗作为全球重要的石油和天然气生产国，其局势动荡将直接导致国际能源市场剧烈波动。油价飙升是伊朗冲突最直接的经济后果之一，这将显著推高各国运输、生产和消费成本，加剧全球通货膨胀压力。对于澳大利亚而言，能源价格上涨将直接转化为更高的燃油费和电费，进一步挤压家庭预算，并增加企业的运营成本，可能导致物价普遍上涨，对消费者购买力和经济增长构成挑战。此外，伊朗战争还可能扰乱全球供应链。中东地区是连接亚洲、欧洲和非洲的重要航运枢纽，任何军事行动都可能威胁到关键航道的安全，例如霍尔木兹海峡。该海峡是全球重要的石油运输要道，一旦受阻，将对全球原油供应产生灾难性影响，进而波及更广泛的全球贸易网络。供应链中断将导致商品短缺、运输成本增加，进一步推高通胀并阻碍经济复苏。阿尔巴尼斯总理的讲话旨在提前告知澳大利亚民众和企业，为可能到来的经济挑战做好准备，并可能暗示政府将采取措施以减轻这些外部冲击对国内经济的影响。总理的这番言论是在全球经济本身就面临诸多不确定性的背景下发表的，包括高通胀、主要经济体增长放缓以及俄乌冲突持续等。伊朗战事的额外冲击，无疑将使全球经济前景更加复杂和严峻。阿尔巴尼斯在讲话中并未具体说明政府将采取哪些应对措施，但其语气传递出对未来经济形势的谨慎与担忧。他呼吁澳大利亚民众保持警惕，并强调国家将共同应对这些挑战。此次罕见的电视讲话也传递出一个信号，即澳大利亚政府已将中东局势的潜在影响视为国家经济安全的重要议题。预计未来澳大利亚政府可能会密切关注国际油价走势、供应链状况以及全球贸易环境的变化，并可能在必要时调整国内经济政策以应对外部冲击，确保经济的稳定性和韧性。总理的表态也可能促使其他国家领导人也开始考虑并公开讨论类似的地缘政治风险对其本国经济的影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-04-01T10:53:03+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-    "deck": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
-    "cnTitle": "以色列扩大黎巴嫩攻势计划控制南部",
-    "cnDeck": "以色列近期显著加剧了对黎巴嫩境内的军事打击力度，袭击范围已扩展到此前并非黎巴嫩真主党完全控制的区域，此举标志着冲突的地理边界正在扩大。与此同时，以色列方面正式宣布其计划控制黎巴嫩南部大片区域的意图，这一声明引发了国际社会的广泛关注和担忧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-04-01T10:33:35+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Iran threatens Nvidia, Apple and other tech giants with attack",
-    "deck": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\"",
-    "cnTitle": "伊朗威胁英伟达苹果等科技巨头",
-    "cnDeck": "伊朗伊斯兰革命卫队（IRGC）近日向在中东地区运营的多家科技巨头发出严厉警告，声称这些公司将被视为“合法目标”。尽管声明中并未详尽列出所有受威胁的公司，但点名了全球知名企业如英伟达（Nvidia）和苹果（Apple），暗示其范围广泛，覆盖了在该地区拥有重要业务或基础设施的科技公司。此举立即引发了国际社会对地区安全局势以及跨国企业在中东运营风险的广泛关注和担忧。IRGC的这一警告被解读为伊朗对西方国家及其盟友在该地区影响力的一种强硬回应，特别是在当前中东地缘政治紧张局势加剧的背景下。近年来，伊朗与美国及其地区盟友之间的关系一直处于高度紧张状态，涉及核计划、地区代理人冲突以及网络攻击等多个层面。IRGC作为伊朗最强大的军事和安全机构之一，其发出的威胁通常被视为具备高度的严肃性和潜在行动的可能性。此前，伊朗曾被指控对关键基础设施、政府机构和私营企业发动网络攻击，这使得本次对科技巨头的警告显得尤为突出且令人不安。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
-    "time": "刚刚",
-    "published_iso": "2026-04-01T10:28:08+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Stock futures are higher to start the month as optimism around Iran war ending grows: Live updates",
-    "deck": "Tuesday concluded both a losing month and quarter for all three major indexes.",
-    "cnTitle": "伊朗局势乐观，美股期货上涨",
-    "cnDeck": "今日全球金融市场呈现积极态势，股指期货在新的月份伊始录得上涨，这一乐观情绪的背后，是市场对中东地区紧张局势，特别是围绕伊朗的冲突有望结束的信心日益增强。投资者普遍认为，地缘政治风险的缓解将对全球经济产生积极影响，从而提振风险资产的表现。如果伊朗相关的地区冲突能够趋于平息或达成某种形式的解决方案，将有效降低全球原油供应中断的风险，稳定国际能源价格，并减轻对",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/31/stock-market-today-live-updates.html",
-    "time": "刚刚",
-    "published_iso": "2026-04-01T10:20:04+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
-    "deck": "Higher energy prices could lead to higher borrowing costs for homeowners, the Bank warns.",
-    "cnTitle": "伊朗战争恐推高房贷",
-    "cnDeck": "一家主要银行日前发出严厉警告，指出如果伊朗战争的“冲击”成为现实，可能会导致130万房产持有者的抵押贷款成本大幅上升。该银行强调，涉及中东主要产油国伊朗的军事行动，将不可避免地对全球能源市场造成剧烈冲击。一旦冲突爆发，原油和天然气供应中断风险将推高国际能源价格，引发市场恐慌情绪，并迅速传导至全球。历史经验表明，中东地区的任何重大",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-01T10:19:22+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO",
-    "deck": "The President's comments are the latest threat to America's allies after their reluctance to help reopen the Strait of Hormuz.",
-    "cnTitle": "特朗普考虑让美国退出北约",
-    "cnDeck": "美国前总统唐纳德·特朗普近日再次发表重磅言论，公开表示他正在“考虑”将美国撤出北大西洋公约组织（NATO），并将该军事联盟形容为“纸老虎”。此番表态被视为特朗普对美国盟友发出的“最新威胁”，其背景是他对盟友们在“协助重新开放霍尔木兹海峡”问题上表现出的“不情愿”感到不满。霍尔木兹海峡是连接波斯湾和阿曼湾的",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
-    "time": "刚刚",
-    "published_iso": "2026-04-01T10:08:20+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Russian military plane crash kills 29 in occupied Crimea",
-    "deck": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
-    "cnTitle": "俄军机克里米亚坠毁致29人遇难",
-    "cnDeck": "俄罗斯一架An-26军用运输机在被俄罗斯占领的克里米亚半岛坠毁，造成机上29人全部遇难。俄罗斯当局迅速发布声明，将这起悲剧事件的原因归结为技术故障，并表示飞机在坠毁前撞上了一处悬崖。这起发生在军事高度敏感区域的重大事故，立即引发了国际社会对俄乌冲突背景下军事行动风险的广泛关注。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-01T09:55:28+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
