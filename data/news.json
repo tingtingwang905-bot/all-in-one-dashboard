@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Russian attack on Ukraine market kills five",
+    "deck": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+    "cnTitle": "俄无人机袭击乌克兰南部城镇市场",
+    "cnDeck": "俄罗斯对乌克兰南部城镇的袭击造成5人死亡，另有21人受伤。这起严重事件发生在周六上午，一枚俄罗斯无人机击中了该城镇一个繁忙的市场区域，给当地社区带来了毁灭性的打击。据当地官员和目击者报告，袭击发生时，市场正值一周中最繁忙的时刻，许多居民正在此购买食物和生活必需品。无人机突然的出现和随后的爆炸，导致市场内部瞬间陷入一片混乱与恐慌。多栋建筑物",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-04T18:54:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "What a Clean Cookstove Company’s Bankruptcy Means for Carbon Markets - Bloomberg.com",
     "deck": "What a Clean Cookstove Company’s Bankruptcy Means for Carbon Markets&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "清洁炉灶公司破产引发碳市场波动",
@@ -9,8 +23,8 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JlaFhCUkN6Z19ZLTFodnoyVy1fekpJdndCRTh5Vkw5V0VSWnpINWZSbTdCdUNBbnY4OUdkbGo2dm5hY3VuQXhwUWpQVEJRNnA1RFB5cS1TN1hTZ2VsdHZLUXJCVjFWQUJTNnlPOG9xT21BZGRVY08yME5qZHFnZlZ6cFg2TUdMNWo5UVFrbmFuN1YzZGVqeUZvR0dJSDFmcHRJejI0WldwZw?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-04T03:58:53+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "State pension age starts rising to 67 - here's how much you get and when",
@@ -22,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-03T23:27:52+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-03T23:14:04+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-03T23:04:24+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-03T20:59:48+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -75,7 +88,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHF4bE9TRmZNaEF0Qkstamttcmk5NVh4STFXeEVtUXY0aUxtdmg5TERWcGd1UGZ3Z1JFZncxOXJxN0VuY0pwZ0R3QmxreVg0bm1uS29YRVBaMXJWTlRjVnNTd215ckNaQWpuQmtYdXJNaGxSaXBORkl0enpZRnR5aVFUQWEyTk1EYXNvS2tJc1JHazg0d2NKVFBNdHZjYnZndjVDQ3c2a2pHcVUyTlkzcDdkVHRnUQ?oc=5",
     "time": "刚刚",
     "published_iso": "2026-04-03T19:27:54+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -88,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-03T17:45:46+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -101,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-03T15:45:25+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -114,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-03T13:35:11+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -127,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
     "time": "18小时前",
     "published_iso": "2026-04-03T11:30:01+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -140,59 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-03T11:11:42+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Trump removes US Attorney General Pam Bondi",
-    "deck": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-    "cnTitle": "特朗普解雇总检察长邦迪",
-    "cnDeck": "美国总统唐纳德·特朗普宣布解除联邦总检察长帕姆·邦迪的职务，这一重大人事变动在美国政坛引发广泛关注。邦迪作为美国最高执法官员的任期，因其在处理备受瞩目的杰弗里·爱泼斯坦案件相关文件时的表现而持续面临争议，最终给她的职业生涯蒙上了一层阴影。杰弗里·爱泼斯坦是一名已被定罪的性犯罪者，其涉及未成年人性贩卖网络的案件在",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-03T00:31:27+00:00",
     "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Hegseth asks US Army's top general to step down",
-    "deck": "Gen Randy George was nominated for the role in 2023 by former President Joe Biden.",
-    "cnTitle": "赫格塞特呼吁美陆军总司令辞职",
-    "cnDeck": "美国知名政治评论员兼电视节目主持人皮特·赫格塞特（Pete Hegseth）近日公开呼吁美国陆军总参谋长兰迪·乔治上将（Gen Randy George）辞职，这一言论在美国政界和军界引发了广泛关注和讨论。赫格塞特此举被视为对当前军事领导层的一次直接挑战，尤其考虑到乔治上将是在2023年由时任总统乔·拜登（Joe Biden）提名并获得参议院确认的。这一背景使得赫格塞特的呼吁更具政治色彩，被解读为共和党阵营对拜登政府任命的高级军事官员的不满表现。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-04-02T22:57:37+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices jump and shares drop after Trump threatens more Iran strikes",
-    "deck": "The US president said he'll bring Iran \"back to the Stone Age\" but gave no detail on ending the war.",
-    "cnTitle": "特朗普威胁伊朗致油价股价波动",
-    "cnDeck": "美国总统唐纳德·特朗普近日就伊朗问题发表了极具挑衅性的言论，公开声称将把伊朗“带回石器时代”，并威胁采取更多军事打击。此番言论在全球范围内引发了强烈反响和高度担忧。特朗普的表态是在两国长期紧张关系背景下作出的，尽管他发出了严厉警告，但并未详细阐述如何结束当前的冲突或避免局势进一步升级的具体计划。这一模糊而强硬的姿态，使得中东地区的地缘政治风险迅速攀升，并对国际市场产生了立竿见影的影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-02T22:25:44+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal",
-    "deck": "The order does not affect generic medicines, the most commonly used in the US.",
-    "cnTitle": "美国拟对进口药品征收100%关税",
-    "cnDeck": "美国政府正考虑对进口药品征收高达100%的关税，除非相关制药公司能与美国达成协议。这一潜在的贸易政策调整将对全球制药行业和美国国内的药品市场产生深远影响。根据目前披露的信息，这项命令或提案特别指出，不针对美国市场上最常用的仿制药（generic medicines）。这意味着，政策的主要矛头将指向那些在美国市场销售的品牌药、专利药或某些特定高价药品。分析人士指出，美国政府此举可能旨在解决长期以来困扰美国消费者的高药价问题，并通过贸易壁垒迫使外国制药企业降低药品价格，或将生产环节转移至美国本土。征收100%的关税，意味着这些受影响的进口药品的价格将翻倍，这无疑将极大地削弱其在美国市场的竞争力。对于希望避免高额关税的制药公司而言，“达成协议”可能包括同意降低药品在美国的销售价格、承诺在美国投资建厂、增加在美国的就业岗位，或者调整其供应链策略以符合美国政府的特定要求。此政策若全面实施，预计将对全球供应链造成冲击。特别是那些高度依赖美国市场销售其品牌药品的国际制药巨头，将面临巨大的商业压力。他们可能需要重新评估其在美国的商业模式和定价策略，甚至可能被迫进行大规模的结构调整。尽管仿制药被排除在外，这一豁免在一定程度上减轻了对日常用药可负担性的影响，因为仿制药通常价格更低廉，且覆盖了大部分常见疾病的治疗。然而，对于需要使用特定品牌药或创新药的美国患者而言，如果制药公司未能达成协议，这些药品的获取成本可能会急剧上升，甚至出现供应短缺。国际贸易组织和相关国家可能会对美国此项政策表示担忧。一些国家可能会将其视为贸易保护主义的升级，并可能考虑采取对等报复措施，从而引发更广泛的国际贸易摩擦。制药行业内的游说团体已经开始积极行动，试图影响政策的最终走向。他们可能会强调高关税对药品研发投入的负面影响，以及可能损害患者获取创新疗法的机会。此外，该政策也可能鼓励美国本土制药企业增加产能，以填补进口药品的市场空白。但这需要时间，并且可能面临技术、劳动力和监管等多方面的挑战。美国政府的这一举动，无疑是其在贸易政策和医疗成本控制方面采取的又一强硬姿态，其后续发展和具体实施细节将受到全球的高度关注。这一事件体现了美国政府在全球贸易谈判中运用经济杠杆的决心，并可能为其他国家在处理本国医药产业政策时提供借鉴或警示。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-02T22:06:30+00:00",
-    "id": "n15",
     "lead": false
   }
 ]
