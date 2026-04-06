@@ -9,7 +9,6 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
     "time": "1小时前",
     "published_iso": "2026-04-06T05:31:39+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-06T03:33:35+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T00:23:16+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-05T23:19:20+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -79,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T22:07:40+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -93,7 +87,6 @@
     "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T21:19:02+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -107,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-05T19:17:42+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -121,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-05T15:03:19+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -135,7 +126,6 @@
     "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-05T12:35:36+00:00",
-    "is_new": true,
     "id": "n10",
     "lead": false
   },
@@ -162,7 +152,6 @@
     "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-05T00:04:03+00:00",
-    "is_new": true,
     "id": "n12",
     "lead": false
   },
@@ -176,7 +165,6 @@
     "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-04T23:56:55+00:00",
-    "is_new": true,
     "id": "n13",
     "lead": false
   },
@@ -243,58 +231,6 @@
     "time": "14小时前",
     "published_iso": "2026-04-04T18:30:58+00:00",
     "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "U.S.-Iran war 'tax' begins to hit American businesses and consumers",
-    "deck": "A U.S.-Iran war 'tax' is beginning to hit consumers as diesel and jet fuel prices rise and stress business profitability, and there is no relief in sight.",
-    "cnTitle": "美伊冲突致美国燃料价格上涨",
-    "cnDeck": "美伊地缘政治紧张局势所带来的“战争税”效应，正开始对美国企业和消费者产生显著影响。新闻指出，柴油和航空燃油价格持续上涨，直接导致企业盈利能力面临巨大压力，并且短期内看不到任何缓解的迹象。这一所谓的“战争税”并非传统意义上的政府税收，而是指由于美国与伊朗之间潜在或实际的军事冲突及地缘政治不稳定所引发的额外经济成本。具体而言，柴油价格的上涨对美国经济具有广泛而深远的影响。柴油是全球贸易和国内物流运输的命脉，无论是卡车运输、铁路货运、农业机械运作，还是建筑工程，都严重依赖柴油。其价格攀升意味着商品运输成本的增加，这会直接传导至零售商品价格，最终由消费者承担，从而加剧通货膨胀压力。对于农业部门而言，更高的柴油成本将增加农产品的生产投入，可能导致食品价格上涨，进一步影响家庭开支。航空燃油价格的上涨则直接冲击航空业。航空公司面临运营成本急剧上升的挑战，这通常会促使它们提高机票价格，或者削减航班班次，从而影响商务旅行和休闲旅游，并可能对相关产业链（如酒店、旅游服务业）造成负面影响。此外，航空货运成本的增加也会影响全球供应链，使得进口商品更加昂贵。对于美国企业而言，燃料成本的上升意味着运营费用增加，从而侵蚀利润空间。许多依赖运输和物流的企业，特别是那些利润率本来就不高的中小企业，将感受到巨大的经营压力。为了维持盈利，企业可能不得不将上涨的成本转嫁给消费者，导致物价普遍上涨；或者通过削减其他开支、延迟投资甚至裁员来应对，这可能对整体经济增长和就业市场造成不利影响。新闻强调“没有缓解的迹象”，这暗示了市场对美伊局势的担忧持续存在，并且认为短期内难以看到油价回落的因素，例如地缘政治紧张可能加剧、原油供应中断的风险增大等。这不仅仅是暂时的波动，而可能演变为长期性的经济负担，对美国的通胀、消费者购买力以及企业的长期发展战略都构成挑战。整体而言，这种“战争税”的出现，凸显了地缘政治冲突对全球能源市场和宏观经济稳定的直接影响，提醒人们密切关注中东局势的演变及其可能带来的经济冲击。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html",
-    "time": "20小时前",
-    "published_iso": "2026-04-04T13:16:08+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Australians told to continue Easter travel plans despite fuel shortages",
-    "deck": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
-    "cnTitle": "伊朗战争致全球油价飙升 澳洲燃油短缺",
-    "cnDeck": "受伊朗战争影响，全球石油运输遭遇严重扰乱，导致国际油价大幅上涨。这一地缘政治冲突对中东地区的航运安全构成巨大威胁，特别是对途经霍尔木兹海峡的油轮而言，增加了运输成本和保险费用，并引发了市场对全球原油供应稳定性的担忧。此前，国际能源署（IEA）曾警告，中东地区的紧张局势可能对全球经济复苏造成负面影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-04-04T12:10:10+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-    "deck": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
-    "cnTitle": "苹果AI发展被批落后 但仍有胜机",
-    "cnDeck": "一份最新的行业分析报告指出，全球知名的科技巨头苹果公司，这家以其开创性产品iPhone闻名的企业，在人工智能（AI）领域的竞争中被认为“错失了五年的领先优势”。然而，尽管面临这样的严峻评价，多位曾就职于苹果的内部人士表示，公司凭借其独特的优势和深厚的积累，仍然有能力在这场日益激烈的全球AI竞赛中最终脱颖而出。该报告深入剖析了苹果在AI领域的发展轨迹及其当前面临的挑战，并强调了公司长期以来坚持的商业模式与新兴AI范式之间的潜在冲突。报告指出，苹果在消费电子设备市场占据主导地位，其核心竞争力之一是向用户承诺并持续提供卓越的“隐私保护”。这种以用户数据安全和个人信息控制为中心的设计理念，帮助苹果在全球范围内建立了极高的用户信任度和品牌忠诚度，使其产品和服务备受青睐。然而，正是在当前这个由大数据和机器学习深度驱动的AI时代，苹果根深蒂固的隐私哲学，似乎正在成为其快速推进AI战略、尤其是生成式AI技术部署的一个潜在障碍。与此形成对比的是，包括Alphabet旗下的谷歌、微软以及Meta等在内的竞争对手，在开发和部署大型语言模型（LLMs）及其他生成式AI技术方面展现出惊人的速度和规模，它们通常能够更灵活地利用海量用户数据进行模型训练和持续优化。一位不愿透露姓名的前苹果资深工程师在采访中表示：“在像语音助手Siri这样的领域，苹果曾经拥有明显的先发优势，但在过去的五年里，这种优势并未能有效地转化为在生成式AI领域的领导地位。我们当时确实看到了AI的巨大潜力，但公司内部严格的决策流程和对用户隐私的极度重视，可能导致我们在某些关键的技术路径上采取了更为保守的策略，从而在创新速度上相对落后于那些更愿意承担数据风险的竞争对手。”不过，这些前内部人士也强调，尽管苹果目前在市场感知和某些AI技术展示方面可能暂时显得落后，但其固有的强大生态系统、全球庞大的用户基础、业内领先的硬件集成能力以及对用户体验的极致追求，是其在AI领域实现逆袭的关键资产。“苹果并非没有在AI领域进行大规模投入，恰恰相反，他们拥有数以千计的顶尖AI研究人员和工程师，以及巨大的研发预算，”另一位前苹果高管指出，“他们面临的真正挑战在于，如何在不牺牲其核心隐私承诺的前提下，将这些前沿研究成果大规模地转化为具有高度竞争力、且能深刻改变用户体验的AI产品和服务。”该报告进一步分析认为，为了在未来激烈的AI竞争中保持领先地位，苹果可能需要对其现有的战略进行“重大调整”（pivot）。这种调整可能意味着公司需要在隐私保护和AI创新之间找到一个更为动态和巧妙的平衡点。例如，公司可以积极探索和应用更先进的差分隐私（Differential Privacy）技术、联邦学习（Federated Learning）或强大的设备端AI处理（On-device AI）方案。这些技术旨在实现在不将用户原始敏感数据上传至云端的情况下，进行AI模型的有效训练和",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-    "time": "21小时前",
-    "published_iso": "2026-04-04T12:00:01+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "What we know so far about the search for missing US airman in Iran",
-    "deck": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-    "cnTitle": "美军机伊朗坠毁，美伊搜寻失踪飞行员",
-    "cnDeck": "一架美国军机在伊朗境内被击落后，美国和伊朗军队正在联合搜寻一名失踪的美国机组人员。这一事件发生在近期，立即加剧了中东地区本已紧张的地缘政治局势，同时也促使两个长期敌对的国家展现出不同寻常的行动协调。据了解，这架美国军机据信是一架侦察机或战术飞机，当时正按照美方官员的说法，在伊朗边境附近执行例行任务，但在飞行过程中遭遇不明事件而坠落。伊朗当局则暗示，该飞机可能侵犯了伊朗领空，尽管这一说法尚未得到独立证实。目前，围绕这架军机被击落的具体情况仍不明确，双方都已启动各自的调查。华盛顿和德黑兰的当务之急是安全找回失踪的美国机组人员。初步报告显示，搜寻工作主要集中在伊朗境内一处偏远的山区，这给搜救行动带来了巨大的后勤挑战。美国中央司令部（CENTCOM）证实了飞机的坠毁和人员失踪，并在简短声明中表示，“搜救行动正在与地方当局合作进行中”。这种表述暗示了与伊朗军队之间存在一定程度的合作，这在公开场合是极为罕见的。伊朗国家媒体援引革命卫队（IRGC）官员的话，证实了他们参与搜寻工作，并强调了此次任务的人道主义性质。尽管地面上的合作是一个值得关注的进展，但两国之间的高级别外交渠道仍然紧张。分析人士正密切关注这一事件将如何影响目前围绕地区安全和伊朗核协议进行的间接谈判。美国国务院高级官员在不具名的情况下表示，尽管当前的重点是人道主义，但美国政府正在寻求对事件原因的全面澄清。他们强调确保在美国地区行动的军事人员安全的重要性，并呼吁伊朗同行实现完全透明。与此同时，美国国会内部已有声音表达担忧，一些立法者敦促政府就该事件及其对地区稳定可能产生的影响提供详细简报。此次事件发生在波斯湾和红海地区代理人冲突和海上事件不断升级的背景下，进一步凸显了中东地区微妙的权力平衡。这次联合搜救行动，虽然是危机所迫，但有可能为未来在特定问题上的有限接触奠定基础，也可能如果处理不当，会加剧现有的不信任。国际社会正密切关注事态发展，希望失踪飞行员的搜寻工作能迅速安全解决，并能缓和此次意外事件可能引发的任何潜在紧张局势。未来几天对确定这一重大地缘政治事件的走向和后果至关重要。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "time": "22小时前",
-    "published_iso": "2026-04-04T11:00:34+00:00",
-    "id": "n22",
     "lead": false
   }
 ]
