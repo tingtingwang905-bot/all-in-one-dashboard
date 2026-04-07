@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Music giant Universal gets $64bn takeover offer",
+    "deck": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
+    "cnTitle": "艾克曼基金640亿美元收购环球音乐",
+    "cnDeck": "全球领先的音乐巨头环球音乐集团（Universal Music Group，简称UMG）目前正面临一份来自著名对冲基金Pershing Square的收购要约，该要约的价值高达640亿美元。环球音乐集团旗下拥有众多全球知名艺人，包括流行天后泰勒·斯威夫特（Taylor Swift）和新星萨布丽娜·卡彭特（Sabrina Carpenter）等，是全球音乐产业的核心力量之一。由亿万富翁投资者比尔·艾克曼（Bill Ackman）领导的Pershing Square是一家知名的维权对冲基金，以其大胆的投资策略和对目标公司的积极干预而闻名。此次高达640亿美元的收购报价，不仅彰显了环球音乐集团在全球娱乐内容领域无与伦比的价值，也预示着全球金融市场可能将迎来一笔巨额交易。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-07T10:35:36+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+    "deck": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+    "cnTitle": "JD Vance访匈支持欧尔班连任",
+    "cnDeck": "美国共和党籍参议员JD Vance近日抵达匈牙利，公开表示支持该国总理维克多·欧尔班争取连任，此举引发广泛关注。根据新闻报道，此次美国副总统的访问被视为白宫对匈牙利领导人的最新支持表现。尽管新闻原文在人物身份描述上存在一定的模糊性（JD Vance为参议员而非副总统），但其此次出访及其对欧尔班的声援，无疑向外界传递了明确的政治信号",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-07T09:55:07+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+    "deck": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+    "cnTitle": "台湾反对党领袖应邀访华会习近平",
+    "cnDeck": "台湾反对党领袖郑丽文（Cheng Li-wun）近日启程前往中国大陆，外界普遍预计她将与中国国家主席习近平进行会晤。郑丽文本人在启程前明确表示，她“欣然接受了习近平的邀请”，并表达了她希望“成为和平桥梁”的愿望。此次访问正值两岸关系敏感且复杂时期，尤其是在当前民进党政府执政下，台湾与大陆之间的官方交流几乎停滞，使得反对党领袖的此次访问具有重要的象征意义和潜在的实质影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-07T07:29:55+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Australia's most-decorated living soldier charged over alleged war crimes",
+    "deck": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+    "cnTitle": "澳功勋士兵涉战争罪遭起诉",
+    "cnDeck": "澳大利亚最受勋的在世士兵本·罗伯茨-史密斯（Ben Roberts-Smith）目前正面临对其涉嫌战争罪行的刑事指控。这些指控的核心内容是他在阿富汗服役期间，涉嫌非法杀害手无寸铁的阿富汗囚犯和平民。罗伯茨-史密斯曾是澳大利亚特种空勤团（SASR）的一员，因其在战场上的英勇表现被授予国家最高军事荣誉——维多利亚十字勋章，是澳大利亚家喻户晓的军事英雄。然而，自2018年起，关于他在阿富汗行动中行为不当的报道和指控逐渐浮出水面，严重玷污了他的声誉。罗伯茨-史密斯本人始终坚决否认所有不当行为和指控。他曾于2018年对费尔法克斯媒体（Fairfax Media，现九",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-07T07:19:27+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
+    "deck": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
+    "cnTitle": "尼日利亚复活节袭击后军队救援人数引争议",
+    "cnDeck": "近期，尼日利亚发生的一起复活节袭击事件引发了广泛关注，尤其是在官方与当地民众对救援结果的描述上出现了显著分歧。据军方声明，在袭击发生后，他们成功解救了31名受害者，并同时证实了另有五名平民在此次由武装分子发动的袭击中不幸遇难，他们的遗体已在现场被找到。然而，当地居民对此军方说法表示质疑，指出实际情况可能与军方公布的数据存在出入，使得这起悲剧的真相更加扑朔迷离。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-07T06:41:24+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "China is winning one AI race, the US another - but either might pull ahead",
+    "deck": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
+    "cnTitle": "中美AI竞赛各有领先",
+    "cnDeck": "这篇新闻指出，中国和美国在人工智能（AI）领域展开激烈竞争，目前呈现出各自在不同方面取得领先的局面，但双方均不愿让对手占据主导地位，且这场竞争的格局未来可能进一步演变。文章强调，中美两国在全球AI竞赛中扮演着核心角色，两国都将AI视为塑造未来经济增长、国家安全和全球影响力的关键技术。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-07T05:13:12+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
     "headline": "Oil prices rise ahead of Trump's Iran deal deadline",
     "deck": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
     "cnTitle": "特朗普威胁伊朗 油价上涨",
@@ -9,9 +93,22 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "India’s Stock Rout Creates Openings for Bargain Hunters - bloomberg.com",
+    "deck": "India’s Stock Rout Creates Openings for Bargain Hunters&nbsp;&nbsp;bloomberg.com",
+    "cnTitle": "印度股市暴跌提供抄底机会",
+    "cnDeck": "印度股市近期遭遇显著下跌，包括孟买SENSEX指数和印度NIFTY指数在内的主要股指均录得可观跌幅。此次市场回调主要源于5月初印度大选结果的意外波动。市场一度担忧执政党印度人民党（BJP）可能无法获得绝对多数席位，导致投资者情绪恐慌性抛售。国际机构投资者（FIIs）在大选计票日当天出现了大规模资金撤离，使得市场流动性紧张，卖压骤增。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
+    "time": "8小时前",
+    "published_iso": "2026-04-07T02:50:46+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n8",
+    "lead": false
   },
   {
     "headline": "India's high-growth economy gets a Middle East oil shock",
@@ -23,8 +120,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n9",
     "lead": false
   },
   {
@@ -37,8 +133,35 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Businesses scramble to get noticed by AI search",
+    "deck": "Firms are changing the way they present information on their websites, so they get noticed by AI.",
+    "cnTitle": "企业调整网站适应AI搜索趋势",
+    "cnDeck": "随着人工智能（AI）在搜索领域的崛起，全球企业正积极调整其网站信息呈现方式，以确保能被AI搜索引擎“注意到”并有效抓取。这一现象标志着搜索引擎优化（SEO）领域正在经历一场深刻的变革。过去，企业主要关注关键词排名和链接建设，但在AI驱动的搜索时代，如谷歌的搜索生成体验（SGE）和微软的Copilot等，用户越来越倾向于直接从AI获得汇总或生成的答案，而非点击进入多个网站。这种模式对企业原有的网站流量和用户互动方式构成了直接挑战，迫使它们重新评估并革新其数字内容战略。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-06T23:20:52+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "Little sign of breakthrough as Trump's Iran deadline nears",
+    "deck": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+    "cnTitle": "特朗普伊朗霍尔木兹海峡最后期限临近",
+    "cnDeck": "美国总统特朗普设定的伊朗开放霍尔木兹海峡的最后期限临近，局势异常紧张。该期限定于周二，目前已进入最后倒计时阶段，然而，双方在关键问题上几乎没有取得任何突破性进展的迹象。特朗普政府长期以来对伊朗采取“极限施压”策略，旨在迫使伊朗重新谈判核协议，停止其弹道导弹计划，并停止对地区代理人的支持。美国此前已单方面退出《联合全面行动计划》(JCPOA)，即伊朗核协议，并对伊朗实施了包括石油出口禁运在内的严厉经济制裁，试图切断其主要经济收入来源。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-06T23:04:23+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -51,7 +174,21 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n4",
+    "id": "n13",
+    "lead": false
+  },
+  {
+    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+    "deck": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
+    "cnTitle": "特朗普支持前英国顾问竞选加州州长",
+    "cnDeck": "美国前总统唐纳德·特朗普近日宣布支持前英国政治顾问史蒂夫·希尔顿竞选加利福尼亚州州长一职。史蒂夫·希尔顿作为一名共和党人参选，其政治生涯引人注目。他曾担任英国前首相大卫·卡梅伦的资深顾问，在英国政界拥有丰富的经验。希尔顿在“唐宁街10号”期间，参与了多项重要政策的制定，尤其以其对“大社会”理念的推动而闻名，该理念旨在通过赋权社区和个人来解决社会问题。此后，希尔顿将事业重心转向美国，并成为福克斯新闻频道的一名知名主持人，主持名为“今夜史蒂夫·希尔顿”（The Next Revolution with Steve Hilton）的周日晚间节目。在该节目中，他经常批评左翼政策，并表达对民粹主义和保守主义观点的支持，这使其在美国保守派观众中积累了大量人气。特朗普此次对希尔顿的背书，不仅凸显了其在共和党内部的巨大影响力，也为希尔顿的竞选活动注入了强大的动力和知名度。加利福尼亚州作为美国人口最多、经济体量最大的州，长期以来一直是民主党的“蓝州”堡垒。现任州长加文·纽森（Gavin Newsom）是一位民主党人，其执政地位在州内相对稳固。然而，共和党人在此地的任何有竞争力的挑战都备受关注。特朗普的支持预计将帮助希尔顿在共和党初选中争取到更多选票和捐款，尤其是在那些支持特朗普的选民群体中。同时，这也可能引发关于加州政治格局、共和党未来方向以及特朗普在州级选举中持续影响力的广泛讨论。希尔顿的竞选平台预计将围绕共和党的传统主题，如减税、放松管制、打击犯罪和边境安全等，以期吸引对当前州政府政策不满的选民。此次背书也反映出特朗普倾向于支持那些在媒体领域具有影响力的保守派人物，进一步巩固其在美国右翼政治和媒体生态系统中的主导地位。分析人士指出，尽管加州对共和党而言是一块难啃的骨头，但特朗普的公开力挺无疑会为希尔顿的竞选带来更多全国性的关注和资源，使其成为一个不容忽视的挑战者，即使最终胜选的可能性较低。此举也可能被视为特朗普在为2024年总统大选铺路，通过支持盟友来巩固其在共和党内的控制力，并动员其核心选民基础。希尔顿的参选，加上特朗普的背书，无疑会给本已复杂的加州政治图景增添更多变数和看点。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-04-06T18:55:45+00:00",
+    "is_new": true,
+    "id": "n14",
     "lead": false
   },
   {
@@ -64,8 +201,7 @@
     "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-06T15:40:35+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n15",
     "lead": false
   },
   {
@@ -78,8 +214,7 @@
     "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
     "time": "18小时前",
     "published_iso": "2026-04-06T11:55:38+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n16",
     "lead": false
   },
   {
@@ -92,7 +227,7 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n7",
+    "id": "n17",
     "lead": false
   },
   {
@@ -105,7 +240,7 @@
     "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
     "time": "1小时前",
     "published_iso": "2026-04-06T05:31:39+00:00",
-    "id": "n8",
+    "id": "n18",
     "lead": false
   },
   {
@@ -118,7 +253,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-06T03:33:35+00:00",
-    "id": "n9",
+    "id": "n19",
     "lead": false
   },
   {
@@ -131,7 +266,7 @@
     "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T00:23:16+00:00",
-    "id": "n10",
+    "id": "n20",
     "lead": false
   },
   {
@@ -144,7 +279,7 @@
     "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-05T23:19:20+00:00",
-    "id": "n11",
+    "id": "n21",
     "lead": false
   },
   {
@@ -157,7 +292,7 @@
     "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-05T23:00:58+00:00",
-    "id": "n12",
+    "id": "n22",
     "lead": false
   },
   {
@@ -170,7 +305,7 @@
     "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T22:07:40+00:00",
-    "id": "n13",
+    "id": "n23",
     "lead": false
   },
   {
@@ -183,7 +318,7 @@
     "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T21:19:02+00:00",
-    "id": "n14",
+    "id": "n24",
     "lead": false
   },
   {
@@ -196,7 +331,7 @@
     "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-05T19:17:42+00:00",
-    "id": "n15",
+    "id": "n25",
     "lead": false
   },
   {
@@ -209,7 +344,7 @@
     "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-05T15:03:19+00:00",
-    "id": "n16",
+    "id": "n26",
     "lead": false
   },
   {
@@ -222,20 +357,7 @@
     "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-05T12:35:36+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "What we know so far about rescue of US airman in Iran",
-    "deck": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
-    "cnTitle": "美F-15飞行员伊朗境内获救事件",
-    "cnDeck": "美国已成功营救一架在其F-15战斗机于伊朗南部被击落后失踪的机组成员。这一消息标志着数日来外界对失踪飞行员命运担忧的结束，也揭示了一场高度敏感且复杂的跨国营救行动。据消息人士透露，这架美国F-15战斗机是在进行一次例行飞行任务时，在伊朗南部空域遭遇不明原因的袭击而被击落的。关于击落事件的具体细节，",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-05T06:59:48+00:00",
-    "id": "n18",
+    "id": "n27",
     "lead": false
   }
 ]
