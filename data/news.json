@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Oil prices rise ahead of Trump's Iran deal deadline",
+    "deck": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
+    "cnTitle": "特朗普威胁伊朗 油价上涨",
+    "cnDeck": "美国总统特朗普在“伊朗协议”截止日期临近之际，向伊朗发出严厉警告。他威胁称，若伊朗不开放具有战略重要性的霍尔木兹海峡，美国可能“在一夜之间”采取军事行动“将其除掉”。此番言论迅速加剧了中东地缘政治紧张局势，引发国际社会广泛关注。霍尔木兹海峡是连接波斯湾与阿曼湾的全球关键石油运输咽喉，承载着全球约五分之一的石油供应。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-07T05:10:36+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "India's high-growth economy gets a Middle East oil shock",
+    "deck": "India's currency, stocks and growth projections take a beating as the country faces a triple energy shock due to Iran war.",
+    "cnTitle": "伊朗战争致印度经济面临石油冲击",
+    "cnDeck": "印度经济正面临来自中东的严重石油冲击，其货币、股市和经济增长预测均受到重创。这一“三重能源冲击”的根源在于伊朗战争的爆发及其在中东地区引发的连锁反应。作为全球主要的石油进口国之一，印度经济对国际原油价格的波动极其敏感，而中东局势的升级直接导致了全球原油供应的不确定性增加和价格飙升。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-07T01:21:36+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
+    "deck": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
+    "cnTitle": "亚洲多国与伊朗达成能源协议",
+    "cnDeck": "美国前总统特朗普政府时期，曾对伊朗实施了“极限施压”政策，旨在全面切断伊朗的石油出口收入，以迫使其在核计划和地区活动上做出让步。作为这一策略的关键组成部分，美国曾向全球多个国家施加巨大压力，要求它们在特定期限内停止从伊朗进口石油，否则将面临次级制裁的风险。新闻中提及的“特朗普霍尔木兹最后期限临近”，正是指美国对伊朗石油出口制裁的豁",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-04-06T23:34:11+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
     "deck": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
     "cnTitle": "加沙冲突升级，以军空袭致十人死亡",
@@ -9,9 +51,36 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+    "deck": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+    "cnTitle": "美总统威胁伊朗，或攻击其基建",
+    "cnDeck": "美国总统对伊朗发出的严厉威胁，即除非伊朗开放具有战略重要性的霍尔木兹海峡，否则美国将摧毁伊朗的发电厂和桥梁，这在伊朗国内引起了广泛的担忧和紧张情绪。随着特朗普总统设定的最后期限日益临近，普通伊朗民众正在为可能到来的基础设施打击做准备。许多伊朗人表达了深深的忧虑，正如新闻标题中引用的那样，他们感觉‘我们正在越陷越深’，对国家的未来和个人生活都充满了不确定性。霍尔木兹海峡是连接波斯湾与阿曼湾的咽喉要道，全球约五分之一的石油供应需要通过此海峡运输，其战略地位不言而喻。任何对该海峡通航自由的威胁或潜在军事冲突都可能对全球能源市场造成毁灭性冲击，导致国际油价飙升，并对全球经济稳定构成严重挑战。美国总统的此番言论被视为美伊两国之间长期紧张关系的一次重大升级，这种紧张关系自美国退出伊朗核协议并重新实施严厉制裁以来持续加剧。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-04-06T15:40:35+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
+    "deck": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.",
+    "cnTitle": "摩根大通CEO戴蒙警示三大风险",
+    "cnDeck": "摩根大通首席执行官杰米·戴蒙在其备受关注的年度致股东信中，对全球经济和金融市场未来面临的潜在挑战发出了明确警告，重点提及了地缘政治紧张局势、人工智能（AI）的复杂影响以及私募市场的固有风险。作为全球最大的银行之一的掌舵人，戴蒙的观点通常被视为对全球经济和金融趋势的权威解读，对投资者和政策制定者具有重要的参考价值。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
+    "time": "18小时前",
+    "published_iso": "2026-04-06T11:55:38+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "Stock futures slip after a winning week as oil prices tick higher: Live updates",
@@ -23,7 +92,7 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n2",
+    "id": "n7",
     "lead": false
   },
   {
@@ -36,7 +105,7 @@
     "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
     "time": "1小时前",
     "published_iso": "2026-04-06T05:31:39+00:00",
-    "id": "n3",
+    "id": "n8",
     "lead": false
   },
   {
@@ -49,7 +118,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-06T03:33:35+00:00",
-    "id": "n4",
+    "id": "n9",
     "lead": false
   },
   {
@@ -62,7 +131,7 @@
     "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T00:23:16+00:00",
-    "id": "n5",
+    "id": "n10",
     "lead": false
   },
   {
@@ -75,7 +144,7 @@
     "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-05T23:19:20+00:00",
-    "id": "n6",
+    "id": "n11",
     "lead": false
   },
   {
@@ -88,8 +157,7 @@
     "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-05T23:00:58+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n12",
     "lead": false
   },
   {
@@ -102,7 +170,7 @@
     "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T22:07:40+00:00",
-    "id": "n8",
+    "id": "n13",
     "lead": false
   },
   {
@@ -115,7 +183,7 @@
     "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T21:19:02+00:00",
-    "id": "n9",
+    "id": "n14",
     "lead": false
   },
   {
@@ -128,7 +196,7 @@
     "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-05T19:17:42+00:00",
-    "id": "n10",
+    "id": "n15",
     "lead": false
   },
   {
@@ -141,7 +209,7 @@
     "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-05T15:03:19+00:00",
-    "id": "n11",
+    "id": "n16",
     "lead": false
   },
   {
@@ -154,7 +222,7 @@
     "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-05T12:35:36+00:00",
-    "id": "n12",
+    "id": "n17",
     "lead": false
   },
   {
@@ -167,71 +235,6 @@
     "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-05T06:59:48+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
-    "deck": "Astronauts on the Artemis II mission are on the third day of their journey around the far side of the Moon.",
-    "cnTitle": "艺术2号船员首窥月球背面",
-    "cnDeck": "美国国家航空航天局（NASA）阿尔忒弥斯2号（Artemis II）任务的四名宇航员——指挥官里德·怀斯曼（Reid Wiseman）、飞行员维克多·格洛弗（Victor Glover）、任务专家克里斯蒂娜·科赫（Christina Koch）以及加拿大航天局的宇航员杰里米·汉森（Jeremy Hansen）——在他们绕月旅程的第三天，首次亲眼目睹了月球的远侧，并形容这一景象“绝对壮观”。这次具有里程碑意义的载人飞行测试是NASA阿尔忒弥斯计划的关键一步，旨在为人类未来重返月球表面并最终前往火星铺平道路。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-05T00:04:03+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Apple at 50: Three products that changed how we live - and three that really didn't",
-    "deck": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
-    "cnTitle": "产品成败塑造科技巨头",
-    "cnDeck": "在科技巨头苹果公司成立五十周年之际，全球业界专家和分析师们对这家定义了现代数字生活的公司进行了深入回顾与评价。他们受邀评选出苹果历史上“改变我们生活”的三款标志性产品，以及“未能真正成功”的三大败笔。这一盘点不仅是对苹果创新精神的致敬，也是对其发展道路上挑战与机遇的深刻反思。分析师们普遍认为，正是这些成功与失败共同塑造了苹果的独特基因，并使其持续保持行业领先地位。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-04T23:56:55+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-    "deck": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
-    "cnTitle": "匈牙利欧尔班竞选连任，AI视频引发关注",
-    "cnDeck": "匈牙利总理维克托·欧尔班（Viktor Orbán）正寻求在他执政16年后再次连任，这场关键的选举因人工智能（AI）生成视频的出现而变得更加复杂和充满争议。这些AI视频被指控为竞选宣传工具，专门针对欧尔班的主要选举对手，其内容可能旨在削弱对手的公信力或误导选民。欧尔班自2010年上任以来，一直",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-04T23:15:48+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-    "deck": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-    "cnTitle": "美国逮捕伊朗已故将军苏莱马尼亲属",
-    "cnDeck": "据美国官员声明，已故伊朗高级将领卡西姆·苏莱马尼的侄女和孙侄女已被美国移民和海关执法局（ICE）拘留。苏莱马尼生前是伊朗伊斯兰革命卫队圣城旅指挥官，在伊朗地区战略与外交政策中扮演关键角色。2020年1月3日，他在伊拉克巴格达国际机场附近遭美军无人机袭击身亡，该事件曾导致美",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-04T21:29:46+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "German males under 45 may need military approval for long stays abroad",
-    "deck": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
-    "cnTitle": "德国男性出境或需军方批准",
-    "cnDeck": "根据最新披露的消息，德国政府可能正在考虑一项新的法律草案，该草案要求所有45岁以下的德国男性公民，若计划在国外停留较长时间，需获得军方批准。这一潜在的政策调整引发了广泛关注，因为它触及到公民的行动自由以及国家安全与个人权利之间的平衡。尽管新闻内容同时指出，根据该法律的现有设想，旅行批准通常情况下必须被授予，且目前尚不清楚如果违反规定，该规则将如何被强制执行，但这项提议本身已足以引发公众和政治层面的深入讨论。此举背景复杂，可能与当前欧洲地缘政治局势紧张以及德国对其国防能力日益增长的担忧有关。自乌克兰危机爆发以来，德国以及更广泛的欧洲地区对军事准备的重视程度显著提高。德国国内关于恢复某种形式的义务兵役制或加强国防力量的讨论从未间断。在这种大环境下，限制特定年龄段男性公民的长期出国行为，可能被解读为一种加强兵役管理、确保潜在兵源可用性的预备措施。其核心目的可能是确保在国家需要动员时，能够迅速集结必要的军事力量，避免潜在兵员因长期滞留海外而无法及时响应。对于受影响的德国男性公民而言，这项规定无疑将对他们的生活和职业规划带来潜在影响。虽然法律规定批准“通常情况下必须被授予”，这在一定程度上保障了公民的出行权利，但“军方批准”这一附加程序本身，无论其审批流程多么简化，都引入了一个额外的政府审查环节。这将可能增加出国旅行的行政负担，并在心理层面造成一种被国家监控的感觉。批评者可能会指出，这可能侵犯公民的基本自由权，并且开创一个由军事机构干预个人出行决策的先例。此外，该规则的执行细节尚不明确，尤其是在“如何被强制执行如果违反规定”方面，这引发了实际操作上的疑问。例如，如果一名45岁以下的德国男性在未经军方批准的情况下长期居住海外，他将面临怎样的法律后果？这是否会影响其公民身份、回国权利或在德国的财产和权益？这些都是立法者在推行此类政策时必须面对的挑战。德国作为一个民主国家，其公民享有高度的自由。任何限制公民自由的政策，即便是出于国家安全的考虑，都必须经过",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-04T21:16:42+00:00",
     "id": "n18",
     "lead": false
   }
