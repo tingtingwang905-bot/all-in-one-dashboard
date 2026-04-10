@@ -65,6 +65,20 @@
     "lead": false
   },
   {
+    "headline": "UK farmers warn Iran ceasefire too late to stop higher food costs",
+    "deck": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
+    "cnTitle": "英国农民警示伊朗战事影响粮食价格",
+    "cnDeck": "英国农民协会发出严峻警告，指出尽管伊朗战争已经达成停火协议，但其对农业生产成本以及最终食品价格的负面影响仍将持续，且可能为时已晚，无法阻止价格上涨的趋势。此次警告反映出英国农业界对全球地缘政治冲突引发的经济连锁反应深感忧虑，并强调了此类事件对普通民众日常生活成本的深远影响。分析人士指出，虽然停火为地区局势带来了一线希望，但战争期间累积的经济压力和供应链中断并非短期内可以消除。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-09T08:34:04+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
     "headline": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
     "deck": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
     "cnTitle": "澳功勋士兵被控战争罪",
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-09T08:23:11+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-09T03:33:31+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,19 +114,6 @@
     "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
     "time": "8小时前",
     "published_iso": "2026-04-08T23:52:04+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "Iran Strait of Hormuz warning adds to shipping uncertainty",
-    "deck": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
-    "cnTitle": "伊朗霍尔木兹海峡警告加剧航运不确定性",
-    "cnDeck": "伊朗近日发出的霍尔木兹海峡警告，使得全球航运面临的不确定性进一步加剧。霍尔木兹海峡是连接波斯湾与阿拉伯海的战略性水道，全球约三分之一的海运石油和液化天然气通过此处运输，其战略和经济重要性不言而喻，被视为全球能源供应的“咽喉要道”。伊朗长期以来在此区域拥有显著影响力，并多次利用其地位在地区乃至国际事务中施加压力。此次警告正值美伊两国达成“停火协议”之后。尽管具体的“美伊停火协议”细节在新闻原文中并未展开，但这一措辞暗示了美伊之间曾存在某种形式的紧张对抗，而该协议旨在缓解这些紧张局势，以期实现区域稳定。然而，伊朗的最新警告无疑给外界对地区和平与航运安全的预期蒙上了一层阴影。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-04-08T17:21:31+00:00",
     "id": "n9",
     "lead": false
   }
