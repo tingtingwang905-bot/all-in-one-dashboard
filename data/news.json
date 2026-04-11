@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
+    "deck": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
+    "cnTitle": "AI峰会聚焦Anthropic Claude热潮",
+    "cnDeck": "新闻标题为“Vibe check from inside one of AI industry's main events: 'Claude mania'”的报道指出，在本周于旧金山举行的HumanX大会上，人工智能公司Anthropic的发展势头成为与会者热议的焦点。报道强调，Anthropic及其核心AI模型Claude所展现的“狂热”（'Claude mania'）情绪“在每个人口中”流传，显示出该公司在当前激烈竞争的人工智能领域中获得了显著的关注和认可。Anthropic由前OpenAI员工Daniela Amodei和Dario Amodei创立，是一家专注于人工智能研究和安全的领先企业，其旗舰产品Claude作为OpenAI GPT系列等主流AI模型的强大替代品，在市场上迅速积累了声誉。HumanX大会被认为是AI行业内最重要的盛会之一，通常在此类会议上，行业趋势、前沿技术和未来发展方向都会受到广泛讨论。Anthropic和Claude能够在此类重要活动中成为核心话题，有力地证明了其强大的市场地位以及其产品在质量和实用性方面的显著进步。这种在行业盛会中形成的积极声势，对于吸引顶尖人才、获取关键投资以及在快速变化的AI市场中扩大份额至关重要。与会者很可能围绕Claude的性能基准、其独特的AI安全特性、在不同行业中的潜在应用，以及Anthropic在AI对齐方面的独特方法展开了深入探讨。这种“势头”可能源于多重因素，例如用户的高度积极反馈、企业客户的广泛采用，或是对未来创新成果的强烈预期。例如，Claude在上下文窗口大小、推理能力或多模态功能方面的最新进展，都可能是激发此次热潮的关键原因。在全球AI巨头如谷歌、微软和OpenAI不断争夺主导地位的背景下，Anthropic在HumanX大会上的突出表现，表明其正成功地实现差异化竞争，并取得了实质性进展。对Claude的这种热情也可能反映了行业内寻求多样化AI解决方案，并重视那些优先考虑伦理和负责任AI发展的公司的一种普遍趋势。这份来自行业主要盛会的“氛围检查”为人工智能领域的当前情绪和竞争动态提供了宝贵洞察，预示着Anthropic目前被视为一个拥有光明前景的领跑者。报告暗示，HumanX大会上的讨论很可能在未来数月内塑造AI社区的认知和投资决策。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+    "time": "7小时前",
+    "published_iso": "2026-04-11T12:00:01+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Concerns after satellite provider restricts Iran images following US pressure",
     "deck": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
     "cnTitle": "美施压卫星公司限制伊朗影像引关注",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T05:40:51+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Frontrunner for California governor denies sexual assault allegations",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-11T03:13:10+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-11T00:17:18+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T23:46:49+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-10T20:07:07+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
     "time": "12小时前",
     "published_iso": "2026-04-10T18:57:26+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T18:45:33+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -102,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:20:58+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -115,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:08:19+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -128,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-10T15:44:12+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -141,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-10T15:12:57+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -154,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-10T10:42:48+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -167,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-10T06:41:40+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -180,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-10T02:32:27+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -193,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-09T23:04:32+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -206,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-09T23:01:47+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -219,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-09T22:03:15+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -232,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-09T20:36:41+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -245,19 +257,6 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-09T20:07:08+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Watch: How the US Navy will help recover the Artemis II crew",
-    "deck": "The Orion spacecraft is expected to splash down off the coast of San Diego on 10 April.",
-    "cnTitle": "美海军将协助阿耳忒弥斯II乘组返回",
-    "cnDeck": "美国海军将为NASA阿耳忒弥斯II任务的乘组回收提供关键支持，此次回收行动预计于4月10日在圣迭戈海岸附近进行。阿耳忒弥斯II任务是NASA“阿耳忒弥斯”计划中的第二次任务，也是自阿波罗时代以来首次载人绕月飞行测试，旨在为后续的载人登月任务——阿耳忒弥斯III奠定基础。猎户座（Orion）飞船作为",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/videos/cj609y6nnxzo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-04-09T17:22:14+00:00",
     "id": "n20",
     "lead": false
   }
