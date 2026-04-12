@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-12T07:44:27+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-12T04:20:37+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T23:12:58+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-11T18:55:40+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-11T14:41:31+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -92,7 +87,6 @@
     "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-11T09:42:39+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -123,6 +117,20 @@
     "lead": false
   },
   {
+    "headline": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
+    "deck": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
+    "cnTitle": "阿根廷冰川保护放宽引发采矿争议",
+    "cnDeck": "阿根廷近日通过一项备受争议的法律，旨在放宽对该国冰川的保护措施，此举为矿业活动打开大门，引发了国内外广泛关注和担忧。这项新法律的通过，导致环保组织、科学家以及当地社区的强烈反对，他们警告称，这一政策可能对阿根廷宝贵的淡水资源造成不可逆转的破坏。冰川在阿根廷的生态系统中扮演着至关重要的角色，它们是多条河流的源头，为农业、饮用水和生态系统提供生命之水。该国拥有巨大的冰川面积，是南美洲最重要的淡水储备之一。一直以来，阿根廷拥有一部相对严格的冰川保护法，旨在防止采矿和其他开发活动对冰川及其周边环境造成污染和破坏。然而，新通过的法律对现有的保护框架进行了修订，允许在某些此前被禁止的冰川周边区域进行矿产勘探和开采活动。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-11T02:02:56+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
     "headline": "Final push for votes as challenger to Hungary's Orbán scents victory",
     "deck": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
     "cnTitle": "马扎尔民调领先，冲击匈牙利大选",
@@ -132,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-11T00:17:18+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -145,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T23:46:49+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -158,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-10T20:07:07+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -171,7 +179,7 @@
     "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
     "time": "12小时前",
     "published_iso": "2026-04-10T18:57:26+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -184,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T18:45:33+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -197,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:20:58+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -210,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:08:19+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -223,7 +231,21 @@
     "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-10T15:44:12+00:00",
-    "id": "n17",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Mayor warns of London 'disinformation blizzard'",
+    "deck": "Sir Sadiq Khan claims London is being targeted with disinformation portraying it as a city \"in decline\".",
+    "cnTitle": "萨迪克·汗警告伦敦遭虚假信息攻击",
+    "cnDeck": "萨迪克·汗爵士，现任伦敦市长，近日发表了一项引人注目的声明，警告称伦敦正面临一场“虚假信息风暴”，其目的是将这座全球性都市描绘成一个“正在衰落的城市”。他的言论凸显了对信息战和国家形象塑造的高度关注。萨迪克·汗市长强调，这些虚假信息并非偶然现象，而是有组织、有目的的攻击，旨在损害伦敦的国际声誉和吸引力。他指出，这些不实信息试图制造一种伦敦经济不景气、社会问题突出、未来发展前景黯淡的印象。这种策略如果得逞，不仅会打击市民的信心，更可能影响国际投资者、游客以及优秀人才对伦敦的看法，从而对城市的经济活力、文化交流和国际地位造成长期而深远的负面影响。伦敦作为全球领先的金融中心、文化枢纽和创新高地，其声誉是其核心竞争力之一。任何试图破坏这种声誉的行动，都将被视为对其战略利益的直接挑战。市长的警告背景是当前全球地缘政治复杂化的态势，许多国家和城市都曾成为虚假信息攻击的目标。此类攻击通常利用社交媒体、网络平台以及各种信息渠道，传播带有偏见、断章取义或完全捏造的内容，以达到误导公众、制造分裂、削弱对手的目的。这种“软实力”的对抗，在现代国际关系中扮演着越来越重要的角色。萨迪克·汗市长未明确指出这些虚假信息的具体来源，但其言辞暗示，这可能涉及复杂的国内外行为者，其动机可能是削弱伦敦的国际影响力，或是出于政治、经济竞争的考量。市长呼吁伦敦市民保持警惕，学会辨别信息的真伪，不轻易相信和传播未经证实的消息。同时，他也表示伦敦市政府将积极应对这一挑战，与相关机构合作，加强信息甄别和反击虚假信息的能力，以维护城市的真实形象和核心价值观。他的这番话，不仅是对伦敦市民的警示，也是对国际社会的一次呼吁，提醒各方关注和共同应对日益猖獗的虚假信息威胁。这次警告将可能促使更多关于数字安全、信息主权和国家形象保护的讨论。此举也反映出，在数字时代，城市治理者除了关注传统的公共服务和经济发展外，还必须面对来自信息领域的非传统挑战。萨迪克·汗市长的声明为伦敦的未来发展增添了新的安全维度，并可能引发对英国国家安全战略中信息战应对能力的进一步审视。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-10T15:29:31+00:00",
+    "is_new": true,
+    "id": "n19",
     "lead": false
   },
   {
@@ -236,8 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-10T15:29:23+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -250,20 +271,7 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-10T15:12:57+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Will UK petrol and diesel prices start going down?",
-    "deck": "UK petrol prices have risen because of the US-Israel war with Iran but the ceasefire could see prices drop.",
-    "cnTitle": "中东冲突影响英国油价走向",
-    "cnDeck": "英国汽油和柴油价格的近期走势受到中东地区地缘政治局势的显著影响。根据分析，此前，由于美国、以色列与伊朗之间发生的冲突，全球原油市场出现剧烈波动，导致原油价格一路攀升。中东地区是全球重要的石油生产和运输枢纽，任何在该区域发生的军事冲突或紧张局势，都可能直接威胁到石油的生产、运输线路以及供应链的稳定性。特别是涉及伊朗的冲突，由于其掌控着霍尔木兹海峡这一关键石油运输咽喉，市场对原油供应中断的担忧加剧，从而推动国际原油价格，如布伦特原油和西德克萨斯中质原油（WTI），大幅上涨。英国作为主要的石油进口国，其国内汽油和柴油的零售价格与国际原油价格紧密挂钩。国际原油价格的上涨，直接传导至英国消费者，导致加油站的燃油价格持续走高，给英国民众的日常生活和企业运营带来了额外的成本压力。这种价格上涨不仅影响了私家车主，也增加了物流和运输企业的运营开支，进而可能推高整体通胀水平，对英国经济构成潜在的负面影响。然而，最新的发展表明，如果中东地区能够实现停火，特别是美国、以色列与伊朗之间的紧张局势得到有效缓解，那么国际原油市场将有望恢复平静，从而对英国的燃油价格产生积极影响。停火协议的达成通常意味着地缘政治风险溢价的消除或显著降低，市场对石油供应中断的担忧会随之减轻。在风险降低的情况下，投机性资金可能会从原油市场撤出，或者原油期货价格中的风险溢价部分将消失，导致国际原油价格回落。此外，如果冲突得以平息，受影响地区的石油生产和出口活动有望恢复正常，进一步稳定全球石油供应。对于英国而言，国际原油价格的下降将直接降低炼油厂的成本，并最终传导至零售终端，使得汽油和柴油的价格开始回落。这对英国经济来说是一个积极信号，有助于缓解通胀压力，降低消费者支出和企业成本，从而提振消费者信心和经济活动。然而，燃油价格的走势并非仅仅取决于地缘政治因素。全球经济增长前景、美元汇率、欧佩克（OPEC+）的产量政策以及季节性需求变化等多种因素，也会共同作用于国际原油价格。因此，尽管中东停火能够提供一个重要的下行压力，但英国汽油和柴油价格是否以及何时开始持续下跌，仍",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-04-10T10:42:48+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   }
 ]
