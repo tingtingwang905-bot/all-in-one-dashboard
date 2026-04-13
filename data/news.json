@@ -1,5 +1,19 @@
 [
   {
+    "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
+    "deck": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
+    "cnTitle": "特朗普称美国将封锁霍尔木兹海峡",
+    "cnDeck": "美国前总统唐纳德·特朗普近日声称美国正在封锁霍尔木兹海峡，这一言论在全球引发广泛关注，促使国际社会深入探讨海军封锁在此关键水域的实际运作及其可能带来的深远影响。霍尔木兹海峡是连接波斯湾与阿曼湾和阿拉伯海的咽喉要道，对全球能源安全至关重要，约五分之一的全球原油和液化天然气通过此海峡运输，其畅通",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-13T16:07:13+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
     "deck": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
     "cnTitle": "美伊和谈失败美国封锁伊朗 油价重上百元",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-13T03:06:49+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Hungarians vote on whether to end 16 years of Orbán rule and elect rival",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-12T07:44:27+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-12T06:25:11+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-12T04:20:37+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,33 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T23:12:58+00:00",
-    "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
-    "deck": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt.",
-    "cnTitle": "德国选择党激进纲领引关注",
-    "cnDeck": "德国极右翼政党“德国选择党”（AfD）在即将到来的关键选举之前通过了一份被形容为“激进”的竞选纲领，这一举动引起了广泛关注。该党目前在德国东部萨克森-安哈尔特州的民意调查中表现强劲，支持率持续走高，反映出其在特定地区，尤其是在德国东部地区日益增长的政治影响力。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-04-11T18:55:40+00:00",
     "id": "n6",
-    "lead": false
-  },
-  {
-    "headline": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-    "deck": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
-    "cnTitle": "尼日利亚近400名伊斯兰武装分子被判刑",
-    "cnDeck": "近日，尼日利亚司法部门在全国范围内进行的大规模审判中，对近400名被认定与激进伊斯兰分子有联系的嫌疑人做出了判决。法官们根据各被告的犯罪情节和参与程度，判处了从五年有期徒刑到终身监禁不等的刑罚。此次大规模审判和宣判行动，是尼日利亚政府长期以来打击境内伊斯兰极端主义叛乱活动的重要组成部分，旨在通过司法途径对那些涉嫌恐怖主义及相关罪行的人员进行问责。尼日利亚长期以来一直饱受极端组织，特别是博科圣地及其分支“伊斯兰国西非省”（ISWAP）等激进伊斯兰武装分子暴力活动困扰。这些武装分子在该国东北部地区频繁发动袭击，造成数万人死亡，数百万人流离失所，严重破坏了当地的社会经济发展和人道主义局势。此次近400人的大规模判刑，凸显了尼日利亚政府在应对恐怖主义威胁方面的决心和持续努力。通过司法程序对大量嫌疑人进行审判，不仅旨在伸张正义，惩罚犯罪分子，更希望能够震慑潜在的极端分子，切断其招募和行动的链条，从而为受影响地区带来长期的和平与稳定。判决结果从五年有期徒刑到终身监禁的广泛跨度，表明司法系统对案件进行了细致评估，区分了不同程度的犯罪行为，例如直接参与战斗、提供后勤支持、招募新成员或散布极端思想等。这反映出对犯罪严重性和个人责任的差异化认定。然而，大规模审判通常也伴随着对公正审判程序和人权保障的关注。国际人权组织和观察家们可能会对审判的透明度、被告是否获得充分的法律援助以及证据的收集和采信方式等问题进行审查。确保这些司法程序符合国际标准，对于维护尼日利亚的法治信誉至关重要。此次判决结果无疑将对尼日利亚的内部安全局势产生深远影响。它传递了一个明确的信息，即该国不会容忍与激进组织有任何形式的联系，并将采取坚决措施予以打击。从地区角度来看，尼日利亚的稳定对整个西非和萨赫勒地区都具有关键意义。其反恐努力的进展，无论是军事行动还是司法行动，都将影响周边国家对抗类似威胁的态势。这次大规模判决不仅是对过去犯罪行为的清算，也是尼日利亚为构建一个更安全、更稳定的未来所做努力的一部分，其最终效果将取决于后续的执行、社区和解以及根本性问题的解决。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-11T14:41:31+00:00",
-    "id": "n7",
     "lead": false
   }
 ]
