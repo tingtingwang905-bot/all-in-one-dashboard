@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Trump hints Iran talks could resume this week as US port blockade continues",
+    "deck": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
+    "cnTitle": "伊核谈判有望本周恢复",
+    "cnDeck": "美国前总统唐纳德·特朗普近日暗示，与伊朗的谈判可能在本周恢复，这一消息在全球范围内引发了对中东地区紧张局势可能缓和的关注。特朗普的这一表态正值美国对伊朗实施的“港口封锁”持续之际，显示出尽管存在持续的压力，外交努力仍在进行。联合国秘书长对此消息进行了确认，表示谈判“极有可能”重新启动。这一表态为特朗普的言论增加了权威性，并强调了国际社会对推动伊朗核问题外交解决的普遍愿望。回顾历史，特朗普政府于2018年单方面退出了由美国、英国、法国、德国、俄罗斯、中国以及欧盟与伊朗于2015年签署的《联合全面行动计划》（JCPOA），即俗称的伊朗核协议。此后，美国对伊朗重启并加大了制裁力度，导致两国关系急剧恶化，伊朗也逐步减少了对核协议条款的遵守，加速了其铀浓缩活动，引发了国际社会对核扩散的担忧。尽管特朗普已卸任，但其在共和党内及美国政治舞台上仍具有巨大影响力。他作为前总统的言论，尤其是涉及他任内政策的重大转变，通常会被视为潜在的未来政策方向或对现任政府外交策略的评论。然而，目前尚不清楚特朗普所指的具体谈判是何种形式，以及是否涉及现任拜登政府。通常，此类高层谈判会在多个层面进行，包括间接谈判或通过中间人斡旋。联合国秘书长的介入，暗示了此次谈判可能是在国际斡旋下进行，旨在寻求一项能够恢复各方对伊朗核计划信任的解决方案。谈判的重点预计将包括伊朗的铀浓缩水平、国际原子能机构的核查范围以及美国对伊朗的经济制裁解除等核心议题。“港口封锁”一词，在当前语境下，可能指的是美国及其盟友对伊朗实施的航运限制、石油出口制裁以及其他旨在切断伊朗资金来源的经济遏制措施。这些措施旨在迫使伊朗回到谈判桌，并限制其发展核武器的能力。然而，伊朗一直将这些制裁视为非法，并拒绝在压力下屈服。如果谈判确实如特朗普和联合国秘书长所言在本周恢复，这将标志着美伊关系以及伊朗核问题外交解决进程的一个重要转折点。成功的谈判有望缓解中东地区的紧张局势，降低军事冲突的风险，并为地区稳定带来积极影响。然而，鉴于过去谈判的复杂性和各方分歧，达成全面协议仍将面临巨大挑战，需要各方展现出政治意愿和灵活态度。市场和国际观察家将密切关注未来谈判的进展及其对全球能源市场和地缘政治格局可能产生的影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-15T02:58:25+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
     "deck": "Scott Bessent said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
     "cnTitle": "为消除伊朗威胁经济代价可承受",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T19:47:53+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "US, Iran Pursue New Talks as Tehran Weighs Pause in Hormuz Shipments - Bloomberg.com",
@@ -23,8 +36,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG9USGVhelBNRzFyS01pMlhLSVZqc2pRcy00MUpuTzAzaHhaWk51TkdkUkFvZ2x3cG5BbDVIVXN4Z01HalJwRkJ3ZVBvMDlpZFliYnl4bElCRWtIVVJmMDd5clNjNHN4RV9xcVFfNkRWTzVnY0Y0QXdzdi1CM2JpZVFGUnBxQmxOUVhyaUdyUFlUT3JsTGtqcG91cUJQOHh0N1FOaG1Wb3ZZdE85NGNERzNUOA?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-14T18:01:47+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:14:53+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:01:05+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T08:05:26+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/04/14/european-markets-stoxx-600-ftse-dax-iran-latest-oil-prices.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:51:29+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,7 +101,7 @@
     "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:47:23+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -102,7 +114,7 @@
     "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
     "time": "1小时前",
     "published_iso": "2026-04-14T07:11:18+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -115,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-14T06:57:52+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -128,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T05:19:43+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -141,7 +153,7 @@
     "url": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
     "time": "3小时前",
     "published_iso": "2026-04-14T05:15:50+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -154,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T01:05:54+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -167,7 +179,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
     "time": "8小时前",
     "published_iso": "2026-04-14T00:21:50+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -180,7 +192,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:46:34+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -193,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:35:56+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -206,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:26:46+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -219,7 +231,7 @@
     "url": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
     "time": "9小时前",
     "published_iso": "2026-04-13T23:00:01+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -232,8 +244,7 @@
     "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
     "time": "23小时前",
     "published_iso": "2026-04-13T21:02:22+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -246,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-13T16:37:57+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -259,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-13T16:25:08+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-13T16:07:13+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T15:10:38+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T14:57:37+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-13T12:56:34+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-13T12:19:13+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,19 +348,6 @@
     "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-13T11:18:33+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-    "deck": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
-    "cnTitle": "美伊和谈失败美国封锁伊朗 油价重上百元",
-    "cnDeck": "本周末美伊和平谈判宣告破裂，引发全球对能源危机加深的深切担忧。据悉，此次谈判旨在缓解美国与伊朗之间的紧张关系，但双方未能在核心问题上达成一致。谈判失败后，美国立即采取强硬措施，宣布将对伊朗所有港口实施全面海上封锁。此举旨在切断伊朗原油出口，剥夺其主要经济来源，从而对德黑兰政权施加最大程度的经济压力。然而，国际",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-13T03:06:49+00:00",
     "id": "n27",
     "lead": false
   }
