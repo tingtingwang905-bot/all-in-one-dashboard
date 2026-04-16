@@ -1,5 +1,19 @@
 [
   {
+    "headline": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+    "deck": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
+    "cnTitle": "澳大利亚炼油厂大火影响全国燃油供应",
+    "cnDeck": "澳大利亚近日发生一起“史无前例”的炼油厂大火事件，火灾在该国一座关键的石油炼油设施内爆发，并已造成严重的破坏。据初步报告，大火发生于本周早些时候在维多利亚州的一家大型炼油厂，火势凶猛，在消防部门的全力扑救下，经过数小时才得到有效控制，但设施损毁情况仍有待全面评估。这场大火的直接后果将是对澳大利亚全国范围内的汽油供应造成重大影响。该炼油厂是澳大利亚国内重要的原油加工基地之一，其停产或产能大幅下降，意味着该国汽油和柴油等精炼石油产品的生产将面临严重中断。分析人士指出，澳大利亚本已面临全球性的燃油供应紧张局面，即所谓的“全球紧缩”（global crunch）。在此背景下，此次炼油厂大火无疑雪上加霜，进一步加剧了市场对燃油短缺的担忧。业内专家警告称，此次事件可能导致澳大利亚的汽油价格出现显著上涨，并可能在未来数周乃至数月内，对消费者和企业产生连锁反应。消费者可能面临加油站燃料限购、排队等候时间增加以及更高的燃油零售价格。对于依赖燃油的物流、农业和交通运输等关键行业而言，运营成本的上升将直接传导至商品和服务价格，从而可能推高整体通货膨胀水平。澳大利亚政府及相关能源部门已表示正密切关注事态发展，并研究可能的应对措施，包括动用国家战略储备、寻求国际进口补充，或对炼油厂的修复和重建提供支持。然而，鉴于该炼油厂的规模和技术复杂性，恢复正常生产可能需要较长时间。这场火灾不仅是澳大利亚国内的能源挑战，也反映了全球能源供应链的脆弱性。在全球原油市场波动加剧，地缘政治紧张局势频发，以及向清洁能源转型的背景下，传统能源基础设施的任何意外中断都可能引发广泛的市场反应。此次澳大利亚炼油厂大火事件，无疑将进一步加深市场对全球能源安全的忧虑，并可能对国际原油和成品油价格走势产生潜在的刺激作用。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-16T03:45:29+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "US war on Iran was a 'mistake', says Reeves",
     "deck": "The chancellor's criticism follows a report that the conflict will hit the UK harder than other big economies.",
     "cnTitle": "美伊战争打击英国经济",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T18:58:18+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-15T18:29:50+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:05:58+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:00:05+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,8 +75,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXV3NlpfOHJmdGlJNk1sOWlIeWRiMnBYOVZWRnlTMFBaWkdvNHVsUTc5ck5VMzJhYkIzQ0paOFlDYXpyVUhxaVQyalRfeHlkeVp3dnNZdjVvYWp0T1dhSUNWcWo1NWlwNUUybzVKLUFuTnNMREVjdGxjdXlTb0FLcS1EcEtGbjFTamF3d3phbHk1aG1UajJQV0IyazBEY1FjazFQci1sV3dQd3pyc0NYaWZxWDU?oc=5",
     "time": "9小时前",
     "published_iso": "2026-04-15T10:19:41+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -77,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T08:05:57+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -90,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T07:52:40+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,7 @@
     "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-15T03:09:28+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -116,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T02:58:25+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -129,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:42:48+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -142,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:30:57+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -155,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:25:49+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -168,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T19:47:53+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -181,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-14T18:57:51+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -194,7 +205,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG9USGVhelBNRzFyS01pMlhLSVZqc2pRcy00MUpuTzAzaHhaWk51TkdkUkFvZ2x3cG5BbDVIVXN4Z01HalJwRkJ3ZVBvMDlpZFliYnl4bElCRWtIVVJmMDd5clNjNHN4RV9xcVFfNkRWTzVnY0Y0QXdzdi1CM2JpZVFGUnBxQmxOUVhyaUdyUFlUT3JsTGtqcG91cUJQOHh0N1FOaG1Wb3ZZdE85NGNERzNUOA?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-14T18:01:47+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -207,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:14:53+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -220,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:01:05+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -233,7 +244,7 @@
     "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T08:05:26+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -246,7 +257,7 @@
     "url": "https://www.cnbc.com/2026/04/14/european-markets-stoxx-600-ftse-dax-iran-latest-oil-prices.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:51:29+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -259,7 +270,7 @@
     "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:47:23+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,7 +283,7 @@
     "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
     "time": "1小时前",
     "published_iso": "2026-04-14T07:11:18+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-14T06:57:52+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T05:19:43+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,98 +322,7 @@
     "url": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
     "time": "3小时前",
     "published_iso": "2026-04-14T05:15:50+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
-    "deck": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
-    "cnTitle": "奥特曼住宅遇袭，嫌犯被控谋杀未遂",
-    "cnDeck": "一名来自德克萨斯州的男子正面临一系列严峻的法律指控，其中包括谋杀未遂罪，这些指控与他涉嫌袭击OpenAI首席执行官萨姆·奥特曼（Sam Altman）的住宅有关。除了谋杀未遂罪名，该男子还面临多项联邦重罪指控，这表明此案的性质及其潜在影响已超越地方管辖范围，上升到联邦层面。据执法部门披露，嫌疑人被捕时持有文件，这些文件明确主张对人工智能（AI）行业的领导者和高管采取暴力行动。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-14T01:05:54+00:00",
     "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Trump deletes Truth Social image depicting him as Jesus: 'It was me as a doctor'",
-    "deck": "President Donald Trump in May 2025 posted an apparent AI image depicting himself as a Catholic pope after the death of Pope Francis.",
-    "cnTitle": "特朗普在Truth Social发布AI教皇图",
-    "cnDeck": "前总统唐纳德·特朗普于2025年5月在其个人社交媒体平台Truth Social上发布了一张引发广泛关注的图片。据报道，这张图片似乎是人工智能生成，将特朗普本人描绘成一位天主教教皇的形象。这一发布发生在天主教教宗方济各去世之后，其时机和内容迅速引发了全球范围内的讨论和争议。方济各教宗的离世是2025年一项重大的全球宗教事件，他的逝世",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
-    "time": "8小时前",
-    "published_iso": "2026-04-14T00:21:50+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Vance says 'the ball is in Iran's court' to move peace talks further, as U.S. blockade takes effect",
-    "deck": "The U.S. team of Vance and special envoys Steve Witkoff and Jared Kushner made progress with Iran during the Islamabad talks, the vice president said.",
-    "cnTitle": "伊朗需推动和谈 美封锁已生效",
-    "cnDeck": "美国副总统万斯宣布，推动美伊和平谈判进程的“球”现在已完全转到伊朗一方，此言正值美国对伊朗实施的“封锁”措施正式生效之际。万斯的这番表态，无疑为复杂且敏感的美伊关系增添了新的战略维度。他进一步透露，由他本人、美国特使史蒂夫·维特科夫以及贾里德·库什纳组成的美国高级代表团，在近期于巴基斯坦",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
-    "time": "8小时前",
-    "published_iso": "2026-04-13T23:46:34+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "Quantum computing: A tech race Europe could win?",
-    "deck": "With some promising computing companies in the field, could Europe be a leader in quantum tech?",
-    "cnTitle": "欧洲有望引领量子计算技术竞赛",
-    "cnDeck": "量子计算作为一项颠覆性技术，正在全球范围内引发一场激烈的科技竞赛，其潜在应用领域涵盖药物研发、材料科学、金融建模、人工智能和密码学等多个关键领域。目前，美国和中国被普遍认为是量子计算领域的两大领跑者，两国均投入巨资并拥有众多顶尖科研机构和科技巨头。然而，新闻提出一个引人深思的问题：欧洲是否有可能在这场关键的量子技术竞赛中脱颖而出，甚至成为领导者？这一论断并非空穴来风。欧洲拥有深厚的科学研究底蕴和众多世界级的物理学与数学研究机构。近年来，随着欧盟及其成员国对量子技术战略重要性的认知不断加深，一系列重大投资和研究计划相继启动。例如，欧盟的“量子旗舰计划”（Quantum Flagship）便是一项雄心勃勃的长期项目，旨在将量子研究成果转化为可用的商业产品和解决方案，总投资超过10亿欧元。该计划汇集了顶尖科学家、工程师和产业界人士，共同推动量子计算、量子通信、量子传感和计量等领域的发展。欧洲之所以被认为具备潜在的领导力，还在于其内部涌现出了一批极具潜力的量子计算公司和初创企业。这些公司不仅在硬件（如超导量子比特、离子阱、拓扑量子计算等不同技术路径）方面进行创新，也在软件、算法和应用开发方面取得进展。它们通常与欧洲顶尖大学和研究机构紧密合作，形成产学研一体的创新生态系统。此外，欧洲在基础设施建设方面也持续发力，旨在为量子计算的研发提供必要的支持。如果欧洲能够成功在量子计算领域取得领先地位，将对其经济、科技乃至地缘政治格局产生深远影响。经济上，这将催生新的产业和就业机会，提升欧洲在全球高科技价值链中的地位。科技上，它将加速科学突破，解决传统计算机难以处理的复杂问题，推动人工智能、新材料等前沿领域的发展。地缘政治上，量子霸权意味着潜在的国家安全优势，特别是在加密技术和情报分析方面。然而，欧洲要真正成为量子技术的领导者，仍面临诸多挑战。这包括与美国和中国巨额投资的竞争、人才流失问题、将实验室成果商业化的能力，以及如何整合分散在不同国家的科研力量。尽管如此，鉴于欧洲现有的科研实力、持续增加的投资以及不断涌现的创新企业，未来的量子技术版图中，欧洲无疑是值得关注的关键参与者，甚至可能成为引领下一波计算革命的核心力量。这场科技竞赛的结果，不仅将定义个别国家和地区的未来，更将重塑全球的技术与经济格局。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-13T23:35:56+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-    "deck": "The Lebanese government go into peace talks with limited influence over the group.",
-    "cnTitle": "黎巴嫩谋求和平，真主党成关键",
-    "cnDeck": "黎巴嫩政府正积极寻求通过和平谈判解决当前复杂的内部冲突与区域紧张局势。在黎巴嫩边境地区，与以色列的冲突升级风险不断增加，加沙地带持续的战事对该国安全稳定造成了严重冲击。黎巴嫩看守总理纳吉布·米卡提及多位内阁成员多次强调，实现持久和平与国家主权完整是当前首要目标，对陷入严重经济危机的黎巴嫩至关重要。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-13T23:26:46+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't",
-    "deck": "One Chinese company claims it has the recipe for success in the increasingly competitive smart glasses market",
-    "cnTitle": "中国公司智能眼镜称具Meta所无优势",
-    "cnDeck": "中国智能眼镜市场正日益成为全球科技巨头角逐的新战场。CNBC的“中国连接”时事通讯指出，一家中国公司声称其AI智能眼镜拥有Meta（前身为Facebook）所不具备的独特优势，并掌握了在这个竞争日益激烈的市场中取得成功的秘诀。这一消息在全球科技界引起了广泛关注，尤其是考虑到Meta在智能眼镜领域，如与雷朋合作推出的Ray-Ban Meta智能眼镜，已经投入了巨大资源，力图在这一新兴硬件赛道占据先机。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
-    "time": "9小时前",
-    "published_iso": "2026-04-13T23:00:01+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
-    "deck": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs.",
-    "cnTitle": "私募信贷危机引发债券市场担忧",
-    "cnDeck": "市场对私募信贷危机的担忧日益加剧，正值这个规模庞大但透明度较低的债券市场被越来越多地纳入固定收益交易所交易基金（ETF）之际。私募信贷，顾名思义，是指由非银行机构向企业提供的直接贷款，包括那些涉及高杠杆收购的交易。近年来，私募信贷市场呈现爆炸式增长，成为企业融资的重要渠道，尤其受到私募股权基金的青睐。然而，与传统的银行贷款或公开交易的债券不同，私募信贷市场受到较少的监管，透明度也相对较低。这种缺乏透明性使得投资者和监管机构难以准确评估其内部风险和潜在的系统性敞口。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
-    "time": "23小时前",
-    "published_iso": "2026-04-13T21:02:22+00:00",
-    "id": "n31",
     "lead": false
   }
 ]
