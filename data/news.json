@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+    "deck": "Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.",
+    "cnTitle": "欧洲或面临六周喷气燃料危机",
+    "cnDeck": "国际能源署（International Energy Agency, IEA）的一位能源负责人发出严峻警告，指出如果来自海湾地区的供应持续受阻，欧洲可能仅剩下大约六周的喷气燃料储备。IEA明确表示，一旦情况未能改善，航班停飞将成为现实，对欧洲乃至全球的航空业和经济运行造成严重冲击。这一警告凸显了欧洲能源供应，特别是航空燃油供应的脆弱性。喷气燃料是航空业的生命线，一旦供应中断或严重短缺，将导致大规模航班取消，无论是商业客运还是货运都将陷入停滞。这不仅会严重扰乱欧洲内部的出行和物流，还将对连接欧洲与世界其他地区的国际航线产生深远影响。航空公司将面临巨大的运营压力和经济损失，旅游业将遭受重创，而依赖空运的供应链也将面临中断风险。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-16T19:19:07+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "China's economy grows faster than expected despite Iran war",
     "deck": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
     "cnTitle": "中国经济超预期增长 伊朗战争未阻碍",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-16T07:08:52+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T03:45:29+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-15T22:56:29+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T18:58:18+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-15T18:29:50+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-15T15:15:13+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:05:58+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:00:05+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXV3NlpfOHJmdGlJNk1sOWlIeWRiMnBYOVZWRnlTMFBaWkdvNHVsUTc5ck5VMzJhYkIzQ0paOFlDYXpyVUhxaVQyalRfeHlkeVp3dnNZdjVvYWp0T1dhSUNWcWo1NWlwNUUybzVKLUFuTnNMREVjdGxjdXlTb0FLcS1EcEtGbjFTamF3d3phbHk1aG1UajJQV0IyazBEY1FjazFQci1sV3dQd3pyc0NYaWZxWDU?oc=5",
     "time": "9小时前",
     "published_iso": "2026-04-15T10:19:41+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T08:05:57+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T07:52:40+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-15T03:09:28+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T02:58:25+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:42:48+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:30:57+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,46 +218,7 @@
     "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:25:49+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-    "deck": "Scott Bessent said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
-    "cnTitle": "为消除伊朗威胁经济代价可承受",
-    "cnDeck": "斯科特·贝森特，一位著名的对冲基金经理，曾在美国前总统唐纳德·特朗普的政府中担任经济顾问，在接受英国广播公司（BBC）采访时明确指出，为了确保西方国家的长期安全，彻底消除来自伊朗的潜在袭击威胁，即便付出“一点点经济代价”也是完全值得的。贝森特的此番言论，正值中东地区地缘政治局势持续紧张之际，国际社会对伊朗的核计划、弹道导弹研发以及其在区域内支持代理人活动等问题保持高度关注，因此其观点备受瞩目。他所提及的“经济代价”，并非空泛之词，而可能包含了多重具体影响。这其中可能包括因对伊朗实施更严厉的经济制裁，导致全球原油市场供应受到冲击，进而引发油价上涨，给依赖能源进口的国家带来通胀压力。此外，企业可能面临在特定区域的投资风险增加，贸易关系受到扰动，全球供应链的稳定性也可能因此受到考验。西方国家为了加强防御和反制能力，在军事和安全领域的投入可能进一步增加，这也构成了国家财政的额外负担。然而，在贝森特看来，与确保西方主要城市和战略利益免遭潜在的恐怖袭击或军事打击相比，这些短期的经济牺牲是完全可以接受的，甚至可以说是必要的。贝森特的表态，反映出一种将国家安全和战略稳定置于短期经济利益之上的坚定立场。他强调，伊朗对西方世界构成的威胁是真实且长期存在的，这种威胁不仅体现在其核武器野心上，还包括其通过代理人武装力量在中东地区制造不稳定，以及发展远程导弹能力，这些都可能直接或间接地对西方利益构成挑战。因此，他认为西方国家必须采取果断行动，遏制伊朗的扩张主义倾向和潜在攻击能力，即使这意味着经济上需要承担一定的后果。这番言论无疑将引发政策制定者、经济分析师和公众对一系列关键问题的深入讨论：如何平衡国家安全与经济发展之间的关系？在面对外部威胁时，西方社会愿意承受多大的经济成本？以及，这是否预示着西方国家对伊朗政策可能转向更为强硬的路线？贝森特作为一位在金融界和政界均有深厚影响力的资深人士，他的观点往往被视为对未来政策走向的一种信号或呼吁。他的此番公开表态，不仅将影响国际社会对中东局势的评估，也可能对全球能源市场、贸易关系以及国际资本流动产生潜在影响。这种呼吁强硬立场的言论，无疑将加剧相关各方在对伊政策上的分歧与博弈，并将持续成为国际政治经济议程上的一个重要议题。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-14T19:47:53+00:00",
     "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Palantir defends its record as MPs demand more scrutiny of data use",
-    "deck": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash.",
-    "cnTitle": "英议员要求严查Palantir数据使用",
-    "cnDeck": "根据最新消息，英国国家医疗服务体系（NHS）发布指导意见，要求所有医院自本月起开始使用数据分析巨头Palantir的软件，此举立即引发了社会各界的强烈反弹。Palantir公司目前正积极为其在NHS的数据使用记录进行辩护，以回应英国议会（MPs）日益增长的审查呼声。批评者主要担忧Palantir软件在处理高度敏感的患者健康数据时可能存在的隐私和安全风险。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-04-14T18:57:51+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "US, Iran Pursue New Talks as Tehran Weighs Pause in Hormuz Shipments - Bloomberg.com",
-    "deck": "US, Iran Pursue New Talks as Tehran Weighs Pause in Hormuz Shipments&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美伊将对话，伊朗或停霍尔木兹航运",
-    "cnDeck": "美国和伊朗正在寻求新的对话机会，与此同时，伊朗方面正在权衡是否暂停通过战略要地霍尔木兹海峡的航运。彭博社报道称，这一动向在全球地缘政治格局中引发了广泛关注和担忧。美伊两国关系长期紧张，尤其是在2018年美国退出《联合全面行动计划》（JCPOA），即伊朗核协议，并恢复对伊朗实施严厉制裁之后，双方对抗加剧。近期，中东地区局势因加沙冲突等事件而持续紧张，胡塞武装对红海航运的袭击也进一步提升了地区不确定性。在这种背景下，美伊之间的任何对话尝试都具有重要意义，可能旨在探讨地区去冲突化、核问题，甚至更广泛的安全议题。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG9USGVhelBNRzFyS01pMlhLSVZqc2pRcy00MUpuTzAzaHhaWk51TkdkUkFvZ2x3cG5BbDVIVXN4Z01HalJwRkJ3ZVBvMDlpZFliYnl4bElCRWtIVVJmMDd5clNjNHN4RV9xcVFfNkRWTzVnY0Y0QXdzdi1CM2JpZVFGUnBxQmxOUVhyaUdyUFlUT3JsTGtqcG91cUJQOHh0N1FOaG1Wb3ZZdE85NGNERzNUOA?oc=5",
-    "time": "2小时前",
-    "published_iso": "2026-04-14T18:01:47+00:00",
-    "id": "n19",
     "lead": false
   }
 ]
