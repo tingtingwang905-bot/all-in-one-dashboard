@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-16T22:55:59+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -62,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-16T09:20:36+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -89,7 +87,6 @@
     "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T04:27:49+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -116,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/c98mrepzgj7o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T01:58:56+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -170,59 +166,6 @@
     "time": "17小时前",
     "published_iso": "2026-04-15T15:15:13+00:00",
     "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Booking.com customers warned of 'reservation hijacking' after hack",
-    "deck": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
-    "cnTitle": "缤客平台遭黑客攻击 用户预订被劫持",
-    "cnDeck": "全球知名在线旅行预订平台Booking.com近日向其客户发出警告，称其客户面临被称为“预订劫持”的网络诈骗风险，此前平台遭受了黑客攻击。Booking.com表示，已采取保护客户的措施，包括更改了客户的预订识别码（Pins），但拒绝透露有多少客户受到了此次事件的影响。这种“预订劫持”通常是指网络犯罪分子通过各种手段获取了客户的酒店预订详细信息，然后冒充酒店工作人员",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-15T12:05:58+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Starbucks launches beta app in ChatGPT to fuel new drink discovery",
-    "deck": "Starbucks is trying to find ways to entice U.S. customers back to its cafes.",
-    "cnTitle": "星巴克联手ChatGPT推出新品发现应用",
-    "cnDeck": "星巴克（Starbucks）正在积极探索新的策略，以吸引美国消费者重返其咖啡门店，并增强其市场竞争力。作为这一战略的重要组成部分，这家全球知名的咖啡连锁巨头宣布推出一款集成到OpenAI旗下ChatGPT平台中的测试版应用程序。此举旨在利用先进的人工智能技术，彻底改变顾客发现新饮品的方式，并显著提升整体的门店消费体验。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
-    "time": "2小时前",
-    "published_iso": "2026-04-15T12:00:05+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Sweden Sees Russia Intensifying Cyber Attacks on Infrastructure - Bloomberg.com",
-    "deck": "Sweden Sees Russia Intensifying Cyber Attacks on Infrastructure&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "瑞典称俄罗斯加剧网络攻击基础设施",
-    "cnDeck": "瑞典安全部门近期发出严峻警告，指出俄罗斯正在大幅加剧针对瑞典关键基础设施的网络攻击活动。据瑞典民事应急机构（MSB）及国防部高级官员透露，这些攻击不仅数量显著增加，而且复杂度与潜在破坏力也呈上升趋势，目标直指能源、交通、电信、金融服务及公共行政等核心领域。瑞典情报机构萨波（Säpo）在一份声明中表示，俄罗斯长期以来一直对瑞典构成网络威胁，但自俄罗斯",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXV3NlpfOHJmdGlJNk1sOWlIeWRiMnBYOVZWRnlTMFBaWkdvNHVsUTc5ck5VMzJhYkIzQ0paOFlDYXpyVUhxaVQyalRfeHlkeVp3dnNZdjVvYWp0T1dhSUNWcWo1NWlwNUUybzVKLUFuTnNMREVjdGxjdXlTb0FLcS1EcEtGbjFTamF3d3phbHk1aG1UajJQV0IyazBEY1FjazFQci1sV3dQd3pyc0NYaWZxWDU?oc=5",
-    "time": "9小时前",
-    "published_iso": "2026-04-15T10:19:41+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Google to punish sites that trap people in with back button tricks",
-    "deck": "The tech giant said it will punish sites that block back button navigation from June.",
-    "cnTitle": "谷歌将惩罚滥用后退按钮的网站",
-    "cnDeck": "科技巨头谷歌公司宣布，自今年六月起，将开始对那些采用“后退按钮陷阱”（back button tricks）手段阻止用户正常导航的网站实施惩罚。这一举措是谷歌为了进一步提升用户在线浏览体验，打击网络上的恶意和欺骗性行为而采取的最新行动。长期以来，部分网站利用技术手段，在用户试图点击浏览器“后退”按钮返回上一页时，阻止其操作，或将其重定向到其他页面，甚至强行打开新的广告窗口，导致用户无法顺利回到搜索结果页或之前的浏览页面，从而极大地损害了用户的导航自由和整体体验。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-15T10:02:19+00:00",
-    "is_new": true,
-    "id": "n17",
     "lead": false
   }
 ]
