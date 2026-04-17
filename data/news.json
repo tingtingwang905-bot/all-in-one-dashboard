@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Netflix co-founder Reed Hastings to step down as chairman",
+    "deck": "Hastings set up the company in 1997, when it rented DVDs to customers and delivered by post.",
+    "cnTitle": "网飞联合创始人哈斯廷斯卸任董事长",
+    "cnDeck": "网飞（Netflix）联合创始人里德·哈斯廷斯（Reed Hastings）宣布将卸任公司董事长职务，这一消息标志着这位科技和娱乐行业巨头创始人之一的又一次重要角色转变，凸显了公司领导层传承的进一步深化。哈斯廷斯于1997年与马克·兰多夫（Marc Randolph）共同创立了网飞公司，其最初的商业模式在当时极具创新性，通过向客户提供邮寄DVD租赁服务，挑战了传统的录像带租赁市场霸主，如百视达（Blockbuster）。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-16T21:59:56+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
     "deck": "Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.",
     "cnTitle": "欧洲或面临六周喷气燃料危机",
@@ -9,9 +23,22 @@
     "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T19:19:07+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "No issues with UK fuel supply, says Reeves",
+    "deck": "The chancellor was speaking at the end of the International Monetary Fund meeting in Washington.",
+    "cnTitle": "英国财长IMF会议强调燃料稳定",
+    "cnDeck": "英国财政大臣拉脱娜·里夫斯（Rachel Reeves）在美国华盛顿特区举行的国际货币基金组织（IMF）春季会议闭幕之际发表讲话，明确表示英国的燃料供应目前没有出现任何问题。这一表态旨在安抚市场情绪并向公众保证英国能源安全，尤其是在全球能源市场面临不确定性，以及此前英国曾经历燃油短缺恐慌的背景下。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-04-16T17:05:32+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "China's economy grows faster than expected despite Iran war",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-16T07:08:52+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T03:45:29+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-15T22:56:29+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T18:58:18+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-15T18:29:50+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-15T15:15:13+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:05:58+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
     "time": "2小时前",
     "published_iso": "2026-04-15T12:00:05+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXV3NlpfOHJmdGlJNk1sOWlIeWRiMnBYOVZWRnlTMFBaWkdvNHVsUTc5ck5VMzJhYkIzQ0paOFlDYXpyVUhxaVQyalRfeHlkeVp3dnNZdjVvYWp0T1dhSUNWcWo1NWlwNUUybzVKLUFuTnNMREVjdGxjdXlTb0FLcS1EcEtGbjFTamF3d3phbHk1aG1UajJQV0IyazBEY1FjazFQci1sV3dQd3pyc0NYaWZxWDU?oc=5",
     "time": "9小时前",
     "published_iso": "2026-04-15T10:19:41+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T08:05:57+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,72 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T07:52:40+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Watch: Vance heckled as he chides Pope",
-    "deck": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
-    "cnTitle": "美国副总统范斯批评教皇利奥",
-    "cnDeck": "美国副总统范斯（Vance）近日在由保守派青年组织“美国转折点”（Turning Point USA）主办的一场活动上发表了争议性言论，期间他公开批评教皇利奥（Pope Leo），声称教皇在谈论神学事务时“应该小心谨慎”（\"be careful when he talks about matters of theology\"）。据报道，范斯在发表此番言论时曾遭到现场部分听众的起哄（heckled）。这一事件迅速引起了",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-15T03:09:28+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Trump hints Iran talks could resume this week as US port blockade continues",
-    "deck": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
-    "cnTitle": "伊核谈判有望本周恢复",
-    "cnDeck": "美国前总统唐纳德·特朗普近日暗示，与伊朗的谈判可能在本周恢复，这一消息在全球范围内引发了对中东地区紧张局势可能缓和的关注。特朗普的这一表态正值美国对伊朗实施的“港口封锁”持续之际，显示出尽管存在持续的压力，外交努力仍在进行。联合国秘书长对此消息进行了确认，表示谈判“极有可能”重新启动。这一表态为特朗普的言论增加了权威性，并强调了国际社会对推动伊朗核问题外交解决的普遍愿望。回顾历史，特朗普政府于2018年单方面退出了由美国、英国、法国、德国、俄罗斯、中国以及欧盟与伊朗于2015年签署的《联合全面行动计划》（JCPOA），即俗称的伊朗核协议。此后，美国对伊朗重启并加大了制裁力度，导致两国关系急剧恶化，伊朗也逐步减少了对核协议条款的遵守，加速了其铀浓缩活动，引发了国际社会对核扩散的担忧。尽管特朗普已卸任，但其在共和党内及美国政治舞台上仍具有巨大影响力。他作为前总统的言论，尤其是涉及他任内政策的重大转变，通常会被视为潜在的未来政策方向或对现任政府外交策略的评论。然而，目前尚不清楚特朗普所指的具体谈判是何种形式，以及是否涉及现任拜登政府。通常，此类高层谈判会在多个层面进行，包括间接谈判或通过中间人斡旋。联合国秘书长的介入，暗示了此次谈判可能是在国际斡旋下进行，旨在寻求一项能够恢复各方对伊朗核计划信任的解决方案。谈判的重点预计将包括伊朗的铀浓缩水平、国际原子能机构的核查范围以及美国对伊朗的经济制裁解除等核心议题。“港口封锁”一词，在当前语境下，可能指的是美国及其盟友对伊朗实施的航运限制、石油出口制裁以及其他旨在切断伊朗资金来源的经济遏制措施。这些措施旨在迫使伊朗回到谈判桌，并限制其发展核武器的能力。然而，伊朗一直将这些制裁视为非法，并拒绝在压力下屈服。如果谈判确实如特朗普和联合国秘书长所言在本周恢复，这将标志着美伊关系以及伊朗核问题外交解决进程的一个重要转折点。成功的谈判有望缓解中东地区的紧张局势，降低军事冲突的风险，并为地区稳定带来积极影响。然而，鉴于过去谈判的复杂性和各方分歧，达成全面协议仍将面临巨大挑战，需要各方展现出政治意愿和灵活态度。市场和国际观察家将密切关注未来谈判的进展及其对全球能源市场和地缘政治格局可能产生的影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-15T02:58:25+00:00",
     "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Israel and Lebanon hold first direct talks since 1993",
-    "deck": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
-    "cnTitle": "美斡旋以黎27年首次直接谈判",
-    "cnDeck": "美国政府发表声明称，以色列和黎巴嫩双方已同意启动直接谈判，具体的会谈时间和地点有待确定。此次声明标志着这两个长期处于敌对状态的国家自1993年以来首次举行直接对话，具有重要的地缘政治意义。自1948年以色列建国以来，两国一直处于技术上的战争状态，存在严重的陆地边界（如舍巴农场Shebaa Farms）和海上边界争议。海上边界对两国经济至关重要，因涉及",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-14T20:42:48+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
-    "deck": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
-    "cnTitle": "又一女性指控斯瓦尔韦尔性侵",
-    "cnDeck": "一名名为Lonna Drewes的女性公开指控美国众议员埃里克·斯瓦尔韦尔（Eric Swalwell）对其进行性侵犯。据Drewes女士详细陈述，这起严重事件发生于2018年，地点是在一家酒店房间内。她声称，在事件发生前，斯瓦尔韦尔趁其不备，在她的饮品中投放了药物，导致她意识不清或完全失去反抗能力，随后对其实施",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-14T20:30:57+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Amazon to spend $11bn on satellite firm in growing Starlink rivalry",
-    "deck": "Amazon wants to get thousands more satellites into orbit to offer internet and mobile services.",
-    "cnTitle": "亚马逊110亿美元加码卫星互联网",
-    "cnDeck": "亚马逊公司正计划进行一项重大战略性投资，承诺将投入高达110亿美元，用于进一步扩展其雄心勃勃的卫星互联网项目。这项投资旨在将数千颗额外的卫星送入地球轨道，以建立一个全球性的卫星宽带网络，最终向消费者提供高速互联网和移动通信服务。此举标志着亚马逊在竞争激烈的太空互联网领域迈出了关键一步，直接与埃隆·马斯克旗下的SpaceX公司及其“星链”（Starlink）服务展开正面竞争。亚马逊的这项庞大计划，通常被称为“柯伊伯计划”（Project Kuiper），旨在通过部署大型低地球轨道（LEO）卫星星座，为全球未充分服务和偏远地区的用户提供可靠且经济实惠的宽带连接。公司此前已经获得了联邦通信委员会（FCC）的批准，可以部署3236颗卫星。此次高达110亿美元的投入，将用于研发、卫星制造、火箭发射以及地面站基础设施建设等多个关键环节。这笔资金的注入，无疑将加速柯伊伯计划的实施进程，并增强其在全球市场上的竞争力。“星链”目前在卫星互联网市场占据领先地位，已经拥有数千颗在轨卫星和超过数百万的全球用户。亚马逊的加入，无疑将使这个新兴市场变得更加活跃和竞争激烈。亚马逊的战略不仅是提供互联网接入，更可能将其卫星网络服务与公司现有的云计算（AWS）、电子商务、流媒体和物流等业务深度整合，从而打造一个更为全面的生态系统。例如，AWS可以为柯伊伯计划提供强大的后端支持，而柯伊伯网络则可能为亚马逊的物流无人机和偏远仓库提供通信保障。然而，卫星互联网领域的竞争异常激烈，并伴随着巨大的技术和财务挑战。除了“星链”之外，还有其他公司如OneWeb等也在积极发展各自的卫星宽带服务。亚马逊需要克服卫星大规模生产、火箭发射成本、频谱分配、以及如何有效管理和维护数千颗在轨卫星等一系列难题。同时，太空碎片问题和国际法规也是所有卫星运营商需要面对的复杂议题。这项110亿美元的投资体现了亚马逊首席执行官安迪·贾西（Andy Jassy）对公司未来增长方向的愿景，即超越传统的电商和云计算业务，向太空基础设施和全球连接服务等新兴领域拓展。此次投资不仅关乎技术突破，更是一场围绕未来全球信息基础设施控制权的战略博弈。随着更多亚马逊卫星的升空，全球数字鸿沟有望得到进一步弥补，同时，卫星互联网行业的创新和竞争也将被推向新的高度。市场分析师普遍认为，亚马逊的这项大胆投资，预示着未来几年内，太空互联网领域将迎来更加激烈的市场争夺和技术迭代。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-14T20:25:49+00:00",
-    "id": "n17",
     "lead": false
   }
 ]
