@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Norway Sovereign Wealth Fund Backs BP Management Ahead of AGM - Bloomberg.com",
+    "deck": "Norway Sovereign Wealth Fund Backs BP Management Ahead of AGM&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "挪威主权基金支持BP管理层",
+    "cnDeck": "挪威主权财富基金，正式名称为挪威政府全球养老基金（GPFG），是全球规模最大的主权财富基金，管理着大约1.6万亿美元的巨额资产。该基金在全球数千家公司中持有大量股份，因此其任何投资决策都因其巨大的市场影响力和广泛覆盖范围而受到密切关注。英国石油公司（BP）作为全球主要的石油和天然气公司之一，正面临来自环保倡导者和部分股东的日益增长的压力，要求其加快向可再生能源转型，并大幅减少碳排放。年度股东大会（AGM）是公司治理中的关键事件，股东在此类会议上行使投票权，选举董事会成员，批准高管薪酬方案，并审议和表决各种股东提案，这些提案可能涉及公司战略或运营方向。挪威基金在英国石油公司年度股东大会前夕宣布支持其现有管理层，这一举动明确传递出该基金对BP当前领导团队所制定的战略和未来发展方向的坚定信心。这种支持尤其具有分量，因为挪威基金长期以来一直是环境、社会和治理（ESG）原则的积极倡导者，历史上也曾因ESG相关问题在其他公司的股东大会上投票反对管理层或支持激进的气候相关决议。因此，它此次对英国石油公司管理层的支持，可以被解读为该基金认为BP目前的能源转型计划和整体发展战略是可接受的，或者至少正在朝着正确的方向稳步前进。这一关键决定有望显著提升英国石油公司高管团队的士气，并增强他们在面对潜在异议股东或激进投资者时的谈判和决策地位。同时，它也向更广泛的金融市场和全球其他机构投资者发出了一个积极信号，表明BP在战略方向和公司稳定性方面",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVfZVpVNmlRb25LVGdEVk1STFBMLUhESm8tUnVLY3dYenpfY280YlFNd0pmb3o4MGhGTjdjeTNOMzZPYXlLZHpFQzNUTDJqdW5KekxzeU11YkdGRWdORk45UjRkRzBhLXZmaVlOVVktdzZfdGdWdVRmeDVocHRLc3FGRDZva19CTXF6WE12VTJweFIwYUF6LXhGVm1wempVWWNNQ2Y0TmNpTWlHVU5lTlB3?oc=5",
+    "time": "10小时前",
+    "published_iso": "2026-04-18T09:15:28+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
     "deck": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
     "cnTitle": "白宫Anthropic会谈，AI模型地位引关注",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-18T00:37:06+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Mortgage rates show signs of falling after Iran war peak",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-17T23:33:10+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-17T23:16:33+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-17T19:05:43+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-17T18:32:21+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -75,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cd0rmzjd720o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-17T17:08:16+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -88,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-17T14:31:51+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -101,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-17T13:41:01+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -114,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-17T12:42:06+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -127,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-17T11:42:41+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -140,8 +153,7 @@
     "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
     "time": "1天前",
     "published_iso": "2026-04-17T11:00:01+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -154,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-17T10:22:46+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -167,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T23:04:15+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -180,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-16T22:55:59+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -193,46 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-16T21:59:56+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
-    "deck": "Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.",
-    "cnTitle": "欧洲或面临六周喷气燃料危机",
-    "cnDeck": "国际能源署（International Energy Agency, IEA）的一位能源负责人发出严峻警告，指出如果来自海湾地区的供应持续受阻，欧洲可能仅剩下大约六周的喷气燃料储备。IEA明确表示，一旦情况未能改善，航班停飞将成为现实，对欧洲乃至全球的航空业和经济运行造成严重冲击。这一警告凸显了欧洲能源供应，特别是航空燃油供应的脆弱性。喷气燃料是航空业的生命线，一旦供应中断或严重短缺，将导致大规模航班取消，无论是商业客运还是货运都将陷入停滞。这不仅会严重扰乱欧洲内部的出行和物流，还将对连接欧洲与世界其他地区的国际航线产生深远影响。航空公司将面临巨大的运营压力和经济损失，旅游业将遭受重创，而依赖空运的供应链也将面临中断风险。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-16T19:19:07+00:00",
     "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "No issues with UK fuel supply, says Reeves",
-    "deck": "The chancellor was speaking at the end of the International Monetary Fund meeting in Washington.",
-    "cnTitle": "英国财长IMF会议强调燃料稳定",
-    "cnDeck": "英国财政大臣拉脱娜·里夫斯（Rachel Reeves）在美国华盛顿特区举行的国际货币基金组织（IMF）春季会议闭幕之际发表讲话，明确表示英国的燃料供应目前没有出现任何问题。这一表态旨在安抚市场情绪并向公众保证英国能源安全，尤其是在全球能源市场面临不确定性，以及此前英国曾经历燃油短缺恐慌的背景下。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-04-16T17:05:32+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "UK prepares for food shortages in worst case scenario as Iran war continues",
-    "deck": "The UK could face some food shortages by the summer under a worst case scenario drawn up by government officials.",
-    "cnTitle": "伊朗战争持续致英国或面临粮食危机",
-    "cnDeck": "英国政府官员在最近一份内部评估报告中指出，在伊朗战争持续的最坏情况下，英国可能在今年夏季面临严重的粮食短缺。这一预警凸显了中东地区地缘政治紧张局势对全球供应链和国家安全的潜在深远影响。当前，伊朗战争的持续无疑加剧了全球能源市场的不确定性，推高了国际原油价格，进而传导至运输和农业生产成本，导致全球粮食价格面临上涨压力。英国作为一个高度依赖国际贸易的国家，其粮食供应结构尤为脆弱。根据英国环境、食品和农村事务部（Defra）的数据，英国约有一半的食品依赖进口，其中相当一部分来自欧洲大陆及更远的地区。伊朗战争若进一步升级或长期化，可能直接影响途经中东关键海峡（如霍尔木兹海峡）的航运，这是全球石油运输和重要贸易商品的生命线。一旦航运受阻，全球供应链将遭受重创，严重干扰包括谷物、食用油、肉类及新鲜农产品在内的各种食品输入英国。政府官员在制定这一“最坏情况”预案时，显然考虑到了多重风险叠加的可能性。除了直接的运输中断，战争导致的能源价格飙升将显著增加英国国内农业生产的成本，包括肥料、燃料和电力等关键投入。这可能导致英国本土农产品产量下降，进一步加剧供应不足。此外，全球性的粮食价格上涨也可能导致国际市场上出现抢购潮和出口限制，使得英国在获取必需品时面临更大困难。为了应对这一潜在危机，英国政府正在进行一系列紧急规划。这些措施可能包括评估国家战略粮食储备、与主要食品供应商和超市进行协调，以确保供应链的韧性，并考虑在极端情况下可能采取的配给制或限制消费措施。此外，政府还可能寻求通过外交途径缓解冲突，或探索替代的食品来源和运输路线。然而，鉴",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-16T16:04:42+00:00",
-    "id": "n18",
     "lead": false
   }
 ]
