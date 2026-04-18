@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Mortgage rates show signs of falling after Iran war peak",
+    "deck": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
+    "cnTitle": "伊朗冲突缓解促抵押贷款利率下降",
+    "cnDeck": "近期，全球金融市场出现积极信号，尤其是在抵押贷款领域，利率已开始呈现下降趋势。此前，受中东地区紧张局势，特别是伊朗相关冲突升级的影响，市场避险情绪高涨，原油价格波动剧烈，导致投资者寻求避险资产，进而推高了包括政府债券在内的固定收益产品收益率，最终传导至抵押贷款利率的上升，给全球房地产市场和消费者信心带来了不小的压力。许多主要贷款机构目前正着手实施利率下调，这一举措被认为是市场对伊朗战争可能达成停火协议的乐观反应。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-17T23:33:10+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
+    "deck": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams.",
+    "cnTitle": "Tinder和Zoom推眼部扫描对抗AI",
+    "cnDeck": "随着人工智能（AI）技术的飞速发展，数字平台面临着前所未有的挑战，尤其是在识别真实人类用户和打击由AI驱动的虚假账户及恶意诈骗方面。为了应对这一日益严峻的威胁，知名约会应用Tinder和视频会议巨头Zoom正在探索并计划推出一项创新性的“人类证明”技术，该技术主要通过对用户进行眼部扫描来验证其身份。这项尖端技术的核心目标是识别和认证用户的虹膜模式。虹膜是人眼内部的彩色环状结构，其纹理模式极其复杂且独一无二，被认为是目前最可靠的生物识别特征之一。通过捕捉和分析这些独特的虹膜数据，Tinder和Zoom旨在建立一个更加安全、可信的用户验证系统。这一举措旨在有效遏制AI生成内容、深度伪造（deepfakes）以及自动化机器人（bots）在平台上泛滥，这些AI工具被广泛用于创建虚假个人资料、进行欺诈性互动甚至传播虚假信息，严重损害了平台的用户体验和安全性。对于Tinder而言，作为全球领先的在线约会平台，虚假账户和冒充行为一直是其面临的巨大挑战。诈骗者利用AI技术创建逼真的虚假个人资料，诱骗用户进行金钱交易、个人信息泄露，甚至进行情感诈骗。通过引入虹膜扫描验证，Tinder希望能够大幅提高用户身份的真实性，减少平台上的欺诈行为，为用户提供一个更安全、更值得信赖的社交环境。用户在注册或进行特定操作时，可能需要通过摄像头进行眼部扫描，系统将比对虹膜数据以确认其为真实人类，而非AI程序或通过技术手段伪装的实体。同样，Zoom作为全球疫情期间迅速崛起的视频会议服务提供商，其平台也面临着滥用和安全问题。虚假账户可能被用于进行网络钓鱼、骚扰会议参与者、甚至渗透企业内部会议获取敏感信息。通过集成眼部扫描验证，Zoom可以确保参与会议的用户是经过真实身份验证的人类，从而提升会议的安全性、保护用户隐私和企业数据。例如，在进行高度敏感的会议或账户登录时，可能会要求用户完成虹膜验证，以防止未经授权的AI程序或恶意行为者入侵。这项技术的推出反映了科技行业对AI滥用问题日益增长的担忧以及积极寻求解决方案的决心。随着AI技术的普及和门槛降低，生成高度逼真的人脸、声音和文本变得越来越容易，这使得传统的身份验证方法（如密码、短信验证码）面临严峻考验。生物识别技术，尤其是虹膜识别，因其高精度和唯一性而备受关注。然而，引入此类技术也伴随着对用户隐私和数据安全的讨论。Tinder和Zoom将需要确保用户数据的加密存储和严格保护，同时平衡便利性与安全性，以赢得用户的信任和支持。这一趋势预示着未来数字平台可能会普遍采用更先进的生物识别技术来对抗AI带来的挑战，确保线上互动环境的真实性和安全性。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-17T19:05:43+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
     "deck": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
     "cnTitle": "霍尔木兹海峡开放，布伦特原油大跌",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-17T18:32:21+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
@@ -23,8 +50,21 @@
     "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-17T10:22:46+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Could a digital twin make you into a 'superworker'?",
+    "deck": "Firms say digital twins make staff more productive, but are they a potential legal minefield?",
+    "cnTitle": "数字孪生助员工提效或埋法律雷区",
+    "cnDeck": "企业正积极探索将“数字孪生”技术应用于人力资源管理，以期大幅提升员工生产力，造就所谓的“超级员工”。然而，伴随这一创新浪潮的是一系列潜在的法律与伦理雷区，可能对企业和社会带来深远影响。传统意义上的数字孪生是指物理实体（如飞机引擎、工厂车间或城市基础设施）的虚拟模型，通过实时数据进行同步更新，用于模拟、分析和优化其对应的物理实体。当这一概念被扩展到人类员工身上时，其核心思想是创建一个个体的数字副本，该副本持续收集并整合员工的各项数据——从工作绩效、沟通模式、身体健康指标到情绪状态和行为习惯。这些数据经过处理和分析后，旨在为员工提供个性化的反馈，优化其工作流程，预测潜在的职业倦怠风险，甚至指导企业进行更精准的人才匹配和资源分配，从而实现效率的最大化。例如，在一个销售团队中，数字孪生可以通过分析员工的客户互动数据、销售周期、转化率以及会议记录等，识别出高效的销售策略和低效环节，并为每位销售人员量身定制改进建议，帮助他们更有效地利用时间、提升沟通技巧、甚至预测哪些客户更有可能成交，从而将普通员工的生产力推向更高水平，使其表现趋近于“超级员工”。在项目管理领域，数字孪生可以监控团队成员的任务进度、协作效率和瓶颈所在，提供实时预警和优化方案，确保项目按期高质量完成。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-16T23:04:15+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-16T22:55:59+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-16T21:59:56+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T19:19:07+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-16T17:05:32+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -89,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-16T09:20:36+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-16T07:08:52+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T04:27:49+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,46 +168,6 @@
     "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T03:45:29+00:00",
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Allbirds shares soar 580% after pivot from shoes to AI",
-    "deck": "The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.",
-    "cnTitle": "Allbirds放弃制鞋转向AI 股价暴涨580%",
-    "cnDeck": "曾以其环保理念和舒适的羊毛运动鞋闻名的DTC（直接面向消费者）品牌Allbirds，近日宣布了一项震惊市场的重大战略转型。这家此前专注于鞋类产品和可持续时尚的公司，正计划彻底剥离其鞋类品牌业务，并将战略重心全面转向提供技术基础设施，特别是人工智能（AI）领域。这一前所未有的企业重塑计划，迅速引发了资本市场的狂热反应，消息公布后，Allbirds的股价一路飙升",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c98mrepzgj7o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-16T01:58:56+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-    "deck": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-    "cnTitle": "票务巨头Live Nation被裁定垄断",
-    "cnDeck": "一家陪审团裁定，Ticketmaster的母公司Live Nation在经营中构成垄断，并导致消费者支付过高费用。这起诉讼声称，该公司的一系列经营手法导致了更高的票价和更差的客户服务体验。Live Nation Entertainment作为全球最大的现场娱乐公司，其业务涵盖了票务销售、演唱会推广、艺人管理以及场馆运营等多个环节。Ticketmaster是其旗下的票务平台，长期以来因其在市场上的主导地位",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-15T22:56:29+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Google-Linked Data Centers Selling Record $5.7 Billion Junk Bond - Bloomberg.com",
-    "deck": "Google-Linked Data Centers Selling Record $5.7 Billion Junk Bond&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "谷歌关联数据中心发行57亿美元垃圾债",
-    "cnDeck": "谷歌关联的数据中心正在出售创纪录的57亿美元垃圾债券，这标志着一个重要的全球金融市场动态和科技巨头融资策略的体现。此举由与科技巨头谷歌有联系的数据中心实体发起，旨在通过高收益债券市场筹集巨额资金。垃圾债券，又称高收益债券，通常由信用评级较低的公司发行，以提供高于投资级债券的收益率来吸引投资者，以弥补其较高的信用风险。57亿美元的发行规模被描述为“创纪录”，这表明了市场对数据中心基础设施建设的旺盛需求，以及投资者对该领域增长前景的信心，尽管其伴随着更高的风险。数据中心是现代数字经济的基石，支撑着云计算、人工智能、流媒体和各种在线服务。随着全球对数据处理和存储需求的爆炸式增长，数据中心的建设和扩展需要巨大的资本投入。谷歌作为全球领先的科技公司之一，其关联的数据中心业务扩张速度惊人，需要大量的资金支持。通过发行垃圾债券，这些实体能够在传统银行贷款或股权融资之外，开辟一条新的融资渠道，利用资本市场满足其快速增长的资金需求。这次债券发行事件凸显了几个关键趋势：首先，它反映了科技巨头及其生态系统在应对庞大资本支出时的多样化融资策略。即使是与财务实力雄厚的谷歌相关的实体，也可能寻求通过发行高收益债券来优化其资本结构，或为特定的、可能具有更高风险回报特征的项目融资。其次，57亿美元的“创纪录”规模，表明了高收益债券市场对数据中心行业的强劲胃口。投资者愿意承担更高的风险，以换取与数据中心快速扩张相关的潜在高回报。这可能预示着数据中心行业未来在高收益债券市场进行更多融资活动的趋势。第三，这一事件也可能对全球金融市场产生影响。如此大规模的垃圾债券发行，可以测试市场对风险资产的承受能力，并可能影响其他高收益债券的定价。它也反映了在当前利率环境下，投资者对收益率的追求，即使这意味着承担更高的信用风险。分析人士指出，尽管垃圾债券具有更高的风险，但与谷歌的关联可能会为这些数据中心实体提供一定的信用背书，从而降低投资者的担忧。然而，投资者仍需仔细评估这些数据中心的具体财务状况和运营前景，以判断57亿美元投资的合理性。此举也可能促使其他科技公司和数据中心运营商重新审视其融资策略，以利用当前的市场条件。总之，这笔创纪录的垃圾债券发行不仅是谷歌关联数据中心的一次重大融资举动，也是观察全球金融市场动态、科技基础设施投资趋势以及企业融资策略演变的一个重要窗口。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORnF0YWFJV3hJd0pwQ19fZW15aG40bnNpOE1abFVBYjYzTXlmbWtWdzZmSDhjRWliNGZYb1ZQS04yNUhBbmN6M25wbE9sZDFqZGo0VmFzMlc3dVFlZXpWNnFxbl9OUk9vczZkcWFmZUEwSVNubWFFQU84Z245c21mYVF4cUNhSG95TlVhQWVIejRlVlZlMWk0UzhOZmU1LWlYX3dwQnV1cFpPTjFHTjkyTWM3bS03UWRTYWtoTXlHRDlLVTNvQjR3NjdNc0NIUUU?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-04-15T20:32:32+00:00",
-    "is_new": true,
     "id": "n13",
     "lead": false
   }
