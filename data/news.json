@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-18T00:37:06+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -27,6 +26,20 @@
     "lead": false
   },
   {
+    "headline": "'I'm the lucky one' - more than one in three young men now live with their parents",
+    "deck": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
+    "cnTitle": "年轻男性与父母同住比例创新高",
+    "cnDeck": "新闻指出，一项最新调查显示，去年20至34岁年轻男性中，超过三分之一的人选择与父母同住，这一比例创下了自至少2007年以来的最高纪录。一位受访者表示自己是‘幸运儿’，因为至少有父母的庇护，但这一现象的背后是日益上涨的生活成本所带来的深远影响。这一现象并非孤立存在，而是全球多个发达经济体普遍面临的社会经济趋势。数据显示，超过三分之一的年轻男性目前",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-04-17T23:16:33+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
     "deck": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams.",
     "cnTitle": "Tinder和Zoom推眼部扫描对抗AI",
@@ -36,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-17T19:05:43+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-17T18:32:21+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cd0rmzjd720o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-17T17:08:16+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,8 +88,7 @@
     "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-17T14:31:51+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -90,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-17T13:41:01+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -104,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-17T12:42:06+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -118,8 +127,21 @@
     "url": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-17T11:42:41+00:00",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here's why",
+    "deck": "Innovation in the exchange-traded fund industry could come at a cost to investors during extreme volatility.",
+    "cnTitle": "新型ETF策略面临市场下行风险",
+    "cnDeck": "新型交易型开放式指数基金（ETF）策略的兴起，伴随着金融市场创新浪潮，为投资者提供了更为多元化和复杂的投资工具。然而，行业专家和分析人士近期发出警告，指出在面对未来可能出现的市场剧烈下行或极端波动时，这些创新型ETF策略可能暴露出其脆弱性，进而给投资者带来意想不到的损失。近年来，ETF市场持续扩张，产品类型日益丰富，从传统的追踪宽基指数的ETF，发展到专注于特定主题（如人工智能、清洁能源等）、运用杠杆或反向机制、甚至包含复杂衍生品策略的主动管理型ETF。这些新产品旨在提供更精细化的投资机会或对冲工具。然而，它们的复杂性也意味着更高的潜在风险。在市场平静或趋势性上涨的环境中，这些创新型ETF策略可能表现良好，吸引大量资金流入。但一旦市场遭遇“暴力式”下跌或极端波动，其底层机制和运作方式可能面临严峻考验。例如，杠杆ETF和反向ETF通过每日重新平衡来达到其目标倍数或反向回报，但在持续的单边下跌或剧烈震荡市场中，它们的复合回报可能与投资者预期产生显著偏差，甚至出现“损耗”效应，即即使市场反弹，投资者也难以完全弥补损失。此外，一些创新型ETF可能投资于流动性较低的市场或资产，或者其策略依赖于复杂的量化模型和衍生品。在市场承压时，这些资产的买卖价差可能急剧扩大，导致基金难以以公平价格进行交易，从而影响其净值表现和追踪准确性。套利机制，即确保ETF价格与净值保持一致的关键机制，也可能在极端压力下失效或效率降低，导致ETF出现大幅溢价或折价，进一步损害投资者利益。行业内普遍担忧，许多新型ETF策略在历史上的牛市环境中未经充分测试，其在真实熊市或“黑天鹅”事件中的表现仍是未知数。一些产品可能存在透明度不足的问题，投资者对其内部运作和风险敞口缺乏清晰理解。当市场恐慌情绪蔓延时，缺乏流动性和透明度的创新型ETF可能会加剧市场波动，引发抛售潮，形成恶性循环。因此，投资者在配置这些创新型ETF时，需要对其潜在风险有清醒的认识，包括但不限于：复杂策略的不可预测性、流动性风险、跟踪误差风险、以及在极端市场条件下的放大损失效应。金融监管机构也可能需要密切关注这类产品的研发和发行，评估其对金融系统稳定性的潜在影响，并确保投资者能够充分了解其所面临的风险。这份警示提醒市场参与者，创新固然能带来机遇，但在追求高收益的同时，也不应忽视潜在的巨大风险。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
+    "time": "1天前",
+    "published_iso": "2026-04-17T11:00:01+00:00",
     "is_new": true,
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -132,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-17T10:22:46+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -145,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T23:04:15+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -158,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-16T22:55:59+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -171,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-16T21:59:56+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -184,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T19:19:07+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -197,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-16T17:05:32+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -210,34 +232,6 @@
     "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T16:04:42+00:00",
-    "is_new": true,
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "UK economy grew faster than expected in February ahead of Iran war",
-    "deck": "The economy saw its biggest monthly rise in more than two years just before the outbreak of the US-Israeli war with Iran.",
-    "cnTitle": "伊朗战争前英国经济增长超预期",
-    "cnDeck": "根据英国国家统计局（Office for National Statistics, ONS）最新发布的数据，英国经济在2月份实现了超预期的强劲增长，国内生产总值（GDP）环比增长0.6%，显著高于市场普遍预期的0.3%和1月份修正后的0.2%增幅。这一表现不仅是两年多以来的最大单月增幅，也标志着英国经济自2021年10月以来最强劲的扩张势头，为该国摆脱技术",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-16T10:22:48+00:00",
-    "is_new": true,
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Things can't go on like this with online safety, Starmer tells tech bosses",
-    "deck": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
-    "cnTitle": "斯塔默呼吁科技巨头改善网络安全",
-    "cnDeck": "英国工党领袖基尔·斯塔默（Keir Starmer）向科技行业巨头发出严厉警告，强调在网络安全方面，“情况不能再这样下去了”。他的这一表态，正值英国政府持续就一项可能禁止16岁以下未成年人使用社交媒体的提案进行咨询之际，显示出英国政界对数字平台对年轻人影响的日益增长的担忧。斯塔默的言论反映了对儿童和青少年在网上所面临风险的深切忧虑。随着社交媒体平台的普及，年轻人接触到网络欺凌、有害内容、诈骗和潜在的剥削行为的风险随之增加。许多家长、教育工作者和心理健康专家都对此表示担忧，认为这些平台的设计往往具有成瘾性，并且缺乏足够的保护措施来保障未成年用户的身心健康。斯塔默向“科技巨头”直接喊话，意味着他认为大型科技公司有责任采取更积极的措施来应对这些问题，而不仅仅是被动地等待政府监管。他可能暗示，如果行业自身不主动进行实质性改变，政府将不得不介入并强制执行更严格的规定。目前，英国政府正在就禁止16岁以下儿童使用社交媒体的潜在举措进行广泛咨询。这项咨询是政府“在线安全法案”（Online Safety Act）框架下的进一步探索，该法案旨在让科技公司对其平台上的有害内容承担更多责任。禁止未成年人使用社交媒体的提议，反映了政策制定者希望通过更强硬的手段来保护年轻一代免受数字世界潜在危害的决心。然而，这项提案也引发了广泛讨论，包括其实施的可行性、对儿童数字素养发展的影响、以及隐私权和言论自由等方面的潜在争议。支持者认为，这种措施可以有效减少未成年人接触有害信息的风险，并减轻其心理健康负担。反对者则担心，这种一刀切的禁令可能剥夺年轻人获取信息、表达自我以及发展数字技能的机会，且在技术上难以完全执行，可能促使未成年人转向更隐蔽的平台。斯塔默的警告以及政府的咨询，凸显了如何平衡数字创新与用户安全，特别是儿童安全的全球性挑战。这不仅关乎技术平台的商业模式和运营策略，更触及社会伦理、公共健康和政府监管的深层问题。未来，无论英国政府最终采取何种措施，都将对科技行业，特别是社交媒体巨头在全球范围内的运营和监管环境产生示范效应。科技公司将面临更大的压力，要求其改进年龄验证技术、加强内容审核、提高透明度，并投入更多资源来设计对未成年人更安全的数字产品和服务。这场关于网络安全的辩论，预示着全球范围内对科技巨头的审查将持续升级，以确保数字世界能够更好地服务于所有用户，尤其是最脆弱的年轻一代。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-04-16T09:20:36+00:00",
     "id": "n18",
     "lead": false
   }
