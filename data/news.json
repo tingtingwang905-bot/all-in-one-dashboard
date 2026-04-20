@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Oil prices rise after Trump says Iranian ship seized",
+    "deck": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+    "cnTitle": "特朗普称伊朗船只被扣致油价上涨",
+    "cnDeck": "中东地区的地缘政治局势在2月28日美国和以色列据报对伊朗发动袭击后，经历了显著的紧张升级。这一事件立即在全球能源市场引发了剧烈波动和不确定性。在此背景下，美国前总统唐纳德·特朗普对外宣称，一艘伊朗船只已被扣押，这一言论无疑为本已紧张的局势增添了新的变数。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-20T02:29:04+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "The insider trading suspicions looming over Trump's presidency",
+    "deck": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+    "cnTitle": "BBC揭露特朗普任期内幕交易模式",
+    "cnDeck": "英国广播公司（BBC）近日发布一项调查报告，揭露了前美国总统唐纳德·特朗普（Donald Trump）任职期间，其政府公开声明发布前，金融市场交易活动出现异常波动的模式。这一发现引发了对特朗普政府时期可能存在内幕交易行为的严重质疑，对美国最高权力机构的透明度和诚信度构成了新的挑战。BBC的调查深入分析了特朗普总统在位期间，其宣布重大政策、贸易决定或发布重要言论前后，相关金融市场的数据变化。报告指出，在某些具有市场影响力的公告发布的前夕，特定股票、大宗商品或相关金融衍生品的交易量和价格出现了异乎寻常的剧烈波动。这些波动的时间点与总统即将公开的信息具有高度相关性，暗示某些交易者可能预先获得了尚未公开的敏感信息，并利用这些信息进行交易以获取不当利益。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-19T23:02:06+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Australia's most-decorated soldier vows to 'fight' war crime charges",
     "deck": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
     "cnTitle": "澳最受勋士兵誓言抗争战争罪指控",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-19T05:12:40+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "French peacekeeper killed in southern Lebanon",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-19T03:14:45+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-18T21:27:56+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-18T21:19:46+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-18T18:21:19+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-18T16:44:39+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-18T11:47:11+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-18T09:18:16+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,45 +141,20 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVfZVpVNmlRb25LVGdEVk1STFBMLUhESm8tUnVLY3dYenpfY280YlFNd0pmb3o4MGhGTjdjeTNOMzZPYXlLZHpFQzNUTDJqdW5KekxzeU11YkdGRWdORk45UjRkRzBhLXZmaVlOVVktdzZfdGdWdVRmeDVocHRLc3FGRDZva19CTXF6WE12VTJweFIwYUF6LXhGVm1wempVWWNNQ2Y0TmNpTWlHVU5lTlB3?oc=5",
     "time": "10小时前",
     "published_iso": "2026-04-18T09:15:28+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-    "deck": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
-    "cnTitle": "白宫Anthropic会谈，AI模型地位引关注",
-    "cnDeck": "白宫与领先的人工智能公司Anthropic近日举行了一次“富有成效”的会议，此次会谈正值人们对Anthropic公司开发的“Mythos”模型可能带来的影响日益担忧之际。这次讨论被视为一个明确信号，表明Anthropic的先进人工智能技术，尤其是其“Mythos”模型，对美国政府而言可能已变得至关重要，甚至到了不可或缺的程度。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-18T00:37:06+00:00",
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Mortgage rates show signs of falling after Iran war peak",
-    "deck": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
-    "cnTitle": "伊朗冲突缓解促抵押贷款利率下降",
-    "cnDeck": "近期，全球金融市场出现积极信号，尤其是在抵押贷款领域，利率已开始呈现下降趋势。此前，受中东地区紧张局势，特别是伊朗相关冲突升级的影响，市场避险情绪高涨，原油价格波动剧烈，导致投资者寻求避险资产，进而推高了包括政府债券在内的固定收益产品收益率，最终传导至抵押贷款利率的上升，给全球房地产市场和消费者信心带来了不小的压力。许多主要贷款机构目前正着手实施利率下调，这一举措被认为是市场对伊朗战争可能达成停火协议的乐观反应。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-17T23:33:10+00:00",
     "id": "n11",
     "lead": false
   },
   {
-    "headline": "'I'm the lucky one' - more than one in three young men now live with their parents",
-    "deck": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
-    "cnTitle": "年轻男性与父母同住比例创新高",
-    "cnDeck": "新闻指出，一项最新调查显示，去年20至34岁年轻男性中，超过三分之一的人选择与父母同住，这一比例创下了自至少2007年以来的最高纪录。一位受访者表示自己是‘幸运儿’，因为至少有父母的庇护，但这一现象的背后是日益上涨的生活成本所带来的深远影响。这一现象并非孤立存在，而是全球多个发达经济体普遍面临的社会经济趋势。数据显示，超过三分之一的年轻男性目前",
+    "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+    "deck": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+    "cnTitle": "伊朗称海峡开放，布油暴跌一成",
+    "cnDeck": "布伦特原油价格在近期全球大宗商品市场中经历了一次剧烈波动，其基准价格下跌了大约十分之一，这一显著跌幅的直接导火索是伊朗政府的最新声明。据报道，伊朗方面明确表示，在当前停火协议的剩余期限内，具有全球战略意义的霍尔木兹海峡将对所有商业航运保持开放。这一消息迅速缓解了市场对中东地区石油供应中断的担忧，从而引发了油价的",
     "cat": "economy",
     "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-17T23:16:33+00:00",
+    "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-18T06:06:38+00:00",
+    "is_new": true,
     "id": "n12",
     "lead": false
   }
