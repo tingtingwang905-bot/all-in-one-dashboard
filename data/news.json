@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-21T01:31:27+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-20T23:09:41+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -105,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-20T19:56:11+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -119,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-20T18:57:25+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -133,7 +126,6 @@
     "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-20T18:25:17+00:00",
-    "is_new": true,
     "id": "n10",
     "lead": false
   },
@@ -147,7 +139,6 @@
     "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-20T15:44:44+00:00",
-    "is_new": true,
     "id": "n11",
     "lead": false
   },
