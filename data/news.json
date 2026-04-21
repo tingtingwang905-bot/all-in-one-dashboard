@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Apple names new chief executive to replace Tim Cook",
+    "deck": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
+    "cnTitle": "苹果任命新CEO接替库克",
+    "cnDeck": "苹果公司宣布了一项重大人事变动：现任硬件工程高级副总裁John Ternus将接替Tim Cook担任公司首席执行官，而Tim Cook将晋升为执行董事长。此次领导层更迭标志着这家科技巨头进入了一个新阶段，旨在确保公司在未来持续创新并应对日益激烈的市场竞争。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-20T22:55:39+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+    "deck": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+    "cnTitle": "无协议不解除霍尔木兹限制",
+    "cnDeck": "美国总统唐纳德·特朗普近日就伊朗问题发表强硬言论，明确表示，除非与伊朗达成一项全面协议，否则美国将不会解除对霍尔木兹海峡的相关限制措施。这一声明是在外界对伊朗是否会按计划参加本周在巴基斯坦举行的和平谈判充满不确定性之际发出的，再次凸显了美伊关系的高度紧张及其复杂性。霍尔木兹海峡是连接波斯湾与全球海洋的关键战略水道，全球约五分之一的原油供应需经此地运输，其战略地位举足轻重。美国长期以来一直对伊朗的核计划、弹道导弹开发以及其在中东地区的支持代理人行为表示担忧，并自2018年特朗普政府退出《联合全面行动计划》（JCPOA，即伊朗核协议）后，对伊朗实施了“最大压力”制裁，旨在大幅削减伊朗的石油出口收入，并限制其进入国际金融体系。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-04-20T21:52:12+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oil prices rise after Trump says Iranian ship seized",
     "deck": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
     "cnTitle": "特朗普称伊朗船只被扣致油价上涨",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-20T02:29:04+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "The insider trading suspicions looming over Trump's presidency",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-19T23:02:06+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,46 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-19T05:12:40+00:00",
-    "id": "n3",
-    "lead": false
-  },
-  {
-    "headline": "French peacekeeper killed in southern Lebanon",
-    "deck": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
-    "cnTitle": "法维和人员黎巴嫩遇害 马克龙指责真主党",
-    "cnDeck": "一名法国维和人员在黎巴嫩南部地区不幸遇害，这一事件迅速成为一起引发国际社会广泛关注的重大地缘政治事件，并导致法国与黎巴嫩真主党之间爆发激烈的言辞冲突。法国总统埃马纽埃尔·马克龙在得知此消息后，立即发表声明表示强烈谴责，并将此次袭击直接归咎于伊朗支持的黎巴嫩真主党。马克龙总统在巴黎的公开声明中严正指出，任何针对联合国维和部队的暴力行为都是绝对不可接受的，并呼吁国际社会对此事件展开彻底且公正的调查。他还强调，法国将采取一切必要措施，以确保其在海外部署的人员，特别是维和部队成员的生命安全。马克龙明确表示，此次袭击的目的是破坏地区稳定，并直接对法国的国家利益构成了挑战，法国绝不会容忍此类行为。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-19T03:14:45+00:00",
-    "id": "n4",
-    "lead": false
-  },
-  {
-    "headline": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-    "deck": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
-    "cnTitle": "墨西哥总统否认与西班牙存外交危机",
-    "cnDeck": "墨西哥总统谢因鲍姆（Claudia Sheinbaum）近日公开声明，否认墨西哥与西班牙之间存在任何“外交危机”，此举旨在淡化两国因西班牙殖民历史问题而引发的长期紧张关系。谢因鲍姆总统在一次公开场合强调，尽管两国历史遗产复杂，且围绕西班牙殖民统治时期（La Conquista）的争议一度成为一个棘手的外交议题，但她认为两国间从未达到“外交危机”的程度。这一表态标志着墨西哥新政府可能寻求在处理与西班牙关系上采取更为务实和前瞻性的姿态。在过去几年中，墨西哥与西班牙之间的关系曾因历史问题而多次出现波折。前任墨西哥总统洛佩斯·奥夫拉多尔（Andrés Manuel López Obrador）曾多次呼吁西班牙和梵蒂冈就16世纪的殖民征服及其带来的原住民苦难进行道歉，这一要求在西班牙国内引发了不同反响，并导致两国高层互动一度趋于谨慎。洛佩斯总统曾明确指出，西班牙殖民时期的暴力、掠夺和文化灭绝给墨西哥带来了深远的影响，并认为只有通过正视历史并进行道歉，才能真正实现和解。他甚至一度建议暂停与西班牙政府的官方往来，以示不满。这些言论和行动无疑给两国关系蒙上了一层阴影，使得“西班牙殖民问题”成为双边关系中的一个敏感点。谢因鲍姆总统此次的声明，被视为其就任后对这一长期存在的外交议题的一次重要表态。她试图将焦点从过去的争议转向未来的合作，强调尽管历史不能被遗忘，但两国更应着眼于当前和未来的互利共赢。墨西哥和西班牙不仅在文化、语言上有着深厚的渊源，两国在经济贸易、投资、旅游以及文化交流等领域也保持着紧密的联系。西班牙是墨西哥在欧盟内的主要贸易伙伴之一，也是对墨西哥进行投资的重要来源国。因此，维持稳定和健康的外交关系对两国都至关重要。分析人士指出，谢因鲍姆总统的此番言论，可能反映出其政府希望避免历史争议继续干扰两国正常的外交和经济往来，为双边关系注入新的活力。通过否认“外交危机”的存在，她试图向国际社会和两国人民传递一个信号：墨西哥致力于在尊重历史事实的基础上，以成熟和建设性的方式处理与西班牙的关系。然而，历史问题的复杂性及其在墨西哥国内的政治敏感性，意味着未来的处理仍需谨慎。此次声明虽然有助于缓解紧张气氛，但两国如何平衡历史记忆与现实合作，仍将是未来一段时间内双边关系发展面临的挑战。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-04-18T21:27:56+00:00",
     "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "Strait of Hormuz closed again, Iran says, as ships attacked",
-    "deck": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
-    "cnTitle": "伊朗称霍尔木兹海峡关闭 谴责美国封锁",
-    "cnDeck": "伊朗方面今日宣布，具有全球战略意义的霍尔木兹海峡再次关闭，并指出此次行动与近期发生的多起船只遇袭事件紧密相关。伊朗方面将海峡的关闭归咎于美国实施的“封锁”，并坚称此举严重违反了此前两国之间达成的停火协议。这一突发事态迅速在全球范围内引发了广泛关注和担忧，预示着中东地区紧张局势的急剧升级，并可能对全球",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-04-18T21:19:46+00:00",
-    "id": "n6",
     "lead": false
   }
 ]
