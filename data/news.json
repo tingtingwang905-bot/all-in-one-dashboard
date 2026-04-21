@@ -1,5 +1,33 @@
 [
   {
+    "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
+    "deck": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University",
+    "cnTitle": "OpenAI因ChatGPT涉枪击案遭调查",
+    "cnDeck": "OpenAI，这家由萨姆·奥特曼联合创立的领先人工智能公司，正面临一项刑事调查，该调查围绕其旗舰产品ChatGPT在佛罗里达州立大学发生的一起枪击事件中可能扮演的角色展开。此消息一经披露，立刻引发了业界和公众对人工智能技术潜在滥用及其责任归属的广泛关注。据报道，这项刑事调查由佛罗里达州的执法机构发起，旨在深入探讨在佛罗里达州立大学发生的袭击事件中，ChatGPT是否被犯罪分子用于策划、协助或执行枪击。具体指控或调查方向目前尚未完全公开，但通常此类调查会关注AI模型是否生成了煽动暴力、提供武器制造指南、教授犯罪策略或提供其他有助于实施犯罪的信息。如果ChatGPT被证明以某种方式间接或直接促成了该事件，这将为人工智能技术带来的法律和伦理挑战树立一个关键案例。OpenAI公司迅速对此事作出了回应，明确声明其对佛罗里达州立大学的袭击事件“不负责任”。公司强调，其产品，包括ChatGPT，都设有严格的使用政策和安全防护措施，旨在防止生成有害、非法或危险内容。这些政策通常包括对仇恨言论、暴力内容、非法活动指导等进行过滤和限制。OpenAI方面表示，他们将全力配合调查，并提供所需信息，以澄清事实。公司长期以来一直致力于开发负责任的人工智能，并投入大量资源来解决与内容安全、偏见以及滥用相关的风险。他们主张，虽然技术本身具有强大的能力，但用户最终的意图和行为才是关键。此次事件凸显了人工智能开发商在日益复杂的数字环境中可能面临的法律挑战和道德困境。随着AI技术在社会中的应用越来越广泛，其被恶意利用的风险也随之增加。这起刑事调查可能会成为一个重要的里程碑，它将促使立法者、技术公司和监管机构重新审视人工智能在犯罪活动中的责任边界，以及如何制定更有效的法规和技术保障措施，以确保人工智能的负责任开发和使用。这也可能引发对AI内容审核机制有效性的进一步审视，以及AI公司在发现潜在滥用行为时应承担的预警和干预义务。此案的结果将对未来人工智能产品的设计、部署以及法律责任框架产生深远影响，尤其是在涉及公共安全和国家安全领域。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-21T19:15:34+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Volkswagen announces voice AI in its Chinese cars from later this year",
+    "deck": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
+    "cnTitle": "大众中国车型将集成语音AI",
+    "cnDeck": "大众汽车（Volkswagen）近日宣布，其面向中国市场的车型将于今年晚些时候开始集成先进的语音人工智能（AI）技术。这一举措标志着大众汽车在提升其在中国这一全球最大汽车市场的智能化竞争力方面迈出了重要一步。根据公司披露的信息，大众汽车已发布了四款新车型，其中包括备受关注的ID. UNYX 09。这款ID. UNYX 09车型是大众汽车与中国本土领先的电动汽车制造商小鹏汽车（Xpeng）历时两年共同开发的心血结晶。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
+    "time": "6小时前",
+    "published_iso": "2026-04-21T13:36:21+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "High electricity bills targeted in planned shakeup to energy pricing",
     "deck": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
     "cnTitle": "中东战事促英国检讨能源定价",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Japan loosens arms export rules in break from post-WW2 pacifism",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-21T01:31:27+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-20T23:09:41+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-20T22:55:39+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-20T21:52:12+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-20T19:56:11+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-20T18:57:25+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-20T18:25:17+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-20T15:44:44+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -152,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-20T02:29:04+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -165,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-19T23:02:06+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   }
 ]
