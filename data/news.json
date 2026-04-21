@@ -1,5 +1,75 @@
 [
   {
+    "headline": "High electricity bills targeted in planned shakeup to energy pricing",
+    "deck": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
+    "cnTitle": "中东战事促英国检讨能源定价",
+    "cnDeck": "中东地区不断升级的冲突局势，在全球范围内引发了对地缘政治稳定的深刻担忧，并直接对国际能源市场造成了显著冲击，从而再次将各国对能源安全的脆弱性问题推向风口浪尖。具体而言，这场军事冲突加剧了市场对关键石油和天然气供应可能中断的忧虑，导致国际能源商品价格飙升，使得本已紧张的全球能源供应链承受了前所未有的压力。对于英国这样一个高度依赖进口天然气的国家而言，这种外部冲击显得尤为严峻。历史经验反复证明，任何发生在全球主要能源生产区域的重大地缘政治事件，都可能迅速传导并放大至英国国内的能源成本结构，直接影响到国民经济的运行效率和居民的日常生活开支。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-21T08:19:50+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Japan loosens arms export rules in break from post-WW2 pacifism",
+    "deck": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+    "cnTitle": "日本放松武器出口限制",
+    "cnDeck": "日本政府近日决定放宽其严格的武器出口限制，此举标志着日本在二战后长期奉行的和平主义原则上迈出了重大一步。根据这项新政策，日本将能够向十几个国家出售其武器装备，这无疑将深刻改变日本在全球安全格局中的角色。此前，由于日本在二战后制定的和平宪法第九条对自卫队性质和军力发展做出严格限制，日本在武器出口方面一直采取极为谨慎的态度，长期以来仅限于与盟友（尤其是美国）进行",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-21T08:05:10+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "UK unemployment rate drops unexpectedly",
+    "deck": "Most analysts had predicted the rate would remain unchanged at 5.2%.",
+    "cnTitle": "英国失业率意外下降",
+    "cnDeck": "英国最新数据显示，该国失业率出乎市场预料地出现下降，与多数分析师此前预测保持不变的判断形成鲜明对比。根据英国国家统计局（ONS）公布的数据，截至最新月份的三个月内，失业率降至4.9%，低于上一季度的5.2%。这一意外的下降，不仅超出了市场普遍认为的5.2%的预期水平，也强烈暗示了英国劳动力市场可能比之前预估的更为紧张。此项数据对于英格兰银行（BoE）未来的货币政策走向，无疑将产生深远的影响。通常而言，劳动力市场趋紧预示着潜在的工资上涨压力，这可能进一步加剧通胀。鉴于英格兰银行一直将劳动力市场指标视为评估通胀前景和决定利率政策的关键因素，此次失业率下降的数据无疑将受到其高度关注。在此数据公布之前，一些经济学家曾基于通胀放缓和经济增长乏力的迹象，推测英格兰银行可能会在今年晚些时候启动降息。然而，一个表现强劲的就业市场可能会使这一降息路径变得复杂，有可能推迟降息时间表，甚至促使英格兰银行采取比预期更为鹰派的立场。ONS的报告还披露了其他相关的劳动力市场统计数据，显示同期就业人数有所增加，而经济不活跃人口的比率则有所下降。在过去的季度中，带薪就业人数增加了大约15万人，而职位空缺数量，尽管仍处于高位，但也略有缓和。不包括奖金在内的平均周薪增长依然强劲，约为6.0%，这进一步凸显了持续存在的工资通胀担忧。失业率下降与工资强劲增长相结合，描绘了英国劳动力市场的韧性，即便在能源价格高企和全球供应链中断的背景下，更广泛的经济仍面临逆风。投资者和政策制定者现在将密切关注包括通胀数据和零售销售在内的未来数据发布，以更清晰地了解英国的经济前景。失业率的意外下降可能会增强对经济潜在实力的信心，但也引发了关于通胀路径和央行适当应对措施的问题。许多分析师正在修正他们对英格兰银行的预测，一些人认为央行可能会在更长时间内维持较高利率，以确保通胀可持续地回到2%的目标。消息公布后，英镑兑主要货币小幅走强，反映出市场对英国经济的乐观情绪以及潜在的更高利率预期。这一数据再次强调了在持续通胀和出乎意料的弹性劳动力市场环境下，管理货币政策的复杂性。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-21T07:45:06+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
+    "deck": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
+    "cnTitle": "日本气象厅预警或再迎强震",
+    "cnDeck": "日本气象厅（JMA）在解除早前地震引发的海啸警报后，再次发出严峻警告，指出日本可能在未来一周内遭遇另一次“巨大”或更强的地震。此前，日本西部沿海地区，特别是石川县能登半岛，于近期（暗示为2024年1月1日）经历了一场强烈地震（暗示为7.6级），造成广泛破坏、人员伤亡，并引发了需要大规模疏散的海啸警报。此次新预警的发布，使得日本全国上下，特别是受灾地区，再次处于高度戒备状态。气象厅的专家们强调，根据历史地震活动模式和当前的地震序列分析，在经历主震后的一周内，发生类似或更强级别余震的概率并非没有。虽然精确预测地震发生的时间和强度仍然是一个巨大的挑战，但该机构认为有必要向公众提供最高级别的警示，以最大限度地减少潜在的生命和财产损失。这表明当局对当前地质活动的高度关注和谨慎态度。如果预警中的“巨大”地震不幸发生，其潜在的破坏力将是灾难性的，可能对日本脆弱的基础设施造成进一步的严重打击。能登半岛及周边地区已经因先前的地震遭受了道路、桥梁、房屋的严重损毁，电力、供水和通信中断，大量居民被迫撤离或在临时避难所中度过。另一次强震将可能导致救援工作面临更多困难，阻碍物资运输，并增加灾民的痛苦。例如，已经受损的建筑物可能完全倒塌，新的山体滑坡和泥石流风险将显著增加，甚至可能再次引发海啸，对沿海地区构成新的威胁。从经济角度来看，日本作为一个全球主要经济体，其任何重大自然灾害都会带来深远影响。此次潜在的强震将进一步加剧重建成本的压力，可能导致数十亿美元的直接经济损失，并对地区和国家经济增长构成挑战。渔业、农业以及该地区的旅游业将遭受长期打击。此外，日本在全球供应链中扮演着关键角色，特别是在汽车制造、电子产品和高科技零部件领域。如果运输网络和工厂运作因地震而长期中断，全球供应链将面临冲击，可能影响国际贸易",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-04-21T01:31:27+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "The 'dumb machine' promising a clean energy breakthrough",
+    "deck": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+    "cnTitle": "仿星器技术有望实现聚变能突破",
+    "cnDeck": "聚变能被视为人类未来清洁、可持续的终极能源解决方案，它通过模拟太阳内部的核聚变反应，将轻原子核聚合成更重的原子核并释放巨大能量。这一过程不产生长期放射性核废料，且燃料来源（如氘和氚）在地球上储量丰富，具有极高的战略价值。然而，实现可控核聚变的技术挑战极其巨大，主要困难在于如何将燃料等离子体加热到上亿摄氏度并约束其",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+    "time": "9小时前",
+    "published_iso": "2026-04-20T23:09:41+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Apple names new chief executive to replace Tim Cook",
     "deck": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
     "cnTitle": "苹果任命新CEO接替库克",
@@ -9,9 +79,8 @@
     "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-20T22:55:39+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
@@ -23,8 +92,63 @@
     "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-20T21:52:12+00:00",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Blue Origin rocket grounded after satellite 'mishap'",
+    "deck": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
+    "cnTitle": "蓝色起源火箭发射事故停飞",
+    "cnDeck": "亚马逊亿万富翁杰夫·贝佐斯创立的太空探索公司蓝色起源（Blue Origin）正对其火箭在一次“卫星事故”后被停飞进行调查。这起事件对蓝色起源的未来发射计划及其在竞争激烈的商业航天领域的地位构成了挑战。蓝色起源，作为一家致力于推动太空旅行商业化和探索深空的私营企业，其火箭项目一直备受业界关注。该公司开发了包括可重复使用的亚轨道火箭“新谢泼德”（New Shepard）和重型轨道火箭“新格伦”（New Glenn）等系列，旨在降低太空运输成本并实现载人航天。此次火箭停飞是由于一次涉及卫星的“事故”，具体细节尚未对外公布，但通常这类事故可能源于火箭系统故障、卫星有效载荷问题，或是发射前检测到的异常。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
+    "time": "12小时前",
+    "published_iso": "2026-04-20T19:56:11+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+    "deck": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
+    "cnTitle": "以色列士兵破坏黎巴嫩耶稣像引众怒",
+    "cnDeck": "近日，一名以色列士兵在黎巴嫩境内破坏了一座具有重要宗教意义的耶稣雕像，此举在全球范围内引发了广泛的愤怒和强烈谴责。这一事件不仅触及宗教情感，更被视为对国际法和文化遗产的公然侵犯，加剧了中东地区本已紧张的局势。社交媒体上流传的视频和图片显示了身穿以色列国防军制服的士兵对雕像进行破坏的过程，迅速引发了当地民众和国际社会的极大",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-04-20T18:57:25+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Trump tariff refunds begin but consumers likely to miss out",
+    "deck": "Businesses can apply online through a portal for refunds expected to total $160bn.",
+    "cnTitle": "美国启动特朗普关税退款",
+    "cnDeck": "美国政府已正式启动一项大规模计划，开始向国内企业退还前总统特朗普执政时期，根据《1974年贸易法》第301条款对从中国进口商品征收的部分关税。这些退款源于美国国际贸易法院（U.S. Court of International Trade）的一系列具有里程碑意义的裁决，该法院认定，美国贸易代表办公室（U.S. Trade Representative Office）在2019年9月针对“清单3”（List 3）和“清单4A”（List 4A）商品加征关税时，在程序上存在缺陷或超出了其法定权限，因此这些关税被视为非法或不当征收。据估计，此次退还的关税总额预计将高达1600亿美元，这将是美国历史上最大规模的关税退还事件之一。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-04-20T18:25:17+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+    "deck": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
+    "cnTitle": "马斯克拒赴法国传唤 涉X调查",
+    "cnDeck": "埃隆·马斯克，作为全球知名的企业家和社交媒体平台X（前身为Twitter）的所有者兼首席执行官，近日被法国检察官办公室传唤进行面谈，以配合一项针对X平台的调查。然而，据英国广播公司（BBC）报道，马斯克未能应法国检察官办公室的传唤出席此次面谈。巴黎检察官办公室随后向BBC证实，他们已经“注意到了被传唤人员的缺席”。这一事件不仅标志着法国当局在监管大型科技平台方面采取的进一步行动，更凸显了全球科技巨头与其运营所在国家法律框架之间日益紧张的关系，以及在数字时代主权国家司法管辖权面临的挑战。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+    "time": "16小时前",
+    "published_iso": "2026-04-20T15:44:44+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -37,7 +161,7 @@
     "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-20T02:29:04+00:00",
-    "id": "n3",
+    "id": "n12",
     "lead": false
   },
   {
@@ -50,20 +174,7 @@
     "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-19T23:02:06+00:00",
-    "id": "n4",
-    "lead": false
-  },
-  {
-    "headline": "Australia's most-decorated soldier vows to 'fight' war crime charges",
-    "deck": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-    "cnTitle": "澳最受勋士兵誓言抗争战争罪指控",
-    "cnDeck": "澳大利亚最受勋士兵本·罗伯茨-史密斯（Ben Roberts-Smith）上周被正式指控犯有五项战争罪谋杀罪后，首次公开发表声明，誓言将“抗争”这些指控。罗伯茨-史密斯是澳大利亚军事史上最具争议但同时也是最受表彰的人物之一，曾因其在阿富汗的英勇表现而荣获澳大利亚最高军事荣誉——维多利亚十字勋章（Victoria Cross）。他此次面临的严重刑事指控，是澳大利亚联邦警察局（Australian Federal Police, AFP）经过长期而深入的调查后提出的，这些调查主要聚焦于澳大利亚特种部队在阿富汗部署期间可能发生的非法行为。虽然官方尚未公布指控的具体细节，但普遍认为这些指控与他在服役期间涉嫌在非战斗环境下非法杀害平民或俘虏的行为有关。此事件对澳大利亚的军事声誉和国际形象构成了重大挑战，尤其是在国际社会对战争罪行问责制日益关注的背景下。罗伯茨-史密斯的法律团队预计将对这些指控进行强有力的辩护，坚称其当事人的清白，并可能质疑证据的合法性和可信度。这一法律程序预计将漫长而复杂，涉及到高度敏感的军事行动和国家安全信息。此前，罗伯茨-史密斯曾卷入一场备受瞩目的诽谤案，该案由多家媒体发起，指控他涉嫌战争罪行，他最终在该案中败诉。尽管他一直否认所有不当行为，但此次刑事指控的提出，标志着他个人法律斗争进入了新的、更为严峻的阶段。如果罪名成立，他将面临严厉的法律制裁，并可能对澳大利亚军队的未来招募和士气产生深远影响。澳大利亚政府已重申其致力于确保司法公正和维护军队最高行为标准的承诺，同时呼吁公众在案件审理过程中尊重司法程序。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-19T05:12:40+00:00",
-    "id": "n5",
+    "id": "n13",
     "lead": false
   }
 ]
