@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Oil prices dip as status of US-Iran peace talks remains unclear",
+    "deck": "US President Donald Trump said he will extend a ceasefire with Iran until peace talks have progressed.",
+    "cnTitle": "特朗普延长美伊停火油价下挫",
+    "cnDeck": "美国总统唐纳德·特朗普周三宣布，他将延长与伊朗之间的停火协议，直至和平谈判取得进展，但有关和谈的具体状态和前景仍不明朗，此消息导致国际油价应声下跌。特朗普的这一表态，是在两国关系持续紧张的背景下做出的，凸显了中东地区地缘政治的敏感性。此前，美国和伊朗曾多次处于冲突边缘，包括对油轮的袭击、对无人机的击落以及对关键石油设施的破坏，这些事件都曾一度推高全球原油价格，引发市场对中东石油供应中断的担忧。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-04-22T01:18:36+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan - Bloomberg.com",
+    "deck": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美伊巴谈判在即，油价承压下跌",
+    "cnDeck": "国际油价周四出现下跌，市场焦点转向伊朗即将与美国在巴基斯坦举行谈判的消息。此消息引发市场对地缘政治紧张局势可能缓解的预期，尤其是在中东地区。据彭博社报道，原油价格今日下滑，布伦特原油期货和WTI原油期货均录得跌幅。分析人士指出，尽管具体谈判议程尚未完全披露，但任何旨在缓和美伊之间长期紧张关系的举动，都可能导致市场重新评估原油供应前景，特别是考虑到伊朗在全球原油市场中的潜在供应能力。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
+    "time": "7小时前",
+    "published_iso": "2026-04-21T20:45:11+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
     "deck": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University",
     "cnTitle": "OpenAI因ChatGPT涉枪击案遭调查",
@@ -9,9 +37,22 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Iran sees mass redundancies from war with US and Israel",
+    "deck": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+    "cnTitle": "伊朗因美以冲突面临大规模裁员",
+    "cnDeck": "根据最新报告，由于与美国和以色列之间持续的紧张局势和潜在冲突，伊朗正面临一场大规模裁员浪潮。这份报告明确指出，伊朗国内的制造业、零售业以及数字部门受到的冲击尤为显著，并且有分析和警告称，如果与美国和以色列之间的冲突再度升级或全面爆发，伊朗经济面临的状况可能会进一步恶化，导致更广泛的社会经济危机。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-21T16:05:51+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Volkswagen announces voice AI in its Chinese cars from later this year",
@@ -23,8 +64,7 @@
     "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
     "time": "6小时前",
     "published_iso": "2026-04-21T13:36:21+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-21T01:31:27+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -89,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-20T23:09:41+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-20T22:55:39+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-20T21:52:12+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-20T19:56:11+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -141,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-20T18:57:25+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -154,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-20T18:25:17+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -167,33 +207,7 @@
     "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-20T15:44:44+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices rise after Trump says Iranian ship seized",
-    "deck": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-    "cnTitle": "特朗普称伊朗船只被扣致油价上涨",
-    "cnDeck": "中东地区的地缘政治局势在2月28日美国和以色列据报对伊朗发动袭击后，经历了显著的紧张升级。这一事件立即在全球能源市场引发了剧烈波动和不确定性。在此背景下，美国前总统唐纳德·特朗普对外宣称，一艘伊朗船只已被扣押，这一言论无疑为本已紧张的局势增添了新的变数。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-20T02:29:04+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "The insider trading suspicions looming over Trump's presidency",
-    "deck": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
-    "cnTitle": "BBC揭露特朗普任期内幕交易模式",
-    "cnDeck": "英国广播公司（BBC）近日发布一项调查报告，揭露了前美国总统唐纳德·特朗普（Donald Trump）任职期间，其政府公开声明发布前，金融市场交易活动出现异常波动的模式。这一发现引发了对特朗普政府时期可能存在内幕交易行为的严重质疑，对美国最高权力机构的透明度和诚信度构成了新的挑战。BBC的调查深入分析了特朗普总统在位期间，其宣布重大政策、贸易决定或发布重要言论前后，相关金融市场的数据变化。报告指出，在某些具有市场影响力的公告发布的前夕，特定股票、大宗商品或相关金融衍生品的交易量和价格出现了异乎寻常的剧烈波动。这些波动的时间点与总统即将公开的信息具有高度相关性，暗示某些交易者可能预先获得了尚未公开的敏感信息，并利用这些信息进行交易以获取不当利益。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-19T23:02:06+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   }
 ]
