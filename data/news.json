@@ -9,9 +9,22 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
+  },
+  {
+    "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
+    "deck": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+    "cnTitle": "特朗普暂缓对伊冲突，为协议争取时间",
+    "cnDeck": "美国总统特朗普的最新决定，标志着他在短短数周内第二次搁置了升级冲突的威胁，此举为解决与伊朗的紧张局势争取了更多时间，尤其是在经历了一天的紧张外交斡旋之后。这一决定让原本高度紧张的中东局势获得了一丝喘息，暂时避免了地区冲突进一步升级的风险。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-04-22T00:32:10+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan - Bloomberg.com",
@@ -23,8 +36,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,21 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n3",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+    "deck": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
+    "cnTitle": "沃什呼吁美联储改革，否认利率协议",
+    "cnDeck": "美联储前理事凯文·沃什（Kevin Warsh）在近期一场备受瞩目的美联储确认听证会上，就中央银行的独立性及其未来政策方向发表了重要声明。这场听证会因其可能对美国乃至全球货币政策产生深远影响而备受关注。其中一个核心焦点是沃什直接否认了与前总统唐纳德·特朗普（Donald Trump）就利率问题达成任何交易或私下协议的指控。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-04-21T18:59:39+00:00",
+    "is_new": true,
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,8 +76,7 @@
     "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-21T16:05:51+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -64,7 +89,7 @@
     "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
     "time": "6小时前",
     "published_iso": "2026-04-21T13:36:21+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -77,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -90,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -103,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-21T01:31:27+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-20T23:09:41+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-20T22:55:39+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -155,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-20T21:52:12+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -168,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-20T19:56:11+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -181,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-20T18:57:25+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -194,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-20T18:25:17+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -207,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-20T15:44:44+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   }
 ]
