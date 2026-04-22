@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+    "deck": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+    "cnTitle": "孙宇晨起诉特朗普家族加密公司涉嫌敲诈",
+    "cnDeck": "亿万富翁投资者孙宇晨，一位在加密货币领域以其创建波场（Tron）区块链和在多个加密项目中的积极参与而闻名的人物，已正式对一个与特朗普家族有关的加密货币企业——World Liberty加密项目——提起诉讼。据报道，孙宇晨在此次诉讼中声称，他在购买该公司的数字代币时，总共花费了高达4500万美元的巨额资金。此次法律行动的核心指控是涉嫌敲诈行为，这为本已波动且复杂的加密货币市场增添了新的不确定性。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-22T18:10:42+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Boeing CEO says 'all systems are go' to increase 737 production as company narrows loss",
+    "deck": "Boeing expects certification of new Max 7 and 10 models later this year,  with deliveries starting in 2027.",
+    "cnTitle": "波音CEO：737生产“一切就绪”损失收窄",
+    "cnDeck": "波音公司首席执行官近日发表声明，表示公司已经“一切就绪”，准备加速其737系列飞机的生产。这一消息是在波音公司公布其季度亏损有所收窄的财务报告背景下传出的，预示着这家全球航空巨头在经历了多年的挑战后，正逐步走上复苏之路。首席执行官的言论传递了对波音运营能力的坚定信心，尤其是在全球航空旅行需求持续旺盛，航空公司对更新和扩张机队表现出强烈意愿的关键时期。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
+    "time": "6小时前",
+    "published_iso": "2026-04-22T14:05:20+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Three ways the latest inflation figures affect you",
+    "deck": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
+    "cnTitle": "最新通胀数据对借贷者的影响",
+    "cnDeck": "最新的通胀数据显示，全国范围内的物价上涨压力依然存在，引发了公众对未来经济走势的广泛关注。这些数据不仅是经济学家和政策制定者评估宏观经济状况的关键指标，也直接关系到每个普通家庭的日常生活和财务规划。人们普遍关心，通胀水平究竟会达到多高？以及这种高通胀对于全国范围内的借贷者和储蓄者而言，究竟意味着什么？",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-22T11:39:25+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Japan Finance Minister to Meet Banks to Discuss Mythos Threat - Bloomberg.com",
+    "deck": "Japan Finance Minister to Meet Banks to Discuss Mythos Threat&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "日本财长与银行商讨“神话威胁”",
+    "cnDeck": "日本财务大臣与各大银行举行紧急会议，旨在深入探讨并应对近期浮出水面的“神话威胁”（Mythos Threat）。尽管“神话威胁”的具体性质尚未完全公开，但市场分析人士普遍猜测，这可能指的是由新兴去中心化金融（DeFi）协议、特定区块链项目或非传统数字资产所带来的潜在系统性风险。随着全球数字经济的快速发展，日本政府一直密切关注加密货币和Web3技术对传统金融体系可能造成的冲击。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
+    "time": "11小时前",
+    "published_iso": "2026-04-22T08:34:47+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
     "headline": "Oil prices dip as status of US-Iran peace talks remains unclear",
     "deck": "US President Donald Trump said he will extend a ceasefire with Iran until peace talks have progressed.",
     "cnTitle": "特朗普延长美伊停火油价下挫",
@@ -9,8 +65,8 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
   },
   {
     "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
@@ -22,7 +78,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n2",
+    "id": "n6",
     "lead": false
   },
   {
@@ -35,7 +91,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n3",
+    "id": "n7",
     "lead": false
   },
   {
@@ -48,7 +104,7 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n4",
+    "id": "n8",
     "lead": false
   },
   {
@@ -61,7 +117,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-21T18:59:39+00:00",
-    "id": "n5",
+    "id": "n9",
     "lead": false
   },
   {
@@ -74,7 +130,7 @@
     "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-21T16:05:51+00:00",
-    "id": "n6",
+    "id": "n10",
     "lead": false
   },
   {
@@ -87,7 +143,7 @@
     "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
     "time": "6小时前",
     "published_iso": "2026-04-21T13:36:21+00:00",
-    "id": "n7",
+    "id": "n11",
     "lead": false
   },
   {
@@ -100,7 +156,7 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -113,7 +169,7 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -126,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -139,7 +195,7 @@
     "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-21T01:31:27+00:00",
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -152,7 +208,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-20T23:09:41+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -165,7 +221,7 @@
     "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-20T22:55:39+00:00",
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -178,58 +234,6 @@
     "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-20T21:52:12+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Blue Origin rocket grounded after satellite 'mishap'",
-    "deck": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
-    "cnTitle": "蓝色起源火箭发射事故停飞",
-    "cnDeck": "亚马逊亿万富翁杰夫·贝佐斯创立的太空探索公司蓝色起源（Blue Origin）正对其火箭在一次“卫星事故”后被停飞进行调查。这起事件对蓝色起源的未来发射计划及其在竞争激烈的商业航天领域的地位构成了挑战。蓝色起源，作为一家致力于推动太空旅行商业化和探索深空的私营企业，其火箭项目一直备受业界关注。该公司开发了包括可重复使用的亚轨道火箭“新谢泼德”（New Shepard）和重型轨道火箭“新格伦”（New Glenn）等系列，旨在降低太空运输成本并实现载人航天。此次火箭停飞是由于一次涉及卫星的“事故”，具体细节尚未对外公布，但通常这类事故可能源于火箭系统故障、卫星有效载荷问题，或是发射前检测到的异常。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-    "time": "12小时前",
-    "published_iso": "2026-04-20T19:56:11+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-    "deck": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
-    "cnTitle": "以色列士兵破坏黎巴嫩耶稣像引众怒",
-    "cnDeck": "近日，一名以色列士兵在黎巴嫩境内破坏了一座具有重要宗教意义的耶稣雕像，此举在全球范围内引发了广泛的愤怒和强烈谴责。这一事件不仅触及宗教情感，更被视为对国际法和文化遗产的公然侵犯，加剧了中东地区本已紧张的局势。社交媒体上流传的视频和图片显示了身穿以色列国防军制服的士兵对雕像进行破坏的过程，迅速引发了当地民众和国际社会的极大",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-04-20T18:57:25+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Trump tariff refunds begin but consumers likely to miss out",
-    "deck": "Businesses can apply online through a portal for refunds expected to total $160bn.",
-    "cnTitle": "美国启动特朗普关税退款",
-    "cnDeck": "美国政府已正式启动一项大规模计划，开始向国内企业退还前总统特朗普执政时期，根据《1974年贸易法》第301条款对从中国进口商品征收的部分关税。这些退款源于美国国际贸易法院（U.S. Court of International Trade）的一系列具有里程碑意义的裁决，该法院认定，美国贸易代表办公室（U.S. Trade Representative Office）在2019年9月针对“清单3”（List 3）和“清单4A”（List 4A）商品加征关税时，在程序上存在缺陷或超出了其法定权限，因此这些关税被视为非法或不当征收。据估计，此次退还的关税总额预计将高达1600亿美元，这将是美国历史上最大规模的关税退还事件之一。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-20T18:25:17+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk snubs interview summons by French prosecutors amid X probe",
-    "deck": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
-    "cnTitle": "马斯克拒赴法国传唤 涉X调查",
-    "cnDeck": "埃隆·马斯克，作为全球知名的企业家和社交媒体平台X（前身为Twitter）的所有者兼首席执行官，近日被法国检察官办公室传唤进行面谈，以配合一项针对X平台的调查。然而，据英国广播公司（BBC）报道，马斯克未能应法国检察官办公室的传唤出席此次面谈。巴黎检察官办公室随后向BBC证实，他们已经“注意到了被传唤人员的缺席”。这一事件不仅标志着法国当局在监管大型科技平台方面采取的进一步行动，更凸显了全球科技巨头与其运营所在国家法律框架之间日益紧张的关系，以及在数字时代主权国家司法管辖权面临的挑战。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-04-20T15:44:44+00:00",
     "id": "n18",
     "lead": false
   }
