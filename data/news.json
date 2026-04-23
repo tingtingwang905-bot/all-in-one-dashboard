@@ -1,5 +1,19 @@
 [
   {
+    "headline": "AI is flattening the jobs market for young people, says Sunak",
+    "deck": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
+    "cnTitle": "AI拉平年轻人就业市场",
+    "cnDeck": "英国前首相里希·苏纳克（Rishi Sunak）近日表示，人工智能（AI）正在使年轻人的就业市场趋于“扁平化”，并强调毕业生对寻找入门级工作所持的担忧是合理的。苏纳克指出，AI技术，特别是生成式AI的快速发展，正在深刻重塑全球劳动力市场结构，对传统就业模式构成挑战。他解释说，许多以往由初级员工完成的重复性、数据处理或基础分析任务，现在正被AI自动化",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-22T23:01:09+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
     "deck": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
     "cnTitle": "孙宇晨起诉特朗普家族加密公司涉嫌敲诈",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-22T18:10:42+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Boeing CEO says 'all systems are go' to increase 737 production as company narrows loss",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
     "time": "6小时前",
     "published_iso": "2026-04-22T14:05:20+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,21 @@
     "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-22T11:39:25+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "UK inflation rises after Iran war pushes up fuel prices",
+    "deck": "The figures provide the first official look at the impact of the Iran war on the cost of living in the UK.",
+    "cnTitle": "英国通胀因伊朗战争燃料涨价而上涨",
+    "cnDeck": "英国国家统计局（ONS）近日公布的数据显示，英国的通货膨胀率在近期出现了显著上升，这主要是由于伊朗战争导致全球燃料价格飙升所致。这些最新公布的官方数据，首次明确揭示了伊朗战争对英国居民生活成本产生的具体影响。具体而言，国际油价因中东地区地缘政治紧张局势加剧，尤其是伊朗地区的冲突和不稳定因素，而呈现出持续上涨的趋势。作为全球重要的石油产地和运输要道，该地区的任何军事冲突或政治动荡都会立即对全球原油供应和价格产生连锁反应。燃油价格的上涨直接传导至英国国内，导致汽油、柴油等交通燃料价格攀升，进而推高了商品运输成本，最终反映在消费者物价指数（CPI）上。对于英国普通民众而言，燃料价格的上涨意味着出行成本的增加，私家车主、公共交通使用者以及依赖物流配送的家庭都将面临更高的支出。此外，燃料成本的上升也会间接影响到食品、能源等其他必需品的价格，因为农业生产、工业制造以及商品分销等环节都对能源价格高度敏感。这使得“生活成本危机”进一步加剧，家庭预算承受的压力更大，尤其是对低收入群体而言，影响尤为显著。英国央行（Bank of England）正面临越来越复杂的政策挑战。在通胀目标为2%的背景下，如果外部地缘政治冲突持续推高能源价格，可能会导致通胀顽固不降，甚至再次加速。这可能会迫使英国央行在加息与维持经济增长之间做出艰难抉择。此前，英国央行为了抑制通胀已经实施了多轮加息，对经济活动造成了一定压力。当前，伊朗战争带来的外部冲击使得通胀前景更加不确定，可能影响市场对未来利率路径的预期，引发投资者对经济衰退风险的担忧。全球金融市场也密切关注中东局势的演变及其对能源市场的影响。原油期货价格的波动直接影响全球经济前景，并可能引发避险情绪，导致资金流向安全资产。此次英国通胀数据的发布，不仅是英国国内经济的一项重要指标，也是全球地缘政治风险如何具体传导至各国经济体的一个缩影。分析师普遍认为，只要伊朗地区的紧张局势未能有效缓解，全球能源市场就将持续面临不确定性，而包括英国在内的主要经济体，其通胀压力将难以彻底消除，并可能在可预见的未来继续对货币政策制定者构成重大挑战。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
+    "time": "19小时前",
+    "published_iso": "2026-04-22T08:38:11+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
     "time": "11小时前",
     "published_iso": "2026-04-22T08:34:47+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -78,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -91,7 +115,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -104,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -117,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-21T18:59:39+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -130,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-21T16:05:51+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -143,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
     "time": "6小时前",
     "published_iso": "2026-04-21T13:36:21+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -156,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -169,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -182,59 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
-    "deck": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
-    "cnTitle": "日本气象厅预警或再迎强震",
-    "cnDeck": "日本气象厅（JMA）在解除早前地震引发的海啸警报后，再次发出严峻警告，指出日本可能在未来一周内遭遇另一次“巨大”或更强的地震。此前，日本西部沿海地区，特别是石川县能登半岛，于近期（暗示为2024年1月1日）经历了一场强烈地震（暗示为7.6级），造成广泛破坏、人员伤亡，并引发了需要大规模疏散的海啸警报。此次新预警的发布，使得日本全国上下，特别是受灾地区，再次处于高度戒备状态。气象厅的专家们强调，根据历史地震活动模式和当前的地震序列分析，在经历主震后的一周内，发生类似或更强级别余震的概率并非没有。虽然精确预测地震发生的时间和强度仍然是一个巨大的挑战，但该机构认为有必要向公众提供最高级别的警示，以最大限度地减少潜在的生命和财产损失。这表明当局对当前地质活动的高度关注和谨慎态度。如果预警中的“巨大”地震不幸发生，其潜在的破坏力将是灾难性的，可能对日本脆弱的基础设施造成进一步的严重打击。能登半岛及周边地区已经因先前的地震遭受了道路、桥梁、房屋的严重损毁，电力、供水和通信中断，大量居民被迫撤离或在临时避难所中度过。另一次强震将可能导致救援工作面临更多困难，阻碍物资运输，并增加灾民的痛苦。例如，已经受损的建筑物可能完全倒塌，新的山体滑坡和泥石流风险将显著增加，甚至可能再次引发海啸，对沿海地区构成新的威胁。从经济角度来看，日本作为一个全球主要经济体，其任何重大自然灾害都会带来深远影响。此次潜在的强震将进一步加剧重建成本的压力，可能导致数十亿美元的直接经济损失，并对地区和国家经济增长构成挑战。渔业、农业以及该地区的旅游业将遭受长期打击。此外，日本在全球供应链中扮演着关键角色，特别是在汽车制造、电子产品和高科技零部件领域。如果运输网络和工厂运作因地震而长期中断，全球供应链将面临冲击，可能影响国际贸易",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-04-21T01:31:27+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "The 'dumb machine' promising a clean energy breakthrough",
-    "deck": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
-    "cnTitle": "仿星器技术有望实现聚变能突破",
-    "cnDeck": "聚变能被视为人类未来清洁、可持续的终极能源解决方案，它通过模拟太阳内部的核聚变反应，将轻原子核聚合成更重的原子核并释放巨大能量。这一过程不产生长期放射性核废料，且燃料来源（如氘和氚）在地球上储量丰富，具有极高的战略价值。然而，实现可控核聚变的技术挑战极其巨大，主要困难在于如何将燃料等离子体加热到上亿摄氏度并约束其",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-20T23:09:41+00:00",
     "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Apple names new chief executive to replace Tim Cook",
-    "deck": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-    "cnTitle": "苹果任命新CEO接替库克",
-    "cnDeck": "苹果公司宣布了一项重大人事变动：现任硬件工程高级副总裁John Ternus将接替Tim Cook担任公司首席执行官，而Tim Cook将晋升为执行董事长。此次领导层更迭标志着这家科技巨头进入了一个新阶段，旨在确保公司在未来持续创新并应对日益激烈的市场竞争。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-20T22:55:39+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-    "deck": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
-    "cnTitle": "无协议不解除霍尔木兹限制",
-    "cnDeck": "美国总统唐纳德·特朗普近日就伊朗问题发表强硬言论，明确表示，除非与伊朗达成一项全面协议，否则美国将不会解除对霍尔木兹海峡的相关限制措施。这一声明是在外界对伊朗是否会按计划参加本周在巴基斯坦举行的和平谈判充满不确定性之际发出的，再次凸显了美伊关系的高度紧张及其复杂性。霍尔木兹海峡是连接波斯湾与全球海洋的关键战略水道，全球约五分之一的原油供应需经此地运输，其战略地位举足轻重。美国长期以来一直对伊朗的核计划、弹道导弹开发以及其在中东地区的支持代理人行为表示担忧，并自2018年特朗普政府退出《联合全面行动计划》（JCPOA，即伊朗核协议）后，对伊朗实施了“最大压力”制裁，旨在大幅削减伊朗的石油出口收入，并限制其进入国际金融体系。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-04-20T21:52:12+00:00",
-    "id": "n18",
     "lead": false
   }
 ]
