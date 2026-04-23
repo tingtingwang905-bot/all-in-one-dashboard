@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Meta says it will cut 8,000 jobs as AI spending grows",
+    "deck": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
+    "cnTitle": "Meta裁员8000人聚焦AI投资",
+    "cnDeck": "Meta Platforms Inc.近日宣布了一项大规模裁员计划，预计将削减约8,000个工作岗位。此次裁员是继2023年以来，Meta公司规模最大的一次人员精简行动，此前员工已对即将到来的裁员有所预期。公司管理层表示，此次结构性调整的核心驱动力在于，随着公司在人工智能（AI）领域的投资持续增长，Meta正积极优化资源配置，以更好地聚焦于其战略重点和未来增长领域。Meta首席执行官马克·扎克伯格此前多次强调，AI是公司未来发展的核心支柱，其重要性甚至超越了虚拟现实和元宇宙项目。为了实现这一战略转型，公司需要重新分配人才和资本，将更多精力投入到AI研发、基础设施建设以及新的AI驱动产品和服务的开发上。此次裁员被视为Meta“效率年”战略的延续，但其背景更加侧重于加速AI能力的构建。在过去的两年中，Meta曾经历多次大规模裁员。2022年末和2023年初，公司曾先后宣布裁员约11,000人和10,000人，合计削减了超过21,000个职位，扎克伯格当时将2023年定义为“效率之年”。这些举措旨在削减成本、提高运营效率，并重新定位公司以应对数字广告市场放缓和元宇宙投资回报周期长的挑战。此次新的8,000人裁员，尽管规模小于前几轮，但其战略意图更加明确，即为AI领域的爆发式增长和创新腾出空间，并吸引顶尖的AI人才。Meta正斥巨资购买先进的AI芯片，并招募大量AI工程师，以期在生成式AI竞赛中保持领先地位。公司已经推出了Llama系列大型语言模型，并将其AI技术集成到旗下的Facebook、Instagram、WhatsApp等核心产品中，未来还将推出更多创新的AI功能。此次裁员可能影响到公司内部非AI相关部门或重复性岗位，旨在精简组织架构，使其更加敏捷和以AI为中心。市场分析师认为，科技巨头在经济不确定性和竞争加剧的双重压力下，正普遍采取更为谨慎的招聘策略，并加大对高增长、高潜力领域的投入。Meta的此次裁员，不仅反映了其内部战略重心的重大转移，也折射出整个科技行业在AI浪潮下的结构性变化。虽然裁员通常会对员工士气造成短期影响，但管理层希望通过此举，能够为公司在AI时代的长远发展奠定更坚实的基础，并最终提升股东价值。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-23T19:12:22+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Warner Bros shareholders approve Paramount's $111bn takeover",
     "deck": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
     "cnTitle": "华纳兄弟股东批准派拉蒙千亿收购案",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T14:55:21+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "UK borrowing lowest for three years  but Iran war clouds outlook",
@@ -23,8 +36,21 @@
     "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-23T11:37:59+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "In Tehran, money is short and a return to war looms over daily life",
+    "deck": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+    "cnTitle": "经济困顿与战争阴霾笼罩",
+    "cnDeck": "英国广播公司（BBC）记者Lyse Doucet从伊朗首都德黑兰发回报道，揭示了该国目前面临的严峻挑战与深层不确定性。报道指出，尽管德黑兰的购物街头依然熙熙攘攘，表面上呈现出某种生活常态，但这表象之下，是民众对国家未来深刻而普遍的担忧。Lyse Doucet的观察深入探究了伊朗社会经济与地缘政治双重压力下的真实图景。报告的核心在于两点：一是“资金短缺”（money is short），这反映了伊朗经济面临的巨大困境。长期的国际制裁对伊朗的石油出口、金融系统和贸易往来造成了沉重打击，导致外汇收入锐减，通货膨胀高企，本币持续贬值。国内投资环境恶化，私营部门难以获得必要的资金和技术支持，失业率居高不下，尤其是青年失业问题日益突出。普通民众的购买力被严重削弱，生活成本不断上升，日常开支成为沉重负担。食品、药品等基本生活物资的价格波动剧烈，使得民众生活质量大幅下降。政府在财政上也面临巨大压力，难以有效实施经济刺激计划或改善民生项目。这种经济上的拮据感弥漫在社会的各个阶层，引发了普遍的焦虑和不满情绪，对社会稳定构成潜在威胁。二是“战争阴影笼罩日常生活”（a return to war looms over daily life），这指的是伊朗周边地区日益紧张的地缘政治局势以及其自身可能卷入冲突的风险。中东地区冲突不断，特别是以色列与哈马斯之间的冲突、红海地区的航运危机以及伊朗支持的地区代理人武装与美国及其盟友之间的摩擦，都使得伊朗面临的外部安全环境日益恶化。伊朗的核计划谈判进展缓慢，与西方国家的关系持续紧张，也加剧了外部干预或军事打击的可能性。这种战争的阴影并非遥远的威胁，而是直接影响着德黑兰普通市民的日常生活和心理状态。人们对未来感到悲观，担心冲突一旦爆发，将导致更严重的经济衰退、生命财产损失和人道主义危机。潜在的军事行动风险使得国内外投资者望而却步，进一步加剧了资本外流，阻碍了经济复苏。Lyse Doucet的报道生动地描绘了德黑兰市民如何在表面平静的生活中，挣扎于经济困境与战争威胁的双重重压之下。熙攘的购物街只是一个表象，其背后隐藏的是对国家命运的深刻不确定性。这种不确定性不仅仅是经济上的，更是政治和安全上的，使得伊朗的未来充满变数。BBC的这份报告为国际社会理解当前伊朗的复杂局面提供了重要的视角，强调了其人民在动荡区域中承受的巨大压力，以及地区冲突升级对普通民众生活带来的深远影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-23T11:26:01+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-23T10:05:49+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T07:34:43+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -64,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-22T23:01:09+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -77,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-22T21:23:25+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -90,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-22T18:10:42+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -103,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-22T15:00:40+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
     "time": "6小时前",
     "published_iso": "2026-04-22T14:05:20+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-22T11:39:25+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,8 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cj0v63v027lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T11:07:18+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -156,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-22T08:38:11+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -169,7 +193,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
     "time": "11小时前",
     "published_iso": "2026-04-22T08:34:47+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -182,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T07:12:45+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -195,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T06:25:15+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -208,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T04:01:50+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -221,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -234,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -247,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-21T22:47:56+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -260,46 +284,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-    "deck": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University",
-    "cnTitle": "OpenAI因ChatGPT涉枪击案遭调查",
-    "cnDeck": "OpenAI，这家由萨姆·奥特曼联合创立的领先人工智能公司，正面临一项刑事调查，该调查围绕其旗舰产品ChatGPT在佛罗里达州立大学发生的一起枪击事件中可能扮演的角色展开。此消息一经披露，立刻引发了业界和公众对人工智能技术潜在滥用及其责任归属的广泛关注。据报道，这项刑事调查由佛罗里达州的执法机构发起，旨在深入探讨在佛罗里达州立大学发生的袭击事件中，ChatGPT是否被犯罪分子用于策划、协助或执行枪击。具体指控或调查方向目前尚未完全公开，但通常此类调查会关注AI模型是否生成了煽动暴力、提供武器制造指南、教授犯罪策略或提供其他有助于实施犯罪的信息。如果ChatGPT被证明以某种方式间接或直接促成了该事件，这将为人工智能技术带来的法律和伦理挑战树立一个关键案例。OpenAI公司迅速对此事作出了回应，明确声明其对佛罗里达州立大学的袭击事件“不负责任”。公司强调，其产品，包括ChatGPT，都设有严格的使用政策和安全防护措施，旨在防止生成有害、非法或危险内容。这些政策通常包括对仇恨言论、暴力内容、非法活动指导等进行过滤和限制。OpenAI方面表示，他们将全力配合调查，并提供所需信息，以澄清事实。公司长期以来一直致力于开发负责任的人工智能，并投入大量资源来解决与内容安全、偏见以及滥用相关的风险。他们主张，虽然技术本身具有强大的能力，但用户最终的意图和行为才是关键。此次事件凸显了人工智能开发商在日益复杂的数字环境中可能面临的法律挑战和道德困境。随着AI技术在社会中的应用越来越广泛，其被恶意利用的风险也随之增加。这起刑事调查可能会成为一个重要的里程碑，它将促使立法者、技术公司和监管机构重新审视人工智能在犯罪活动中的责任边界，以及如何制定更有效的法规和技术保障措施，以确保人工智能的负责任开发和使用。这也可能引发对AI内容审核机制有效性的进一步审视，以及AI公司在发现潜在滥用行为时应承担的预警和干预义务。此案的结果将对未来人工智能产品的设计、部署以及法律责任框架产生深远影响，尤其是在涉及公共安全和国家安全领域。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
-    "deck": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
-    "cnTitle": "沃什呼吁美联储改革，否认利率协议",
-    "cnDeck": "美联储前理事凯文·沃什（Kevin Warsh）在近期一场备受瞩目的美联储确认听证会上，就中央银行的独立性及其未来政策方向发表了重要声明。这场听证会因其可能对美国乃至全球货币政策产生深远影响而备受关注。其中一个核心焦点是沃什直接否认了与前总统唐纳德·特朗普（Donald Trump）就利率问题达成任何交易或私下协议的指控。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-04-21T18:59:39+00:00",
     "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Iran sees mass redundancies from war with US and Israel",
-    "deck": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-    "cnTitle": "伊朗因美以冲突面临大规模裁员",
-    "cnDeck": "根据最新报告，由于与美国和以色列之间持续的紧张局势和潜在冲突，伊朗正面临一场大规模裁员浪潮。这份报告明确指出，伊朗国内的制造业、零售业以及数字部门受到的冲击尤为显著，并且有分析和警告称，如果与美国和以色列之间的冲突再度升级或全面爆发，伊朗经济面临的状况可能会进一步恶化，导致更广泛的社会经济危机。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-21T16:05:51+00:00",
-    "id": "n23",
     "lead": false
   }
 ]
