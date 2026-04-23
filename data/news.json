@@ -1,5 +1,19 @@
 [
   {
+    "headline": "US Navy chief leaving post 'effective immediately', Pentagon says",
+    "deck": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
+    "cnTitle": "美国海军部长约翰·菲兰即日离职",
+    "cnDeck": "美国国防部于近日宣布，现任美国海军部长约翰·菲兰（John Phelan）将“即日生效”离职，这一消息由五角大楼证实，并在第一时间引起了广泛关注。约翰·菲兰的离职使其成为近期美国行政当局中又一位选择离开的高级军事领导人，反映出当前美国国防体系内部可能存在的人事变动趋势。作为美国海军的最高文职官员，菲兰部长在指挥和管理美国海军及海军陆战队",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-23T07:34:43+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "AI is flattening the jobs market for young people, says Sunak",
     "deck": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
     "cnTitle": "AI拉平年轻人就业市场",
@@ -9,9 +23,22 @@
     "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-22T23:01:09+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+    "deck": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
+    "cnTitle": "中东冲突正冲击中国出口经济",
+    "cnDeck": "中东地区持续不断的冲突，特别是红海航运危机，正在对中国的出口导向型经济造成显著压力，具体表现在工厂订单减少、运营成本上升以及就业市场面临挑战。作为全球制造业中心和主要出口国，中国高度依赖全球供应链的顺畅运行。然而，胡塞武装对红海商船的袭击，已迫使众多国际航运公司避开这一关键航线，转而绕道非洲好望角。这一改道策略显著延长了航运时间，通常增加7至15天，同时导致集装箱运费大幅飙升。例如，从亚洲主要港口发往欧洲的运费已从冲突前的每标准箱约2000美元激增至超过7000美元，极大地增加了中国出口企业的物流成本，削弱了其产品在国际市场上的价格竞争力。此外，由于绕道行驶导致的船舶周转效率降低，全球运力也面临紧张，进一步推高了运输费用。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-22T21:23:25+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
@@ -23,7 +50,21 @@
     "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-22T18:10:42+00:00",
-    "id": "n2",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+    "deck": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+    "cnTitle": "中东冲突致油价飙升 汉莎航空削减航班",
+    "cnDeck": "德国汉莎航空公司（Lufthansa）最新宣布，由于燃油价格急剧上涨，该公司将削减20,000个夏季航班。这一决定使其成为近期受全球地缘政治紧张局势影响而被迫调整运营计划的航空公司之一。此前，美国与以色列和伊朗之间的冲突不断升级，导致全球原油和航空燃油价格飙升，给航空业带来了巨大的运营成本压力。汉莎航空表示，尽管公司已采取措施对冲部分燃油成本，但当前的价格涨幅已远超预期，严重侵蚀了公司的盈利能力。此次削减航班主要集中在欧洲短途和部分中程航线，旨在优化运力配置，降低运营风险，并应对日益增长的成本挑战。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+    "time": "17小时前",
+    "published_iso": "2026-04-22T15:00:40+00:00",
+    "is_new": true,
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,7 +77,7 @@
     "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
     "time": "6小时前",
     "published_iso": "2026-04-22T14:05:20+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-22T11:39:25+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -62,8 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-22T08:38:11+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,49 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
     "time": "11小时前",
     "published_iso": "2026-04-22T08:34:47+00:00",
-    "id": "n6",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "World's biggest condom maker set to raise prices due to Iran war",
+    "deck": "Malaysia-based Karex produces more than five billion condoms a year and supplies global brands like Durex and Trojan.",
+    "cnTitle": "全球最大避孕套商因伊朗战争提价",
+    "cnDeck": "马来西亚公司凯瑞斯（Karex），作为全球最大的避孕套制造商，每年生产超过50亿只避孕套，并为包括杜蕾斯（Durex）和特洛伊（Trojan）在内的全球知名品牌供货。该公司近日宣布，由于“伊朗战争”的爆发，其产品价格将面临上调。这一重大决定清晰地反映了中东地区地缘政治冲突对全球供应链和消费者市场产生的深远且广泛的影响。尽管避孕套这类日常消费品看似与战争没有直接关联，但中东地区的紧张局势，特别是涉及伊朗的潜在军事冲突，极易导致全球原油价格的剧烈波动和飙升。石油不仅是工业生产活动中不可或缺的能源成本构成部分，更是生产橡胶和乳胶产品所需的关键石化原材料的来源。因此，油价的上涨将直接推高凯瑞斯公司在原材料采购环节的成本。此外，中东地区的军事冲突历来对重要的国际航运路线构成威胁，例如霍尔木兹海峡和红海等关键海上通道。一旦这些航道受到干扰或威胁，海运保险费用和货运成本将大幅增加，运输周期也将延长。凯瑞斯作为一个全球化的生产和分销商，其在全球范围内的原材料采购、生产运营以及最终产品向世界各地市场的分销，都将受到这些上涨成本的直接冲击。面对持续累积的生产和物流成本压力，凯瑞斯公司不得不对其产品定价策略进行调整，以期消化掉上游原材料、能源和运输等各方面日益增长的费用。这意味着全球范围内的消费者将可能面临避孕套价格的上涨，而凯瑞斯所供货的各大国际品牌也将承担更高的采购成本。此次价格调整不仅会影响到消费者的日常开销和预算，更可能对全球公共卫生领域，特别是在发展中国家推动避孕措施和性健康教育普及的努力构成潜在挑战，因为避孕工具的可负担性和可及性对于这些项目至关重要。凯瑞斯的案例生动地说明，即使是远离直接冲突区域的制造业，也无法幸免于重大地缘政治事件的波及。一场区域性的战争冲突，其影响能通过能源市场、全球航运体系和供应链的稳定性，最终传导至全球各个角落的消费品价格，进而加剧全球性的通胀压力。这一事件提醒市场参与者和政策制定者，地缘政治风险是全球经济稳定中一个不可忽视的关键性因素。它也进一步揭示了全球经济的脆弱性和其高度的相互依存性，即便是日常消费品的价格，也可能因为远方战火的燃起而发生变动，从而促使市场对未来供应链的韧性和商品价格的波动性保持持续的关注。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-22T07:12:45+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Taiwan president cancels trip after African countries revoke flight permits",
+    "deck": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
+    "cnTitle": "赖清德出访受阻 非洲国家撤销飞越许可",
+    "cnDeck": "台湾总统赖清德近日被迫取消了一项重要的出访行程，此前有非洲国家突然撤销了其专机的飞越许可。台湾方面立即指责北京在此事件中施加了巨大压力，导致这些非洲国家采取了这一行动，严重阻碍了台湾的国际交流。据报道，赖清德总统原计划进行一次旨在巩固与少数邦交国关系的访问，并可能寻求扩大台湾的国际空间。然而，就在行程即将开始之际，相关非洲国家政府在未给出明确理由的情况下，撤回了此前已批准的台湾总统专机的领空使用权。此举被台湾外交部形容为“无理且粗暴”，并强烈谴责北京利用其经济和政治影响力，胁迫主权国家违反国际航空惯例和外交礼仪。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-22T06:25:15+00:00",
+    "is_new": true,
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
+    "deck": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+    "cnTitle": "报告揭阿联酋支持佣兵介入苏丹冲突",
+    "cnDeck": "“冲突洞察小组”（Conflict Insights Group, CIG）发布一份最新报告，详细披露了阿拉伯联合酋长国（UAE）支持的哥伦比亚雇佣兵在苏丹冲突中向准军事组织提供支援的深度与广度。该报告的核心发现指出，这些雇佣兵在苏丹内战中扮演了关键角色，而其背后的资金与后勤支持则直接源自阿联酋。CIG的研究工作，基于对卫星图像、开源情报、战场分析以及对地区消息人士的采访等多方面证据，揭示了阿联酋对苏丹冲突的广泛介入程度。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-22T04:01:50+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -89,7 +171,7 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "id": "n7",
+    "id": "n13",
     "lead": false
   },
   {
@@ -102,7 +184,21 @@
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n8",
+    "id": "n14",
+    "lead": false
+  },
+  {
+    "headline": "Meta to track workers' clicks and keystrokes to train AI",
+    "deck": "The firm will take data from the way employees work for its artificial intelligence models.",
+    "cnTitle": "Meta追踪员工数据训练AI模型",
+    "cnDeck": "社交媒体巨头Meta Platforms公司宣布，将实施一项新政策，旨在内部收集员工的工作数据，包括但不限于键盘敲击记录和鼠标点击模式，以用于训练其日益增长的人工智能（AI）模型。此举标志着Meta在利用其庞大数据资源方面迈出了新的一步，即使这些数据来源于公司内部员工的日常工作活动。根据公司声明，此项举措的目的是为了提高AI模型的效率、准确性和通用性，使其能够更好地理解人类的工作模式和语言，从而开发出更具实用价值的AI工具和产品，无论是针对内部生产力提升还是面向外部用户服务。Meta指出，通过分析员工在完成任务时的交互方式、输入习惯以及所用工具，其AI系统可以学习到更细致的人类意图和操作逻辑。例如，AI模型可以根据员工的代码编写习惯、文档编辑模式或与内部工具的互动方式，来优化自身在代码生成、内容创作或自动化办公流程方面的能力。此举预计将有助于Meta在竞争激烈的人工智能领域保持领先地位，并为其未来的创新提供坚实的数据基础。然而，这一决定立即引发了业界内外对员工隐私和数据伦理的广泛关注。员工权益倡导者和隐私专家指出，对员工工作数据的深度追踪可能侵犯个人隐私权，并可能导致员工产生被持续监控的感觉，从而影响其工作满意度和创造力。虽然Meta尚未公布详细的数据匿名化和安全保护措施，但公司强调将采取严格的数据治理框架，确保数据的匿名性、聚合性和安全性，以最大程度地保护员工的个人信息，并遵守相关的数据保护法规。公司还表示，将向员工明确告知数据收集的目的、范围和方式，并提供相应的选择退出机制或透明度报告，以增进员工信任。分析人士认为，Meta此举反映了当前AI技术发展对高质量、大规模训练数据的巨大需求。随着AI模型变得越来越复杂，对真实世界行为模式数据的需求也日益增加。通过利用内部员工的日常工作数据，Meta得以获取一个独特且高度相关的行为数据集，这对于提升其AI在企业级应用和人机交互方面的表现具有潜在的巨大价值。但同时，如何在创新与员工隐私之间取得平衡，将是Meta和其他科技公司在推进此类项目时必须面对的关键挑战。此项政策的具体实施细节和对员工的影响，仍将是未来一段时间内外界关注的焦点。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-21T22:47:56+00:00",
+    "is_new": true,
+    "id": "n15",
     "lead": false
   },
   {
@@ -115,7 +211,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n9",
+    "id": "n16",
     "lead": false
   },
   {
@@ -128,7 +224,7 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n10",
+    "id": "n17",
     "lead": false
   },
   {
@@ -141,7 +237,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-21T18:59:39+00:00",
-    "id": "n11",
+    "id": "n18",
     "lead": false
   },
   {
@@ -154,7 +250,7 @@
     "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-21T16:05:51+00:00",
-    "id": "n12",
+    "id": "n19",
     "lead": false
   },
   {
@@ -167,46 +263,7 @@
     "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
     "time": "6小时前",
     "published_iso": "2026-04-21T13:36:21+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "High electricity bills targeted in planned shakeup to energy pricing",
-    "deck": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
-    "cnTitle": "中东战事促英国检讨能源定价",
-    "cnDeck": "中东地区不断升级的冲突局势，在全球范围内引发了对地缘政治稳定的深刻担忧，并直接对国际能源市场造成了显著冲击，从而再次将各国对能源安全的脆弱性问题推向风口浪尖。具体而言，这场军事冲突加剧了市场对关键石油和天然气供应可能中断的忧虑，导致国际能源商品价格飙升，使得本已紧张的全球能源供应链承受了前所未有的压力。对于英国这样一个高度依赖进口天然气的国家而言，这种外部冲击显得尤为严峻。历史经验反复证明，任何发生在全球主要能源生产区域的重大地缘政治事件，都可能迅速传导并放大至英国国内的能源成本结构，直接影响到国民经济的运行效率和居民的日常生活开支。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-21T08:19:50+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Japan loosens arms export rules in break from post-WW2 pacifism",
-    "deck": "This clears the way for Japan to sell weapons to more than a dozen countries.",
-    "cnTitle": "日本放松武器出口限制",
-    "cnDeck": "日本政府近日决定放宽其严格的武器出口限制，此举标志着日本在二战后长期奉行的和平主义原则上迈出了重大一步。根据这项新政策，日本将能够向十几个国家出售其武器装备，这无疑将深刻改变日本在全球安全格局中的角色。此前，由于日本在二战后制定的和平宪法第九条对自卫队性质和军力发展做出严格限制，日本在武器出口方面一直采取极为谨慎的态度，长期以来仅限于与盟友（尤其是美国）进行",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-21T08:05:10+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "UK unemployment rate drops unexpectedly",
-    "deck": "Most analysts had predicted the rate would remain unchanged at 5.2%.",
-    "cnTitle": "英国失业率意外下降",
-    "cnDeck": "英国最新数据显示，该国失业率出乎市场预料地出现下降，与多数分析师此前预测保持不变的判断形成鲜明对比。根据英国国家统计局（ONS）公布的数据，截至最新月份的三个月内，失业率降至4.9%，低于上一季度的5.2%。这一意外的下降，不仅超出了市场普遍认为的5.2%的预期水平，也强烈暗示了英国劳动力市场可能比之前预估的更为紧张。此项数据对于英格兰银行（BoE）未来的货币政策走向，无疑将产生深远的影响。通常而言，劳动力市场趋紧预示着潜在的工资上涨压力，这可能进一步加剧通胀。鉴于英格兰银行一直将劳动力市场指标视为评估通胀前景和决定利率政策的关键因素，此次失业率下降的数据无疑将受到其高度关注。在此数据公布之前，一些经济学家曾基于通胀放缓和经济增长乏力的迹象，推测英格兰银行可能会在今年晚些时候启动降息。然而，一个表现强劲的就业市场可能会使这一降息路径变得复杂，有可能推迟降息时间表，甚至促使英格兰银行采取比预期更为鹰派的立场。ONS的报告还披露了其他相关的劳动力市场统计数据，显示同期就业人数有所增加，而经济不活跃人口的比率则有所下降。在过去的季度中，带薪就业人数增加了大约15万人，而职位空缺数量，尽管仍处于高位，但也略有缓和。不包括奖金在内的平均周薪增长依然强劲，约为6.0%，这进一步凸显了持续存在的工资通胀担忧。失业率下降与工资强劲增长相结合，描绘了英国劳动力市场的韧性，即便在能源价格高企和全球供应链中断的背景下，更广泛的经济仍面临逆风。投资者和政策制定者现在将密切关注包括通胀数据和零售销售在内的未来数据发布，以更清晰地了解英国的经济前景。失业率的意外下降可能会增强对经济潜在实力的信心，但也引发了关于通胀路径和央行适当应对措施的问题。许多分析师正在修正他们对英格兰银行的预测，一些人认为央行可能会在更长时间内维持较高利率，以确保通胀可持续地回到2%的目标。消息公布后，英镑兑主要货币小幅走强，反映出市场对英国经济的乐观情绪以及潜在的更高利率预期。这一数据再次强调了在持续通胀和出乎意料的弹性劳动力市场环境下，管理货币政策的复杂性。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-21T07:45:06+00:00",
-    "id": "n16",
+    "id": "n20",
     "lead": false
   }
 ]
