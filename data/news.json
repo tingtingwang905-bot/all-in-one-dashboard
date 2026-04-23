@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Warner Bros shareholders approve Paramount's $111bn takeover",
+    "deck": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
+    "cnTitle": "华纳兄弟股东批准派拉蒙千亿收购案",
+    "cnDeck": "华纳兄弟探索公司（Warner Bros Discovery）的股东已批准了对派拉蒙全球公司（Paramount Global）高达1110亿美元的收购案。这项潜在的巨额交易若最终实现，将标志着全球娱乐和媒体行业一次具有里程碑意义的整合。在流媒体服务竞争日益激烈、传统媒体面临巨大挑战的背景下，此次合并被视为两家大型媒体巨头寻求规模效应、增强市场竞争力、巩固内容库以对抗Netflix、迪士尼+和亚马逊Prime Video等流媒体巨头的战略举措。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-23T14:55:21+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "UK borrowing lowest for three years  but Iran war clouds outlook",
+    "deck": "The improvement in government finances is unlikely to last, analysts say, with the impact of the Iran way yet to hit.",
+    "cnTitle": "英国借贷创三年新低 伊朗战事蒙阴",
+    "cnDeck": "英国政府的借贷数据显示，公共部门净借款已降至三年来的最低水平。这一数据反映出英国财政状况在近期有所改善，对政府而言无疑是个积极的信号，尤其是在经历了一段通胀高企和经济增长承压的时期之后。根据英国国家统计局（ONS）公布的最新数据，在过去一年中，政府的税收收入有所增加，而部分支出项目则得到了有效控制，共同促成了这一财政表现的优化。市场分析师普遍认为，借贷水平的下降为财政大臣 Jeremy Hunt 及其团队在未来的预算规划中提供了一定的灵活性，有助于缓解此前围绕国家债务持续增长的担忧。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-23T11:37:59+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Asos demands £7m from US as firms rush to claim tariff refunds",
+    "deck": "Hundreds of thousands of firms could potentially win back some money after the tariffs were struck down.",
+    "cnTitle": "企业争相追讨美国关税退款",
+    "cnDeck": "英国时尚零售巨头Asos正积极向美国政府索要高达700万英镑（约合900万美元）的关税退款，此举正值数十万家企业争相追讨此前被征收的美国进口关税之际。这一大规模的退款潮源于美国法院近期的一系列裁决，这些裁决认定美国政府在特定情况下征收的某些进口关税存在法律缺陷或超出了行政权力范围，使得被不当征收关",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-23T10:05:49+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "US Navy chief leaving post 'effective immediately', Pentagon says",
     "deck": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
     "cnTitle": "美国海军部长约翰·菲兰即日离职",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T07:34:43+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "AI is flattening the jobs market for young people, says Sunak",
@@ -23,7 +64,7 @@
     "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-22T23:01:09+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,8 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-22T21:23:25+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-22T18:10:42+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,8 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-22T15:00:40+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -77,7 +116,7 @@
     "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
     "time": "6小时前",
     "published_iso": "2026-04-22T14:05:20+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -90,7 +129,21 @@
     "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-22T11:39:25+00:00",
-    "id": "n7",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Car finance compensation scheme faces challenge and delay",
+    "deck": "The move could further delay payouts to millions of drivers who were mis-sold motor finance.",
+    "cnTitle": "汽车金融赔偿计划面临挑战",
+    "cnDeck": "一项旨在纠正向数百万司机错误销售汽车金融产品而设立的重大赔偿计划，目前正面临严峻挑战和延误。这一事态发展预计将进一步推迟受影响消费者获得经济补偿的时间。多年来，许多司机在购买车辆时使用了经销商从贷款机构处获得未披露佣金的金融协议。这种“自由裁量佣金安排”激励经销商收取更高的利率，以获取更大的佣金，而客户往往对此一无所知，也缺乏透明度。这种做法导致了",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj0v63v027lo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-22T11:07:18+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -103,7 +156,7 @@
     "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-22T08:38:11+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -116,7 +169,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
     "time": "11小时前",
     "published_iso": "2026-04-22T08:34:47+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -129,8 +182,7 @@
     "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T07:12:45+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -143,8 +195,7 @@
     "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T06:25:15+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -157,8 +208,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T04:01:50+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -171,7 +221,7 @@
     "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-22T01:18:36+00:00",
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -184,7 +234,7 @@
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n14",
+    "id": "n18",
     "lead": false
   },
   {
@@ -197,8 +247,7 @@
     "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-21T22:47:56+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n19",
     "lead": false
   },
   {
@@ -211,7 +260,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n16",
+    "id": "n20",
     "lead": false
   },
   {
@@ -224,7 +273,7 @@
     "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-21T19:15:34+00:00",
-    "id": "n17",
+    "id": "n21",
     "lead": false
   },
   {
@@ -237,7 +286,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-21T18:59:39+00:00",
-    "id": "n18",
+    "id": "n22",
     "lead": false
   },
   {
@@ -250,20 +299,7 @@
     "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-21T16:05:51+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Volkswagen announces voice AI in its Chinese cars from later this year",
-    "deck": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
-    "cnTitle": "大众中国车型将集成语音AI",
-    "cnDeck": "大众汽车（Volkswagen）近日宣布，其面向中国市场的车型将于今年晚些时候开始集成先进的语音人工智能（AI）技术。这一举措标志着大众汽车在提升其在中国这一全球最大汽车市场的智能化竞争力方面迈出了重要一步。根据公司披露的信息，大众汽车已发布了四款新车型，其中包括备受关注的ID. UNYX 09。这款ID. UNYX 09车型是大众汽车与中国本土领先的电动汽车制造商小鹏汽车（Xpeng）历时两年共同开发的心血结晶。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
-    "time": "6小时前",
-    "published_iso": "2026-04-21T13:36:21+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   }
 ]
