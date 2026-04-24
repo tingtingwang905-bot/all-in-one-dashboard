@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-24T00:21:32+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-23T23:15:25+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -194,58 +192,6 @@
     "time": "1天前",
     "published_iso": "2026-04-22T11:07:18+00:00",
     "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "UK inflation rises after Iran war pushes up fuel prices",
-    "deck": "The figures provide the first official look at the impact of the Iran war on the cost of living in the UK.",
-    "cnTitle": "英国通胀因伊朗战争燃料涨价而上涨",
-    "cnDeck": "英国国家统计局（ONS）近日公布的数据显示，英国的通货膨胀率在近期出现了显著上升，这主要是由于伊朗战争导致全球燃料价格飙升所致。这些最新公布的官方数据，首次明确揭示了伊朗战争对英国居民生活成本产生的具体影响。具体而言，国际油价因中东地区地缘政治紧张局势加剧，尤其是伊朗地区的冲突和不稳定因素，而呈现出持续上涨的趋势。作为全球重要的石油产地和运输要道，该地区的任何军事冲突或政治动荡都会立即对全球原油供应和价格产生连锁反应。燃油价格的上涨直接传导至英国国内，导致汽油、柴油等交通燃料价格攀升，进而推高了商品运输成本，最终反映在消费者物价指数（CPI）上。对于英国普通民众而言，燃料价格的上涨意味着出行成本的增加，私家车主、公共交通使用者以及依赖物流配送的家庭都将面临更高的支出。此外，燃料成本的上升也会间接影响到食品、能源等其他必需品的价格，因为农业生产、工业制造以及商品分销等环节都对能源价格高度敏感。这使得“生活成本危机”进一步加剧，家庭预算承受的压力更大，尤其是对低收入群体而言，影响尤为显著。英国央行（Bank of England）正面临越来越复杂的政策挑战。在通胀目标为2%的背景下，如果外部地缘政治冲突持续推高能源价格，可能会导致通胀顽固不降，甚至再次加速。这可能会迫使英国央行在加息与维持经济增长之间做出艰难抉择。此前，英国央行为了抑制通胀已经实施了多轮加息，对经济活动造成了一定压力。当前，伊朗战争带来的外部冲击使得通胀前景更加不确定，可能影响市场对未来利率路径的预期，引发投资者对经济衰退风险的担忧。全球金融市场也密切关注中东局势的演变及其对能源市场的影响。原油期货价格的波动直接影响全球经济前景，并可能引发避险情绪，导致资金流向安全资产。此次英国通胀数据的发布，不仅是英国国内经济的一项重要指标，也是全球地缘政治风险如何具体传导至各国经济体的一个缩影。分析师普遍认为，只要伊朗地区的紧张局势未能有效缓解，全球能源市场就将持续面临不确定性，而包括英国在内的主要经济体，其通胀压力将难以彻底消除，并可能在可预见的未来继续对货币政策制定者构成重大挑战。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-04-22T08:38:11+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Japan Finance Minister to Meet Banks to Discuss Mythos Threat - Bloomberg.com",
-    "deck": "Japan Finance Minister to Meet Banks to Discuss Mythos Threat&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "日本财长与银行商讨“神话威胁”",
-    "cnDeck": "日本财务大臣与各大银行举行紧急会议，旨在深入探讨并应对近期浮出水面的“神话威胁”（Mythos Threat）。尽管“神话威胁”的具体性质尚未完全公开，但市场分析人士普遍猜测，这可能指的是由新兴去中心化金融（DeFi）协议、特定区块链项目或非传统数字资产所带来的潜在系统性风险。随着全球数字经济的快速发展，日本政府一直密切关注加密货币和Web3技术对传统金融体系可能造成的冲击。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
-    "time": "11小时前",
-    "published_iso": "2026-04-22T08:34:47+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "World's biggest condom maker set to raise prices due to Iran war",
-    "deck": "Malaysia-based Karex produces more than five billion condoms a year and supplies global brands like Durex and Trojan.",
-    "cnTitle": "全球最大避孕套商因伊朗战争提价",
-    "cnDeck": "马来西亚公司凯瑞斯（Karex），作为全球最大的避孕套制造商，每年生产超过50亿只避孕套，并为包括杜蕾斯（Durex）和特洛伊（Trojan）在内的全球知名品牌供货。该公司近日宣布，由于“伊朗战争”的爆发，其产品价格将面临上调。这一重大决定清晰地反映了中东地区地缘政治冲突对全球供应链和消费者市场产生的深远且广泛的影响。尽管避孕套这类日常消费品看似与战争没有直接关联，但中东地区的紧张局势，特别是涉及伊朗的潜在军事冲突，极易导致全球原油价格的剧烈波动和飙升。石油不仅是工业生产活动中不可或缺的能源成本构成部分，更是生产橡胶和乳胶产品所需的关键石化原材料的来源。因此，油价的上涨将直接推高凯瑞斯公司在原材料采购环节的成本。此外，中东地区的军事冲突历来对重要的国际航运路线构成威胁，例如霍尔木兹海峡和红海等关键海上通道。一旦这些航道受到干扰或威胁，海运保险费用和货运成本将大幅增加，运输周期也将延长。凯瑞斯作为一个全球化的生产和分销商，其在全球范围内的原材料采购、生产运营以及最终产品向世界各地市场的分销，都将受到这些上涨成本的直接冲击。面对持续累积的生产和物流成本压力，凯瑞斯公司不得不对其产品定价策略进行调整，以期消化掉上游原材料、能源和运输等各方面日益增长的费用。这意味着全球范围内的消费者将可能面临避孕套价格的上涨，而凯瑞斯所供货的各大国际品牌也将承担更高的采购成本。此次价格调整不仅会影响到消费者的日常开销和预算，更可能对全球公共卫生领域，特别是在发展中国家推动避孕措施和性健康教育普及的努力构成潜在挑战，因为避孕工具的可负担性和可及性对于这些项目至关重要。凯瑞斯的案例生动地说明，即使是远离直接冲突区域的制造业，也无法幸免于重大地缘政治事件的波及。一场区域性的战争冲突，其影响能通过能源市场、全球航运体系和供应链的稳定性，最终传导至全球各个角落的消费品价格，进而加剧全球性的通胀压力。这一事件提醒市场参与者和政策制定者，地缘政治风险是全球经济稳定中一个不可忽视的关键性因素。它也进一步揭示了全球经济的脆弱性和其高度的相互依存性，即便是日常消费品的价格，也可能因为远方战火的燃起而发生变动，从而促使市场对未来供应链的韧性和商品价格的波动性保持持续的关注。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-22T07:12:45+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Taiwan president cancels trip after African countries revoke flight permits",
-    "deck": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
-    "cnTitle": "赖清德出访受阻 非洲国家撤销飞越许可",
-    "cnDeck": "台湾总统赖清德近日被迫取消了一项重要的出访行程，此前有非洲国家突然撤销了其专机的飞越许可。台湾方面立即指责北京在此事件中施加了巨大压力，导致这些非洲国家采取了这一行动，严重阻碍了台湾的国际交流。据报道，赖清德总统原计划进行一次旨在巩固与少数邦交国关系的访问，并可能寻求扩大台湾的国际空间。然而，就在行程即将开始之际，相关非洲国家政府在未给出明确理由的情况下，撤回了此前已批准的台湾总统专机的领空使用权。此举被台湾外交部形容为“无理且粗暴”，并强烈谴责北京利用其经济和政治影响力，胁迫主权国家违反国际航空惯例和外交礼仪。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-22T06:25:15+00:00",
-    "id": "n19",
     "lead": false
   }
 ]
