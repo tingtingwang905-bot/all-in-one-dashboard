@@ -1,5 +1,33 @@
 [
   {
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+    "deck": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+    "cnTitle": "美司法部撤销对鲍威尔调查",
+    "cnDeck": "美国司法部近期宣布，已正式撤销此前对联邦储备系统主席杰罗姆·鲍威尔的调查。这项调查源于美国前总统唐纳德·特朗普在任期间提出的一项指控，当时特朗普声称鲍威尔在美联储大楼翻新工程中存在“不当的成本超支”行为。这一消息标志着一项曾可能对美联储及其领导层形象产生影响的法律审查最终告一段落。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-24T19:10:25+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+    "deck": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
+    "cnTitle": "以色列总理内塔尼亚胡接受前列腺癌治疗",
+    "cnDeck": "以色列总理本雅明·内塔尼亚胡近日接受了早期前列腺癌的治疗，并成功切除了恶性肿瘤。内塔尼亚胡本人随后向公众表示，他目前“身体状况极佳”。这一消息立即引起了国内外广泛关注，鉴于内塔尼亚胡在以色列政坛的中心地位及其目前在加沙冲突中所扮演的关键角色。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-04-24T11:49:29+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
     "deck": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
     "cnTitle": "叙利亚塔达蒙大屠杀关键嫌犯被捕",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-24T10:41:32+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "How does it affect me if share prices fall?",
@@ -23,8 +50,21 @@
     "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-24T09:39:48+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "White House memo claims mass AI theft by Chinese firms",
+    "deck": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
+    "cnTitle": "白宫指控中国企业窃取美国AI模型",
+    "cnDeck": "一份来自前美国首席技术官迈克尔·克拉齐奥斯（Michael Kratsios）的白宫备忘录指出，大量企业，主要集中在中国，正在不正当地“提炼”或非法利用美国开发的人工智能模型。这份备忘录强调了对美国在人工智能领域知识产权和技术优势遭受侵蚀的严重担忧，并将此行为定性为“大规模人工智能窃取”。克拉齐奥斯在备忘录中详细阐述，这些中国公司可能通过多种手段获取并滥用美国的AI技术，包括但不限于逆向工程、未经授权的数据获取、以及利用开源AI项目中的漏洞来复制、改编和再利用美国领先的AI成果。这种系统性的行为被视为对美国创新生态系统的直接威胁，可能导致美国在关键技术领域的竞争优势被削弱，并对国家安全构成潜在风险。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-04-24T00:58:58+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-24T00:21:32+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-23T23:15:25+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T19:12:22+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T14:55:21+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -89,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-23T11:37:59+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-23T11:26:01+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-23T10:05:49+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T07:34:43+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -141,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-22T23:01:09+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -154,33 +194,7 @@
     "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-22T21:23:25+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-    "deck": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-    "cnTitle": "孙宇晨起诉特朗普家族加密公司涉嫌敲诈",
-    "cnDeck": "亿万富翁投资者孙宇晨，一位在加密货币领域以其创建波场（Tron）区块链和在多个加密项目中的积极参与而闻名的人物，已正式对一个与特朗普家族有关的加密货币企业——World Liberty加密项目——提起诉讼。据报道，孙宇晨在此次诉讼中声称，他在购买该公司的数字代币时，总共花费了高达4500万美元的巨额资金。此次法律行动的核心指控是涉嫌敲诈行为，这为本已波动且复杂的加密货币市场增添了新的不确定性。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-22T18:10:42+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-    "deck": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
-    "cnTitle": "中东冲突致油价飙升 汉莎航空削减航班",
-    "cnDeck": "德国汉莎航空公司（Lufthansa）最新宣布，由于燃油价格急剧上涨，该公司将削减20,000个夏季航班。这一决定使其成为近期受全球地缘政治紧张局势影响而被迫调整运营计划的航空公司之一。此前，美国与以色列和伊朗之间的冲突不断升级，导致全球原油和航空燃油价格飙升，给航空业带来了巨大的运营成本压力。汉莎航空表示，尽管公司已采取措施对冲部分燃油成本，但当前的价格涨幅已远超预期，严重侵蚀了公司的盈利能力。此次削减航班主要集中在欧洲短途和部分中程航线，旨在优化运力配置，降低运营风险，并应对日益增长的成本挑战。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-22T15:00:40+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   }
 ]
