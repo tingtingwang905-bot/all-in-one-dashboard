@@ -1,5 +1,33 @@
 [
   {
+    "headline": "US soldier charged after winning $400,000 betting on removal of Maduro",
+    "deck": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
+    "cnTitle": "美士兵泄密押注马杜罗去留被起诉",
+    "cnDeck": "美国司法部近日宣布，一名美国士兵因涉嫌利用机密情报，在在线预测市场上押注委内瑞拉总统尼古拉斯·马杜罗（Nicolás Maduro）的政治去向，并从中获利40万美元而被起诉。这名士兵名为加农·肯·范·戴克（Gannon Ken Van Dyke），他被指控在Polymarket这一去中心化预测平台上，依据其作为军方人员所能接触到的敏感且未公开的信息，对马杜罗的政治命运进行交易。司法部强调，范·戴克的行为不仅构成了对联邦法律和军事纪律的严重违反，更带来了潜在的国家安全风险。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-24T00:21:32+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Stock markets are too high and set to fall, says Bank of England deputy",
+    "deck": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
+    "cnTitle": "英国央行副行长警告股市过高将下跌",
+    "cnDeck": "英国央行副行长近日发表引人注目的言论，警告当前全球股市估值过高，并预示市场将面临下跌的风险。这一表态迅速在全球金融市场引发广泛关注和讨论。据报道，这位高级官员直言不讳地指出，目前的股票市场价格已经脱离了经济基本面，存在明显的泡沫化趋势。通常情况下，中央银行的高级官员在公开场合对市场走势发表如此直接且具有预判性的评论是极其罕见的。中央银行在履行其维护金融稳定、控制通货膨胀和促进经济增长职责时，往往会采取谨慎措辞，避免直接干预或过度引导市场预期，以免引发不必要的市场波动。此次英国央行副行长的破例发言，凸显了其对当前市场状况的深切忧虑。分析人士指出，这位副行长的警告可能基于多方面考量。一方面，过去几年，在超宽松货币政策和低利率环境下，大量流动性涌入股市，推动了资产价格的上涨。即便在全球主要央行开始收紧货币政策、提高利率以对抗通胀的背景下，许多股票市场仍保持韧性，甚至继续创下新高，这使得一些专业人士对估值水平感到不安。高通胀和不断上升的利率环境，通常会对企业盈利能力和消费者支出造成压力，进而影响股票市场的表现。当利率升高时，债券等固定收益资产的吸引力也随之增强，可能导致资金从股市流出。另一方面，全球经济增长的不确定性、地缘政治风险以及供应链中断等问题依然存在，这些因素都可能对企业的未来盈利预期构成威胁。如果企业盈利增长未能跟上股价上涨的步伐，那么市场回调的风险将显著增加。此外，这位副行长的言论也可能反映了英国央行内部对潜在金融风险的担忧。一个过度膨胀的股市，一旦出现快速下跌，可能会对金融体系的稳定性产生连锁反应，甚至引发更广泛的经济衰退。中央银行有责任识别并警示此类系统性风险。这种罕见的直言不讳也可能被解读为英国央行试图通过“口头干预”的方式，来引导市场参与者重新评估风险，避免过度投机。通过公开警示市场过热，央行希望能够促使投资者更加理性地对待当前的估值，从而实现市场的“软着陆”，而非突发性的崩溃。然而，这种直接的评论也可能带来一些副作用，例如增加市场的不确定性，或者在短期内引发投资者的恐慌性抛售。从更广阔的视角来看，英国央行副行长的这一声明，与其他国家央行官员近期对经济前景和金融市场风险的审慎评估形成呼应。全球主要经济体普遍面临高通胀、高利率、经济增长放缓以及潜在衰退的风险。在此背景下，金融市场能否持续保持高位，已经成为各界关注的焦点。投资者和分析师们将密切关注后续的市场发展，以及英国央行及其他主要央行是否会采取进一步措施来应对可能出现的市场波动。这位副行长的发言无疑为全球金融市场增添了一层警惕的阴影，促使所有市场参与者重新审视其投资策略和风险敞口。此次评论强调了金融市场与宏观经济基本面之间的潜在脱节，并呼吁对未来的市场走势保持高度警惕。",
+    "cat": "finance",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-23T23:15:25+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Meta says it will cut 8,000 jobs as AI spending grows",
     "deck": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
     "cnTitle": "Meta裁员8000人聚焦AI投资",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T19:12:22+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Warner Bros shareholders approve Paramount's $111bn takeover",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T14:55:21+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-23T11:37:59+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,8 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-23T11:26:01+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -63,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-23T10:05:49+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T07:34:43+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-22T23:01:09+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-22T21:23:25+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-22T18:10:42+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-22T15:00:40+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
     "time": "6小时前",
     "published_iso": "2026-04-22T14:05:20+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-22T11:39:25+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cj0v63v027lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T11:07:18+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-22T08:38:11+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lUS0RocTJvbUJOSVFNTEVCdFlxRHhUeDlmWWVnX1RScFItempxWm9OdGFGZGZpc2VGUFFpd0d6SlM2ODNnRUZ1WFhTT0hBdUJOLVpPMEQ1cmxaYnZacklfTlpSQ0lsWGYxNl8wb2VuOEo5TXJCdkdPdVRkelRpTVI5MW9uZW9GRElGWlI0ZUZvNlNlTnZxVGhMWnp1T1Bna3hBblR3UjR6QXY3a29mejlR?oc=5",
     "time": "11小时前",
     "published_iso": "2026-04-22T08:34:47+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T07:12:45+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,72 +245,7 @@
     "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-22T06:25:15+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
-    "deck": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
-    "cnTitle": "报告揭阿联酋支持佣兵介入苏丹冲突",
-    "cnDeck": "“冲突洞察小组”（Conflict Insights Group, CIG）发布一份最新报告，详细披露了阿拉伯联合酋长国（UAE）支持的哥伦比亚雇佣兵在苏丹冲突中向准军事组织提供支援的深度与广度。该报告的核心发现指出，这些雇佣兵在苏丹内战中扮演了关键角色，而其背后的资金与后勤支持则直接源自阿联酋。CIG的研究工作，基于对卫星图像、开源情报、战场分析以及对地区消息人士的采访等多方面证据，揭示了阿联酋对苏丹冲突的广泛介入程度。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-22T04:01:50+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices dip as status of US-Iran peace talks remains unclear",
-    "deck": "US President Donald Trump said he will extend a ceasefire with Iran until peace talks have progressed.",
-    "cnTitle": "特朗普延长美伊停火油价下挫",
-    "cnDeck": "美国总统唐纳德·特朗普周三宣布，他将延长与伊朗之间的停火协议，直至和平谈判取得进展，但有关和谈的具体状态和前景仍不明朗，此消息导致国际油价应声下跌。特朗普的这一表态，是在两国关系持续紧张的背景下做出的，凸显了中东地区地缘政治的敏感性。此前，美国和伊朗曾多次处于冲突边缘，包括对油轮的袭击、对无人机的击落以及对关键石油设施的破坏，这些事件都曾一度推高全球原油价格，引发市场对中东石油供应中断的担忧。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-22T01:18:36+00:00",
     "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
-    "deck": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
-    "cnTitle": "特朗普暂缓对伊冲突，为协议争取时间",
-    "cnDeck": "美国总统特朗普的最新决定，标志着他在短短数周内第二次搁置了升级冲突的威胁，此举为解决与伊朗的紧张局势争取了更多时间，尤其是在经历了一天的紧张外交斡旋之后。这一决定让原本高度紧张的中东局势获得了一丝喘息，暂时避免了地区冲突进一步升级的风险。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-22T00:32:10+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Meta to track workers' clicks and keystrokes to train AI",
-    "deck": "The firm will take data from the way employees work for its artificial intelligence models.",
-    "cnTitle": "Meta追踪员工数据训练AI模型",
-    "cnDeck": "社交媒体巨头Meta Platforms公司宣布，将实施一项新政策，旨在内部收集员工的工作数据，包括但不限于键盘敲击记录和鼠标点击模式，以用于训练其日益增长的人工智能（AI）模型。此举标志着Meta在利用其庞大数据资源方面迈出了新的一步，即使这些数据来源于公司内部员工的日常工作活动。根据公司声明，此项举措的目的是为了提高AI模型的效率、准确性和通用性，使其能够更好地理解人类的工作模式和语言，从而开发出更具实用价值的AI工具和产品，无论是针对内部生产力提升还是面向外部用户服务。Meta指出，通过分析员工在完成任务时的交互方式、输入习惯以及所用工具，其AI系统可以学习到更细致的人类意图和操作逻辑。例如，AI模型可以根据员工的代码编写习惯、文档编辑模式或与内部工具的互动方式，来优化自身在代码生成、内容创作或自动化办公流程方面的能力。此举预计将有助于Meta在竞争激烈的人工智能领域保持领先地位，并为其未来的创新提供坚实的数据基础。然而，这一决定立即引发了业界内外对员工隐私和数据伦理的广泛关注。员工权益倡导者和隐私专家指出，对员工工作数据的深度追踪可能侵犯个人隐私权，并可能导致员工产生被持续监控的感觉，从而影响其工作满意度和创造力。虽然Meta尚未公布详细的数据匿名化和安全保护措施，但公司强调将采取严格的数据治理框架，确保数据的匿名性、聚合性和安全性，以最大程度地保护员工的个人信息，并遵守相关的数据保护法规。公司还表示，将向员工明确告知数据收集的目的、范围和方式，并提供相应的选择退出机制或透明度报告，以增进员工信任。分析人士认为，Meta此举反映了当前AI技术发展对高质量、大规模训练数据的巨大需求。随着AI模型变得越来越复杂，对真实世界行为模式数据的需求也日益增加。通过利用内部员工的日常工作数据，Meta得以获取一个独特且高度相关的行为数据集，这对于提升其AI在企业级应用和人机交互方面的表现具有潜在的巨大价值。但同时，如何在创新与员工隐私之间取得平衡，将是Meta和其他科技公司在推进此类项目时必须面对的关键挑战。此项政策的具体实施细节和对员工的影响，仍将是未来一段时间内外界关注的焦点。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-21T22:47:56+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan - Bloomberg.com",
-    "deck": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美伊巴谈判在即，油价承压下跌",
-    "cnDeck": "国际油价周四出现下跌，市场焦点转向伊朗即将与美国在巴基斯坦举行谈判的消息。此消息引发市场对地缘政治紧张局势可能缓解的预期，尤其是在中东地区。据彭博社报道，原油价格今日下滑，布伦特原油期货和WTI原油期货均录得跌幅。分析人士指出，尽管具体谈判议程尚未完全披露，但任何旨在缓和美伊之间长期紧张关系的举动，都可能导致市场重新评估原油供应前景，特别是考虑到伊朗在全球原油市场中的潜在供应能力。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjlJNldPMVVxV2x4ZTFLajlzNHpoUHllU3FEcXg4Rm0xRTBIbzRKcmdibFduNmNCTTdCSkdWVC1HLTdVT1o4X1Y4Mzk5MTV0b1pMc2E1eHVsc0hLak1XdjNCb3g2RW85VVd4Vl9OZnd6enR5VldaM1YxX2g4Q0hINTh6ZnY2d1Vab3ZBc21fSXFGV3lpVERvNFN2MzlGMVlU?oc=5",
-    "time": "7小时前",
-    "published_iso": "2026-04-21T20:45:11+00:00",
-    "id": "n22",
     "lead": false
   }
 ]
