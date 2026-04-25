@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-25T10:52:27+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -49,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-24T22:45:28+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -233,32 +231,6 @@
     "time": "4小时前",
     "published_iso": "2026-04-23T23:15:25+00:00",
     "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Meta says it will cut 8,000 jobs as AI spending grows",
-    "deck": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
-    "cnTitle": "Meta裁员8000人聚焦AI投资",
-    "cnDeck": "Meta Platforms Inc.近日宣布了一项大规模裁员计划，预计将削减约8,000个工作岗位。此次裁员是继2023年以来，Meta公司规模最大的一次人员精简行动，此前员工已对即将到来的裁员有所预期。公司管理层表示，此次结构性调整的核心驱动力在于，随着公司在人工智能（AI）领域的投资持续增长，Meta正积极优化资源配置，以更好地聚焦于其战略重点和未来增长领域。Meta首席执行官马克·扎克伯格此前多次强调，AI是公司未来发展的核心支柱，其重要性甚至超越了虚拟现实和元宇宙项目。为了实现这一战略转型，公司需要重新分配人才和资本，将更多精力投入到AI研发、基础设施建设以及新的AI驱动产品和服务的开发上。此次裁员被视为Meta“效率年”战略的延续，但其背景更加侧重于加速AI能力的构建。在过去的两年中，Meta曾经历多次大规模裁员。2022年末和2023年初，公司曾先后宣布裁员约11,000人和10,000人，合计削减了超过21,000个职位，扎克伯格当时将2023年定义为“效率之年”。这些举措旨在削减成本、提高运营效率，并重新定位公司以应对数字广告市场放缓和元宇宙投资回报周期长的挑战。此次新的8,000人裁员，尽管规模小于前几轮，但其战略意图更加明确，即为AI领域的爆发式增长和创新腾出空间，并吸引顶尖的AI人才。Meta正斥巨资购买先进的AI芯片，并招募大量AI工程师，以期在生成式AI竞赛中保持领先地位。公司已经推出了Llama系列大型语言模型，并将其AI技术集成到旗下的Facebook、Instagram、WhatsApp等核心产品中，未来还将推出更多创新的AI功能。此次裁员可能影响到公司内部非AI相关部门或重复性岗位，旨在精简组织架构，使其更加敏捷和以AI为中心。市场分析师认为，科技巨头在经济不确定性和竞争加剧的双重压力下，正普遍采取更为谨慎的招聘策略，并加大对高增长、高潜力领域的投入。Meta的此次裁员，不仅反映了其内部战略重心的重大转移，也折射出整个科技行业在AI浪潮下的结构性变化。虽然裁员通常会对员工士气造成短期影响，但管理层希望通过此举，能够为公司在AI时代的长远发展奠定更坚实的基础，并最终提升股东价值。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-23T19:12:22+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Warner Bros shareholders approve Paramount's $111bn takeover",
-    "deck": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
-    "cnTitle": "华纳兄弟股东批准派拉蒙千亿收购案",
-    "cnDeck": "华纳兄弟探索公司（Warner Bros Discovery）的股东已批准了对派拉蒙全球公司（Paramount Global）高达1110亿美元的收购案。这项潜在的巨额交易若最终实现，将标志着全球娱乐和媒体行业一次具有里程碑意义的整合。在流媒体服务竞争日益激烈、传统媒体面临巨大挑战的背景下，此次合并被视为两家大型媒体巨头寻求规模效应、增强市场竞争力、巩固内容库以对抗Netflix、迪士尼+和亚马逊Prime Video等流媒体巨头的战略举措。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-23T14:55:21+00:00",
-    "id": "n20",
     "lead": false
   }
 ]
