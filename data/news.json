@@ -1,5 +1,19 @@
 [
   {
+    "headline": "China car giant BYD says it can thrive without US",
+    "deck": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+    "cnTitle": "比亚迪称不依赖美国市场也能成功",
+    "cnDeck": "比亚迪（BYD），这家领先的中国汽车制造商，近日明确表示，即使没有美国市场，其业务也能够蓬勃发展。此番声明正值全球燃料价格持续上涨、世界加速向化石燃料转型之际，凸显了比亚迪在全球新能源汽车（NEV）领域的战略自信和布局。比亚迪董事长兼总裁王传福此前曾强调，公司致力于成为全球电动汽车市场的领导者。在当前复杂多变的国际贸易环境中，尤其是中美两国之间持续存在的贸易摩擦和技术竞争",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-04-24T21:25:16+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "US justice department drops probe into Fed chairman Jerome Powell",
     "deck": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
     "cnTitle": "美司法部撤销对鲍威尔调查",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-24T19:10:25+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-24T11:49:29+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-24T10:41:32+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-24T09:39:48+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-24T00:58:58+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -77,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-24T00:21:32+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -90,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-23T23:15:25+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T19:12:22+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -116,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T14:55:21+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -129,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-23T11:37:59+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -142,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-23T11:26:01+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -155,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-23T10:05:49+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -168,33 +179,7 @@
     "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-23T07:34:43+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "AI is flattening the jobs market for young people, says Sunak",
-    "deck": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
-    "cnTitle": "AI拉平年轻人就业市场",
-    "cnDeck": "英国前首相里希·苏纳克（Rishi Sunak）近日表示，人工智能（AI）正在使年轻人的就业市场趋于“扁平化”，并强调毕业生对寻找入门级工作所持的担忧是合理的。苏纳克指出，AI技术，特别是生成式AI的快速发展，正在深刻重塑全球劳动力市场结构，对传统就业模式构成挑战。他解释说，许多以往由初级员工完成的重复性、数据处理或基础分析任务，现在正被AI自动化",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-22T23:01:09+00:00",
     "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-    "deck": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-    "cnTitle": "中东冲突正冲击中国出口经济",
-    "cnDeck": "中东地区持续不断的冲突，特别是红海航运危机，正在对中国的出口导向型经济造成显著压力，具体表现在工厂订单减少、运营成本上升以及就业市场面临挑战。作为全球制造业中心和主要出口国，中国高度依赖全球供应链的顺畅运行。然而，胡塞武装对红海商船的袭击，已迫使众多国际航运公司避开这一关键航线，转而绕道非洲好望角。这一改道策略显著延长了航运时间，通常增加7至15天，同时导致集装箱运费大幅飙升。例如，从亚洲主要港口发往欧洲的运费已从冲突前的每标准箱约2000美元激增至超过7000美元，极大地增加了中国出口企业的物流成本，削弱了其产品在国际市场上的价格竞争力。此外，由于绕道行驶导致的船舶周转效率降低，全球运力也面临紧张，进一步推高了运输费用。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-22T21:23:25+00:00",
-    "id": "n15",
     "lead": false
   }
 ]
