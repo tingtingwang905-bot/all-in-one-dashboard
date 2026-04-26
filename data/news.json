@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Higher prices could last for eight months after Iran war, minister says",
+    "deck": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
+    "cnTitle": "伊朗战后物价或高涨八月",
+    "cnDeck": "一位高级部长日前发出严峻警告称，如果中东地区因伊朗冲突而爆发全面战争，全球范围内的物价上涨趋势预计将持续长达八个月之久。这位部长，其身份目前未被公开，在一次内部简报中详细阐述了政府对潜在冲突经济影响的评估。他指出，当局目前正在密切监控国家战略储备的库存水平，并已着手制定一系列全面的应急预案，以应对可能因地区动荡而对全球供应链造成的潜在严重破坏。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-26T09:54:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
     "deck": "Trump, seated next to first lady Melania Trump, was quickly surrounded by Secret Service agents, while many attendees ducked under their tables.",
     "cnTitle": "特朗普称白宫记者晚宴枪击案致警官受伤",
@@ -9,9 +23,8 @@
     "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
     "time": "1小时前",
     "published_iso": "2026-04-26T06:35:25+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-26T00:34:21+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:34:12+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:13:49+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -65,8 +75,7 @@
     "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
     "time": "12小时前",
     "published_iso": "2026-04-25T19:33:33+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -79,8 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-25T19:22:31+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -93,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-25T17:40:51+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -107,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-25T17:36:58+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -121,8 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-25T12:29:37+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -135,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-25T10:52:27+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -148,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-25T01:18:33+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -161,7 +166,7 @@
     "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-24T23:00:21+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -174,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-24T22:45:28+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -187,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-24T21:25:16+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -200,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-24T19:10:25+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -213,7 +218,7 @@
     "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
     "time": "13小时前",
     "published_iso": "2026-04-24T18:32:44+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -226,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-24T17:20:48+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -239,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-24T17:04:01+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -252,8 +257,7 @@
     "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-24T16:20:10+00:00",
-    "is_new": true,
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -266,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-24T16:18:19+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -279,8 +283,7 @@
     "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-24T16:04:29+00:00",
-    "is_new": true,
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -293,59 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-24T14:40:23+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
-    "deck": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
-    "cnTitle": "以色列总理内塔尼亚胡接受前列腺癌治疗",
-    "cnDeck": "以色列总理本雅明·内塔尼亚胡近日接受了早期前列腺癌的治疗，并成功切除了恶性肿瘤。内塔尼亚胡本人随后向公众表示，他目前“身体状况极佳”。这一消息立即引起了国内外广泛关注，鉴于内塔尼亚胡在以色列政坛的中心地位及其目前在加沙冲突中所扮演的关键角色。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-24T11:49:29+00:00",
     "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-    "deck": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
-    "cnTitle": "叙利亚塔达蒙大屠杀关键嫌犯被捕",
-    "cnDeck": "叙利亚内战期间发生的臭名昭著的塔达蒙大屠杀的关键嫌犯已被逮捕。这名被通缉的嫌犯名为阿姆贾德·优素福（Amjad Youssef），他涉嫌在2013年4月大马士革塔达蒙区大规模杀害蒙眼平民。塔达蒙大屠杀是叙利亚内战中最令人发指的暴行之一，事件发生于2013年4",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-24T10:41:32+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "How does it affect me if share prices fall?",
-    "deck": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-    "cnTitle": "股指波动影响个人生活",
-    "cnDeck": "当股票价格下跌时，其影响远超金融专家和市场分析师的关注范围，它将实实在在地影响到我们每一个普通人的日常生活。英国富时100指数（FTSE 100）及其他主要股指的波动，不仅是屏幕上跳动的数字，它们与国民经济健康状况、养老金价值、就业前景及家庭财富积累息息相关。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-24T09:39:48+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Stock markets are too high and set to fall, says Bank of England deputy",
-    "deck": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
-    "cnTitle": "英格兰银行副行长警告股市将下跌",
-    "cnDeck": "英格兰银行一位高级官员近日发表了非同寻常的言论，明确警告当前“股票市场过高并将面临下跌”。这一表态迅速引发了全球金融市场的广泛关注，因为“一位银行高级官员如此直言不讳地评论市场走势”实属“不寻常”。通常情况下，中央银行官员在公开场合会谨慎措辞，避免直接对特定资产价格或市场方向做出判断，以维护其独立性和避免不必要的市场波动。他们的核心职责在于通过货币政策工具，如调整基准利率，来维持物价稳定和金融系统整体的健康运行。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-24T09:03:21+00:00",
-    "id": "n26",
     "lead": false
   }
 ]
