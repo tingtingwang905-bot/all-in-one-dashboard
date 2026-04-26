@@ -182,6 +182,34 @@
     "lead": false
   },
   {
+    "headline": "Stock markets are too high and set to fall, says Bank of England deputy",
+    "deck": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
+    "cnTitle": "英格兰银行副行长警告股市将下跌",
+    "cnDeck": "英格兰银行一位高级官员近日发表了非同寻常的言论，明确警告当前“股票市场过高并将面临下跌”。这一表态迅速引发了全球金融市场的广泛关注，因为“一位银行高级官员如此直言不讳地评论市场走势”实属“不寻常”。通常情况下，中央银行官员在公开场合会谨慎措辞，避免直接对特定资产价格或市场方向做出判断，以维护其独立性和避免不必要的市场波动。他们的核心职责在于通过货币政策工具，如调整基准利率，来维持物价稳定和金融系统整体的健康运行。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-24T09:03:21+00:00",
+    "is_new": true,
+    "id": "n15",
+    "lead": false
+  },
+  {
+    "headline": "Meta to cut one in 10 jobs after spending billions on AI",
+    "deck": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
+    "cnTitle": "Meta斥巨资研发AI后裁员一成",
+    "cnDeck": "Meta Platforms Inc. 计划实施新一轮大规模裁员，预计将削减大约10%的岗位，这标志着自2023年以来该公司最大规模的员工队伍调整。此举是在Meta持续投入数十亿美元用于人工智能（AI）研发之后发生的，凸显了科技巨头在战略转型和成本控制之间寻求平衡的努力。据内部消息透露，此次裁员在Meta员工中已是预料之中的事情，过去数周以来，公司内部弥漫着不安情绪。此次裁员的具体部门和受影响员工人数尚未完全公布，但预计将波及多个业务部门，以优化运营效率并重新分配资源，重点支持AI领域的优先发展项目。Meta近年来在构建元宇宙和发展先进AI技术方面投入巨大，其中包括在AI基础设施、人才招聘和研发项目上的数十亿资金。尽管AI被视为公司未来的核心增长引擎，但这些高昂的投资也给公司的财务表现带来压力，尤其是在广告收入增长放缓、经济不确定性增加的背景下。首席执行官马克·扎克伯格（Mark Zuckerberg）此前曾多次强调公司将进入“效率年”，旨在通过精简架构、优化流程和削减非核心项目来提升整体运营效率。此次裁员被视为“效率年”战略的延续和深化。公司希望通过剥离冗余岗位，将更多资源和精力集中于能够产生长期回报的AI驱动产品和技术上，例如大型语言模型Llama系列的开发、虚拟现实/增强现实硬件与软件的整合，以及广告系统中的AI应用。此次裁员也是科技行业整体趋势的一个缩影。在过去一年多时间里，包括Alphabet、Amazon、Microsoft等在内的多家科技巨头都经历了不同程度的裁员，以应对宏观经济下行压力、疫情期间过度招聘的修正，以及对新兴技术（如生成式AI）的战略性押注。Meta的最新举动，无疑将加剧行业内对劳动力市场前景的担忧，同时也反映出企业在追求技术前沿创新时，对盈利能力和股东回报的日益重视。此次裁员的范围和深度，预计将对Meta的企业文化、员工士气以及未来人才战略产生深远影响，同时也将引发市场对科技公司在AI竞赛中如何平衡投入与产出的进一步审视。投资者将密切关注Meta在削减成本的同时，能否保持其在AI领域的竞争优势和创新步伐。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-24T07:31:35+00:00",
+    "is_new": true,
+    "id": "n16",
+    "lead": false
+  },
+  {
     "headline": "First ever talks to ditch fossil fuels as UN deadlock deepens",
     "deck": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
     "cnTitle": "哥伦比亚举行首次弃用化石燃料谈判",
@@ -191,46 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-24T05:42:44+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "White House memo claims mass AI theft by Chinese firms",
-    "deck": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
-    "cnTitle": "白宫指控中国企业窃取美国AI模型",
-    "cnDeck": "一份来自前美国首席技术官迈克尔·克拉齐奥斯（Michael Kratsios）的白宫备忘录指出，大量企业，主要集中在中国，正在不正当地“提炼”或非法利用美国开发的人工智能模型。这份备忘录强调了对美国在人工智能领域知识产权和技术优势遭受侵蚀的严重担忧，并将此行为定性为“大规模人工智能窃取”。克拉齐奥斯在备忘录中详细阐述，这些中国公司可能通过多种手段获取并滥用美国的AI技术，包括但不限于逆向工程、未经授权的数据获取、以及利用开源AI项目中的漏洞来复制、改编和再利用美国领先的AI成果。这种系统性的行为被视为对美国创新生态系统的直接威胁，可能导致美国在关键技术领域的竞争优势被削弱，并对国家安全构成潜在风险。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-04-24T00:58:58+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "US soldier charged after winning $400,000 betting on removal of Maduro",
-    "deck": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
-    "cnTitle": "美士兵泄密押注马杜罗去留被起诉",
-    "cnDeck": "美国司法部近日宣布，一名美国士兵因涉嫌利用机密情报，在在线预测市场上押注委内瑞拉总统尼古拉斯·马杜罗（Nicolás Maduro）的政治去向，并从中获利40万美元而被起诉。这名士兵名为加农·肯·范·戴克（Gannon Ken Van Dyke），他被指控在Polymarket这一去中心化预测平台上，依据其作为军方人员所能接触到的敏感且未公开的信息，对马杜罗的政治命运进行交易。司法部强调，范·戴克的行为不仅构成了对联邦法律和军事纪律的严重违反，更带来了潜在的国家安全风险。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-24T00:21:32+00:00",
     "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Stock markets are too high and set to fall, says Bank of England deputy",
-    "deck": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
-    "cnTitle": "英国央行副行长警告股市过高将下跌",
-    "cnDeck": "英国央行副行长近日发表引人注目的言论，警告当前全球股市估值过高，并预示市场将面临下跌的风险。这一表态迅速在全球金融市场引发广泛关注和讨论。据报道，这位高级官员直言不讳地指出，目前的股票市场价格已经脱离了经济基本面，存在明显的泡沫化趋势。通常情况下，中央银行的高级官员在公开场合对市场走势发表如此直接且具有预判性的评论是极其罕见的。中央银行在履行其维护金融稳定、控制通货膨胀和促进经济增长职责时，往往会采取谨慎措辞，避免直接干预或过度引导市场预期，以免引发不必要的市场波动。此次英国央行副行长的破例发言，凸显了其对当前市场状况的深切忧虑。分析人士指出，这位副行长的警告可能基于多方面考量。一方面，过去几年，在超宽松货币政策和低利率环境下，大量流动性涌入股市，推动了资产价格的上涨。即便在全球主要央行开始收紧货币政策、提高利率以对抗通胀的背景下，许多股票市场仍保持韧性，甚至继续创下新高，这使得一些专业人士对估值水平感到不安。高通胀和不断上升的利率环境，通常会对企业盈利能力和消费者支出造成压力，进而影响股票市场的表现。当利率升高时，债券等固定收益资产的吸引力也随之增强，可能导致资金从股市流出。另一方面，全球经济增长的不确定性、地缘政治风险以及供应链中断等问题依然存在，这些因素都可能对企业的未来盈利预期构成威胁。如果企业盈利增长未能跟上股价上涨的步伐，那么市场回调的风险将显著增加。此外，这位副行长的言论也可能反映了英国央行内部对潜在金融风险的担忧。一个过度膨胀的股市，一旦出现快速下跌，可能会对金融体系的稳定性产生连锁反应，甚至引发更广泛的经济衰退。中央银行有责任识别并警示此类系统性风险。这种罕见的直言不讳也可能被解读为英国央行试图通过“口头干预”的方式，来引导市场参与者重新评估风险，避免过度投机。通过公开警示市场过热，央行希望能够促使投资者更加理性地对待当前的估值，从而实现市场的“软着陆”，而非突发性的崩溃。然而，这种直接的评论也可能带来一些副作用，例如增加市场的不确定性，或者在短期内引发投资者的恐慌性抛售。从更广阔的视角来看，英国央行副行长的这一声明，与其他国家央行官员近期对经济前景和金融市场风险的审慎评估形成呼应。全球主要经济体普遍面临高通胀、高利率、经济增长放缓以及潜在衰退的风险。在此背景下，金融市场能否持续保持高位，已经成为各界关注的焦点。投资者和分析师们将密切关注后续的市场发展，以及英国央行及其他主要央行是否会采取进一步措施来应对可能出现的市场波动。这位副行长的发言无疑为全球金融市场增添了一层警惕的阴影，促使所有市场参与者重新审视其投资策略和风险敞口。此次评论强调了金融市场与宏观经济基本面之间的潜在脱节，并呼吁对未来的市场走势保持高度警惕。",
-    "cat": "finance",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-23T23:15:25+00:00",
-    "id": "n18",
     "lead": false
   }
 ]
