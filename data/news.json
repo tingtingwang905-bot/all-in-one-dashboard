@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+    "deck": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+    "cnTitle": "特朗普与官员或成枪击案目标",
+    "cnDeck": "据当局透露，一名与某新闻晚宴枪击案有关的嫌疑人，其目标“很可能”是前总统唐纳德·特朗普及其他多位官员。这一消息凸显了围绕高层政治人物和公共活动的安全问题所面临的严峻挑战。官员们表示，该嫌疑人预计将被指控犯有袭击联邦官员罪和在暴力犯罪中使用枪支罪。这起事件，尽管仍处于调查初期，但已将公众的注意力引向那些服务于公众",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-26T18:37:26+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Higher prices could last for eight months after Iran war, minister says",
     "deck": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
     "cnTitle": "伊朗战后物价或高涨八月",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-26T09:54:53+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
@@ -23,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
     "time": "1小时前",
     "published_iso": "2026-04-26T06:35:25+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-26T00:34:21+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:34:12+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:13:49+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -75,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
     "time": "12小时前",
     "published_iso": "2026-04-25T19:33:33+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -88,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-25T19:22:31+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -101,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-25T17:40:51+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -114,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-25T17:36:58+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -127,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-25T12:29:37+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -140,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-25T10:52:27+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -153,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-25T01:18:33+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -166,7 +179,7 @@
     "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-24T23:00:21+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -179,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-24T22:45:28+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -192,111 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-24T21:25:16+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
-    "deck": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-    "cnTitle": "美司法部撤销对鲍威尔调查",
-    "cnDeck": "美国司法部近期宣布，已正式撤销此前对联邦储备系统主席杰罗姆·鲍威尔的调查。这项调查源于美国前总统唐纳德·特朗普在任期间提出的一项指控，当时特朗普声称鲍威尔在美联储大楼翻新工程中存在“不当的成本超支”行为。这一消息标志着一项曾可能对美联储及其领导层形象产生影响的法律审查最终告一段落。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-24T19:10:25+00:00",
     "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-    "deck": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
-    "cnTitle": "谷歌将巨资投资Anthropic 加码AI布局",
-    "cnDeck": "谷歌公司近日宣布，计划向人工智能初创公司Anthropic投资高达400亿美元，此举被视为这家搜索巨头在迅速发展的AI领域“分散其AI押注”战略的重要一步。Anthropic方面表示，其与谷歌签署的最新协议，是对两家公司之间“长期合作伙伴关系”的进一步扩展和深化。这项重磅投资凸显了全球科技巨头在AI军备竞赛中持续加码的趋势，尤其是在生成式AI技术日益成熟并深刻改变各行各业的背景下。Anthropic由前OpenAI研究人员Dario Amodei和Daniela Amodei兄妹创立，以其专注于AI安全和开发负责任的AI系统而闻名。该公司是知名大型语言模型Claude的开发者，该模型被视为OpenAI的GPT系列模型的有力竞争者。谷歌对Anthropic的这笔巨额投资，不仅包括资金注入，预计还将涉及技术、算力以及战略层面的更紧密合作。这笔投资将帮助Anthropic加速其AI模型的研究与开发，扩大其云基础设施的使用规模，并吸引顶尖人才，从而在竞争激烈的AI市场中保持领先地位。此举被视为谷歌应对日益激烈的AI市场竞争，尤其是来自微软与OpenAI联盟挑战的关键策略。微软此前已向OpenAI投资数十亿美元，并将其AI技术整合到其核心产品线中，这给谷歌带来了巨大的压力。通过对Anthropic的投资，谷歌旨在确保其在AI前沿技术领域拥有多重布局，避免过度依赖单一内部项目，从而降低风险并拓宽其在AI生态系统中的影响力。这笔投资也是继亚马逊宣布向Anthropic投资高达40亿美元后的又一重大资本注入，进一步证明了Anthropic在AI领域的战略价值。市场分析人士普遍认为，谷歌的这项投资彰显了AI技术在未来科技发展中的核心地位。各大科技公司正在不遗余力地争夺AI人才、算力资源以及技术领导权，以期在下一代互联网浪潮中占据主导地位。这笔高达400亿美元的投资，无疑将为Anthropic提供强大的资金后盾，使其能够投入更多资源进行前瞻性研究，并将其AI产品推向更广阔的市场。同时，它也可能推动整个AI行业的进一步整合与创新，加速AI技术在商业应用中的普及。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
-    "time": "13小时前",
-    "published_iso": "2026-04-24T18:32:44+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-    "deck": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
-    "cnTitle": "科索沃塞族袭击案宣判 两犯获无期徒刑",
-    "cnDeck": "科索沃一所法院近日就2023年导致多人死亡的枪战及修道院围困事件作出判决，两名涉事科索沃塞族人被判处无期徒刑，另有一人被判30年监禁。这起事件发生在2023年9月24日，一群全副武装的科索沃塞族人在科索沃北部班伊斯卡（Banjska）村附近与科索沃警方发生激烈冲突。事件中，一名科索沃警察在交火中殉职，另有数名袭击者在随后的围困和清剿行动中被击毙。这起武装冲突迅速升级，武装分子一度占据了班伊斯卡修道院，与赶来的科索沃特警部队展开长时间对峙。科索沃当局将此事件定性为恐怖袭击，并指控塞尔维亚政府在幕后支持这些武装分子，尽管塞尔维亚方面否认了这一指控，并谴责科索沃政府对塞族人的压迫。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-24T17:20:48+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Pirates hijack oil tanker off the coast of Somalia",
-    "deck": "Piracy, once notorious in this stretch of the Indian Ocean, has made a comeback in recent years.",
-    "cnTitle": "索马里海域油轮遭劫持",
-    "cnDeck": "据报道，一艘油轮在索马里海岸附近海域遭到海盗劫持。此次事件标志着曾在印度洋这一区域猖獗一时的海盗活动近期卷土重来。索马里海域，特别是亚丁湾和非洲之角附近，是全球重要的航运要道，连接着苏伊士运河和亚洲市场，每天有大量油轮和货船通过，承载着全球贸易和能源运输的重任。上一次大规模的索马里海盗危机发生在21世纪初，当时海盗猖獗，对国际航运造成了巨大威胁，每年导致数十亿美元的经济损失，并严重影响了船员的生命安全。为了应对这一威胁，包括欧盟、北约和美国在内的多个国际组织和国家部署了海军力量，执行反海盗任务，成功遏制了海盗活动，使其在过去几年里显著减少。然而，近年来，随着国际社会对该地区反海盗关注度的降低、国际海军巡逻力量的减少，以及索马里内政局势的持续不稳定、地方经济的贫困和青年失业率居高不下，海盗活动重新呈现抬头趋势。此次油轮被劫持事件，再次敲响了警钟，凸显出该地区海上安全面临的严峻挑战。油轮作为重要的能源运输工具，其被劫持不仅可能导致油价波动，增加航运成本，还将迫使船公司重新考虑航线安全，甚至可能采取绕道措施，进一步延长运输时间并增加运营费用。此外，船只保险费用预计也将随之上涨。分析人士指出，海盗活动的复苏不仅是区域性的安全问题，更具有深远的地缘政治和经济影响。它可能干扰全球供应链，对依赖中东石油供应的国家构成潜在风险，并可能促使国际社会重新评估在该地区的海军部署和反海盗战略。这起事件也可能引发对国际法、海上安全合作以及对索马里内部稳定援助的进一步讨论。当前，各方正在密切关注事态发展，国际航运组织和相关国家预计将采取行动，以应对这一重新出现的海上威胁，确保关键航运线路的畅通和安全。此类事件对船员的人身安全构成直接威胁，引发人道主义担忧，也考验着国际社会共同应对跨国犯罪的决心和能力。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-04-24T17:04:01+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
-    "deck": "The British Israeli man says he was detained after someone took offence at his kippah embroidered with Israeli and Palestinian flags.",
-    "cnTitle": "以警方调查警员剪巴勒斯坦旗事件",
-    "cnDeck": "以色列警方正在调查一起备受关注的事件，据称有警员从一名英籍以色列男子的犹太小帽（kippah）上剪下了巴勒斯坦国旗图案。这名不愿透露姓名的英籍以色列男子表示，他因佩戴这顶同时绣有以色列国旗和巴勒斯坦国旗图案的犹太小帽而遭到一名路人的不满。随后，他被以色列警方扣留，并声称有警员在扣留过程中",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-24T16:20:10+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Mandelson under formal investigation by EU's anti-fraud office",
-    "deck": "The EU's anti-fraud office confirms it has \"sufficient information\" to launch  an investigation, but does not say if it involves fraud.",
-    "cnTitle": "欧盟反欺诈办公室调查曼德尔森",
-    "cnDeck": "欧盟反欺诈办公室（OLAF）已正式确认，对英国资深政治家、前欧盟贸易专员彼得·曼德尔森（Peter Mandelson）启动了正式调查。OLAF在周三发布的一份简短声明中表示，该办公室已经掌握了“足够的信息”来启动此次调查程序，这表明初步审查已发现值得深入调查的线索。然而，OLAF拒绝透露此次调查是否具体涉及欺诈行为，也未就调查的具体性质或曼德尔森所涉嫌的指控提供任何进一步的细节，强调目前处于调查初期，需严格保密以确保公正性。此举迅速引发了外界对曼德尔森政治生涯及其在欧盟任职期间行为的广泛关注，同时也再次凸显了欧盟机构内部监督的严谨性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-04-24T16:18:19+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-    "deck": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-    "cnTitle": "传美欲暂停西班牙资格 北约称无此条款",
-    "cnDeck": "一份据称是美国五角大楼的内部电子邮件报告引起了国际社会的广泛关注。该报告详细阐述了针对盟友的一系列惩罚选项，其背景是这些盟友被认为对潜在的“伊朗战争”缺乏支持。报告中特别提及，美国可能寻求暂停西班牙作为北约成员国的资格，以示惩戒。这一消息立即引发了对跨大西洋联盟内部团结和未来走向的担忧。美国与部分欧洲盟友在对待伊朗问题上的立场长期存在分歧，部分欧洲国家更倾向于通过外交途径解决与伊朗的核僵局及地区问题，而不是采取军事对抗。如果报道属实，美国对盟友采取惩罚措施的意图，无疑将给本已复杂的跨大西洋关系蒙上阴影，并可能动摇北约作为集体防御组织的根基。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-24T16:04:29+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
-    "deck": "Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option.",
-    "cnTitle": "英国建议用通行密钥取代传统密码",
-    "cnDeck": "英国国家网络安全中心（NCSC）近日发表声明，明确指出是时候放弃传统的密码认证方式，转而采用通行密钥（passkeys）这一更为优越的选项。长期以来，密码一直是我们保护在线账户的默认方式，但NCSC的这一呼吁标志着英国在推动网络安全领域迈向无密码未来道路上的重要一步。此举旨在应对日益严峻的网络威胁，提升用户在线体验和安全性。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-24T14:40:23+00:00",
-    "id": "n23",
     "lead": false
   }
 ]
