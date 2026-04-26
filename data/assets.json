@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T03:42:56.353009+00:00",
-  "updated_display": "Apr 26, 2026 03:42 UTC",
+  "updated_at": "2026-04-26T13:22:41.555398+00:00",
+  "updated_display": "Apr 26, 2026 13:22 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -147,8 +147,8 @@
           "key": "gold",
           "name": "Gold",
           "sub": "XAU/USD",
-          "price": "4,722.30",
-          "chg": "+0.74%",
+          "price": "4,740.90",
+          "chg": "+1.14%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -157,14 +157,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "3,125.00 – 5,586.20",
-          "raw_price": 4722.2998046875
+          "raw_price": 4740.89990234375
         },
         {
           "key": "silver",
           "name": "Silver",
           "sub": "XAG/USD",
-          "price": "76.3830",
-          "chg": "+2.10%",
+          "price": "76.4140",
+          "chg": "+2.14%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -173,7 +173,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "31.6850 – 121.30",
-          "raw_price": 76.38300323486328
+          "raw_price": 76.41400146484375
         },
         {
           "key": "wti",
@@ -195,8 +195,8 @@
           "key": "brent",
           "name": "Brent Crude",
           "sub": "Oil",
-          "price": "105.33",
-          "chg": "-0.60%",
+          "price": "99.1300",
+          "chg": "-6.45%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -205,14 +205,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "58.4100 – 119.40",
-          "raw_price": 105.33000183105469
+          "raw_price": 99.12999725341797
         },
         {
           "key": "copper",
           "name": "Copper",
           "sub": "LME",
-          "price": "6.0235",
-          "chg": "+0.47%",
+          "price": "6.0270",
+          "chg": "+0.53%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -221,14 +221,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "4.3235 – 6.5080",
-          "raw_price": 6.023499965667725
+          "raw_price": 6.0269999504089355
         },
         {
           "key": "natgas",
           "name": "Natural Gas",
           "sub": "NYMEX",
-          "price": "2.5230",
-          "chg": "-7.31%",
+          "price": "2.6830",
+          "chg": "-1.43%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -236,8 +236,8 @@
           "up_1y": true,
           "chg_3y": "N/A",
           "up_3y": true,
-          "range52": "2.4950 – 7.8270",
-          "raw_price": 2.5230000019073486
+          "range52": "2.5610 – 7.8270",
+          "raw_price": 2.683000087738037
         }
       ]
     },
@@ -248,9 +248,9 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "$77,364",
-          "chg": "-0.42%",
-          "up": false,
+          "price": "$77,890",
+          "chg": "+0.31%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -258,15 +258,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 77364
+          "raw_price": 77890
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "$2,309",
-          "chg": "-0.42%",
-          "up": false,
+          "price": "$2,331",
+          "chg": "+0.59%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -274,14 +274,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 2308.71
+          "raw_price": 2330.99
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "$85.89",
-          "chg": "-0.55%",
+          "price": "$86.04",
+          "chg": "-0.60%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -290,14 +290,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 85.89
+          "raw_price": 86.04
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "$627.66",
-          "chg": "-1.55%",
+          "price": "$631.35",
+          "chg": "-0.35%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -306,14 +306,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 627.66
+          "raw_price": 631.35
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
           "price": "$1.42",
-          "chg": "-1.12%",
+          "chg": "-0.38%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -391,7 +391,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "95.550 – 101.980",
-          "raw_price": 98.51000213623047
+          "raw_price": 98.51
         },
         {
           "key": "usdcny",
