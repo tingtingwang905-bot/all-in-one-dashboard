@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-27T06:52:59+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -49,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-26T23:04:19+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -194,32 +192,6 @@
     "time": "14小时前",
     "published_iso": "2026-04-25T17:36:58+00:00",
     "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Seven dead in major Russian attack on Ukraine",
-    "deck": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-    "cnTitle": "俄罗斯大规模袭击乌克兰致七死",
-    "cnDeck": "俄罗斯对乌克兰发动了一次大规模军事袭击，导致至少七人死亡。在受灾最严重的第聂伯罗市（Dnipro），乌克兰官员证实有四名平民在一次针对居民楼的袭击中不幸丧生。这次致命袭击是俄罗斯自2022年2月全面入侵乌克兰以来，对乌克兰各地城市和民用基础设施发动的众多空袭中的最新一起。俄罗斯军队频繁使用导弹和无人机对乌克兰目标进行打击，这些袭击不仅造成大量",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-04-25T12:29:37+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
-    "deck": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-    "cnTitle": "巴勒斯坦部分地区举行地方选举",
-    "cnDeck": "巴勒斯坦被占领的约旦河西岸地区及加沙地带的一个城市于周六举行了地方选举。此次选举是自2017年以来在这些地区首次举行的此类别投票，但其范围有限且存在争议。巴勒斯坦民族权力机构（PA）主席马哈茂德·阿巴斯所属的法塔赫运动，是此次选举的主要参与者。然而，控制加沙地带的哈马斯（Hamas）以及其他一些主要的巴勒斯坦派别并未参与此次地方选举。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-25T10:52:27+00:00",
-    "id": "n17",
     "lead": false
   }
 ]
