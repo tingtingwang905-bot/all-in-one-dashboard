@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
+    "deck": "Ineffable Intelligence has emerged from stealth with a $5.1 billion valuation.",
+    "cnTitle": "前DeepMind研究员AI初创获11亿种子融资",
+    "cnDeck": "一家由前Google DeepMind研究员创立的人工智能（AI）初创公司Ineffable Intelligence近日正式脱离隐身模式（emerged from stealth），并宣布已完成一轮创纪录的种子轮融资，成功筹集到高达11亿美元的资金。这一巨额融资刷新了AI领域乃至整个科技行业种子轮的历史纪录，凸显了投资者对其前景的极高信心。公司同时披露，其估值已达到51亿美元，使其在",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+    "time": "2小时前",
+    "published_iso": "2026-04-27T17:33:24+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
     "deck": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
     "cnTitle": "金正恩与俄防长揭幕乌战阵亡士兵碑",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-27T06:52:59+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Oil prices rise as US-Iran peace talks stall",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-27T01:16:50+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-26T23:16:41+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-26T23:04:19+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-26T18:37:26+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-26T09:54:53+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
     "time": "1小时前",
     "published_iso": "2026-04-26T06:35:25+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-26T04:22:59+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-26T00:34:21+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:34:12+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,59 +153,7 @@
     "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-25T21:13:49+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
-    "deck": "U.S. special envoy Steve Witkoff and Jared Kushner had been expected to arrive in Islamabad on Saturday.",
-    "cnTitle": "特朗普取消对巴基斯坦特使行程",
-    "cnDeck": "唐纳德·特朗普总统取消了美国特使前往巴基斯坦就伊朗问题进行谈判的行程。这一决定是在美国与伊朗之间紧张关系持续升级的背景下做出的，预示着美国在中东地区的外交策略发生重大转变。原计划美国特使史蒂夫·威特科夫和总统高级顾问贾里德·库什纳将于周六抵达伊斯兰堡，参与旨在缓解地区紧张局势并探讨伊朗相关冲突解决方案的会谈。然而，特朗普总统亲自宣布取消了这一外交努力，并发表了强硬言论，他表示：“如果他们想对话，他们只需打电话即可。”",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
-    "time": "12小时前",
-    "published_iso": "2026-04-25T19:33:33+00:00",
     "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Orbán steps down from Hungarian parliament after landslide defeat",
-    "deck": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
-    "cnTitle": "欧尔班败选后辞去匈牙利议员职务",
-    "cnDeck": "匈牙利前总理维克托·欧尔班在最近的全国大选中遭遇“惨败”后，决定不再担任匈牙利议会议员，不接受他在选举中获得的议会席位。这一消息标志着匈牙利政治格局的一个重要转折点，也预示着欧尔班这位长期在位、在国内外都极具争议的政治人物，其政治生涯将进入一个新阶段。欧尔班领导的青民盟（Fides",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-    "time": "12小时前",
-    "published_iso": "2026-04-25T19:22:31+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
-    "deck": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
-    "cnTitle": "美情报人员在墨非法行动遇难",
-    "cnDeck": "墨西哥政府近日通过官方声明指出，两名被证实为美国公民的人士在该国境内一场车祸中丧生，而墨西哥方面认为，这两名据报与美国中央情报局（CIA）有关的特工，在墨西哥执行任务时并未获得该国政府的合法许可。这起事件发生在一次由墨西哥主导的，旨在摧毁一处秘密毒品实验室的行动之后，迅速引发了美墨两国间的高度关注和潜在的外交紧张。墨西哥方面明确表示，任何外国情报人员在墨西哥领土上开展行动，都必须严格遵守国际法和墨西哥国内法律，并事先获得墨西哥政府的明确授权。未经授权的行动，将被视为对墨西哥国家主权的侵犯。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-25T17:40:51+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-    "deck": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
-    "cnTitle": "委内瑞拉政治犯释放计划受批",
-    "cnDeck": "委内瑞拉的政治犯释放计划正“濒临结束”，这一消息引发了人权团体的强烈批评。尽管此前根据一项特赦法案已经释放了一些政治犯，但据信目前仍有超过500名政治异见者身陷囹圄。这一数字凸显了委内瑞拉长期以来在人权和政治自由方面面临的严峻挑战，并引发了国际社会对该国民主状况的深切忧虑。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-25T17:36:58+00:00",
-    "id": "n15",
     "lead": false
   }
 ]
