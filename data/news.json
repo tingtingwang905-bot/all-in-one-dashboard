@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
+    "deck": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+    "cnTitle": "俄富豪游艇穿越霍尔木兹海峡",
+    "cnDeck": "一艘141米长的超级游艇，据称与俄罗斯总统弗拉基米尔·普京的一位亲密盟友有关，近日成功穿越了霍尔木兹海峡，尽管该战略水域存在持续的封锁。这一事件迅速引起了国际社会的广泛关注，因为它凸显了在西方对俄罗斯实施严厉制裁的背景下，海上资产追踪和制裁执行面临的复杂挑战。霍尔木兹海峡是全球最重要的原油运输咽喉之一，连接波斯湾和印度洋，每天有大量船只通过，其战略敏感性极高。任何涉及俄罗斯高层关联资产在此区域的“异常”行动，都可能被赋予重大的地缘政治意义。自2022年俄罗斯全面入侵乌克兰以来，美国、欧盟、英国等国家对俄罗斯政府、企业以及与克里姆林宫关系密切的寡头实施了前所未有的金融和经济制裁。这些制裁措施旨在冻结和查封被认定为支持俄罗斯战争机器的个人及其名下资产，其中包括大量超级游艇、私人飞机和海外物业。因此，这艘与普京盟友相关的游艇，被普遍认为是西方制裁的目标之一。它能够“尽管存在封锁”而成功通行，引发了外界对现有制裁机制有效性的质疑。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-28T12:03:39+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
     "deck": "Ineffable Intelligence has emerged from stealth with a $5.1 billion valuation.",
     "cnTitle": "前DeepMind研究员AI初创获11亿种子融资",
@@ -9,8 +23,8 @@
     "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
     "time": "2小时前",
     "published_iso": "2026-04-27T17:33:24+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "China blocks Meta's $2bn acquisition of AI start-up Manus",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-27T12:21:42+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-27T06:52:59+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-27T01:16:50+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-26T23:16:41+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-26T23:04:19+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,19 +101,6 @@
     "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-26T18:37:26+00:00",
-    "id": "n7",
-    "lead": false
-  },
-  {
-    "headline": "Higher prices could last for eight months after Iran war, minister says",
-    "deck": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
-    "cnTitle": "伊朗战后物价或高涨八月",
-    "cnDeck": "一位高级部长日前发出严峻警告称，如果中东地区因伊朗冲突而爆发全面战争，全球范围内的物价上涨趋势预计将持续长达八个月之久。这位部长，其身份目前未被公开，在一次内部简报中详细阐述了政府对潜在冲突经济影响的评估。他指出，当局目前正在密切监控国家战略储备的库存水平，并已着手制定一系列全面的应急预案，以应对可能因地区动荡而对全球供应链造成的潜在严重破坏。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-26T09:54:53+00:00",
     "id": "n8",
     "lead": false
   }
