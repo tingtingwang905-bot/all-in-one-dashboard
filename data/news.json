@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Red-hot Corning shares slide on earnings. Why that's a gift to investors",
+    "deck": "The stock's massive rally in 2026 established a high bar for Tuesday's results.",
+    "cnTitle": "康宁财报后股价下跌 分析师看好",
+    "cnDeck": "康宁公司（Corning）在周二公布最新财报后，股价出现显著下滑，这在华尔街引发了广泛关注。此前，市场对这家特种玻璃和陶瓷材料巨头的业绩抱有极高期望。回溯到2026年，康宁的股价表现异常强劲，实现了一轮“红火”的大幅上涨，这使得市场为本次财报设定了一个极高的门槛。投资者普遍预期，在包括智能手机、光通信和显示技术在内的多个关键业务领域，康宁能够继续其强劲的增长势头。然而，财报数据显示，尽管公司业绩整体稳健，但未能完全达到市场之前过于乐观的预期，从而导致股价在盘后交易和次日开盘后迅速回落。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
+    "time": "1小时前",
+    "published_iso": "2026-04-28T19:20:38+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+    "deck": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
+    "cnTitle": "一场重大变局",
+    "cnDeck": "著名财经记者费萨尔·伊斯兰近日发表重要评论，深入剖析了阿拉伯联合酋长国（UAE）退出石油输出国组织（OPEC）的潜在深远影响。伊斯兰指出，尽管阿联酋的退出在短期内可能对当前全球石油市场面临的供应紧张局面或所谓“油品封锁”现象（此处原文措辞较为特殊，可理解为市场不稳定或供应限制）影响甚微，甚至微乎其微，但从长远来看，这一举动无疑将彻底改变全球能源格局和地缘政治版图。他的这番言论迅速引发了国际社会、能源分析师及金融市场的高度关注。阿联酋作为OPEC内部的关键成员国和全球主要的石油生产国之一，其日产量长期保持在300万桶以上，拥有庞大的原油储量和强大的出口能力。长久以来，阿联酋一直在OPEC的产量配额制度中寻求更大的自主权和灵活性。有分析认为，阿联酋退出OPEC的动因可能包括其希望在不遵守OPEC集体减产协议的情况下，根据自身国家利益和市场需求，自主调整石油产量，以实现其经济多元化目标并最大化其油气资源的商业价值。这与OPEC旨在通过协调成员国产量来稳定全球油价的核心宗旨形成了潜在冲突。伊斯兰的评论暗示，阿联酋的退出将对OPEC的未来凝聚力及其在全球油市的定价权构成严峻挑战。OPEC作为一个拥有半个世纪历史的卡特尔组织，其影响力主要来源于成员国在产量决策上的协同行动。一旦阿联酋这样重量级的成员选择单飞，可能会引发多米诺骨牌效应，促使其他对现有配额不满或有自身发展考量的成员国重新评估其在OPEC中的地位。这将削弱OPEC对全球石油供应的整体控制力，导致国际油价波动性增加，从而影响全球经济稳定。从地缘政治层面看，阿联酋的这一战略转变也将深刻影响中东地区的权力平衡。它可能寻求与非OPEC产油国建立新的合作关系，或者与主要石油消费国签订更直接的供应协议。这不仅会改变全球能源贸易流向，也可能重塑地区联盟和国际外交格局。例如，阿联酋可能会借此机会，进一步巩固其作为独立能源大国的地位，并在全球能源转型的大背景下，争取更多话语权和战略主动性。金融市场方面，投资者将密切关注阿联酋未来的生产政策，这可能直接影响国际原油期货价格、能源公司股票以及与油气产业相关的宏观经济指标。费萨尔·伊斯兰的观点强调了这一事件的长期颠覆性潜力，预示着一个更加碎片化和竞争激烈的全球石油市场时代的到来",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-28T15:55:46+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+    "deck": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+    "cnTitle": "奥特曼马斯克AI恩怨对簿公堂",
+    "cnDeck": "近期，人工智能领域的两位重量级人物——OpenAI首席执行官萨姆·奥特曼（Sam Altman）和特斯拉及xAI首席执行官埃隆·马斯克（Elon Musk）之间的激烈争斗，在经历了一段时间的社交媒体论战后，如今正式升级，走向了法庭。这场被外界称为“有毒的宿怨”，其根源可追溯到OpenAI的创立初期及其发展方向的根本分歧。马斯克曾是OpenAI的联合创始人之一，也是其早期的主要投资者。他在2024年2月29日向旧金山高等法院提起诉讼，指控OpenAI及其两位联合创始人萨姆·奥特曼和格雷格·布罗克曼（Greg Brockman），以及其他相关实体，违反了合同承诺。马斯克在诉讼中声称，OpenAI在奥特曼的领导下，已经偏离了其最初作为非营利性、开源机构的使命，转而追求商业利益，并成为一家“闭源、最大化利润的公司，受到微软（Microsoft）的控制”。他指出，OpenAI最初的创立宗旨是开发通用人工智能（AGI）以造福全人类，而不是为了公司的利润或某个科技巨头的利益。马斯克在诉讼文件中强调，OpenAI的使命应该是“以最有可能造福全人类的方式”推进AGI，并明确其核心承诺是不以营利为目的。然而，他认为OpenAI与微软的数十亿美元合作，以及其对专有技术的开发和限制访问，已经彻底背离了这一初衷。作为回应，OpenAI于2024年3月5日发布了一篇官方博客文章，并公开了多封电子邮件，旨在反驳马斯克的指控。这些邮件显示，马斯克在OpenAI早期曾提议将该公司转变为一个营利性实体，并寻求获得公司的控制权，包括成为首席执行官。OpenAI在声明中表示，马斯克对公司走向商业化的担忧与他自己早期的提议相矛盾。该公司强调，在探索多种路径以确保资金充足并实现其使命的过程中，曾与马斯克进行过多次讨论，包括其本人提出将OpenAI并入特斯拉（Tesla）的想法。OpenAI还在其发布的文件中指出，他们之所以引入营利性结构，是为了能够筹集到足够的资金来支持其日益增长的计算需求，并吸引顶尖人才，从而实现其建立安全AGI的宏伟目标。他们认为，如果没有这种混合模式，OpenAI不可能达到目前的成就，例如开发出GPT系列模型。这场诉讼不仅仅是两位科技巨头之间的个人恩怨，更是对未来人工智能发展路径、伦理、控制权以及商业模式的深刻探讨。它触及了AI开源与闭源、非营利与营利、公共利益与商业利益之间的核心矛盾。马斯克要求法院强制OpenAI恢复其开源、非营利状态，并禁止其利用微软投资下的技术进行商业化运作。这场法律大战预计将持续一段时间，并可能对整个AI行业的未来格局产生深远影响。无论最终结果如何，奥特曼和马斯克之间的法庭对决无疑将成为科技界和法律界关注的焦点，进一步引发社会对人工智能伦理和治理的广泛讨论。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-28T15:38:09+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
     "deck": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
     "cnTitle": "俄富豪游艇穿越霍尔木兹海峡",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-28T12:03:39+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
@@ -23,7 +64,7 @@
     "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
     "time": "2小时前",
     "published_iso": "2026-04-27T17:33:24+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-27T12:21:42+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-27T06:52:59+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -62,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-27T01:16:50+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -75,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-26T23:16:41+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -88,20 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-26T23:04:19+00:00",
-    "id": "n7",
-    "lead": false
-  },
-  {
-    "headline": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
-    "deck": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
-    "cnTitle": "特朗普与官员或成枪击案目标",
-    "cnDeck": "据当局透露，一名与某新闻晚宴枪击案有关的嫌疑人，其目标“很可能”是前总统唐纳德·特朗普及其他多位官员。这一消息凸显了围绕高层政治人物和公共活动的安全问题所面临的严峻挑战。官员们表示，该嫌疑人预计将被指控犯有袭击联邦官员罪和在暴力犯罪中使用枪支罪。这起事件，尽管仍处于调查初期，但已将公众的注意力引向那些服务于公众",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-26T18:37:26+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   }
 ]
