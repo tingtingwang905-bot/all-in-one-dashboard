@@ -102,18 +102,5 @@
     "published_iso": "2026-04-27T17:33:24+00:00",
     "id": "n8",
     "lead": false
-  },
-  {
-    "headline": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-    "deck": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
-    "cnTitle": "中国叫停Meta 20亿美元AI公司收购",
-    "cnDeck": "中国监管机构正式阻止了社交媒体巨头Meta Platforms（Facebook的母公司）以20亿美元收购人工智能初创公司Manus的交易。此举是在中国监管部门对该交易进行了长达数月的严格审查之后做出的。Meta原计划通过此次收购加强其在人工智能领域的布局，尤其是在虚拟现实（VR）和增强现实（AR）技术，以及其宏大的元宇宙愿景相关的AI能力。Manus公司专注于开发先进的AI算法和硬件，特别在手势识别和人机交互方面拥有领先技术，其技术被认为对Meta未来产品开发具有战略意义，可能用于提升Quest系列VR头显的用户体验，并加速AI助手和内容生成工具的开发。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-04-27T12:21:42+00:00",
-    "id": "n9",
-    "lead": false
   }
 ]
