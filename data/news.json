@@ -9,7 +9,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-29T02:20:00+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -36,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:59:49+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -50,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:24:45+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -117,19 +114,6 @@
     "time": "16小时前",
     "published_iso": "2026-04-27T12:21:42+00:00",
     "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
-    "deck": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
-    "cnTitle": "金正恩与俄防长揭幕乌战阵亡士兵碑",
-    "cnDeck": "朝鲜最高领导人金正恩与俄罗斯国防部长安德烈·别洛乌索夫近日在平壤共同出席了一座纪念碑的揭幕仪式，该纪念碑旨在缅怀在乌克兰冲突中阵亡的朝鲜士兵。这一引人注目的事件标志着朝鲜与俄罗斯之间军事合作的进一步深化，并向国际社会发出了明确的信号，即朝鲜在乌克兰战争中对俄罗斯的支持可能超出了此前外界的普遍认知。此次纪念碑揭幕仪式是在高度戒备下举行的，金正恩与别洛乌索夫作为两国最高军事和政治层面的代表共同主持了仪式。据朝中社报道，该纪念碑是为了表彰那些“在维护世界和平与正义的斗争中，为捍卫主权和安全而英勇牺牲的战士们”。尽管朝鲜官方声明中并未直接提及“乌克兰”字眼，但新闻标题明确指出是“乌克兰战争”阵亡士兵，这使得此次活动具有非同寻常的地缘政治意义。长期以来，西方国家和情报机构一直指责朝鲜向俄罗斯提供大量火炮弹药、导弹以及其他军事装备，以支持俄罗斯在乌克兰的军事行动。作为交换，俄罗斯被怀疑向朝鲜",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-27T06:52:59+00:00",
-    "id": "n10",
     "lead": false
   }
 ]
