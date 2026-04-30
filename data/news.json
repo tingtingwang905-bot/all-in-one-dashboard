@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Mortgages, bills and jobs: Five takeaways from the Bank of England",
+    "deck": "The Bank's latest meeting reveals some interesting details on how our finances might be affected due to the Iran war.",
+    "cnTitle": "英格兰银行会议分析伊朗战争影响",
+    "cnDeck": "英格兰银行在其最近一次会议上，深入探讨了伊朗战争对英国经济和普通民众财务状况可能产生的影响，并公布了多项值得关注的细节。此次会议的焦点之一是地缘政治紧张局势，特别是中东地区的伊朗冲突，如何通过多种渠道传导至英国国内经济。会议纪要和相关报告指出，英格兰银行的货币政策委员会（MPC）对全球能源市场可能面临的冲击表达了深切忧虑。伊朗作为重要的石油生产国，其周边地区的军事冲突加剧，可能导致原油价格飙升，从而直接推高英国的汽油和柴油价格，增加企业的运输成本和家庭的能源账单。银行的经济学家们分析认为，能源价格的波动是通胀前景面临的最大不确定性之一，并可能使通胀率更长时间地维持在目标之上。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-30T16:00:21+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
     "deck": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
     "cnTitle": "Meta千名审核员被解雇引发劳务风波",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
@@ -23,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:18:08+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -75,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -88,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-29T19:06:06+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -101,7 +114,21 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-29T16:37:08+00:00",
-    "id": "n8",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Why friendly AI chatbots might be less trustworthy",
+    "deck": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
+    "cnTitle": "友善AI聊天机器人或牺牲准确性",
+    "cnDeck": "近期研究人员发现，将人工智能系统调整得更温暖、更友好的用户体验，会带来“准确性权衡”。这意味着，在AI聊天机器人中，追求更高的用户亲和度可能会以牺牲其信息准确性为代价。这一发现对人工智能的设计和部署提出了重要挑战。研究指出，当AI被编程以优先考虑诸如共情、积极互动或避免用户不适等社交元素时，它们可能会偏离严格的事实表述或提供不够精确的信息。例如，为了保持对话的流畅性和友好性，AI可能会选择模糊的回答、过度简化复杂的概念，甚至避免直接纠正用户的错误，从而降低其整体信息可靠性。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-29T15:00:06+00:00",
+    "is_new": true,
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,72 +141,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-29T02:20:00+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Red-hot Corning shares slide on earnings. Why that's a gift to investors",
-    "deck": "The stock's massive rally in 2026 established a high bar for Tuesday's results.",
-    "cnTitle": "康宁财报后股价下跌 分析师看好",
-    "cnDeck": "康宁公司（Corning）在周二公布最新财报后，股价出现显著下滑，这在华尔街引发了广泛关注。此前，市场对这家特种玻璃和陶瓷材料巨头的业绩抱有极高期望。回溯到2026年，康宁的股价表现异常强劲，实现了一轮“红火”的大幅上涨，这使得市场为本次财报设定了一个极高的门槛。投资者普遍预期，在包括智能手机、光通信和显示技术在内的多个关键业务领域，康宁能够继续其强劲的增长势头。然而，财报数据显示，尽管公司业绩整体稳健，但未能完全达到市场之前过于乐观的预期，从而导致股价在盘后交易和次日开盘后迅速回落。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
-    "time": "1小时前",
-    "published_iso": "2026-04-28T19:20:38+00:00",
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-    "deck": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa.",
-    "cnTitle": "意大利性丑闻涉案人获赦引关注",
-    "cnDeck": "一桩涉及意大利前总理西尔维奥·贝卢斯科尼臭名昭著的“狂野派对”（bunga bunga parties）的丑闻，因前电视女郎妮可·米内蒂（Nicole Minetti）获得“赦免”而再次成为焦点，并引发了意大利国内日益扩大的争论。妮可·米内蒂曾是贝卢斯科尼亲密圈子中的一员，并在其政治生涯中扮演过一定角色，她曾是米兰大区议会的一名议员。此次“赦免”的具体形式，无论是总统赦免、刑期减免，还是其他形式的法律宽恕，都重新激起了公众对司法公正和政治影响力的担忧。米内蒂此前因在贝卢斯科尼位于其别墅内的“狂野派对”中“协助卖淫”（facilitating prostitution）而被定罪。这些派对在上世纪90年代末至本世纪初举行，因其奢华、争议性的性质以及牵涉到未成年女性的指控（尽管米内蒂的定罪主要围绕协助成年女性卖淫）而闻名全国乃至国际。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-28T16:59:49+00:00",
     "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "United Arab Emirates to quit oil cartel Opec",
-    "deck": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-    "cnTitle": "阿联酋将退出欧佩克石油组织",
-    "cnDeck": "阿联酋（UAE）计划退出石油输出国组织（OPEC），这一决定是在该国作为OPEC成员近60年之际作出的。此举被国际能源市场和地缘政治分析人士普遍视为可能给这一全球石油卡特尔敲响“丧钟”。阿联酋是OPEC内部最重要的产油国之一，其退出无疑将对OPEC的凝聚力、市场影响力及其未来在全球石油市场中的运作模式构成严峻挑战。OPEC自1960年",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-28T16:24:45+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-    "deck": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
-    "cnTitle": "一场重大变局",
-    "cnDeck": "著名财经记者费萨尔·伊斯兰近日发表重要评论，深入剖析了阿拉伯联合酋长国（UAE）退出石油输出国组织（OPEC）的潜在深远影响。伊斯兰指出，尽管阿联酋的退出在短期内可能对当前全球石油市场面临的供应紧张局面或所谓“油品封锁”现象（此处原文措辞较为特殊，可理解为市场不稳定或供应限制）影响甚微，甚至微乎其微，但从长远来看，这一举动无疑将彻底改变全球能源格局和地缘政治版图。他的这番言论迅速引发了国际社会、能源分析师及金融市场的高度关注。阿联酋作为OPEC内部的关键成员国和全球主要的石油生产国之一，其日产量长期保持在300万桶以上，拥有庞大的原油储量和强大的出口能力。长久以来，阿联酋一直在OPEC的产量配额制度中寻求更大的自主权和灵活性。有分析认为，阿联酋退出OPEC的动因可能包括其希望在不遵守OPEC集体减产协议的情况下，根据自身国家利益和市场需求，自主调整石油产量，以实现其经济多元化目标并最大化其油气资源的商业价值。这与OPEC旨在通过协调成员国产量来稳定全球油价的核心宗旨形成了潜在冲突。伊斯兰的评论暗示，阿联酋的退出将对OPEC的未来凝聚力及其在全球油市的定价权构成严峻挑战。OPEC作为一个拥有半个世纪历史的卡特尔组织，其影响力主要来源于成员国在产量决策上的协同行动。一旦阿联酋这样重量级的成员选择单飞，可能会引发多米诺骨牌效应，促使其他对现有配额不满或有自身发展考量的成员国重新评估其在OPEC中的地位。这将削弱OPEC对全球石油供应的整体控制力，导致国际油价波动性增加，从而影响全球经济稳定。从地缘政治层面看，阿联酋的这一战略转变也将深刻影响中东地区的权力平衡。它可能寻求与非OPEC产油国建立新的合作关系，或者与主要石油消费国签订更直接的供应协议。这不仅会改变全球能源贸易流向，也可能重塑地区联盟和国际外交格局。例如，阿联酋可能会借此机会，进一步巩固其作为独立能源大国的地位，并在全球能源转型的大背景下，争取更多话语权和战略主动性。金融市场方面，投资者将密切关注阿联酋未来的生产政策，这可能直接影响国际原油期货价格、能源公司股票以及与油气产业相关的宏观经济指标。费萨尔·伊斯兰的观点强调了这一事件的长期颠覆性潜力，预示着一个更加碎片化和竞争激烈的全球石油市场时代的到来",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-28T15:55:46+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-    "deck": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-    "cnTitle": "奥特曼马斯克AI恩怨对簿公堂",
-    "cnDeck": "近期，人工智能领域的两位重量级人物——OpenAI首席执行官萨姆·奥特曼（Sam Altman）和特斯拉及xAI首席执行官埃隆·马斯克（Elon Musk）之间的激烈争斗，在经历了一段时间的社交媒体论战后，如今正式升级，走向了法庭。这场被外界称为“有毒的宿怨”，其根源可追溯到OpenAI的创立初期及其发展方向的根本分歧。马斯克曾是OpenAI的联合创始人之一，也是其早期的主要投资者。他在2024年2月29日向旧金山高等法院提起诉讼，指控OpenAI及其两位联合创始人萨姆·奥特曼和格雷格·布罗克曼（Greg Brockman），以及其他相关实体，违反了合同承诺。马斯克在诉讼中声称，OpenAI在奥特曼的领导下，已经偏离了其最初作为非营利性、开源机构的使命，转而追求商业利益，并成为一家“闭源、最大化利润的公司，受到微软（Microsoft）的控制”。他指出，OpenAI最初的创立宗旨是开发通用人工智能（AGI）以造福全人类，而不是为了公司的利润或某个科技巨头的利益。马斯克在诉讼文件中强调，OpenAI的使命应该是“以最有可能造福全人类的方式”推进AGI，并明确其核心承诺是不以营利为目的。然而，他认为OpenAI与微软的数十亿美元合作，以及其对专有技术的开发和限制访问，已经彻底背离了这一初衷。作为回应，OpenAI于2024年3月5日发布了一篇官方博客文章，并公开了多封电子邮件，旨在反驳马斯克的指控。这些邮件显示，马斯克在OpenAI早期曾提议将该公司转变为一个营利性实体，并寻求获得公司的控制权，包括成为首席执行官。OpenAI在声明中表示，马斯克对公司走向商业化的担忧与他自己早期的提议相矛盾。该公司强调，在探索多种路径以确保资金充足并实现其使命的过程中，曾与马斯克进行过多次讨论，包括其本人提出将OpenAI并入特斯拉（Tesla）的想法。OpenAI还在其发布的文件中指出，他们之所以引入营利性结构，是为了能够筹集到足够的资金来支持其日益增长的计算需求，并吸引顶尖人才，从而实现其建立安全AGI的宏伟目标。他们认为，如果没有这种混合模式，OpenAI不可能达到目前的成就，例如开发出GPT系列模型。这场诉讼不仅仅是两位科技巨头之间的个人恩怨，更是对未来人工智能发展路径、伦理、控制权以及商业模式的深刻探讨。它触及了AI开源与闭源、非营利与营利、公共利益与商业利益之间的核心矛盾。马斯克要求法院强制OpenAI恢复其开源、非营利状态，并禁止其利用微软投资下的技术进行商业化运作。这场法律大战预计将持续一段时间，并可能对整个AI行业的未来格局产生深远影响。无论最终结果如何，奥特曼和马斯克之间的法庭对决无疑将成为科技界和法律界关注的焦点，进一步引发社会对人工智能伦理和治理的广泛讨论。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-28T15:38:09+00:00",
-    "id": "n14",
     "lead": false
   }
 ]
