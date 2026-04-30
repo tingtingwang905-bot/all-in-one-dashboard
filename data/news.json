@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
+    "deck": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
+    "cnTitle": "Meta千名审核员被解雇引发劳务风波",
+    "cnDeck": "社交媒体巨头Meta正因一起涉及其智能眼镜内容审核员的大规模裁员事件，与一家位于肯尼亚的分包商陷入劳务纠纷。据报道，超过1000名肯尼亚员工此前受雇于该分包商，负责对Meta智能眼镜用户生成的内容进行审核，以确保其符合Meta的社区准则。然而，这些被解雇的员工声称，他们之所以失业，是因为他们在工作中被迫观看了由智能眼镜用户录制的大量私密性行为内容，这不仅对他们的心理健康造成了严重影响，也引发了他们对公司未能提供足够支持的强烈不满。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-30T08:59:35+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
     "deck": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
     "cnTitle": "美军或打击伊朗，油价创两年新高",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:18:08+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-29T19:06:06+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-29T16:37:08+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-29T02:20:00+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
     "time": "1小时前",
     "published_iso": "2026-04-28T19:20:38+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:59:49+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:24:45+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-28T15:55:46+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,33 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-28T15:38:09+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
-    "deck": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
-    "cnTitle": "俄富豪游艇穿越霍尔木兹海峡",
-    "cnDeck": "一艘141米长的超级游艇，据称与俄罗斯总统弗拉基米尔·普京的一位亲密盟友有关，近日成功穿越了霍尔木兹海峡，尽管该战略水域存在持续的封锁。这一事件迅速引起了国际社会的广泛关注，因为它凸显了在西方对俄罗斯实施严厉制裁的背景下，海上资产追踪和制裁执行面临的复杂挑战。霍尔木兹海峡是全球最重要的原油运输咽喉之一，连接波斯湾和印度洋，每天有大量船只通过，其战略敏感性极高。任何涉及俄罗斯高层关联资产在此区域的“异常”行动，都可能被赋予重大的地缘政治意义。自2022年俄罗斯全面入侵乌克兰以来，美国、欧盟、英国等国家对俄罗斯政府、企业以及与克里姆林宫关系密切的寡头实施了前所未有的金融和经济制裁。这些制裁措施旨在冻结和查封被认定为支持俄罗斯战争机器的个人及其名下资产，其中包括大量超级游艇、私人飞机和海外物业。因此，这艘与普京盟友相关的游艇，被普遍认为是西方制裁的目标之一。它能够“尽管存在封锁”而成功通行，引发了外界对现有制裁机制有效性的质疑。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-28T12:03:39+00:00",
     "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Valve's £85 Steam Controller divides gamers ahead of May launch",
-    "deck": "The pad will be compatible with PCs, Valve's handheld console, the Steam Deck as well as its upcoming gaming PC.",
-    "cnTitle": "Valve新Steam手柄上市前引玩家分歧",
-    "cnDeck": "游戏巨头Valve即将于今年五月推出其备受关注的新款Steam手柄，定价为85英镑。这款手柄的推出，在尚未正式上市之际，已经在全球玩家社区中引发了广泛的讨论和明显的分歧。作为一家以数字游戏分发平台Steam闻名遐迩的公司，Valve一直致力于在软件和硬件领域进行创新尝试，旨在为玩家提供更加独特和沉浸式的游戏体验。Steam手柄正是其硬件战略中的一个关键组成部分，此前",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-28T09:16:12+00:00",
-    "id": "n15",
     "lead": false
   }
 ]
