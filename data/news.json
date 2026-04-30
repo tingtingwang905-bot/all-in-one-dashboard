@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "deck": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "cnTitle": "美军或打击伊朗，油价创两年新高",
+    "cnDeck": "根据Axios的独家报道，美国中央司令部（US Central Command）已经制定了一项针对伊朗的“短而有力”（\"short and powerful\"）打击计划，并将向唐纳德·特朗普（Donald Trump）汇报新的对伊选项。这一消息立即在全球能源市场引发剧烈反应，国际油价飙升至自2022年以来的最高水平。这份由美军方准备的计划，详细阐述了旨在迅速削弱伊朗军事能力并发出强烈",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-30T04:06:01+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+    "deck": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+    "cnTitle": "马斯克怒斥OpenAI律师设圈套",
+    "cnDeck": "埃隆·马斯克（Elon Musk）在针对萨姆·奥尔特曼（Sam Altman）和OpenAI的诉讼案审理进入第三天时，接受了对方律师的交叉盘问。在激烈的证词环节中，马斯克公开指控OpenAI的律师试图通过巧妙的问题设计来“欺骗”他，并多次声称对方律师的提问具有误导性。此次庭审的核心是马斯克于今年早些时候提起的诉讼，他指控OpenAI及其联合创始人奥尔特曼偏离了公司最初成立时“为全人类利益开发通用人工智能（AGI）而非盈利”的使命。马斯克在证词中重申，他曾是OpenAI的联合创始人，并在公司早期提供了大量资金支持，他认为OpenAI目前的运营模式，特别是其与微软（Microsoft）的紧密合作以及对盈利的追求，违背了其创始协议和非营利原则。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-29T23:18:08+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Interest rates expected to be held as uncertainty over Iran war continues",
+    "deck": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+    "cnTitle": "伊朗战事致利率前景不明",
+    "cnDeck": "全球金融市场正面临前所未有的不确定性，分析师普遍认为，各国央行对未来基准利率的调整前景变得难以预测，这主要源于持续升级的伊朗战争所带来的深远经济影响。这场地缘政治冲突不仅直接冲击了中东地区的稳定，其连锁反应正通过多个渠道渗透到全球经济体系中。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-29T23:01:04+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+    "deck": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+    "cnTitle": "科米因涉嫌威胁特朗普生命而自首",
+    "cnDeck": "前联邦调查局局长詹姆斯·科米（James Comey）因被指控在社交媒体Instagram上发布威胁美国前总统唐纳德·特朗普（Donald Trump）生命安全的言论而自首。据检方透露，科米在Instagram上发布了一张据称是2025年的海贝照片，检察官认为这张照片是对特朗普发动暴力的暗号或号召。这一指控在当前美国政治极度两极分化的背景下显得尤为敏感和引人关注。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-29T20:24:48+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+    "deck": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+    "cnTitle": "鲍威尔利率决议后谈地缘政治与通胀",
+    "cnDeck": "美联储主席杰罗姆·鲍威尔（Jerome Powell）在联邦公开市场委员会（FOMC）决定维持联邦基金利率不变后举行的新闻发布会上，就多项重要议题发表了看法。此次会议是鲍威尔作为美联储主席在利率决策方面的最后一次新闻发布会，其发言内容受到全球市场和政策制定者的高度关注，涉及对当前地缘政治局势的担忧、国内通胀前景以及美联储自身独立性的维护。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-29T20:01:26+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Oil price soars above $118 after reports of 'extended' Iran blockade",
     "deck": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
     "cnTitle": "伊朗封锁传闻推动油价突破118美元",
@@ -9,9 +79,8 @@
     "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-29T19:06:06+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
@@ -23,8 +92,7 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-29T16:37:08+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n7",
     "lead": false
   },
   {
@@ -37,7 +105,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-29T02:20:00+00:00",
-    "id": "n3",
+    "id": "n8",
     "lead": false
   },
   {
@@ -50,7 +118,7 @@
     "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
     "time": "1小时前",
     "published_iso": "2026-04-28T19:20:38+00:00",
-    "id": "n4",
+    "id": "n9",
     "lead": false
   },
   {
@@ -63,7 +131,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:59:49+00:00",
-    "id": "n5",
+    "id": "n10",
     "lead": false
   },
   {
@@ -76,7 +144,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-28T16:24:45+00:00",
-    "id": "n6",
+    "id": "n11",
     "lead": false
   },
   {
@@ -89,7 +157,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-28T15:55:46+00:00",
-    "id": "n7",
+    "id": "n12",
     "lead": false
   },
   {
@@ -102,7 +170,7 @@
     "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-28T15:38:09+00:00",
-    "id": "n8",
+    "id": "n13",
     "lead": false
   },
   {
@@ -115,7 +183,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-28T12:03:39+00:00",
-    "id": "n9",
+    "id": "n14",
     "lead": false
   },
   {
@@ -128,8 +196,7 @@
     "url": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-28T09:16:12+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n15",
     "lead": false
   }
 ]
