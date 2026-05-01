@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -41,6 +39,20 @@
     "lead": false
   },
   {
+    "headline": "China scraps tariffs for all but one African nation",
+    "deck": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+    "cnTitle": "中国对非洲大部分国家实施零关税",
+    "cnDeck": "中国宣布对除一个非洲国家之外的所有非洲国家实施零关税制度，此举被视为中国深化与非洲大陆经济合作和提升其软实力的重大举措。这一全面性的关税减免政策将覆盖非洲40多个最不发达国家，涉及范围广泛的出口商品，旨在促进非洲商品进入中国市场，从而推动非洲经济的多元化和工业化进程。分析人士指出，尽管零关税政策将为非洲经济带来新的增长机遇，但其效益可能在不同国家和地区之间呈现不均衡。一些具有更完善基础设施和更具竞争力的出口产业的国家，例如那些已经拥有较强农业产品或矿产出口能力的国家，将可能从这项政策中获得更大的益处。而另一些经济结构较为单一、出口能力相对薄弱的国家，则可能在短期内难以充分利用这一政策优势。此次零关税政策的实施，是中国长期以来对非合作战略的延续和升级。自2000年成立中非合作论坛（FOCAC）以来，中国与非洲的贸易额持续增长，中国已成为非洲最大的贸易伙伴。通过取消关税，中国旨在进一步巩固其在非洲的经济影响力，并增强其在国际舞台上的“软实力”。此举有助于提升中国作为非洲发展可靠伙伴的国际形象，同时也能为中国企业在非洲的投资和市场拓展创造更加有利的条件。然而，专家也提醒，零关税政策的成功实施需要非洲国家自身的配套改革。例如，提高产品质量标准、改善物流和贸易便利化环境、加强生产能力建设等，都是确保非洲出口商能够有效利用这项政策的关键因素。此外，也有批评声音担忧，过度依赖对华出口可能使非洲经济面临新的风险，例如在初级产品价格波动时受到冲击，或加剧一些国家对单一市场的依赖。长期来看，这项政策的最终效果将取决于非洲各国如何抓住机遇，以及中国如何平衡其自身利益与非洲的可持续发展需求。总而言之，这项零关税政策无疑是中非关系中的一个里程碑，预示着未来双边贸易和投资将进入一个新阶段，但其深远影响仍需时间来观察和评估。它将重塑部分全球贸易格局，并在一定程度上影响其他主要贸易伙伴对非洲的政策考量。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-05-01T00:02:57+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
     "headline": "Venice Biennale jury resigns days before start of top art exhibition",
     "deck": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
     "cnTitle": "威尼斯双年展评审因俄罗斯参展辞职",
@@ -50,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:44:00+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -64,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:11:37+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -78,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -91,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -104,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:04:43+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -118,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-30T16:00:21+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -131,8 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-30T15:48:52+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -145,8 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-30T13:28:04+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -159,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -172,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -185,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:18:08+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -198,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -211,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -224,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -237,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-29T19:06:06+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -250,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-29T16:37:08+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -263,20 +270,6 @@
     "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-29T15:00:06+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Musk accuses Altman of stealing a charity as courtroom battle begins",
-    "deck": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-    "cnTitle": "马斯克起诉奥特曼窃取OpenAI慈善机构",
-    "cnDeck": "埃隆·马斯克（Elon Musk）已正式对OpenAI及其首席执行官萨姆·奥特曼（Sam Altman）提起诉讼，指控奥特曼及其团队背离了OpenAI最初作为非营利、致力于全人类福祉的开放人工智能研究机构的创始使命。马斯克在诉讼中声称，OpenAI在马斯克和其他联合创始人设定愿景时，旨在开发开放且有益于公众的人工智能，而非追求商业",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-29T10:12:46+00:00",
-    "is_new": true,
     "id": "n21",
     "lead": false
   }
