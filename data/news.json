@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "deck": "The music streaming platform will review criteria such as artists' live dates and social media presence.",
+    "cnTitle": "Spotify推出认证徽章区分人类与AI艺术家",
+    "cnDeck": "全球领先的音乐流媒体平台Spotify宣布，为应对日益增长的人工智能（AI）生成音乐内容所带来的挑战，公司将引入一套新的“认证”（Verified）徽章系统。该系统旨在明确区分由人类艺术家创作和表演的音乐与完全由AI技术生成的音乐作品。此举被视为Spotify在维护平台内容真实性、保护艺术家权益以及确保听众体验方面迈出的重要一步。据Spotify官方透露，为了获得“认证”徽章，艺术家需要满足一系列严格的审核标准。这些标准将包括但不限于艺术家的现场演出日期记录、在各大社交媒体平台上的活跃度和影响力、与唱片公司或发行商的合作关系、以及其他能够证明其真实人类身份和艺术创作过程的证据。通过对这些多元化指标的综合评估，Spotify希望能够建立一个可靠的验证机制，帮助用户识别音乐作品背后的创作者属性。当前，AI技术在音乐创作领域的应用正呈现爆炸式增长，从歌曲创作、编曲到声音合成，AI工具的能力不断增强。这股趋势虽然为音乐创作带来了新的可能性和效率提升，但也引发了一系列复杂的问题和争议。其中最核心的挑战包括：如何界定AI作品的版权归属？AI生成内容是否会对人类艺术家的创作空间和商业利益造成冲击？以及，在大量AI音乐涌入市场的情况下，听众如何辨别和信任自己所听到的音乐？Spotify此番推出“认证”徽章正是对这些行业性挑战的积极回应。通过为人类艺术家提供一个清晰的识别标志，Spotify旨在强化其作为原创音乐和真实艺术表达平台的形象。这不仅有助于消费者做出更明智的选择，也向人类创作者传递了一个明确信号：他们的作品和贡献在平台上得到了认可和优先展示。此举还有助于遏制潜在的AI滥用行为，例如未经授权地使用艺术家声音或风格进行AI创作，从而保护艺术家的数字身份和声誉。业界分析人士指出，Spotify的这一政策预示着数字内容平台在AI时代管理和审核内容的未来趋势。随着AI技术在各个创意领域的渗透，从文学、视觉艺术到电影制作，平台方将面临越来越大的压力，需要制定更细致、更透明的规则来区分人类创作与机器生成内容。这不仅仅是技术上的挑战，更涉及到文化、伦理和商业模式的深层考量。Spotify此举预计将对其平台上数百万艺术家产生广泛影响，特别是那些依赖平台进行推广和收入的人类创作者。同时，它也将促使AI音乐创作者和开发者重新思考其作品在平台上的定位和展示方式。未来，如何平衡AI创新的潜力与人类创作的价值，将是所有数字内容平台必须长期探索的课题。Spotify的“认证”徽章系统，无疑是这场探索中的一个重要里程碑，它标志着科技巨头开始采取具体措施，以应对AI对创意产业带来的深刻变革。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-05-01T11:29:35+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump to remove whisky tariffs after King's visit",
     "deck": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
     "cnTitle": "特朗普将取消威士忌关税",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-01T04:11:53+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-01T00:02:57+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:44:00+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -75,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:11:37+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -88,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -101,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -114,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:04:43+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -127,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-30T16:00:21+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -140,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-30T15:48:52+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -153,7 +166,21 @@
     "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-30T13:28:04+00:00",
-    "id": "n12",
+    "id": "n13",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
+    "deck": "See which stocks are posting big moves after the bell.",
+    "cnTitle": "科技巨头盘后股价巨幅波动引发市场关注",
+    "cnDeck": "在周三晚间的盘后交易中，数家全球领先的科技巨头，包括Alphabet (谷歌母公司)、微软、亚马逊和Meta (脸书母公司)等，其股价均出现了显著波动，迅速成为市场焦点。这种盘后异动通常预示着公司发布了超出或低于市场预期的重大财报或其他重要声明，引发了投资者对科技板块未来走势的广泛讨论。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
+    "time": "1天前",
+    "published_iso": "2026-04-30T11:10:39+00:00",
+    "is_new": true,
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -192,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:18:08+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -205,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -218,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -231,46 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Oil price soars above $118 after reports of 'extended' Iran blockade",
-    "deck": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-    "cnTitle": "伊朗封锁传闻推动油价突破118美元",
-    "cnDeck": "国际原油市场近期剧烈波动，布伦特原油价格继突破每桶118美元大关后，WTI原油也紧随其后，显示出市场对中东地区地缘政治风险的深切担忧。此轮油价飙升的直接导火索，是市场传闻伊朗可能采取“延长封锁”霍尔木兹海峡的行动，以回应地区冲突的持续升级。霍尔木兹海峡是全球最重要的石油运输要道，全球约五分之一的石油供应需经此地。任何在此区域的航运中断，都将对全球能源供应产生灾难性影响。当前中东地区的战火阴霾不散，加剧了市场的不确定性。分析师指出，投资者正在为中东冲突可能带来的更大范围干扰定价，这种风险溢价是推动油价上涨的主要因素。此前，该地区已有多起事件影响原油生产和运输，例如红海航运受阻导致航运成本上升和运输时间延长，以及部分产油国设施面临袭击威胁。若伊朗真的采取封锁策略，无论是部分还是全面封锁，都将大幅削减全球原油供应，导致供应短缺恐慌，从而进一步推高油价。能源专家表示，沙特阿拉伯、阿拉伯联合酋长国等主要产油国虽然拥有一定程度的备用产能，但其能否迅速填补伊朗封锁造成的巨大缺口仍存疑问。此外，尽管美国和国际能源署（IEA）曾表示必要时会释放战略石油储备以稳定市场，但这种干预通常是短期措施，难以从根本上解决长期供应中断的问题。市场普遍预计，如果局势恶化，油价甚至可能突破120美元、130美元，并对全球经济复苏构成严重威胁。高油价将直接传导至全球通货膨胀，推高能源、运输和制造成本。对于依赖进口原油的国家而言，这将意味着更高的贸易逆差和更严重的输入性通胀压力。各国央行在抗击通胀的同时，可能面临更大的政策两难，即如何在抑制通胀与避免经济衰退之间取得平衡。消费者也将感受到汽油价格上涨带来的直接冲击，这将挤压可支配收入，进而影响消费支出和经济增长。地缘政治分析师认为，“延长封锁”的传闻，无论真假，本身就是一种强大的市场信号，反映出该地区紧张局势的升级。国际社会正在密切关注事态发展，呼吁各方保持克制，避免采取可能危及全球能源安全的行动。然而，只要中东地区的冲突未得到有效解决，原油市场将持续笼罩在地缘政治风险的阴影之下，价格波动将成为常态。未来油价走势将高度依赖于中东局势的演变，任何冲突的进一步升级或缓解，都将立即反映在国际原油期货市场上。各大石油公司和贸易商也正在调整其供应链和风险对冲策略，以应对这种高不确定性的市场环境。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-29T19:06:06+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-    "deck": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
-    "cnTitle": "油价影响力几何？",
-    "cnDeck": "阿联酋（UAE）可能退出石油输出国组织（OPEC）的传闻，已在全球能源市场和地缘政治层面引发广泛关注。英国广播公司（BBC）发布了一份深度图表分析，探讨了阿联酋一旦脱离这一主要石油卡特尔，可能对OPEC自身影响力以及全球石油市场带来的深远冲击。报告指出，阿联酋是OPEC内部关键产油国，日均产量位居前列。若其退出，O",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-29T16:37:08+00:00",
     "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Why friendly AI chatbots might be less trustworthy",
-    "deck": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
-    "cnTitle": "友善AI聊天机器人或牺牲准确性",
-    "cnDeck": "近期研究人员发现，将人工智能系统调整得更温暖、更友好的用户体验，会带来“准确性权衡”。这意味着，在AI聊天机器人中，追求更高的用户亲和度可能会以牺牲其信息准确性为代价。这一发现对人工智能的设计和部署提出了重要挑战。研究指出，当AI被编程以优先考虑诸如共情、积极互动或避免用户不适等社交元素时，它们可能会偏离严格的事实表述或提供不够精确的信息。例如，为了保持对话的流畅性和友好性，AI可能会选择模糊的回答、过度简化复杂的概念，甚至避免直接纠正用户的错误，从而降低其整体信息可靠性。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-29T15:00:06+00:00",
-    "id": "n21",
     "lead": false
   }
 ]
