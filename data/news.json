@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+    "deck": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+    "cnTitle": "缅甸军方称昂山素季已从监狱转为软禁",
+    "cnDeck": "缅甸军方近日宣布，诺贝尔和平奖得主、缅甸前国务资政昂山素季（Aung San Suu Kyi）已从监狱被转移至软禁状态。这一消息由缅甸国家管理委员会（State Administration Council）发言人绍敏通（Zaw Min Tun）少将对外公布，并迅速在全球范围内引起广泛关注。昂山素季自2021年2月1日军事政变以来，一直被军方拘禁",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-01T04:11:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Fertiliser boss says war puts 10 billion meals a week at risk",
+    "deck": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+    "cnTitle": "伊朗冲突威胁全球粮食安全",
+    "cnDeck": "全球领先的作物营养解决方案提供商Yara的总裁近日发出严厉警告，指出由于与伊朗相关的冲突，全球正面临严重的化肥短缺危机。这位负责人强调，如果这一短缺状况持续下去，全球作物产量将大幅下降，进而导致食品价格飙升，每周可能有多达100亿份餐食面临供应中断的风险。Yara总裁的言论凸显了地缘政治紧张局势对全球粮食安全的直接且深远的威胁。化肥是现代农业生产中不可或缺的关键投入，其供应稳定性直接关系到全球农作物的生长和收成。氮、磷、钾等主要化肥成分的生产和运输，高度依赖于能源供应（尤其是天然气）以及全球物流链的畅通。伊朗作为重要的能源生产国和地缘战略要地，任何与其相关的冲突或不稳定性，都可能扰乱这些关键资源的生产和国际贸易流通，进而影响化肥的全球供应。当前，全球农业系统已经面临气候变化、水资源短缺等多重挑战。化肥短缺无疑将进一步加剧粮食供应的脆弱性。当农民无法获得足够的化肥时，土壤肥力将下降，导致谷物、蔬菜等主要农作物的单位面积产量显著减少。这不仅会减少可供人类消费的食物总量，还将推高农产品生产成本，最终以更高的零售价格转嫁给消费者。对于低收入国家和地区而言，食品价格的上涨可能引发严重的粮食危机和人道主义灾难，加剧饥饿和贫困问题。Yara总裁特别提到的“每周100亿份餐食面临风险”，是一个惊人的数字，旨在引起国际社会对潜在粮食危机的紧迫关注。这一数字直观地反映了全球数亿甚至数十亿人口的日常温饱可能因化肥供应问题而受到威胁。分析人士指出，虽然具体冲突细节未被披露，但这一警告无疑是对全球供应链韧性和地缘政治风险管理能力的一次严峻考验。国际社会需要密切关注事态发展，并寻求通过外交途径缓解地区紧张局势，确保关键农产品投入品的稳定供应，以避免一场可能波及全球的粮食危机。该警告也提醒各国政府和国际组织，应加强农业供应链的多元化和本地化建设，减少对单一地区或资源的过度依赖，从而提升全球粮食系统的抗风险能力。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-30T23:08:09+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
+    "deck": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
+    "cnTitle": "未偿债务法院判决激增，反映经济压力",
+    "cnDeck": "最新数据显示，今年第一季度，与去年同期相比，针对未偿债务的县法院判决（County Court Judgements, CCJs）数量激增了17.5%。这一显著增长反映出个人和家庭所面临的日益加剧的财务困境。县法院判决是一种法律裁定，通常在债权人通过法庭追讨欠款时作出，旨在强制债务人履行还款义务。判决数量的上升表明，越来越多的人难以按时偿还贷款",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-30T23:07:00+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Mortgages, bills and jobs: Five takeaways from the Bank of England",
     "deck": "The Bank's latest meeting reveals some interesting details on how our finances might be affected due to the Iran war.",
     "cnTitle": "英格兰银行会议分析伊朗战争影响",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-30T16:00:21+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
@@ -23,7 +64,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:18:08+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -62,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -75,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -88,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -101,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-29T19:06:06+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -114,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-29T16:37:08+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -127,21 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-29T15:00:06+00:00",
-    "is_new": true,
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Nvidia-Supplier Victory Giant’s Sales Surge on AI Demand - Bloomberg.com",
-    "deck": "Nvidia-Supplier Victory Giant’s Sales Surge on AI Demand&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "英伟达供应商胜宏科技AI需求销售激增",
-    "cnDeck": "据彭博社报道，全球领先人工智能芯片制造商英伟达（Nvidia）的重要供应商，中国惠州胜宏科技股份有限公司（Victory Giant Technology）的销售额因市场对人工智能（AI）技术的强劲需求而大幅增长。这一动态不仅突显了AI产业的蓬勃发展势头，也彰显了其对全球科技供应链的深远影响。胜宏科技主要从事高性能印制电路板（PCB）的研发、生产和销售，这些PCB是AI服务器、图形处理器（GPU）以及其他高性能计算硬件不可或缺的关键组件。随着生成式AI和大型语言模型（LLM）等前沿技术的快速崛起，全球数据中心对算力的需求呈现爆炸式增长，进而催生了对高端AI芯片及其配套硬件的巨大需求。英伟达作为AI芯片市场的绝对领导者，其产品的旺盛需求直接传导至上游供应商，使得胜宏科技等关键环节企业订单量激增。胜宏科技的销售额飙升，正是这一行业趋势的直接体现，反映出其在AI硬件供应链中的战略重要性日益凸显。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
-    "time": "2小时前",
-    "published_iso": "2026-04-29T02:20:00+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   }
 ]
