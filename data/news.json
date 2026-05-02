@@ -1,5 +1,75 @@
 [
   {
+    "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+    "deck": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+    "cnTitle": "美国计划从德国撤军5000人",
+    "cnDeck": "美国计划从德国削减5000名驻军。这一决定标志着美德之间长期盟友关系中出现的重大裂痕，特别是在特朗普政府执政期间，两国关系持续紧张。撤军计划是在美国总统特朗普与德国领导层（新闻标题中提及“Merz”，可能代表默克尔政府或其他德国关键政治人物的立场）之间发生争执的背景下提出的。据悉，两国之间的主要分歧之一在于对伊朗政策的看法。美国在2018年单方面退出了由奥巴马政府签署的《联合全面行动计划》（JCPOA），即伊朗核协议，并重新对伊朗实施了严厉制裁。而德国及其欧洲盟友则一直致力于维护该协议，认为它是防止伊朗发展核武器的关键机制，并试图通过各种方式规避美国制裁以维持与伊朗的贸易往来，这与美国的“极限施压”政策形成了鲜明对比，导致双方在外交层面产生严重摩擦。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-02T08:14:09+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Trump claims other presidents flouted war powers law. It's a mixed record",
+    "deck": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+    "cnTitle": "特朗普指控前总统违反战争权力法",
+    "cnDeck": "美国前总统唐纳德·特朗普近日声称，一些前任总统曾违反或规避了《战争权力法》（War Powers Act）的要求，这一言论再次将这部旨在限制总统对外用兵权力的关键法律推向公众讨论的焦点。特朗普的这番表态强调了美国宪法中关于战争权力的长期争议，即行政部门与立法部门在何时以及如何派遣军队海外作战上的职能划分。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-02T02:43:48+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "deck": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+    "cnTitle": "对伊战事无需国会批准",
+    "cnDeck": "美国前总统唐纳德·特朗普向国会致函，明确表示他认为对伊朗的潜在军事行动不再需要国会批准。特朗普在信中指出，由于已达成停火协议，他宣称“敌对行动已经终止”（\"hostilities 'have terminated'\"），并以此为由，主张行政部门在对伊朗采取军事行动时，无需再获得国会的授权。这一声明直接挑战了美国宪法规定的战争权力分配。根据宪法，宣战权专属于",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-02T00:41:43+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Who shot a Secret Service officer at the Trump press dinner?",
+    "deck": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+    "cnTitle": "特朗普晚宴特勤局官员枪击案调查进展",
+    "cnDeck": "“特朗普晚宴特勤局官员枪击案”的最新调查进展显示，虽然一名嫌疑人已被确认，但法庭文件并未明确指控该嫌疑人是直接开枪射击特勤局官员的人。与此同时，官方调查人员已明确表示，此次枪击事件并非“友军火力”所致，排除了特勤局或其他执法人员意外误伤的可能性，将调查重点完全指向了外部因素。这表明，尽管在场可能存在多个参与者，且已有嫌疑人进入司法程序，但开枪者的具体身份或其与嫌疑人的直接关联仍需进一步的调查和证据链条来确认。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-01T21:44:05+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Bright idea? UK firm pioneers data centres using lampposts",
+    "deck": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+    "cnTitle": "英国公司路灯数据中心集成英伟达芯片",
+    "cnDeck": "一家英国公司正在开创性地利用路灯杆作为微型数据中心的载体，这一创新举措旨在将计算能力更广泛、更深入地部署到城市环境中。这些被命名为“iLamps”的智能路灯，其能源供应将主要依赖太阳能，并且内置了全球领先的AI芯片制造商英伟达（Nvidia）的高性能芯片，这预示着边缘计算领域可能迎来一次范式转变和新的突破。该项目的核心理念在于彻底改变传统数据中心的部署模式，将数据处理能力从笨重、集中式的大型设施，下沉到更贴近数据源的城市基础设施之中。通过将强大的英伟达芯片集成到遍布城市的路灯杆中，这些“智能路灯”将不再仅仅是照明工具，而是摇身一变成为一个高度分布式的计算网络节点。它们能够实时、高效地处理来自各种传感器、高清监控摄像头、智能交通管理系统以及其他海量物联网（IoT）设备的数据流。这种本地化处理能力将显著缩短数据传输的延迟，极大提升应用程序的响应速度，这对于未来智能城市建设、自动驾驶车辆的即时决策、增强现实（AR）与虚拟现实（VR）体验的无缝融合，以及任何需要即时数据分析和决策的边缘计算应用场景而言，都具有里程碑式的意义。英伟达作为全球在人工智能和高性能计算领域的技术领导者，其芯片的集成赋予了这些路灯数据中心强大的AI推理和数据分析能力。这意味着它们不仅能支持本地化的智能应用，例如对交通流量进行实时优化、实施精准的环境质量监测、提升公共区域的安全监控效率，还能够在更广阔的物联网生态系统中扮演至关重要的角色，实现设备间的智能协同。此外，iLamps采用太阳能供电的特性，",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-01T21:23:33+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Pentagon says US military to be an 'AI-first' fighting force",
     "deck": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
     "cnTitle": "美国防部：美军将成为“AI优先”作战力量",
@@ -9,9 +79,8 @@
     "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-01T21:09:52+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "Trump says he will hike tariffs on EU cars to 25%",
@@ -23,8 +92,35 @@
     "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T19:42:56+00:00",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Israeli police arrest man after nun attacked in Jerusalem",
+    "deck": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+    "cnTitle": "以色列警方逮捕袭击修女男子",
+    "cnDeck": "以色列警方宣布已逮捕一名男子，该男子涉嫌在耶路撒冷袭击一名法国修女。据警方透露，这名法国修女在一次看似无端的袭击中被推倒并踢踹。这起事件正值耶路撒冷市内针对基督徒的骚扰事件日益增多之际，这些骚扰行为被指是由犹太极端分子实施的。此次袭击发生后，立即引发了当地基督教社区以及国际社会的广泛关注。受伤的法国修女隶属于耶路撒冷的一个宗教机构，她表示对遭受的暴力感到震惊和不安。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-05-01T17:03:11+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
+    "deck": "Musk must meet a range of ambitious milestones at Tesla to justify the monster pay packet - so far he has not.",
+    "cnTitle": "特斯拉马斯克巨额薪酬待解锁",
+    "cnDeck": "特斯拉首席执行官埃隆·马斯克最近一笔高达1580亿美元的薪酬方案正受到广泛关注，但这笔巨额款项目前尚无法落入其囊中。根据最新报道，马斯克必须达成特斯拉设定的多项雄心勃勃的里程碑，才能证明这笔天价薪酬的合理性并最终获得它，而到目前为止，他尚未完全满足所有条件。这份薪酬方案最早于2018年获得特斯拉董事会批准，并由股东投票通过，其设计初衷是激励马斯克带领特斯拉实现爆炸性增长。该方案并非直接的现金支付，而是一项基于业绩表现的股权奖励，分为12个批次（tranches）的股票期权。每个批次的期权行权都与特斯拉是否达到特定的营收目标、EBITDA（息税折旧摊销前利润）目标以及市场资本化目标紧密挂钩。这些目标被设定为极其挑战性的增量里程碑，例如要求特斯拉的市场资本化从当时约500亿美元的水平，逐步飙升至数千亿美元，最终达到6500亿美元甚至更高，才能完全解锁所有批次。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-05-01T16:23:13+00:00",
+    "is_new": true,
+    "id": "n9",
     "lead": false
   },
   {
@@ -37,7 +133,21 @@
     "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T11:29:35+00:00",
-    "id": "n3",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+    "deck": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+    "cnTitle": "以色列拦截加沙援助船队引各方反应",
+    "cnDeck": "以色列军方日前在国际水域拦截了由“全球萨穆德船队”（Global Sumud Flotilla）组织的一支载有人道主义援助物资的船队，该船队旨在突破对加沙地带的长期封锁。此次事件迅速引发国际关注。以色列官方声明显示，除两名活动人士外，所有船上人员均已被释放并送往希腊。然而，事件的性质和合法性引发了双方截然不同的论述。 “全球",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+    "time": "22小时前",
+    "published_iso": "2026-05-01T10:12:57+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -50,7 +160,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "id": "n4",
+    "id": "n12",
     "lead": false
   },
   {
@@ -63,7 +173,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "id": "n5",
+    "id": "n13",
     "lead": false
   },
   {
@@ -76,7 +186,7 @@
     "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-01T04:11:53+00:00",
-    "id": "n6",
+    "id": "n14",
     "lead": false
   },
   {
@@ -89,7 +199,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-01T00:02:57+00:00",
-    "id": "n7",
+    "id": "n15",
     "lead": false
   },
   {
@@ -102,7 +212,7 @@
     "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:44:00+00:00",
-    "id": "n8",
+    "id": "n16",
     "lead": false
   },
   {
@@ -115,7 +225,7 @@
     "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:11:37+00:00",
-    "id": "n9",
+    "id": "n17",
     "lead": false
   },
   {
@@ -128,7 +238,7 @@
     "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n10",
+    "id": "n18",
     "lead": false
   },
   {
@@ -141,7 +251,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n11",
+    "id": "n19",
     "lead": false
   },
   {
@@ -154,7 +264,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:04:43+00:00",
-    "id": "n12",
+    "id": "n20",
     "lead": false
   },
   {
@@ -167,7 +277,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-30T16:00:21+00:00",
-    "id": "n13",
+    "id": "n21",
     "lead": false
   },
   {
@@ -180,7 +290,21 @@
     "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-30T15:48:52+00:00",
-    "id": "n14",
+    "id": "n22",
+    "lead": false
+  },
+  {
+    "headline": "Bank of England says rates could rise as Iran war fuels inflation",
+    "deck": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
+    "cnTitle": "伊朗战事或推高通胀",
+    "cnDeck": "英格兰银行近日宣布，其货币政策委员会投票决定将基准利率维持在3.75%的水平不变。这一决策是在全球经济面临多重不确定性，特别是中东地区地缘政治紧张局势不断升级的背景下做出的。该央行明确表示，正密切关注中东冲突可能带来的连锁反应，尤其是伊朗局势对全球通胀压力的潜在影响。英格兰银行在声明中指出，尽管当前的通胀数据显示出一定的回落迹象，但全球地缘政治冲突，尤其是与伊朗相关的战事，正在为通胀前景增添新的不确定性。央行警告称，如果中东地区的紧张局势进一步升级，导致国际能源价格，特别是原油价格大幅上涨，同时对全球供应链和航运线路造成干扰，这将可能再次推高英国的通胀水平。在此情况下，英格兰银行不排除在未来采取进一步加息措施的可能性，以确保通胀能够持续且稳定地回归到2%的目标。货币政策委员会在审议时，全面评估了英国国内的经济状况，包括劳动力市场数据、消费者支出以及商业投资等。尽管数据显示英国经济面临一定挑战，但整体韧性仍在。然而，外部风险被认为是当前影响政策决策的关键因素。委员会成员普遍认为，鉴于中东冲突的动态性和不确定性，维持现有利率水平不变，同时保持政策灵活性，是当前最审慎的做法。市场分析师对英格兰银行的这一决定及其前瞻性指引进行了广泛解读。许多分析师指出，央行此次声明传递出明确的鹰派信号，即尽管当前利率维持不变，但其对未来通胀风险的担忧显著上升，为进一步加息留下了空间。投资者普遍认为，未来几个月，全球油价和地缘政治进展将成为影响英格兰银行货币政策走向的重要变量。如果中东冲突未能得到有效控制，且对全球大宗商品市场产生持续影响，英格兰银行可能被迫采取更为激进的紧缩政策。此次决议也引发了对全球经济增长前景的担忧。中东地区的任何不稳定因素都可能通过能源市场和贸易渠道，对全球经济复苏构成威胁。英格兰银行的审慎立场，反映出主要央行在全球不确定性日益增加的环境中，在抑制通胀和支持经济增长之间寻求平衡的挑战。未来数月，全球市场将密切关注中东局势的演变及其对全球通胀和货币政策的影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-30T15:02:26+00:00",
+    "is_new": true,
+    "id": "n23",
     "lead": false
   },
   {
@@ -193,7 +317,7 @@
     "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-30T13:28:04+00:00",
-    "id": "n15",
+    "id": "n24",
     "lead": false
   },
   {
@@ -206,7 +330,7 @@
     "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
     "time": "1天前",
     "published_iso": "2026-04-30T11:10:39+00:00",
-    "id": "n16",
+    "id": "n25",
     "lead": false
   },
   {
@@ -219,7 +343,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n17",
+    "id": "n26",
     "lead": false
   }
 ]
