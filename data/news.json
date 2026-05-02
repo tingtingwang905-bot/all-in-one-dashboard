@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Pentagon says US military to be an 'AI-first' fighting force",
+    "deck": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
+    "cnTitle": "美国防部：美军将成为“AI优先”作战力量",
+    "cnDeck": "美国国防部近日宣布，美国军队将全面转型，致力于成为一支“AI优先”的作战力量。这一声明标志着五角大楼在军事战略上的重大调整，将人工智能提升至未来军事行动的核心地位，旨在确保美国在全球军事技术竞争中保持领先优势，尤其是在应对新兴威胁和复杂战场环境方面。作为落实“AI优先”战略的关键一步，美国军方已与多家领先的科技公司签署了八份新合同，旨在大幅扩展其在人工智能领域的",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-01T21:09:52+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Trump says he will hike tariffs on EU cars to 25%",
+    "deck": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
+    "cnTitle": "特朗普扬言将欧盟汽车关税提至25%",
+    "cnDeck": "前美国总统唐纳德·特朗普近日公开表示，如果他再次当选，将对从欧盟进口的汽车征收高达25%的关税。这一声明在全球贸易界和汽车行业引发广泛关注。目前，美国对欧盟商品征收的关税水平为15%，该协议是去年七月谈判达成。特朗普此次提高关税的威胁，与他一贯坚持的“美国优先”贸易保护主义立场完全吻合。在他之前的总统任期内，",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-05-01T19:42:56+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Spotify adds 'Verified' badges to distinguish human artists from AI",
     "deck": "The music streaming platform will review criteria such as artists' live dates and social media presence.",
     "cnTitle": "Spotify推出认证徽章区分人类与AI艺术家",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T11:29:35+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Trump to remove whisky tariffs after King's visit",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-01T04:11:53+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-01T00:02:57+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:44:00+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:11:37+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:04:43+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-30T16:00:21+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-30T15:48:52+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-30T13:28:04+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,8 +206,7 @@
     "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
     "time": "1天前",
     "published_iso": "2026-04-30T11:10:39+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,72 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-    "deck": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-    "cnTitle": "美军或打击伊朗，油价创两年新高",
-    "cnDeck": "根据Axios的独家报道，美国中央司令部（US Central Command）已经制定了一项针对伊朗的“短而有力”（\"short and powerful\"）打击计划，并将向唐纳德·特朗普（Donald Trump）汇报新的对伊选项。这一消息立即在全球能源市场引发剧烈反应，国际油价飙升至自2022年以来的最高水平。这份由美军方准备的计划，详细阐述了旨在迅速削弱伊朗军事能力并发出强烈",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-30T04:06:01+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-    "deck": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
-    "cnTitle": "马斯克怒斥OpenAI律师设圈套",
-    "cnDeck": "埃隆·马斯克（Elon Musk）在针对萨姆·奥尔特曼（Sam Altman）和OpenAI的诉讼案审理进入第三天时，接受了对方律师的交叉盘问。在激烈的证词环节中，马斯克公开指控OpenAI的律师试图通过巧妙的问题设计来“欺骗”他，并多次声称对方律师的提问具有误导性。此次庭审的核心是马斯克于今年早些时候提起的诉讼，他指控OpenAI及其联合创始人奥尔特曼偏离了公司最初成立时“为全人类利益开发通用人工智能（AGI）而非盈利”的使命。马斯克在证词中重申，他曾是OpenAI的联合创始人，并在公司早期提供了大量资金支持，他认为OpenAI目前的运营模式，特别是其与微软（Microsoft）的紧密合作以及对盈利的追求，违背了其创始协议和非营利原则。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-29T23:18:08+00:00",
     "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Interest rates expected to be held as uncertainty over Iran war continues",
-    "deck": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
-    "cnTitle": "伊朗战事致利率前景不明",
-    "cnDeck": "全球金融市场正面临前所未有的不确定性，分析师普遍认为，各国央行对未来基准利率的调整前景变得难以预测，这主要源于持续升级的伊朗战争所带来的深远经济影响。这场地缘政治冲突不仅直接冲击了中东地区的稳定，其连锁反应正通过多个渠道渗透到全球经济体系中。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-29T23:01:04+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-    "deck": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
-    "cnTitle": "科米因涉嫌威胁特朗普生命而自首",
-    "cnDeck": "前联邦调查局局长詹姆斯·科米（James Comey）因被指控在社交媒体Instagram上发布威胁美国前总统唐纳德·特朗普（Donald Trump）生命安全的言论而自首。据检方透露，科米在Instagram上发布了一张据称是2025年的海贝照片，检察官认为这张照片是对特朗普发动暴力的暗号或号召。这一指控在当前美国政治极度两极分化的背景下显得尤为敏感和引人关注。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-29T20:24:48+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-    "deck": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
-    "cnTitle": "鲍威尔利率决议后谈地缘政治与通胀",
-    "cnDeck": "美联储主席杰罗姆·鲍威尔（Jerome Powell）在联邦公开市场委员会（FOMC）决定维持联邦基金利率不变后举行的新闻发布会上，就多项重要议题发表了看法。此次会议是鲍威尔作为美联储主席在利率决策方面的最后一次新闻发布会，其发言内容受到全球市场和政策制定者的高度关注，涉及对当前地缘政治局势的担忧、国内通胀前景以及美联储自身独立性的维护。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-29T20:01:26+00:00",
-    "id": "n20",
     "lead": false
   }
 ]
