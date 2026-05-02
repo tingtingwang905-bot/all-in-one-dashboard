@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Spirit Airlines shutting down after rescue talks collapse",
+    "deck": "The airline had been in talks with the Trump administration about a $500m bailout.",
+    "cnTitle": "精神航空停运 5亿美元救助落空",
+    "cnDeck": "美国廉价航空公司精神航空（Spirit Airlines）宣布将停止运营，此前该公司与当时的特朗普政府就一笔高达5亿美元的紧急财政援助进行的谈判宣告破裂。这一决定对美国航空业构成了重大冲击，预计将直接影响数百万旅客的出行计划，并导致数千名员工面临失业的困境。精神航空是美国主要的超低成本航空公司之一，以其具有竞争力的票价服务于广大消费者，尤其在休闲旅游市场占有显著份额。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-02T18:47:35+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
+    "deck": "The output increase will remain largely on paper as long as the U.S.-Iran war continues to disrupt Gulf oil supplies.",
+    "cnTitle": "欧佩克+计划增产 但战事恐致供应中断",
+    "cnDeck": "消息人士透露，尽管霍尔木兹海峡面临潜在的封锁和航运中断风险，石油输出国组织及其盟友（OPEC+）仍准备进一步提高石油产量配额。通常，此举旨在满足全球能源需求并稳定市场。然而，此次增产计划前景不甚明朗，因为美国与伊朗之间的持续冲突，严重扰乱了海湾地区的石油供应，使得产量增加在很大程度上可能只是纸上谈兵。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/02/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure.html",
+    "time": "4小时前",
+    "published_iso": "2026-05-02T15:18:09+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
     "deck": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
     "cnTitle": "美国计划从德国撤军5000人",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T08:14:09+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Trump claims other presidents flouted war powers law. It's a mixed record",
@@ -22,7 +50,21 @@
     "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-02T02:43:48+00:00",
-    "id": "n2",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Tech Now",
+    "deck": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
+    "cnTitle": "AI助力解开艺术史谜团",
+    "cnDeck": "哈丽特·布拉德肖（Harriet Bradshaw）最近深入探究了人工智能（AI）在解决艺术史谜团中的创新应用。她关注的焦点是一个长期困扰艺术史学家的悬案：一幅文艺复兴时期无名画作的真实作者身份。这幅画作被认为具有达·芬奇学派的风格，但由于缺乏确凿的文献证据，其归属一直未能确定。布拉德肖发现，一个由艺术史学家、数据科学家和计算机工程师组成的国际研究团队正在利用先进的AI技术来尝试解开这个谜团。该团队采用了一种多模态AI系统，该系统能够处理和分析海量的视觉及文本数据。在视觉分析方面，AI模型被训练用于识别和比较不同艺术家的独特笔触、颜料使用习惯、构图模式、光影处理以及对人体解剖学的理解。通过高分辨率扫描和X射线图像，AI能够检测到人眼难以察觉的细节，例如画作下层的草稿线、颜料层叠顺序以及修复痕迹。这些数据与数千幅已知作者的其他文艺复兴时期画作（包括达·芬奇及其学生的作品）进行对比分析，从而建立起复杂的风格指纹数据库。在文本数据方面，AI系统利用自然语言处理（NLP）技术，扫描和分析了大量的历史文献、艺术家书信、合同、手稿以及同时代评论。这些文献数据有时包含对特定画作、委托人或工作室实践的间接提及，AI能够从中提取出潜在的关联信息，并构建人物关系网络和作品流转路径。更进一步，AI还被用于分析画作的材料科学数据，例如木板类型、画布纤维结构、颜料的化学成分等，通过比对当时的技术和材料来源，为作品的地域和时间归属提供辅助证据。布拉德肖的调查显示，经过数月的模型训练和数据分析，AI系统已经初步识别出这幅无名画作与一位达·芬奇工作室中鲜为人知的学徒的风格高度吻合。虽然最终的结论仍需人类专家的进一步验证和历史文献的佐证，但AI的介入无疑为解决这一难题提供了前所未有的工具和视角。研究人员表示，AI的强大计算能力和模式识别能力，使其能够处理远超人类所能处理的数据量和复杂性，从而揭示出隐藏在历史迷雾中的联系和规律。哈丽特·布拉德肖在采访中引用了一位项目负责人玛丽亚·冈萨雷斯教授的话：“AI并非要取代人类艺术史学家，而是作为一种强大的辅助工具，扩展我们的认知边界。它能够帮助我们提出新的问题，发现新的线索，并以更客观、更系统的方式验证假设。”这项研究不仅有望为这幅画作找到真正的“父亲”，更重要的是，它展示了人工智能在人文社科领域，特别是在文化遗产保护和艺术史研究中的巨大潜力。它预示着未来AI将更广泛地应用于文物鉴定、艺术品修复、文化遗产数字化等领域，彻底改变我们理解和保护人类文化遗产的方式。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-05-02T01:00:00+00:00",
+    "is_new": true,
+    "id": "n5",
     "lead": false
   },
   {
@@ -35,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-02T00:41:43+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -48,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:44:05+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -61,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:23:33+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -74,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-01T21:09:52+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -87,7 +129,21 @@
     "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T19:42:56+00:00",
-    "id": "n7",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Exxon Mobil CEO expects higher oil prices due to Iran war: ‘The market hasn’t seen the full impact’",
+    "deck": "Oil prices have soared on the risk of escalation and then plunged on hopes for peace before repeating the cycle.",
+    "cnTitle": "埃克森美孚CEO预警伊朗战争将推高油价",
+    "cnDeck": "埃克森美孚（Exxon Mobil）首席执行官达伦·伍兹（Darren Woods）近期就全球原油市场前景发出警告，他表示，由于与伊朗相关的地缘政治紧张局势不断升级，预计国际油价将进一步走高。伍兹明确指出：“市场尚未看到全部影响”，这意味着当前油价的波动并未完全反映出中东冲突可能带来的长期和深远影响。作为全球最大的上市石油和天然气公司之一的掌舵人",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
+    "time": "1天前",
+    "published_iso": "2026-05-01T18:58:24+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -100,7 +156,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T17:03:11+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -113,7 +169,7 @@
     "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T16:23:13+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -126,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T11:29:35+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -139,7 +195,7 @@
     "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-05-01T10:12:57+00:00",
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -152,7 +208,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -165,7 +221,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -178,7 +234,7 @@
     "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-01T04:11:53+00:00",
-    "id": "n14",
+    "id": "n18",
     "lead": false
   },
   {
@@ -191,7 +247,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-01T00:02:57+00:00",
-    "id": "n15",
+    "id": "n19",
     "lead": false
   },
   {
@@ -204,7 +260,7 @@
     "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:44:00+00:00",
-    "id": "n16",
+    "id": "n20",
     "lead": false
   },
   {
@@ -217,7 +273,7 @@
     "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:11:37+00:00",
-    "id": "n17",
+    "id": "n21",
     "lead": false
   },
   {
@@ -230,7 +286,7 @@
     "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n18",
+    "id": "n22",
     "lead": false
   },
   {
@@ -243,7 +299,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n19",
+    "id": "n23",
     "lead": false
   },
   {
@@ -256,59 +312,6 @@
     "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-30T23:04:43+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Mortgages, bills and jobs: Five takeaways from the Bank of England",
-    "deck": "The Bank's latest meeting reveals some interesting details on how our finances might be affected due to the Iran war.",
-    "cnTitle": "英格兰银行会议分析伊朗战争影响",
-    "cnDeck": "英格兰银行在其最近一次会议上，深入探讨了伊朗战争对英国经济和普通民众财务状况可能产生的影响，并公布了多项值得关注的细节。此次会议的焦点之一是地缘政治紧张局势，特别是中东地区的伊朗冲突，如何通过多种渠道传导至英国国内经济。会议纪要和相关报告指出，英格兰银行的货币政策委员会（MPC）对全球能源市场可能面临的冲击表达了深切忧虑。伊朗作为重要的石油生产国，其周边地区的军事冲突加剧，可能导致原油价格飙升，从而直接推高英国的汽油和柴油价格，增加企业的运输成本和家庭的能源账单。银行的经济学家们分析认为，能源价格的波动是通胀前景面临的最大不确定性之一，并可能使通胀率更长时间地维持在目标之上。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-30T16:00:21+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Faisal Islam: The wide field of uncertainties facing the UK",
-    "deck": "The Bank tries to manage expectations over what outcomes are plausible if the Middle East conflict lasts several months.",
-    "cnTitle": "英央行关注中东冲突潜在影响",
-    "cnDeck": "英格兰银行正在积极评估中东地区冲突长期化可能对英国经济带来的广泛不确定性，尤其关注如果冲突持续数月，英国经济可能面临的具体风险和潜在结果。资深经济新闻记者Faisal Islam的报道强调，面对这一复杂的全球地缘政治局势，英格兰银行正努力管理市场预期，以清晰阐明多种 plausible 的经济情景。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-30T15:48:52+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Jim Cramer says Amazon going up another 15% and 'not stopping' there",
-    "deck": "CNBC's Jim Cramer explained why he's bullish on Amazon after the company delivered one of the strongest quarters he's seen.",
-    "cnTitle": "亚马逊股价将再涨15%",
-    "cnDeck": "吉姆·克拉默，这位CNBC知名财经节目“疯狂金钱”（Mad Money）的主持人兼市场评论员，近日对科技巨头亚马逊（Amazon）的股价表达了极其乐观的看法。克拉默指出，在他看来，亚马逊在最近一个季度交出了一份他所见过的“最强劲的”财报之一，这一卓越表现成为了他坚定看好亚马逊未来股价走势的核心原因。他预测亚马逊的股价不仅将进一步上涨15%，而且上涨势头将“不会停止”，暗示其增长潜力远不止于此。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/30/jim-cramer-says-amazon-going-up-another-15percent-and-not-stopping-there.html",
-    "time": "1天前",
-    "published_iso": "2026-04-30T15:37:56+00:00",
-    "is_new": true,
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Bank of England says rates could rise as Iran war fuels inflation",
-    "deck": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
-    "cnTitle": "伊朗战事或推高通胀",
-    "cnDeck": "英格兰银行近日宣布，其货币政策委员会投票决定将基准利率维持在3.75%的水平不变。这一决策是在全球经济面临多重不确定性，特别是中东地区地缘政治紧张局势不断升级的背景下做出的。该央行明确表示，正密切关注中东冲突可能带来的连锁反应，尤其是伊朗局势对全球通胀压力的潜在影响。英格兰银行在声明中指出，尽管当前的通胀数据显示出一定的回落迹象，但全球地缘政治冲突，尤其是与伊朗相关的战事，正在为通胀前景增添新的不确定性。央行警告称，如果中东地区的紧张局势进一步升级，导致国际能源价格，特别是原油价格大幅上涨，同时对全球供应链和航运线路造成干扰，这将可能再次推高英国的通胀水平。在此情况下，英格兰银行不排除在未来采取进一步加息措施的可能性，以确保通胀能够持续且稳定地回归到2%的目标。货币政策委员会在审议时，全面评估了英国国内的经济状况，包括劳动力市场数据、消费者支出以及商业投资等。尽管数据显示英国经济面临一定挑战，但整体韧性仍在。然而，外部风险被认为是当前影响政策决策的关键因素。委员会成员普遍认为，鉴于中东冲突的动态性和不确定性，维持现有利率水平不变，同时保持政策灵活性，是当前最审慎的做法。市场分析师对英格兰银行的这一决定及其前瞻性指引进行了广泛解读。许多分析师指出，央行此次声明传递出明确的鹰派信号，即尽管当前利率维持不变，但其对未来通胀风险的担忧显著上升，为进一步加息留下了空间。投资者普遍认为，未来几个月，全球油价和地缘政治进展将成为影响英格兰银行货币政策走向的重要变量。如果中东冲突未能得到有效控制，且对全球大宗商品市场产生持续影响，英格兰银行可能被迫采取更为激进的紧缩政策。此次决议也引发了对全球经济增长前景的担忧。中东地区的任何不稳定因素都可能通过能源市场和贸易渠道，对全球经济复苏构成威胁。英格兰银行的审慎立场，反映出主要央行在全球不确定性日益增加的环境中，在抑制通胀和支持经济增长之间寻求平衡的挑战。未来数月，全球市场将密切关注中东局势的演变及其对全球通胀和货币政策的影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-30T15:02:26+00:00",
     "id": "n24",
     "lead": false
   }
