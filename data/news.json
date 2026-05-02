@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T08:14:09+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-02T02:43:48+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-02T00:41:43+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:44:05+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:23:33+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -105,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T17:03:11+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -119,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T16:23:13+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -146,7 +139,6 @@
     "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-05-01T10:12:57+00:00",
-    "is_new": true,
     "id": "n11",
     "lead": false
   },
@@ -294,6 +286,20 @@
     "lead": false
   },
   {
+    "headline": "Jim Cramer says Amazon going up another 15% and 'not stopping' there",
+    "deck": "CNBC's Jim Cramer explained why he's bullish on Amazon after the company delivered one of the strongest quarters he's seen.",
+    "cnTitle": "亚马逊股价将再涨15%",
+    "cnDeck": "吉姆·克拉默，这位CNBC知名财经节目“疯狂金钱”（Mad Money）的主持人兼市场评论员，近日对科技巨头亚马逊（Amazon）的股价表达了极其乐观的看法。克拉默指出，在他看来，亚马逊在最近一个季度交出了一份他所见过的“最强劲的”财报之一，这一卓越表现成为了他坚定看好亚马逊未来股价走势的核心原因。他预测亚马逊的股价不仅将进一步上涨15%，而且上涨势头将“不会停止”，暗示其增长潜力远不止于此。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/30/jim-cramer-says-amazon-going-up-another-15percent-and-not-stopping-there.html",
+    "time": "1天前",
+    "published_iso": "2026-04-30T15:37:56+00:00",
+    "is_new": true,
+    "id": "n23",
+    "lead": false
+  },
+  {
     "headline": "Bank of England says rates could rise as Iran war fuels inflation",
     "deck": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
     "cnTitle": "伊朗战事或推高通胀",
@@ -303,47 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-30T15:02:26+00:00",
-    "is_new": true,
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI tells ChatGPT models to stop talking about goblins",
-    "deck": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\".",
-    "cnTitle": "OpenAI修正ChatGPT模型行为",
-    "cnDeck": "OpenAI 近日宣布，已采取措施指示其 ChatGPT 模型停止生成与“哥布林”（goblins）相关的话题内容。这一举动表明，即使是先进的人工智能模型，在内容生成方面也可能出现细微且难以察觉的问题。OpenAI 方面指出，与以往一些模型错误不同，这次的问题是“悄然渗透进来”（crept in subtly），暗示了其发现和解决的复杂性。对于 OpenAI 这样的领先 AI 公司而言，其核心产品 ChatGPT 的行为和输出内容的准确性、安全性及合规性至关重要。模型的每次迭代和更新都旨在提供更可靠、更有益的用户体验。此次针对“哥布林”话题的调整，虽然看似具体且略显奇特，但实际上反映了大型语言模型（LLMs）在内容控制和行为校准方面持续面临的挑战。这类问题可能源于训练数据中的偏见、模型在特定提示下的非预期联想，或是内部安全过滤机制的漏洞。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-04-30T13:28:04+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
-    "deck": "See which stocks are posting big moves after the bell.",
-    "cnTitle": "科技巨头盘后股价巨幅波动引发市场关注",
-    "cnDeck": "在周三晚间的盘后交易中，数家全球领先的科技巨头，包括Alphabet (谷歌母公司)、微软、亚马逊和Meta (脸书母公司)等，其股价均出现了显著波动，迅速成为市场焦点。这种盘后异动通常预示着公司发布了超出或低于市场预期的重大财报或其他重要声明，引发了投资者对科技板块未来走势的广泛讨论。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
-    "time": "1天前",
-    "published_iso": "2026-04-30T11:10:39+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
-    "deck": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
-    "cnTitle": "Meta千名审核员被解雇引发劳务风波",
-    "cnDeck": "社交媒体巨头Meta正因一起涉及其智能眼镜内容审核员的大规模裁员事件，与一家位于肯尼亚的分包商陷入劳务纠纷。据报道，超过1000名肯尼亚员工此前受雇于该分包商，负责对Meta智能眼镜用户生成的内容进行审核，以确保其符合Meta的社区准则。然而，这些被解雇的员工声称，他们之所以失业，是因为他们在工作中被迫观看了由智能眼镜用户录制的大量私密性行为内容，这不仅对他们的心理健康造成了严重影响，也引发了他们对公司未能提供足够支持的强烈不满。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-30T08:59:35+00:00",
-    "id": "n26",
     "lead": false
   }
 ]
