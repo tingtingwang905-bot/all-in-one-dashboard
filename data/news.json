@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+    "deck": "Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
+    "cnTitle": "航空公司可提前取消航班以应对燃油短缺",
+    "cnDeck": "某国政府近日宣布一项新计划，允许航空公司在夏季来临前，提前取消可能因燃油短缺而受影响的航班。此举旨在应对中东地区燃油供应可能出现的不确定性，以避免在夏季旅游高峰期出现大量临时航班取消，从而减少给旅客带来的不便和潜在经济损失。这项新政策的出台，反映了政府对全球能源市场波动，特别是中东地缘政治紧张局势可能对航空燃油供应链造成冲击的深切担忧",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-05-02T21:35:09+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Spirit Airlines shutting down after rescue talks collapse",
     "deck": "The airline had been in talks with the Trump administration about a $500m bailout.",
     "cnTitle": "精神航空停运 5亿美元救助落空",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T18:47:35+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
@@ -23,8 +36,21 @@
     "url": "https://www.cnbc.com/2026/05/02/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure.html",
     "time": "4小时前",
     "published_iso": "2026-05-02T15:18:09+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "US threatens shipping firms with sanctions if they pay Iran tolls",
+    "deck": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+    "cnTitle": "美国警告制裁向伊朗支付通行费公司",
+    "cnDeck": "美国政府已向全球航运公司发出严厉警告，威胁称如果它们向伊朗支付任何形式的通行费，美国将对其施加制裁。这一警告是美国对伊朗“最大压力”政策的进一步升级，旨在切断伊朗政权的重要收入来源。美国长期以来一直指责伊朗利用其在战略水域，特别是霍尔木兹海峡的控制权征收通行费，并利用这些资金资助其被美国视为“恶意”的地区活动及其他计划。此",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-05-02T14:18:14+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T08:14:09+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-02T02:43:48+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -63,8 +89,7 @@
     "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-02T01:00:00+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -77,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-02T00:41:43+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -90,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:44:05+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -103,7 +128,21 @@
     "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:23:33+00:00",
-    "id": "n8",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
+    "deck": "The Bank of England's latest report reveals some interesting details on how our finances will be affected due to the Iran war.",
+    "cnTitle": "英格兰银行详述伊朗战争经济冲击",
+    "cnDeck": "英格兰银行最新报告深入剖析了伊朗战争可能对英国乃至全球经济金融产生的影响，特别强调了对普通民众在抵押贷款、就业市场和能源账单方面造成的挑战。报告指出，中东地区任何重大地缘政治冲突，尤其是涉及主要产油国伊朗的冲突，都将对全球能源供应和价格造成显著冲击。英格兰银行预计，一旦伊朗战争爆发或升级，国际原油和天然气价格将大幅飙升，直接导致英国居民能源账单",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-01T21:16:44+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -116,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-01T21:09:52+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -129,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T19:42:56+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -142,8 +181,7 @@
     "url": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
     "time": "1天前",
     "published_iso": "2026-05-01T18:58:24+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -156,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T17:03:11+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -169,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T16:23:13+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -182,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T11:29:35+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -195,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-05-01T10:12:57+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -208,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-01T07:52:56+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -221,98 +259,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-01T05:58:20+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-    "deck": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
-    "cnTitle": "缅甸军方称昂山素季已从监狱转为软禁",
-    "cnDeck": "缅甸军方近日宣布，诺贝尔和平奖得主、缅甸前国务资政昂山素季（Aung San Suu Kyi）已从监狱被转移至软禁状态。这一消息由缅甸国家管理委员会（State Administration Council）发言人绍敏通（Zaw Min Tun）少将对外公布，并迅速在全球范围内引起广泛关注。昂山素季自2021年2月1日军事政变以来，一直被军方拘禁",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-01T04:11:53+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "China scraps tariffs for all but one African nation",
-    "deck": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-    "cnTitle": "中国对非洲大部分国家实施零关税",
-    "cnDeck": "中国宣布对除一个非洲国家之外的所有非洲国家实施零关税制度，此举被视为中国深化与非洲大陆经济合作和提升其软实力的重大举措。这一全面性的关税减免政策将覆盖非洲40多个最不发达国家，涉及范围广泛的出口商品，旨在促进非洲商品进入中国市场，从而推动非洲经济的多元化和工业化进程。分析人士指出，尽管零关税政策将为非洲经济带来新的增长机遇，但其效益可能在不同国家和地区之间呈现不均衡。一些具有更完善基础设施和更具竞争力的出口产业的国家，例如那些已经拥有较强农业产品或矿产出口能力的国家，将可能从这项政策中获得更大的益处。而另一些经济结构较为单一、出口能力相对薄弱的国家，则可能在短期内难以充分利用这一政策优势。此次零关税政策的实施，是中国长期以来对非合作战略的延续和升级。自2000年成立中非合作论坛（FOCAC）以来，中国与非洲的贸易额持续增长，中国已成为非洲最大的贸易伙伴。通过取消关税，中国旨在进一步巩固其在非洲的经济影响力，并增强其在国际舞台上的“软实力”。此举有助于提升中国作为非洲发展可靠伙伴的国际形象，同时也能为中国企业在非洲的投资和市场拓展创造更加有利的条件。然而，专家也提醒，零关税政策的成功实施需要非洲国家自身的配套改革。例如，提高产品质量标准、改善物流和贸易便利化环境、加强生产能力建设等，都是确保非洲出口商能够有效利用这项政策的关键因素。此外，也有批评声音担忧，过度依赖对华出口可能使非洲经济面临新的风险，例如在初级产品价格波动时受到冲击，或加剧一些国家对单一市场的依赖。长期来看，这项政策的最终效果将取决于非洲各国如何抓住机遇，以及中国如何平衡其自身利益与非洲的可持续发展需求。总而言之，这项零关税政策无疑是中非关系中的一个里程碑，预示着未来双边贸易和投资将进入一个新阶段，但其深远影响仍需时间来观察和评估。它将重塑部分全球贸易格局，并在一定程度上影响其他主要贸易伙伴对非洲的政策考量。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-05-01T00:02:57+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Venice Biennale jury resigns days before start of top art exhibition",
-    "deck": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-    "cnTitle": "威尼斯双年展评审因俄罗斯参展辞职",
-    "cnDeck": "在威尼斯双年展这一全球顶尖艺术盛会开幕前夕，其评审团突然集体辞职，距离原定开幕时间仅剩数日。这一戏剧性事件的导火索是围绕俄罗斯自全面入侵乌克兰以来首次获准参展所引发的日益加剧的紧张局势。威尼斯双年展作为国际艺术界最具影响力的平台之一，长期以来是展示全球当代艺术趋势、促进文化交流的重要窗口。然而，自2022年2月俄罗斯全面入侵乌克兰以来，国际社会对俄罗斯实施了广泛的政治、经济和文化制裁。在此背景下，许多国际组织、文化机构和体育赛事纷纷暂停或禁止俄罗斯的参与，以示抗议并表达对乌克兰的支持。俄罗斯此次获准重返威尼斯双年展，被部分艺术家、策展人及国际观察家解读为文化领域对俄罗斯的“正常化”姿态，这与当前国际社会对俄罗斯的普遍谴责形成鲜明对比。评审团的辞职正是对这种“正常化”趋势的强烈抵制和抗议。据消息人士透露，评审团内部就俄罗斯参展问题存在严重分歧，部分成员认为在俄乌冲突仍在持续、乌克兰人民遭受深重苦难之际，允许俄罗斯以官方身份参展，将是对受害者的一种不尊重，并可能被解读为对侵略行为的默许。他们坚持认为，艺术不应脱离现实政治背景，尤其是在涉及人道主义危机和国家主权的问题上，文化机构有责任表明立场。评审团的集体辞职无疑给即将开幕的双年展蒙上了一层阴影，其不仅可能影响到本届双年展的评选公正性和权威性，更引发了关于艺术与政治界限的广泛讨论。这一事件凸显了在当前复杂国际局势下，文化机构在处理涉及主权冲突和人道主义危机议题时所面临的巨大压力和道德困境。有分析指出，此举可能促使更多艺术家和文化团体重新审视他们在类似国际事件中的参与立场，并可能导致未来国际文化交流活动中出现更多因政治敏感性而引发的争议。双年展的组织者目前正面临巨大的压力，需要尽快寻找解决方案，以确保展览能够顺利进行，并尽量平息由此带来的负面影响。这一事件也再次提醒国际社会，俄乌战争的影响已远远超出军事和经济领域，深入渗透到文化、艺术等各个层面，不断挑战着全球性的价值观和伦理准则。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-30T23:44:00+00:00",
     "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Will AI lead to more accurate opinion polls?",
-    "deck": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
-    "cnTitle": "AI能否提升民意调查准确性？",
-    "cnDeck": "随着人工智能（AI）技术的快速发展和广泛应用，各行各业都在探索其潜力，民意调查领域也不例外。目前，利用AI技术收集民众意见已成为一个备受关注的新趋势，其最显著的优势体现在能够以更低的成本和更快的速度完成数据收集过程。传统民意调查方法，无论是电话调查、在线问卷还是面对面访谈，都面临着高昂的人力、时间成本以及潜在的执行效率问题。AI通过自动化问卷分发、智能文本分析、语音识别转录以及数据整合等功能，极大地提升了效率并降低了运营开支。例如，AI驱动的聊天机器人可以在短时间内与大量受访者进行互动，同时处理和分析海量的开放式回答，这是传统人工分析难以企及的。这种效率的提升对于需要快速响应和大规模数据收集的场景尤其具有吸引力。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-30T23:11:37+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Fertiliser boss says war puts 10 billion meals a week at risk",
-    "deck": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-    "cnTitle": "伊朗冲突威胁全球粮食安全",
-    "cnDeck": "全球领先的作物营养解决方案提供商Yara的总裁近日发出严厉警告，指出由于与伊朗相关的冲突，全球正面临严重的化肥短缺危机。这位负责人强调，如果这一短缺状况持续下去，全球作物产量将大幅下降，进而导致食品价格飙升，每周可能有多达100亿份餐食面临供应中断的风险。Yara总裁的言论凸显了地缘政治紧张局势对全球粮食安全的直接且深远的威胁。化肥是现代农业生产中不可或缺的关键投入，其供应稳定性直接关系到全球农作物的生长和收成。氮、磷、钾等主要化肥成分的生产和运输，高度依赖于能源供应（尤其是天然气）以及全球物流链的畅通。伊朗作为重要的能源生产国和地缘战略要地，任何与其相关的冲突或不稳定性，都可能扰乱这些关键资源的生产和国际贸易流通，进而影响化肥的全球供应。当前，全球农业系统已经面临气候变化、水资源短缺等多重挑战。化肥短缺无疑将进一步加剧粮食供应的脆弱性。当农民无法获得足够的化肥时，土壤肥力将下降，导致谷物、蔬菜等主要农作物的单位面积产量显著减少。这不仅会减少可供人类消费的食物总量，还将推高农产品生产成本，最终以更高的零售价格转嫁给消费者。对于低收入国家和地区而言，食品价格的上涨可能引发严重的粮食危机和人道主义灾难，加剧饥饿和贫困问题。Yara总裁特别提到的“每周100亿份餐食面临风险”，是一个惊人的数字，旨在引起国际社会对潜在粮食危机的紧迫关注。这一数字直观地反映了全球数亿甚至数十亿人口的日常温饱可能因化肥供应问题而受到威胁。分析人士指出，虽然具体冲突细节未被披露，但这一警告无疑是对全球供应链韧性和地缘政治风险管理能力的一次严峻考验。国际社会需要密切关注事态发展，并寻求通过外交途径缓解地区紧张局势，确保关键农产品投入品的稳定供应，以避免一场可能波及全球的粮食危机。该警告也提醒各国政府和国际组织，应加强农业供应链的多元化和本地化建设，减少对单一地区或资源的过度依赖，从而提升全球粮食系统的抗风险能力。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-30T23:08:09+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
-    "deck": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
-    "cnTitle": "未偿债务法院判决激增，反映经济压力",
-    "cnDeck": "最新数据显示，今年第一季度，与去年同期相比，针对未偿债务的县法院判决（County Court Judgements, CCJs）数量激增了17.5%。这一显著增长反映出个人和家庭所面临的日益加剧的财务困境。县法院判决是一种法律裁定，通常在债权人通过法庭追讨欠款时作出，旨在强制债务人履行还款义务。判决数量的上升表明，越来越多的人难以按时偿还贷款",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-30T23:07:00+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-    "deck": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
-    "cnTitle": "苹果CEO库克将卸任，结束十五载掌舵",
-    "cnDeck": "苹果公司（Apple Inc.）近日发布重磅消息，其掌舵人、首席执行官蒂姆·库克（Tim Cook）在执掌公司长达15年之后，正准备卸任，并将领导权正式移交给约翰·特努斯（John Ternus）。这一变动标志着这家全球科技巨头将迎来一次重要的领导层更迭，引发业界广泛关注。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-30T23:04:43+00:00",
-    "id": "n24",
     "lead": false
   }
 ]
