@@ -1,5 +1,19 @@
 [
   {
+    "headline": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
+    "deck": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
+    "cnTitle": "阿联酋退出欧佩克或冲击全球油市",
+    "cnDeck": "阿联酋（UAE）作为全球重要的石油生产国，其与石油输出国组织（OPEC）的关系及其可能退出该组织的讨论，在全球能源市场和地缘政治格局中引发了广泛关注。英国广播公司（BBC）发布了一系列图表分析，深入探讨了阿联酋一旦脱离欧佩克，将对这一卡特尔组织乃至全球石油市场产生的深远影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-03T12:06:34+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit - Bloomberg.com",
     "deck": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "阿联酋意外退出后OPEC+寻求团结",
@@ -9,9 +23,8 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjhET0RSUFJSdHYwXzd0dU9UbzdvTmNrTUFHOHM4WDZrdFQ2VGRWMF9ZN3RCTnRfUUREcExRVGs5cUFVUVpKNklpVnV4cGFNOVR6LXp1UVVBNnpHNHdlZjEwSFVxV1JWODM4dWhKX0kyQzcza2p3dnNqaWstaXNZN3F4RVdSNGZYT3d3bjhPNmlLeERIQmhEWWlBbGxLeXZlUkFlLU1ZWHdPX2pwcFN4a0VpN3M?oc=5",
     "time": "1小时前",
     "published_iso": "2026-05-03T07:00:00+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-03T04:09:34+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:19:27+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:17:17+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -65,8 +75,7 @@
     "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:07:35+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -79,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-02T21:35:09+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -92,8 +101,7 @@
     "url": "https://www.cnbc.com/2026/05/02/warren-buffett-berkshire-hathaway-annual-meeting-2026-live-updates.html",
     "time": "13小时前",
     "published_iso": "2026-05-02T19:02:23+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -106,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T18:47:35+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -119,8 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:55:06+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -133,8 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:53:07+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -147,8 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-02T16:51:18+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -161,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/05/02/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure.html",
     "time": "4小时前",
     "published_iso": "2026-05-02T15:18:09+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -174,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T14:18:14+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -187,8 +192,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGpGRjBIVThnc2VZUDNjcmttWUdfQnh6bTQyMWl1djIwOFJ5RGtXZk5EN1FubUYwZ1J4a2hMQnBkcGszNUdkaGhEcGxHdHFYS1gtZjNQWFFGSzIybU0tQUFRY1ZmWm5Ob0JZRmZ5b3dia0FCQzMtdDFkeTFvRjFTdkdJbHljNWdFaWhOckg5Y2xnMmQxdUZscGZnMVR6YmszVUxSeDJnMEttYVk0VXg0YWZTTQ?oc=5",
     "time": "1天前",
     "published_iso": "2026-05-02T08:43:00+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -201,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T08:14:09+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -214,8 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-02T05:02:14+00:00",
-    "is_new": true,
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -228,8 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-02T04:57:02+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -242,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-02T02:43:48+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -255,7 +257,7 @@
     "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-02T01:00:00+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -268,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-02T00:41:43+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -281,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:44:05+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -294,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-01T21:23:33+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -307,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-01T21:16:44+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -320,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-01T21:09:52+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -333,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-01T19:42:56+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -346,7 +348,7 @@
     "url": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
     "time": "1天前",
     "published_iso": "2026-05-01T18:58:24+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -359,7 +361,7 @@
     "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T17:03:11+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -372,61 +374,7 @@
     "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-01T16:23:13+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
-    "deck": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-    "cnTitle": "战争致化肥短缺 雅苒高管警告粮食危机",
-    "cnDeck": "全球领先的作物营养解决方案提供商雅苒公司（Yara International ASA）的一位高级主管日前发出严峻警告，指出由于与伊朗相关的冲突可能导致全球化肥供应出现严重短缺，这将对全球粮食安全造成灾难性影响。这位高管强调，一旦化肥供应中断或大幅减少，“数十亿人的膳食正面临风险”，这凸显了当前地缘政治紧张局势对全球经济和民生可能带来的深远冲击。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-01T13:12:10+00:00",
-    "is_new": true,
     "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-    "deck": "The music streaming platform will review criteria such as artists' live dates and social media presence.",
-    "cnTitle": "Spotify推出认证徽章区分人类与AI艺术家",
-    "cnDeck": "全球领先的音乐流媒体平台Spotify宣布，为应对日益增长的人工智能（AI）生成音乐内容所带来的挑战，公司将引入一套新的“认证”（Verified）徽章系统。该系统旨在明确区分由人类艺术家创作和表演的音乐与完全由AI技术生成的音乐作品。此举被视为Spotify在维护平台内容真实性、保护艺术家权益以及确保听众体验方面迈出的重要一步。据Spotify官方透露，为了获得“认证”徽章，艺术家需要满足一系列严格的审核标准。这些标准将包括但不限于艺术家的现场演出日期记录、在各大社交媒体平台上的活跃度和影响力、与唱片公司或发行商的合作关系、以及其他能够证明其真实人类身份和艺术创作过程的证据。通过对这些多元化指标的综合评估，Spotify希望能够建立一个可靠的验证机制，帮助用户识别音乐作品背后的创作者属性。当前，AI技术在音乐创作领域的应用正呈现爆炸式增长，从歌曲创作、编曲到声音合成，AI工具的能力不断增强。这股趋势虽然为音乐创作带来了新的可能性和效率提升，但也引发了一系列复杂的问题和争议。其中最核心的挑战包括：如何界定AI作品的版权归属？AI生成内容是否会对人类艺术家的创作空间和商业利益造成冲击？以及，在大量AI音乐涌入市场的情况下，听众如何辨别和信任自己所听到的音乐？Spotify此番推出“认证”徽章正是对这些行业性挑战的积极回应。通过为人类艺术家提供一个清晰的识别标志，Spotify旨在强化其作为原创音乐和真实艺术表达平台的形象。这不仅有助于消费者做出更明智的选择，也向人类创作者传递了一个明确信号：他们的作品和贡献在平台上得到了认可和优先展示。此举还有助于遏制潜在的AI滥用行为，例如未经授权地使用艺术家声音或风格进行AI创作，从而保护艺术家的数字身份和声誉。业界分析人士指出，Spotify的这一政策预示着数字内容平台在AI时代管理和审核内容的未来趋势。随着AI技术在各个创意领域的渗透，从文学、视觉艺术到电影制作，平台方将面临越来越大的压力，需要制定更细致、更透明的规则来区分人类创作与机器生成内容。这不仅仅是技术上的挑战，更涉及到文化、伦理和商业模式的深层考量。Spotify此举预计将对其平台上数百万艺术家产生广泛影响，特别是那些依赖平台进行推广和收入的人类创作者。同时，它也将促使AI音乐创作者和开发者重新思考其作品在平台上的定位和展示方式。未来，如何平衡AI创新的潜力与人类创作的价值，将是所有数字内容平台必须长期探索的课题。Spotify的“认证”徽章系统，无疑是这场探索中的一个重要里程碑，它标志着科技巨头开始采取具体措施，以应对AI对创意产业带来的深刻变革。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-05-01T11:29:35+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-    "deck": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-    "cnTitle": "以色列拦截加沙援助船队引各方反应",
-    "cnDeck": "以色列军方日前在国际水域拦截了由“全球萨穆德船队”（Global Sumud Flotilla）组织的一支载有人道主义援助物资的船队，该船队旨在突破对加沙地带的长期封锁。此次事件迅速引发国际关注。以色列官方声明显示，除两名活动人士外，所有船上人员均已被释放并送往希腊。然而，事件的性质和合法性引发了双方截然不同的论述。 “全球",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-    "time": "22小时前",
-    "published_iso": "2026-05-01T10:12:57+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Apple says iPhone 17 'most popular ever' as sales soar",
-    "deck": "The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm.",
-    "cnTitle": "苹果iPhone 17销量创纪录 库克将卸任",
-    "cnDeck": "苹果公司近期宣布，其最新产品iPhone 17系列自发布以来取得了“史上最受欢迎”的销售业绩，销量一路飙升，远超市场预期。这一创纪录的销售表现不仅巩固了苹果在全球智能手机市场的领导地位，也再次证明了其在产品创新和品牌影响力方面的强大实力。iPhone 17的成功被普遍归因于其在硬件设计、处理器性能、摄像头技术以及电池续航等方面的显著提升。分析师指出，尽管全球智能手机市场面临诸多挑战，包括消费者换机周期延长和新兴市场竞争加剧，但苹果凭借其独特的生态系统优势和持续的技术创新，成功激发了消费者的购买热情。特别是，iPhone 17在人工智能集成方面的进步，例如更智能的Siri功能、增强的图像处理算法以及更加个性化的用户体验，吸引了大量追求前沿科技的消费者。此外，苹果强大的品牌忠诚度以及遍布全球的零售和服务网络，也为其新产品的热销提供了坚实保障。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-01T09:33:43+00:00",
-    "is_new": true,
-    "id": "n32",
     "lead": false
   }
 ]
