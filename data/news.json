@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+    "deck": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+    "cnTitle": "南非排外暴力致尼日利亚撤侨",
+    "cnDeck": "南非近期爆发了一系列针对外国移民的抗议活动，其中一些已经演变为暴力事件。面对日益严峻的局势，尼日利亚政府周三宣布，计划撤回所有在南非愿意离开的本国公民。这一决定是对南非境内持续数周的反移民情绪和相关暴力行为的回应。此次暴力浪潮主要集中在南非的多个城市，包括约翰内斯堡和比勒陀利亚。据报道，当地居民针对外国移民，尤其是来自其他非洲国家的移民，举行了大规模示威。抗议者指责外国移民抢占当地就业机会、从事非法活动，并加剧了南非的犯罪问题。然而，这些抗议活动很快升级，演变成针对外国移民及其经营商店的袭击。包括尼日利亚在内的多个非洲国家的公民在南非拥有的商铺遭到洗劫和焚烧，人员也面临人身安全威胁。有报告指出，暴力事件中出现了人员伤亡和大量财产损失。尼日利亚外交部在一份声明中表示，对南非境内针对外国公民的暴力行为深感担忧。声明强调，尼日利亚公民的人身和财产安全是政府的首要任务。鉴于当地局势的持续恶化和不断升级的暴力，尼日利亚政府决定，将采取措施组织撤侨行动，帮助那些在南非感到不安全并希望返回尼日利亚的公民。尼日利亚驻南非大使馆和领事馆正在与南非当局密切合作，以确保撤侨工作的顺利进行，并为有需要的公民提供必要的协助，包括旅行证件和交通安排。尼日利亚政府已呼吁在南非的本国公民保持冷静，避免前往冲突区域，并向使领馆登记，以便政府能够更好地协调撤侨事宜。南非总统府也发表声明，强烈谴责针对外国公民的暴力行为，并承诺将采取一切必要措施，恢复法律和秩序，保护所有在南非居住的人员，无论其国籍。南非警方已在多个热点地区增派警力，试图控制局势，并逮捕了一些参与暴力和抢劫的嫌疑人。然而，鉴于这些暴力事件的周期性发生，国际社会对南非当局能否有效解决深层次的排外情绪和相关社会经济问题表示担忧。此类排外暴力在南非并非首次出现。该国历史上曾多次发生针对外国移民的袭击，其根源在于高失业率、贫困和不平等等复杂的社会经济问题。一些当地居民将经济困境归咎于外国移民，认为他们是导致本地人失业和资源短缺的原因。这种观点往往被政治人物利用，加剧了社会分裂。此次事件再次凸显了南非在解决内部社会矛盾和促进民族融合方面面临的挑战。此次撤侨计划无疑将对尼日利亚和南非之间的外交关系产生影响。两国都是非洲大陆的重要力量，其双边关系的任何紧张都可能对地区稳定产生连锁反应。非洲联盟和其他区域组织已呼吁南非政府确保所有居民的安全，并敦促各方通过对话解决分歧，避免进一步的暴力升级。国际人权组织也对此类暴力事件表示关切，并呼吁南非政府采取更强有力的措施，打击仇外情绪和歧视行为，并对肇事者绳之以法。此次危机不仅是对南非社会治理能力的考验，也是对非洲国家内部团结和区域合作的挑战。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-04T09:06:11+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Stock futures mixed as investors monitor latest in U.S.-Iran developments: Live updates",
+    "deck": "The S&amp;P 500 and Nasdaq Composite are coming off of a solid week, having notched fresh records on Friday.",
+    "cnTitle": "美股期货盘整 美伊局势受关注",
+    "cnDeck": "美股期货周一开盘涨跌互现，投资者正密切关注美国与伊朗之间不断发展的局势。这一局面在很大程度上影响着全球金融市场的风险情绪和战略布局。此前，标准普尔500指数和纳斯达克综合指数刚刚经历了强劲的一周，并在上周五创下了新的历史记录。这一积极势头主要得益于市场对人工智能（AI）技术前景的乐观情绪、部分科技巨头超出预期的财报表现，以及对美联储未来货币政策走向的谨慎乐观预期。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
+    "time": "刚刚",
+    "published_iso": "2026-05-04T09:05:27+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Samsung family pays off record $8bn inheritance tax bill",
+    "deck": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in  October 2020.",
+    "cnTitle": "三星家族清偿创纪录80亿遗产税",
+    "cnDeck": "三星家族近日确认，已全额支付了与已故会长李健熙遗产相关的创纪录80亿美元（约合10.8万亿韩元）遗产税。这笔巨额税款源于李健熙先生于2020年10月去世后留下的庞大遗产。李健熙生前将三星集团打造成为全球顶级的科技巨头，其遗产包括在三星电子、三星人寿、三星物产等核心子公司的巨额股份，",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-05-04T04:24:22+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "GameStop makes $55.5bn takeover offer for eBay",
     "deck": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
     "cnTitle": "GameStop斥资555亿美元收购eBay",
@@ -9,9 +51,36 @@
     "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-04T02:22:34+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Who shot a Secret Service officer at the Trump press dinner?",
+    "deck": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+    "cnTitle": "特勤局人员在特朗普晚宴上中枪",
+    "cnDeck": "这起事件涉及一名特勤局人员，发生在一场“特朗普记者晚宴”期间，此类活动通常会有重要的政治人物和媒体参加。尽管有关枪击事件的具体细节仍在调查中，但由于联邦执法机构——负责保护国家领导人的特勤局——的介入，以及一名警官中枪的严重性，该事件引起了广泛关注。与一名嫌疑人相关的法庭文件，在此阶段并未明确指控该特定嫌疑人开枪击中了这名警官。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-05-03T17:29:13+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+    "deck": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+    "cnTitle": "乌克兰袭击俄油轮 俄军反击致10人亡",
+    "cnDeck": "根据最新报道，乌克兰境内多地发生俄罗斯军事袭击，已造成至少10人死亡。与此同时，乌克兰总统弗拉基米尔·泽连斯基表示，乌克兰武装部队已成功袭击了为俄罗斯提供石油运输服务的“影子舰队”中的多艘油轮，以及一处重要的石油运输终端。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+    "time": "19小时前",
+    "published_iso": "2026-05-03T13:43:20+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
@@ -23,7 +92,21 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-03T12:06:34+00:00",
-    "id": "n2",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+    "deck": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war.",
+    "cnTitle": "伊朗战争致美国原油出口创新高",
+    "cnDeck": "“伊朗战争”的爆发给中东地区这个全球最大的原油产地带来了严重的供应中断，极大地改变了全球原油市场的动态。作为回应，美国的原油出口正在经历前所未有的繁荣，达到了历史最高水平。大量油轮正涌向美国墨西哥湾沿岸，以满足全球市场对替代原油供应来源的迫切需求。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
+    "time": "22小时前",
+    "published_iso": "2026-05-03T11:08:46+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -36,7 +119,7 @@
     "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-03T09:52:06+00:00",
-    "id": "n3",
+    "id": "n9",
     "lead": false
   },
   {
@@ -49,7 +132,7 @@
     "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-03T08:41:23+00:00",
-    "id": "n4",
+    "id": "n10",
     "lead": false
   },
   {
@@ -62,7 +145,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjhET0RSUFJSdHYwXzd0dU9UbzdvTmNrTUFHOHM4WDZrdFQ2VGRWMF9ZN3RCTnRfUUREcExRVGs5cUFVUVpKNklpVnV4cGFNOVR6LXp1UVVBNnpHNHdlZjEwSFVxV1JWODM4dWhKX0kyQzcza2p3dnNqaWstaXNZN3F4RVdSNGZYT3d3bjhPNmlLeERIQmhEWWlBbGxLeXZlUkFlLU1ZWHdPX2pwcFN4a0VpN3M?oc=5",
     "time": "1小时前",
     "published_iso": "2026-05-03T07:00:00+00:00",
-    "id": "n5",
+    "id": "n11",
     "lead": false
   },
   {
@@ -75,7 +158,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-03T04:09:34+00:00",
-    "id": "n6",
+    "id": "n12",
     "lead": false
   },
   {
@@ -88,7 +171,7 @@
     "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:19:27+00:00",
-    "id": "n7",
+    "id": "n13",
     "lead": false
   },
   {
@@ -101,7 +184,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:17:17+00:00",
-    "id": "n8",
+    "id": "n14",
     "lead": false
   },
   {
@@ -114,7 +197,7 @@
     "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:07:35+00:00",
-    "id": "n9",
+    "id": "n15",
     "lead": false
   },
   {
@@ -127,7 +210,7 @@
     "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-02T21:35:09+00:00",
-    "id": "n10",
+    "id": "n16",
     "lead": false
   },
   {
@@ -140,7 +223,7 @@
     "url": "https://www.cnbc.com/2026/05/02/warren-buffett-berkshire-hathaway-annual-meeting-2026-live-updates.html",
     "time": "13小时前",
     "published_iso": "2026-05-02T19:02:23+00:00",
-    "id": "n11",
+    "id": "n17",
     "lead": false
   },
   {
@@ -153,7 +236,7 @@
     "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T18:47:35+00:00",
-    "id": "n12",
+    "id": "n18",
     "lead": false
   },
   {
@@ -166,7 +249,7 @@
     "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:55:06+00:00",
-    "id": "n13",
+    "id": "n19",
     "lead": false
   },
   {
@@ -179,7 +262,7 @@
     "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:53:07+00:00",
-    "id": "n14",
+    "id": "n20",
     "lead": false
   },
   {
@@ -192,7 +275,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-02T16:51:18+00:00",
-    "id": "n15",
+    "id": "n21",
     "lead": false
   },
   {
@@ -205,7 +288,7 @@
     "url": "https://www.cnbc.com/2026/05/02/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure.html",
     "time": "4小时前",
     "published_iso": "2026-05-02T15:18:09+00:00",
-    "id": "n16",
+    "id": "n22",
     "lead": false
   },
   {
@@ -218,59 +301,7 @@
     "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T14:18:14+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Finland Must Continue to Consolidate Public Finances, Rehn Says - Bloomberg.com",
-    "deck": "Finland Must Continue to Consolidate Public Finances, Rehn Says&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "需继续整顿公共财政",
-    "cnDeck": "芬兰央行行长奥利·雷恩（Olli Rehn）近日发表声明，强调芬兰必须继续并加强其公共财政的整顿工作。作为欧洲中央银行（ECB）管理委员会的成员，雷恩的此番言论凸显了对芬兰经济可持续性的深切关注。他指出，鉴于芬兰不断增长的公共债务水平以及其快速老龄化的人口结构所带来的长期财政压力，采取果断措施来巩固国家财政健康状况是刻不容缓的。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGpGRjBIVThnc2VZUDNjcmttWUdfQnh6bTQyMWl1djIwOFJ5RGtXZk5EN1FubUYwZ1J4a2hMQnBkcGszNUdkaGhEcGxHdHFYS1gtZjNQWFFGSzIybU0tQUFRY1ZmWm5Ob0JZRmZ5b3dia0FCQzMtdDFkeTFvRjFTdkdJbHljNWdFaWhOckg5Y2xnMmQxdUZscGZnMVR6YmszVUxSeDJnMEttYVk0VXg0YWZTTQ?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-05-02T08:43:00+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-    "deck": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-    "cnTitle": "美国计划从德国撤军5000人",
-    "cnDeck": "美国计划从德国削减5000名驻军。这一决定标志着美德之间长期盟友关系中出现的重大裂痕，特别是在特朗普政府执政期间，两国关系持续紧张。撤军计划是在美国总统特朗普与德国领导层（新闻标题中提及“Merz”，可能代表默克尔政府或其他德国关键政治人物的立场）之间发生争执的背景下提出的。据悉，两国之间的主要分歧之一在于对伊朗政策的看法。美国在2018年单方面退出了由奥巴马政府签署的《联合全面行动计划》（JCPOA），即伊朗核协议，并重新对伊朗实施了严厉制裁。而德国及其欧洲盟友则一直致力于维护该协议，认为它是防止伊朗发展核武器的关键机制，并试图通过各种方式规避美国制裁以维持与伊朗的贸易往来，这与美国的“极限施压”政策形成了鲜明对比，导致双方在外交层面产生严重摩擦。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-02T08:14:09+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-    "deck": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-    "cnTitle": "加沙难民营鼠患蔓延疾病危机",
-    "cnDeck": "在加沙地带，对于流离失所的加沙民众而言，他们日常的挣扎已经从战火转向了与老鼠、黄鼠狼及其他害虫的斗争，这些害虫正在迅速传播疾病。长期以来，加沙地带一直是中东地区一个充满地缘政治紧张的焦点，而当前的冲突导致大规模人口流离失所，使得人道主义危机雪上加霜。随着军事行动的持续，数以十万计的居民被迫离开家园，涌入条件简陋、过度拥挤的临时营地。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-02T05:02:14+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
-    "deck": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.",
-    "cnTitle": "古巴谴责美国新制裁非法滥用",
-    "cnDeck": "古巴政府近日通过官方声明，强烈谴责美国对其实施的新一轮制裁措施，称这些行动“非法”且“滥用”。古巴外交部指出，华盛顿的单边主义行径进一步加剧了古巴经济面临的严峻挑战，并公然违反了国际法原则。这些新增制裁是在美国长期对古巴实施的石油禁运基础之上施加的，使得古巴本已紧张的能源供应雪上加霜。自特朗普政府时期开始，美国便逐步收紧对古巴的制裁政策，特别是针对古巴获取石油和燃料的渠道。美国财政部和商务部曾多次采取行动，制裁参与向古巴运输石油的船只和实体，旨在削弱古巴的经济运转能力，并迫使其改变政治方向。古巴政府坚称，美国的这些政策是对其主权的严重干涉。长期以来，美国对古巴的石油禁运已在古巴全国范围内造成了普遍的电力短缺和燃料供应紧张。据古巴国家电力公司（UNE）报告，由于燃料进口受限，该国多个主要发电厂难以满负荷运行，导致各地频繁出现计划外停电，有时停电时间长达数小时。这严重影响了哈瓦那等主要城市居民的日常生活，包括居民用水、公共交通、商品流通以及医院等关键公共服务的电力供应都面临巨大压力。燃料短缺不仅制约了电力生产，还波及到农业、渔业、交通运输、医疗保健和旅游业等多个关键经济部门，对古巴脆弱的经济体系造成了沉重打击。古巴政府认为，美国此次采取的新措施，实质上是进一步巩固和强化了其持续六十余年的经济、商业和金融封锁政策。古巴方面强调，这些封锁政策在联合国大会上已多次遭到绝大多数成员国的谴责，被普遍认为是针对古巴人民的集体惩罚，严重违反了联合国宪章的宗旨和国际法基本原则。古巴领导人表示，美国利用其经济影响力对他国施加压力的行为，本身就是一种“滥用”国家权力，而其制裁所声称的法律基础也缺乏国际法的充分支持，因此是“非法”的。尽管面临严峻的经济和政治压力，古巴政府和人民重申将坚定不移地捍卫国家主权、独立和尊严，绝不会屈服于外部压力。古巴呼吁国际社会持续关注并谴责美国的单边主义和干涉他国内政的行为，并敦促美国立即全面解除对古巴的所有制裁和经济封锁，以减轻古巴人民的苦难，促进加勒比地区的和平与稳定。此次古巴的强烈反应，再次凸显了美古关系中长期存在的深刻矛盾和难以逾越的分歧，预示着两国关系短期内难以实现实质性改善。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-02T04:57:02+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   }
 ]
