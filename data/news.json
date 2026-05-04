@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:06:11+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:05:27+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-04T04:24:22+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -64,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-03T17:29:13+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -78,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-03T13:43:20+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -105,7 +100,6 @@
     "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
     "time": "22小时前",
     "published_iso": "2026-05-03T11:08:46+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -289,19 +283,6 @@
     "time": "4小时前",
     "published_iso": "2026-05-02T15:18:09+00:00",
     "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "US threatens shipping firms with sanctions if they pay Iran tolls",
-    "deck": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
-    "cnTitle": "美国警告制裁向伊朗支付通行费公司",
-    "cnDeck": "美国政府已向全球航运公司发出严厉警告，威胁称如果它们向伊朗支付任何形式的通行费，美国将对其施加制裁。这一警告是美国对伊朗“最大压力”政策的进一步升级，旨在切断伊朗政权的重要收入来源。美国长期以来一直指责伊朗利用其在战略水域，特别是霍尔木兹海峡的控制权征收通行费，并利用这些资金资助其被美国视为“恶意”的地区活动及其他计划。此",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-05-02T14:18:14+00:00",
-    "id": "n23",
     "lead": false
   }
 ]
