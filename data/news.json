@@ -1,5 +1,19 @@
 [
   {
+    "headline": "GameStop makes $55.5bn takeover offer for eBay",
+    "deck": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
+    "cnTitle": "GameStop斥资555亿美元收购eBay",
+    "cnDeck": "GameStop首席执行官瑞安·科恩（Ryan Cohen）据报道已向电商巨头eBay发出了一项高达555亿美元的收购要约。这一惊人举动预示着科恩意图通过整合双方资源，将eBay打造成一个能够与亚马逊（Amazon）匹敌，甚至更强大的竞争对手。此项提案如果得以实现，无疑将对全球电商格局和金融市场产生深远影响。GameStop作为一家曾经面临困境的视频游戏零售商，在近年来",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-04T02:22:34+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
     "deck": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
     "cnTitle": "阿联酋退出欧佩克或冲击全球油市",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-03T12:06:34+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Voters will judge Trump on the economy - how is it doing?",
@@ -22,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-03T09:52:06+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-03T08:41:23+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjhET0RSUFJSdHYwXzd0dU9UbzdvTmNrTUFHOHM4WDZrdFQ2VGRWMF9ZN3RCTnRfUUREcExRVGs5cUFVUVpKNklpVnV4cGFNOVR6LXp1UVVBNnpHNHdlZjEwSFVxV1JWODM4dWhKX0kyQzcza2p3dnNqaWstaXNZN3F4RVdSNGZYT3d3bjhPNmlLeERIQmhEWWlBbGxLeXZlUkFlLU1ZWHdPX2pwcFN4a0VpN3M?oc=5",
     "time": "1小时前",
     "published_iso": "2026-05-03T07:00:00+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-03T04:09:34+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:19:27+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:17:17+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -102,7 +114,7 @@
     "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
     "time": "9小时前",
     "published_iso": "2026-05-02T23:07:35+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -115,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-02T21:35:09+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -128,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/05/02/warren-buffett-berkshire-hathaway-annual-meeting-2026-live-updates.html",
     "time": "13小时前",
     "published_iso": "2026-05-02T19:02:23+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -141,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T18:47:35+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -154,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:55:06+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -167,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T17:53:07+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -180,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-02T16:51:18+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -193,7 +205,7 @@
     "url": "https://www.cnbc.com/2026/05/02/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure.html",
     "time": "4小时前",
     "published_iso": "2026-05-02T15:18:09+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -206,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-02T14:18:14+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -219,7 +231,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGpGRjBIVThnc2VZUDNjcmttWUdfQnh6bTQyMWl1djIwOFJ5RGtXZk5EN1FubUYwZ1J4a2hMQnBkcGszNUdkaGhEcGxHdHFYS1gtZjNQWFFGSzIybU0tQUFRY1ZmWm5Ob0JZRmZ5b3dia0FCQzMtdDFkeTFvRjFTdkdJbHljNWdFaWhOckg5Y2xnMmQxdUZscGZnMVR6YmszVUxSeDJnMEttYVk0VXg0YWZTTQ?oc=5",
     "time": "1天前",
     "published_iso": "2026-05-02T08:43:00+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -232,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-02T08:14:09+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -245,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-02T05:02:14+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -258,98 +270,7 @@
     "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-02T04:57:02+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Trump claims other presidents flouted war powers law. It's a mixed record",
-    "deck": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
-    "cnTitle": "特朗普指控前总统违反战争权力法",
-    "cnDeck": "美国前总统唐纳德·特朗普近日声称，一些前任总统曾违反或规避了《战争权力法》（War Powers Act）的要求，这一言论再次将这部旨在限制总统对外用兵权力的关键法律推向公众讨论的焦点。特朗普的这番表态强调了美国宪法中关于战争权力的长期争议，即行政部门与立法部门在何时以及如何派遣军队海外作战上的职能划分。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-02T02:43:48+00:00",
     "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Tech Now",
-    "deck": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
-    "cnTitle": "AI助力解开艺术史谜团",
-    "cnDeck": "哈丽特·布拉德肖（Harriet Bradshaw）最近深入探究了人工智能（AI）在解决艺术史谜团中的创新应用。她关注的焦点是一个长期困扰艺术史学家的悬案：一幅文艺复兴时期无名画作的真实作者身份。这幅画作被认为具有达·芬奇学派的风格，但由于缺乏确凿的文献证据，其归属一直未能确定。布拉德肖发现，一个由艺术史学家、数据科学家和计算机工程师组成的国际研究团队正在利用先进的AI技术来尝试解开这个谜团。该团队采用了一种多模态AI系统，该系统能够处理和分析海量的视觉及文本数据。在视觉分析方面，AI模型被训练用于识别和比较不同艺术家的独特笔触、颜料使用习惯、构图模式、光影处理以及对人体解剖学的理解。通过高分辨率扫描和X射线图像，AI能够检测到人眼难以察觉的细节，例如画作下层的草稿线、颜料层叠顺序以及修复痕迹。这些数据与数千幅已知作者的其他文艺复兴时期画作（包括达·芬奇及其学生的作品）进行对比分析，从而建立起复杂的风格指纹数据库。在文本数据方面，AI系统利用自然语言处理（NLP）技术，扫描和分析了大量的历史文献、艺术家书信、合同、手稿以及同时代评论。这些文献数据有时包含对特定画作、委托人或工作室实践的间接提及，AI能够从中提取出潜在的关联信息，并构建人物关系网络和作品流转路径。更进一步，AI还被用于分析画作的材料科学数据，例如木板类型、画布纤维结构、颜料的化学成分等，通过比对当时的技术和材料来源，为作品的地域和时间归属提供辅助证据。布拉德肖的调查显示，经过数月的模型训练和数据分析，AI系统已经初步识别出这幅无名画作与一位达·芬奇工作室中鲜为人知的学徒的风格高度吻合。虽然最终的结论仍需人类专家的进一步验证和历史文献的佐证，但AI的介入无疑为解决这一难题提供了前所未有的工具和视角。研究人员表示，AI的强大计算能力和模式识别能力，使其能够处理远超人类所能处理的数据量和复杂性，从而揭示出隐藏在历史迷雾中的联系和规律。哈丽特·布拉德肖在采访中引用了一位项目负责人玛丽亚·冈萨雷斯教授的话：“AI并非要取代人类艺术史学家，而是作为一种强大的辅助工具，扩展我们的认知边界。它能够帮助我们提出新的问题，发现新的线索，并以更客观、更系统的方式验证假设。”这项研究不仅有望为这幅画作找到真正的“父亲”，更重要的是，它展示了人工智能在人文社科领域，特别是在文化遗产保护和艺术史研究中的巨大潜力。它预示着未来AI将更广泛地应用于文物鉴定、艺术品修复、文化遗产数字化等领域，彻底改变我们理解和保护人类文化遗产的方式。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-05-02T01:00:00+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-    "deck": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-    "cnTitle": "对伊战事无需国会批准",
-    "cnDeck": "美国前总统唐纳德·特朗普向国会致函，明确表示他认为对伊朗的潜在军事行动不再需要国会批准。特朗普在信中指出，由于已达成停火协议，他宣称“敌对行动已经终止”（\"hostilities 'have terminated'\"），并以此为由，主张行政部门在对伊朗采取军事行动时，无需再获得国会的授权。这一声明直接挑战了美国宪法规定的战争权力分配。根据宪法，宣战权专属于",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-02T00:41:43+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Who shot a Secret Service officer at the Trump press dinner?",
-    "deck": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-    "cnTitle": "特朗普晚宴特勤局官员枪击案调查进展",
-    "cnDeck": "“特朗普晚宴特勤局官员枪击案”的最新调查进展显示，虽然一名嫌疑人已被确认，但法庭文件并未明确指控该嫌疑人是直接开枪射击特勤局官员的人。与此同时，官方调查人员已明确表示，此次枪击事件并非“友军火力”所致，排除了特勤局或其他执法人员意外误伤的可能性，将调查重点完全指向了外部因素。这表明，尽管在场可能存在多个参与者，且已有嫌疑人进入司法程序，但开枪者的具体身份或其与嫌疑人的直接关联仍需进一步的调查和证据链条来确认。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-01T21:44:05+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Bright idea? UK firm pioneers data centres using lampposts",
-    "deck": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
-    "cnTitle": "英国公司路灯数据中心集成英伟达芯片",
-    "cnDeck": "一家英国公司正在开创性地利用路灯杆作为微型数据中心的载体，这一创新举措旨在将计算能力更广泛、更深入地部署到城市环境中。这些被命名为“iLamps”的智能路灯，其能源供应将主要依赖太阳能，并且内置了全球领先的AI芯片制造商英伟达（Nvidia）的高性能芯片，这预示着边缘计算领域可能迎来一次范式转变和新的突破。该项目的核心理念在于彻底改变传统数据中心的部署模式，将数据处理能力从笨重、集中式的大型设施，下沉到更贴近数据源的城市基础设施之中。通过将强大的英伟达芯片集成到遍布城市的路灯杆中，这些“智能路灯”将不再仅仅是照明工具，而是摇身一变成为一个高度分布式的计算网络节点。它们能够实时、高效地处理来自各种传感器、高清监控摄像头、智能交通管理系统以及其他海量物联网（IoT）设备的数据流。这种本地化处理能力将显著缩短数据传输的延迟，极大提升应用程序的响应速度，这对于未来智能城市建设、自动驾驶车辆的即时决策、增强现实（AR）与虚拟现实（VR）体验的无缝融合，以及任何需要即时数据分析和决策的边缘计算应用场景而言，都具有里程碑式的意义。英伟达作为全球在人工智能和高性能计算领域的技术领导者，其芯片的集成赋予了这些路灯数据中心强大的AI推理和数据分析能力。这意味着它们不仅能支持本地化的智能应用，例如对交通流量进行实时优化、实施精准的环境质量监测、提升公共区域的安全监控效率，还能够在更广阔的物联网生态系统中扮演至关重要的角色，实现设备间的智能协同。此外，iLamps采用太阳能供电的特性，",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-01T21:23:33+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
-    "deck": "The Bank of England's latest report reveals some interesting details on how our finances will be affected due to the Iran war.",
-    "cnTitle": "英格兰银行详述伊朗战争经济冲击",
-    "cnDeck": "英格兰银行最新报告深入剖析了伊朗战争可能对英国乃至全球经济金融产生的影响，特别强调了对普通民众在抵押贷款、就业市场和能源账单方面造成的挑战。报告指出，中东地区任何重大地缘政治冲突，尤其是涉及主要产油国伊朗的冲突，都将对全球能源供应和价格造成显著冲击。英格兰银行预计，一旦伊朗战争爆发或升级，国际原油和天然气价格将大幅飙升，直接导致英国居民能源账单",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-01T21:16:44+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Pentagon says US military to be an 'AI-first' fighting force",
-    "deck": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
-    "cnTitle": "美国防部：美军将成为“AI优先”作战力量",
-    "cnDeck": "美国国防部近日宣布，美国军队将全面转型，致力于成为一支“AI优先”的作战力量。这一声明标志着五角大楼在军事战略上的重大调整，将人工智能提升至未来军事行动的核心地位，旨在确保美国在全球军事技术竞争中保持领先优势，尤其是在应对新兴威胁和复杂战场环境方面。作为落实“AI优先”战略的关键一步，美国军方已与多家领先的科技公司签署了八份新合同，旨在大幅扩展其在人工智能领域的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-01T21:09:52+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
