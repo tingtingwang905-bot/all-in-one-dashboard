@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Three Russian diplomats expelled from Austria over spying accusations",
+    "deck": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says.",
+    "cnTitle": "奥地利驱逐三名俄罗斯外交官因间谍指控",
+    "cnDeck": "奥地利政府日前宣布，因涉嫌从事间谍活动，决定驱逐三名俄罗斯外交官。奥地利外交部长明确指出，这些外交官利用其外交建筑顶部安装的“天线森林”系统收集情报。这一举动标志着奥地利与俄罗斯之间外交关系的严重紧张，并凸显了欧洲国家对俄罗斯在其领土上从事间谍活动的持续担忧。根据奥地利外交部的声明，经过详细调查，有确凿证据表明这些俄罗斯外交人员从事了与他们外交身份不符的活动，严重违反了国际外交准则和奥地利国家利益。奥地利长期以来坚持其中立立场，并试图在东西方之间维持相对平衡的外交关系，然而，此次间谍丑闻无疑对这一传统立场构成了严峻挑战。外交部强调，此类间谍行为是不可接受的，任何外国机构都必须尊重奥地利的主权和法律。被驱逐的外交官被勒令在规定期限内离境，预计俄罗斯方面将采取对等报复措施，驱逐相应的奥地利驻俄外交人员，这将进一步加剧两国之间的外交摩擦。近年来，欧洲多国都曾指控俄罗斯从事间谍活动并驱逐其外交官，这些事件通常涉及情报收集、网络攻击或干预内政等。此次奥地利采取的行动，是在当前地缘政治背景下，尤其是在俄乌冲突持续的敏感时期，欧洲国家对俄罗斯情报活动保持高度警惕的又一例证。通过在外交建筑上安装复杂的监听设备，俄罗斯似乎试图获取关于奥地利政治、经济、军事以及欧盟内部决策等方面的重要信息。奥地利作为欧盟成员国，其内部信息对外部势力具有重要的战略价值。该事件不仅影响奥地利与俄罗斯的双边关系，也可能在欧盟内部引发对俄罗斯间谍威胁的更广泛讨论，并促使各成员国加强反间谍措施。维也纳作为众多国际组织所在地，拥有大量外交使团，历来是情报活动的温床。奥地利政府的强硬回应，旨在向俄罗斯传递明确信号：即便保持中立，也不会容忍对其主权的",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+    "time": "16小时前",
+    "published_iso": "2026-05-04T16:58:56+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
     "deck": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
     "cnTitle": "南非排外暴力致尼日利亚撤侨",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:06:11+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Stock futures mixed as investors monitor latest in U.S.-Iran developments: Live updates",
@@ -22,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:05:27+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-04T04:24:22+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-04T02:22:34+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-03T17:29:13+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-03T13:43:20+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-03T12:06:34+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
     "time": "22小时前",
     "published_iso": "2026-05-03T11:08:46+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,33 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-03T09:52:06+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-    "deck": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-    "cnTitle": "美共和党高官警告德国削减驻军",
-    "cnDeck": "美国国会两院军事委员会的主席们日前发表声明，对德国削减其国防军队编制，特别是可能撤出5000名军人的举动表示强烈担忧。这些高级别共和党议员指出，在当前复杂且充满挑战的国际安全环境下，此类行动无异于向俄罗斯传递一个错误的信号，可能严重削弱北约联盟对潜在侵略行为的威慑力。据悉，美国众议院军事委员会主席和参议院军事委员会主席，作为美国国防政策制定中的关键人物，其言论具有非凡的份量。他们强调，在全球地缘政治紧张局势日益加剧的背景下，尤其是在俄罗斯持续对乌克兰发动侵略战争，并在欧洲东翼不断展示军事实力之际，任何削弱西方联盟防御姿态的举动都可能被莫斯科方面误读为软弱或不团结的迹象。他们认为，保持强大且统一的军事存在对于维护地区稳定和欧洲安全至关重要。两位主席还指出，德国作为北约的关键成员国，其国防投入和军事部署对整个联盟的集体安全有着深远影响。削减部队可能不仅影响德国自身的防御能力，更可能对北约内部的协调行动和快速反应能力造成负面冲击。他们呼吁德国政府在做出此类国防决策时，充分考虑其对北约盟友以及更广泛地区安全格局的影响，并与盟友进行更紧密的磋商与协调。此前，美国政府曾多次强调维持在欧洲的军事存在对于威慑潜在威胁和保障盟友安全的重要性。此次美国国会军事委员会高层的明确表态，无疑是对德国国防政策的一次公开警告，反映出华盛顿对柏林方面可能采取的削减军力措施的深切忧虑。分析人士指出，此举可能在美德关系以及北约内部引发新的讨论，并促使盟友重新评估其在面对俄罗斯威胁时的集体防御策略。此外，这一事件也再次凸显了跨大西洋联盟内部在应对共同安全挑战时可能存在的策略分歧。两位共和党高官的言论，无疑增加了德国未来在国防开支和军事部署问题上面临的国际压力，尤其是在北约成员国普遍被要求将国防开支提升至GDP2%或更高水平的背景下。此次警告，旨在确保北约联盟在全球变幻莫测的安全环境中，能够持续保持其作为强大威慑力量的有效性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-03T08:41:23+00:00",
     "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit - Bloomberg.com",
-    "deck": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "阿联酋意外退出后OPEC+寻求团结",
-    "cnDeck": "石油输出国组织及其盟友（OPEC+）正面临一次关键的内部团结考验，此前有报道称其重要成员国阿拉伯联合酋长国（UAE）曾表达了令人震惊的退出意向。这一事件使得即将召开的OPEC+会议成为全球焦点，市场普遍期待该联盟能够在此次会议上重申其凝聚力，并向全球能源市场传递稳定的信号，以打消外界对其未来行动一致性的疑虑。据知情人士透露，阿联酋此前曾就其在OPEC+框架下的生产配额问题表达了强烈不满。作为全球主要的产油国之一，阿联酋认为其当前的配额未能充分反映其真实的生产能力和巨大的原油储量，这限制了其经济发展潜力和从油气资源中获取最大回报的能力。这种不满情绪在过去数月内，通过各种渠道在联盟内部和非正式场合中多次浮现，最终导致了有关其可能退出联盟的传闻甚嚣尘上，并在国际能源市场引发了轩然大波。尽管阿联酋官方并未正式宣布退出，但这种“震惊式退出”的可能性已足以动摇市场对OPEC+未来维持供需平衡和稳定油价能力的信心。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjhET0RSUFJSdHYwXzd0dU9UbzdvTmNrTUFHOHM4WDZrdFQ2VGRWMF9ZN3RCTnRfUUREcExRVGs5cUFVUVpKNklpVnV4cGFNOVR6LXp1UVVBNnpHNHdlZjEwSFVxV1JWODM4dWhKX0kyQzcza2p3dnNqaWstaXNZN3F4RVdSNGZYT3d3bjhPNmlLeERIQmhEWWlBbGxLeXZlUkFlLU1ZWHdPX2pwcFN4a0VpN3M?oc=5",
-    "time": "1小时前",
-    "published_iso": "2026-05-03T07:00:00+00:00",
-    "id": "n11",
     "lead": false
   }
 ]
