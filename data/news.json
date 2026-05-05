@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Robots move in as waste firms struggle to find staff",
+    "deck": "Humanoid robots are being added to the automation of waste sorting.",
+    "cnTitle": "人形机器人投入垃圾分拣应对人手不足",
+    "cnDeck": "全球范围内的垃圾管理公司正面临前所未有的劳动力危机，难以招聘和留住工人从事垃圾分类和回收等体力要求高、通常危险且不受欢迎的工作。老龄化劳动力、年轻人对这类工作兴趣下降以及对工作条件的日益严格审查，使得这种短缺日益加剧。为应对这一严峻挑战，全球垃圾处理行业正在加速转向先进自动化，特别是在垃圾分拣设施中引入人形机器人。这些高度先进的机器人系统旨在模拟人类的灵巧性和观察能力，使其能够执行传统工业机器人难以完成的复杂任务。它们配备了精密传感器、人工智能驱动的视觉系统和抓取机构，能够在高度污染的环境中，准确识别、拾取和分类各种可回收材料，包括塑料、金属、纸张和有机废物。人形机器人的部署预计将带来多重益处。首先，它们直接解决了劳动力短缺问题，确保无论人类工人是否可用，运营都能持续高效。其次，通过将人类工人从锐利物体、有毒化学品和生物污染物等危险条件中解放出来，显著提升了工作场所的安全性。第三，这些机器人能够连续运行，通常是24/7不间断，从而提高处理速度和有价值材料的回收率，最终增强回收作业的经济可行性。此外，其内置的人工智能功能允许持续学习和适应，随着时间的推移不断提高分拣精度。这一发展标志着工业自动化的一次显著演进，将机器人技术的应用范围从结构化的制造环境扩展到垃圾管理等更具挑战性、更不可预测的领域。它凸显了各行各业利用先进人工智能和机器人技术来克服长期劳动力挑战，并提高“3D工作”（肮脏、枯燥、危险）效率的日益增长的趋势。尽管人形机器人的广泛采用有望显著改善全球垃圾管理基础设施和可持续发展努力，但同时也引发了关于初始投资成本、对专业技术支持的需求以及对该行业就业结构潜在长期影响的讨论。这要求对人类工人进行再培训和技能提升，以管理和维护这些复杂的机器。此举被视为建立更具弹性、高效和可持续的全球垃圾管理系统的关键一步。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
+    "time": "20小时前",
+    "published_iso": "2026-05-04T23:43:28+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Three Russian diplomats expelled from Austria over spying accusations",
     "deck": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says.",
     "cnTitle": "奥地利驱逐三名俄罗斯外交官因间谍指控",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-04T16:58:56+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
@@ -23,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:06:11+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:05:27+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-04T04:24:22+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,72 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-04T02:22:34+00:00",
-    "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "Who shot a Secret Service officer at the Trump press dinner?",
-    "deck": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-    "cnTitle": "特勤局人员在特朗普晚宴上中枪",
-    "cnDeck": "这起事件涉及一名特勤局人员，发生在一场“特朗普记者晚宴”期间，此类活动通常会有重要的政治人物和媒体参加。尽管有关枪击事件的具体细节仍在调查中，但由于联邦执法机构——负责保护国家领导人的特勤局——的介入，以及一名警官中枪的严重性，该事件引起了广泛关注。与一名嫌疑人相关的法庭文件，在此阶段并未明确指控该特定嫌疑人开枪击中了这名警官。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-05-03T17:29:13+00:00",
     "id": "n6",
-    "lead": false
-  },
-  {
-    "headline": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-    "deck": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
-    "cnTitle": "乌克兰袭击俄油轮 俄军反击致10人亡",
-    "cnDeck": "根据最新报道，乌克兰境内多地发生俄罗斯军事袭击，已造成至少10人死亡。与此同时，乌克兰总统弗拉基米尔·泽连斯基表示，乌克兰武装部队已成功袭击了为俄罗斯提供石油运输服务的“影子舰队”中的多艘油轮，以及一处重要的石油运输终端。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-05-03T13:43:20+00:00",
-    "id": "n7",
-    "lead": false
-  },
-  {
-    "headline": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
-    "deck": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
-    "cnTitle": "阿联酋退出欧佩克或冲击全球油市",
-    "cnDeck": "阿联酋（UAE）作为全球重要的石油生产国，其与石油输出国组织（OPEC）的关系及其可能退出该组织的讨论，在全球能源市场和地缘政治格局中引发了广泛关注。英国广播公司（BBC）发布了一系列图表分析，深入探讨了阿联酋一旦脱离欧佩克，将对这一卡特尔组织乃至全球石油市场产生的深远影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-03T12:06:34+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
-    "deck": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war.",
-    "cnTitle": "伊朗战争致美国原油出口创新高",
-    "cnDeck": "“伊朗战争”的爆发给中东地区这个全球最大的原油产地带来了严重的供应中断，极大地改变了全球原油市场的动态。作为回应，美国的原油出口正在经历前所未有的繁荣，达到了历史最高水平。大量油轮正涌向美国墨西哥湾沿岸，以满足全球市场对替代原油供应来源的迫切需求。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
-    "time": "22小时前",
-    "published_iso": "2026-05-03T11:08:46+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Voters will judge Trump on the economy - how is it doing?",
-    "deck": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
-    "cnTitle": "选民将依据经济表现评判特朗普",
-    "cnDeck": "唐纳德·特朗普作为美国总统，其在任期剩余时间内所能施展的影响力及其政策的推行能力，将极其显著地取决于美国民众所面临的生活成本状况。在政治舞台上，经济因素，尤其是日常开销的负担，历来是影响选民情绪和投票决策的关键变量。对于普通家庭而言，食品、能源、住房和医疗等基本生活资料的价格波动，直接关系到他们的购买力、储蓄能力以及整体生活质量。如果生活成本持续上涨，通",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-03T09:52:06+00:00",
-    "id": "n10",
     "lead": false
   }
 ]
