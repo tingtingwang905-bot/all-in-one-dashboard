@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+    "deck": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+    "cnTitle": "航油价格飙升致航空公司5月减航班",
+    "cnDeck": "航空业正面临前所未有的运营成本压力，核心原因在于国际原油价格的持续高企，这直接导致航空燃油（通常占航空公司总运营成本的25%至35%）的价格飙升。根据知名航空数据分析公司Cirium的最新报告显示，为了应对日益增长的燃油开支，全球各大航空公司已在今年5月份大幅削减了约13,000个航班。这一举措直接导致了近200万个航空座位从市场上消失，对全球航空旅行市场造成了显著影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-06T14:40:13+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+    "deck": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+    "cnTitle": "乌克兰前线城市平民生存危机",
+    "cnDeck": "乌克兰前线城市奥列什基（Oleshky）的居民表示，他们已被切断新鲜食物和药品供应长达数月之久，正面临严峻的人道主义危机。这座位于战火前线的城市，其平民正陷入一个两难困境：是选择留守家中，在物资匮乏中挣扎求生，还是冒着极高的生命危险踏上被称为“死亡之路”的疏散路线。奥列什基是乌克兰南部赫尔松州的一个战略要地，自冲突爆发以来，该地区一直是激战的焦点。城市的地理位置使其成为各方争夺的重点，也导致了其居民生活物资供应的中断。长期以来，奥列什基的居民一直依靠有限的储备和偶尔的非官方渠道获取必需品，但随着时间的推移，这些资源已所剩无几。缺乏新鲜食物意味着居民的营养状况日益恶化，许多人面临饥饿和营养不良的威胁，特别是儿童、老年人和体弱者。对药品的长期短缺则带来了更直接的生命威胁，慢性病患者无法获得维持生命的药物，急性疾病得不到及时治疗，简单的感染也可能演变成致命的并发症。冲突使得奥列什基与外界的交通和物流网络遭到严重破坏，人道主义援助车队难以抵达，商业运输几乎完全停滞。居民不仅无法购买到基本生活用品，甚至无法获得洁净的饮用水，卫生条件也急剧下降，疾病传播的风险随之增加。城市的医疗基础设施在战火中受到破坏，医务人员流失，使得原本就稀缺的医疗服务更加难以为继。与此同时，奥列什基的平民们被困在冲突区域，面临着巨大的撤离风险。新闻标题中提到的“死亡之路”并非虚言，它指的是穿越战区、布满地雷、遭受炮火袭击或被武装团体控制的危险疏散通道。选择通过这些路线撤离的平民，随时可能遭遇袭击、爆炸或被扣留。许多居民因此宁愿选择留守在家中，尽管生活条件极端恶劣，也比踏上这条充满未知危险的道路更为可取。然而，长期的围困和物资短缺正在迫使他们做出越来越艰难的选择，生与死的界限变得模糊。国际社会和人道主义组织多次呼吁保障战区平民的安全通行权和人道主义援助通道，但由于战事复杂性和各方立场，这些努力往往进展缓慢，难以有效触及像奥列什基这样被围困的城市。联合国及其他非政府组织试图协调建立安全走廊，以运送物资并协助平民撤离，但这些尝试经常因停火协议的脆弱性和安全保障的缺乏而受阻。奥列什基的困境正是乌克兰冲突中无数平民所面临挑战的一个缩影。这种长期的人道主义危机不仅对当前居民的生命健康造成威胁，也对他们的心理健康和社会结构产生深远影响。儿童的教育中断，家庭被迫分离，社区纽带被战争撕裂。许多幸存者即使在冲突结束后，也将长期承受创伤后应激障碍（PTSD）的困扰。奥列什基的状况凸显了国际社会在保护平民和确保人道主义法得到遵守方面的巨大挑战，以及战争对普通民众生活造成的毁灭性影响。平民不应成为战争的牺牲品，他们的基本生存权和尊严必须得到保障。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-06T04:53:31+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
     "deck": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
     "cnTitle": "特朗普寻求伊朗协议油价回落",
@@ -9,9 +37,22 @@
     "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-06T03:05:16+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "DuPont is ripping higher after an impressive beat and raise — here's our next move",
+    "deck": "Shares jumped over 9% Tuesday as the market rewards DuPont for its better-than-expected results.",
+    "cnTitle": "杜邦股价大涨9% 因业绩超预期",
+    "cnDeck": "杜邦公司（DuPont）的股价在周二交易中实现大幅上涨，涨幅超过9%，这主要归因于该公司近期公布的季度业绩表现超出市场普遍预期，并上调了其全年业绩展望。这一积极的市场反应显示出投资者对杜邦公司未来增长前景的信心增强。根据市场分析师的报告，杜邦此次的“超预期表现”（beat）体现在其核心业务部门的营收和调整后每股收益均高于此前华尔街分析师的共识预测。尽管新闻原文未提供具体的财务数据，但此类“超预期”通常意味着公司在营收、利润率、现金流或特定产品销量等方面取得了显著进展。例如，公司可能报告了特定高增长业务领域的强劲表现，或通过有效的成本控制措施提升了盈利能力。此外，“上调展望”（raise）意味着管理层基于当前的运营态势和市场环境，对未来的财务表现持有更为乐观的预期，并因此提高了对全年营收、调整后每股收益或自由现金流等关键指标的预测。这种上调通常会向市场传递出公司基本面稳健、增长势头良好的强烈信号。杜邦作为一家全球知名的多元化化学品和特种材料公司，其业绩表现往往被视为宏观经济健康状况，特别是工业和制造业领域景气度的风向标之一。此次业绩的强劲表现及其股价的积极反应，可能也反映出全球工业需求正在企稳回升，或者杜邦自身在产品创新、市场份额拓展方面取得了突破。市场通常会奖励那些能够持续超出预期并提供积极指引的公司，因为这预示着更高的投资回报和更低的不确定性。杜邦股价的飙升，不仅为持有其股票的投资者带来了丰厚回报，也可能对整个化学品和材料行业的板块情绪产生积极影响，提振投资者对该领域其他公司的信心。分析师普遍认为，杜邦在当前具有挑战性的全球经济环境中实现如此亮眼的业绩，彰显了其强大的运营韧性和战略执行力。投资者将密切关注杜邦管理层在接下来的财报电话会议中对宏观经济前景、细分市场趋势以及公司未来战略的进一步阐释。此次股价的跳涨，无疑为杜邦在资本市场赢得了一个积极的开局，并为其在未来几个季度的表现奠定了坚实基础。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/05/dupont-is-ripping-higher-after-an-impressive-beat-heres-our-next-move.html",
+    "time": "22小时前",
+    "published_iso": "2026-05-05T17:32:30+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "UK long-term borrowing costs reach 28-year high",
@@ -23,7 +64,7 @@
     "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-05T16:30:23+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-05-04T23:43:28+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,20 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-04T16:58:56+00:00",
-    "id": "n4",
-    "lead": false
-  },
-  {
-    "headline": "US denies Iranian report warship was struck by missiles",
-    "deck": "It comes as the US said on Monday it will begin to help \"guide\" vessels out of the Strait of Hormuz.",
-    "cnTitle": "美国否认军舰遭袭报道",
-    "cnDeck": "美国国防部于本周一明确否认了伊朗方面流传的关于一艘美国军舰在霍尔木兹海峡区域遭到导弹袭击的报道。这一否认是针对某些未具名伊朗消息来源或媒体早前声称美方军舰遭受攻击的说法。尽管具体声称细节未被美方公开，但此类报道在地区紧张局势加剧之际引发了广泛关注。美方的及时否认旨在澄清事实，避免不必要的误解和冲突升级。值得注意的是，美方的这一表态发生在其此前宣布将开始协助“引导”船只通过霍尔木兹海峡的背景之下。霍尔木兹海峡是连接波斯湾与阿曼湾的战略性水道，其宽度最窄处仅约21英里，是全球最重要的石油运输要道之一，承担着全球约五分之一的石油贸易量。任何在该海峡发生的军事冲突或安全事件，都可能对全球能源供应、国际贸易和地缘政治稳定产生深远影响。美国长期以来一直致力于维护霍尔木兹海峡的航行自由和安全，并在此区域保持军事存在以威慑潜在威胁。美国宣布将“引导”船只通过霍尔木兹海峡的举动，通常被解读为在特定时期为增强该区域航运安全所采取的预防性措施，尤其是在地区局势紧张或存在特定威胁时。这可能包括提供护航、信息共享或增强军事巡逻等。此举无疑旨在向地区行为体，尤其是伊朗，发出明确信号，强调美国维护国际海事法的决心。长期以来，美国与伊朗的关系一直处于高度紧张状态。从伊朗核计划、对地区代理人的支持，到多次发生的霍尔木兹海峡船只扣押事件，两国在地区问题上存在深刻分歧。任何关于美军舰艇在敏感水域遭遇袭击的传闻，即便未经证实，都极易被解读为两国之间紧张关系的升级，甚至可能被视为潜在冲突的前奏。在过去几年中，霍尔木兹海峡及其周边水域曾多次发生油轮遇袭、无人机交火以及船只扣押事件，这些都加剧了地区的不稳定性。华盛顿方面此次迅速否认伊朗的报道，一方面是为了避免虚假信息可能带来的连锁反应，防止地区局势进一步恶化；另一方面也再次强调了其在该地区的坚定立场。国际社会普遍呼吁地区各方保持克制，通过外交途径解决分歧，避免采取任何可能加剧冲突的行动。此次事件再次凸显了霍尔木兹海峡作为全球关键战略要地所面临的复杂安全挑战，以及美伊关系对中东乃至全球稳定的关键影响。未来的发展将取决于各方如何应对这些敏感信息和采取的实际行动。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-04T13:18:19+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   }
 ]
