@@ -1,5 +1,19 @@
 [
   {
+    "headline": "UK long-term borrowing costs reach 28-year high",
+    "deck": "There have been extra jitters in UK government debt markets ahead of Thursday's local and national elections.",
+    "cnTitle": "英国长期借贷成本创28年新高",
+    "cnDeck": "英国长期借贷成本近期飙升至28年来的最高水平，这一动态引发了市场对英国经济和财政状况的广泛担忧。在周四即将举行的英国地方和全国大选之前，英国政府债券市场出现了额外的紧张情绪，投资者对未来政策方向和财政可持续性抱有不确定性。长期借贷成本的显著上升通常反映了投资者对政府偿债能力的担忧，或者预期通胀将持续高企，导致货币政策紧缩。此次达到28年高点，意味着英国政府在未来发行长期债券时将不得不支付更高的利息，这将直接增加政府的借贷成本，进一步挤压公共财政空间。这可能导致政府在公共服务、基础设施建设等方面的支出面临更大压力，或需要在未来考虑增税措施以平衡预算。当前市场之所以出现“额外紧张情绪”（extra jitters），很大程度上与即将",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-05-05T16:30:23+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Robots move in as waste firms struggle to find staff",
     "deck": "Humanoid robots are being added to the automation of waste sorting.",
     "cnTitle": "人形机器人投入垃圾分拣应对人手不足",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-05-04T23:43:28+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Three Russian diplomats expelled from Austria over spying accusations",
@@ -23,7 +36,21 @@
     "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-04T16:58:56+00:00",
-    "id": "n2",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "US denies Iranian report warship was struck by missiles",
+    "deck": "It comes as the US said on Monday it will begin to help \"guide\" vessels out of the Strait of Hormuz.",
+    "cnTitle": "美国否认军舰遭袭报道",
+    "cnDeck": "美国国防部于本周一明确否认了伊朗方面流传的关于一艘美国军舰在霍尔木兹海峡区域遭到导弹袭击的报道。这一否认是针对某些未具名伊朗消息来源或媒体早前声称美方军舰遭受攻击的说法。尽管具体声称细节未被美方公开，但此类报道在地区紧张局势加剧之际引发了广泛关注。美方的及时否认旨在澄清事实，避免不必要的误解和冲突升级。值得注意的是，美方的这一表态发生在其此前宣布将开始协助“引导”船只通过霍尔木兹海峡的背景之下。霍尔木兹海峡是连接波斯湾与阿曼湾的战略性水道，其宽度最窄处仅约21英里，是全球最重要的石油运输要道之一，承担着全球约五分之一的石油贸易量。任何在该海峡发生的军事冲突或安全事件，都可能对全球能源供应、国际贸易和地缘政治稳定产生深远影响。美国长期以来一直致力于维护霍尔木兹海峡的航行自由和安全，并在此区域保持军事存在以威慑潜在威胁。美国宣布将“引导”船只通过霍尔木兹海峡的举动，通常被解读为在特定时期为增强该区域航运安全所采取的预防性措施，尤其是在地区局势紧张或存在特定威胁时。这可能包括提供护航、信息共享或增强军事巡逻等。此举无疑旨在向地区行为体，尤其是伊朗，发出明确信号，强调美国维护国际海事法的决心。长期以来，美国与伊朗的关系一直处于高度紧张状态。从伊朗核计划、对地区代理人的支持，到多次发生的霍尔木兹海峡船只扣押事件，两国在地区问题上存在深刻分歧。任何关于美军舰艇在敏感水域遭遇袭击的传闻，即便未经证实，都极易被解读为两国之间紧张关系的升级，甚至可能被视为潜在冲突的前奏。在过去几年中，霍尔木兹海峡及其周边水域曾多次发生油轮遇袭、无人机交火以及船只扣押事件，这些都加剧了地区的不稳定性。华盛顿方面此次迅速否认伊朗的报道，一方面是为了避免虚假信息可能带来的连锁反应，防止地区局势进一步恶化；另一方面也再次强调了其在该地区的坚定立场。国际社会普遍呼吁地区各方保持克制，通过外交途径解决分歧，避免采取任何可能加剧冲突的行动。此次事件再次凸显了霍尔木兹海峡作为全球关键战略要地所面临的复杂安全挑战，以及美伊关系对中东乃至全球稳定的关键影响。未来的发展将取决于各方如何应对这些敏感信息和采取的实际行动。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-04T13:18:19+00:00",
+    "is_new": true,
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:06:11+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,32 +76,6 @@
     "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-04T09:05:27+00:00",
-    "id": "n4",
-    "lead": false
-  },
-  {
-    "headline": "Samsung family pays off record $8bn inheritance tax bill",
-    "deck": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in  October 2020.",
-    "cnTitle": "三星家族清偿创纪录80亿遗产税",
-    "cnDeck": "三星家族近日确认，已全额支付了与已故会长李健熙遗产相关的创纪录80亿美元（约合10.8万亿韩元）遗产税。这笔巨额税款源于李健熙先生于2020年10月去世后留下的庞大遗产。李健熙生前将三星集团打造成为全球顶级的科技巨头，其遗产包括在三星电子、三星人寿、三星物产等核心子公司的巨额股份，",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-05-04T04:24:22+00:00",
-    "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "GameStop makes $55.5bn takeover offer for eBay",
-    "deck": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
-    "cnTitle": "GameStop斥资555亿美元收购eBay",
-    "cnDeck": "GameStop首席执行官瑞安·科恩（Ryan Cohen）据报道已向电商巨头eBay发出了一项高达555亿美元的收购要约。这一惊人举动预示着科恩意图通过整合双方资源，将eBay打造成一个能够与亚马逊（Amazon）匹敌，甚至更强大的竞争对手。此项提案如果得以实现，无疑将对全球电商格局和金融市场产生深远影响。GameStop作为一家曾经面临困境的视频游戏零售商，在近年来",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-04T02:22:34+00:00",
     "id": "n6",
     "lead": false
   }
