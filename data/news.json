@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-07T09:04:24+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -36,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-06T23:52:48+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -50,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T23:06:17+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -77,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-06T16:35:39+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -91,7 +87,6 @@
     "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
     "time": "17小时前",
     "published_iso": "2026-05-06T15:59:41+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -118,7 +113,6 @@
     "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
     "time": "19小时前",
     "published_iso": "2026-05-06T14:11:37+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -132,7 +126,6 @@
     "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-05-06T11:59:44+00:00",
-    "is_new": true,
     "id": "n10",
     "lead": false
   },
@@ -146,7 +139,6 @@
     "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T08:43:47+00:00",
-    "is_new": true,
     "id": "n11",
     "lead": false
   },
@@ -160,7 +152,6 @@
     "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T07:10:16+00:00",
-    "is_new": true,
     "id": "n12",
     "lead": false
   },
@@ -200,7 +191,6 @@
     "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T00:15:14+00:00",
-    "is_new": true,
     "id": "n15",
     "lead": false
   },
@@ -214,7 +204,6 @@
     "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-05T20:16:24+00:00",
-    "is_new": true,
     "id": "n16",
     "lead": false
   },
@@ -254,7 +243,6 @@
     "url": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-05T15:39:32+00:00",
-    "is_new": true,
     "id": "n19",
     "lead": false
   }
