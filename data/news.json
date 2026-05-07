@@ -1,5 +1,33 @@
 [
   {
+    "headline": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
+    "deck": "The benchmark Nikkei 225 surged over 5% to a record high as Japan reopened after extended Golden Week holidays.",
+    "cnTitle": "软银领涨日经指数创历史新高",
+    "cnDeck": "日本股市在结束为期多日的黄金周假期后，于近期交易中表现出异常强劲的势头，其中基准股指日经225指数（Nikkei 225）飙升超过5%，一举创下历史新高。此次市场上涨的主要动力被普遍认为是来自科技股的强劲表现，尤其是日本科技投资巨头软银集团（SoftBank Group）的股价，其单日涨幅惊人地超过了16%。这一显著涨幅反映出市场对科技行业的持续乐观情绪，以及对软银所持有的庞大科技资产组合价值的积极重估。软银集团股价的大幅上涨，部分原因可能与其关键投资，特别是英国芯片设计公司Arm Holdings的良好业绩和市场前景有关。Arm Holdings在全球人工智能（AI）芯片设计领域占据主导地位，随着全球AI热潮的持续升温，市场对其未来增长潜力充满信心，这无疑极大地提振了软银作为其主要股东的估值。此外，软银在其他前沿科技领域的广泛投资组合，也使其成为投资者在全球范围内追逐科技增长的间接且重要的途径。日经225指数突破历史高位，不仅是日本股市的一个里程碑式的事件，也反映了全球投资者对日本企业盈利能力和其经济前景的信心正在显著增强。市场分析师指出，除了科技股的强劲表现，日本企业治理改革的持续推进、日元相对走软对日本主要出口型企业的利好影响，以及温和通胀回升带来的摆脱长期通缩预期的希望，都为日本股市的上涨提供了坚实的宏观经济支撑。此次日经指数在经历长假后的强劲反弹，也可能包含了假期期间积累的买盘需求，以及市场对全球经济复苏和科技创新周期的积极展望。这一现象在全球金融市场引起了广泛关注。日本作为世界第三大经济体，其股市的强劲表现对亚洲乃至全球市场情绪都具有重要的风向标意义。投资者正密切关注日本央行（Bank of Japan）的货币政策走向，以评估其是否会进一步调整超宽松政策，尽管短期内市场更多地关注企业盈利能力和增长潜力。软银和日经指数的联动上涨，再次凸显了科技创新在全球资本市场中的核心驱动作用，预示着一个由技术进步主导的投资新时代可能正在开启。此轮涨势的持续性将取决于全球科技股的整体表现、日本宏观经济数据的进一步改善以及企业盈利预期的持续兑现情况。市场的乐观情绪在经历长假后得到集中释放，形成了当前强劲的上涨格局。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
+    "time": "1小时前",
+    "published_iso": "2026-05-07T03:25:42+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
+    "deck": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.",
+    "cnTitle": "亚马逊英国首次无人机送货",
+    "cnDeck": "亚马逊公司近日在英国成功完成了其首次无人机包裹配送服务，标志着这家全球电商巨头在“最后一英里”配送领域取得了突破性进展。此次交付活动引发了广泛关注，亚马逊方面引述称：“我们有民众专门前来观看”，这充分展现了公众对这项创新技术的高度兴趣和未来期待。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-06T23:02:06+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Airlines cut 13,000 flights in May as jet fuel prices soar",
     "deck": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
     "cnTitle": "航油价格飙升致航空公司5月减航班",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T04:53:31+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-06T03:05:16+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.cnbc.com/2026/05/05/dupont-is-ripping-higher-after-an-impressive-beat-heres-our-next-move.html",
     "time": "22小时前",
     "published_iso": "2026-05-05T17:32:30+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,20 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-05T16:30:23+00:00",
-    "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "Robots move in as waste firms struggle to find staff",
-    "deck": "Humanoid robots are being added to the automation of waste sorting.",
-    "cnTitle": "人形机器人投入垃圾分拣应对人手不足",
-    "cnDeck": "全球范围内的垃圾管理公司正面临前所未有的劳动力危机，难以招聘和留住工人从事垃圾分类和回收等体力要求高、通常危险且不受欢迎的工作。老龄化劳动力、年轻人对这类工作兴趣下降以及对工作条件的日益严格审查，使得这种短缺日益加剧。为应对这一严峻挑战，全球垃圾处理行业正在加速转向先进自动化，特别是在垃圾分拣设施中引入人形机器人。这些高度先进的机器人系统旨在模拟人类的灵巧性和观察能力，使其能够执行传统工业机器人难以完成的复杂任务。它们配备了精密传感器、人工智能驱动的视觉系统和抓取机构，能够在高度污染的环境中，准确识别、拾取和分类各种可回收材料，包括塑料、金属、纸张和有机废物。人形机器人的部署预计将带来多重益处。首先，它们直接解决了劳动力短缺问题，确保无论人类工人是否可用，运营都能持续高效。其次，通过将人类工人从锐利物体、有毒化学品和生物污染物等危险条件中解放出来，显著提升了工作场所的安全性。第三，这些机器人能够连续运行，通常是24/7不间断，从而提高处理速度和有价值材料的回收率，最终增强回收作业的经济可行性。此外，其内置的人工智能功能允许持续学习和适应，随着时间的推移不断提高分拣精度。这一发展标志着工业自动化的一次显著演进，将机器人技术的应用范围从结构化的制造环境扩展到垃圾管理等更具挑战性、更不可预测的领域。它凸显了各行各业利用先进人工智能和机器人技术来克服长期劳动力挑战，并提高“3D工作”（肮脏、枯燥、危险）效率的日益增长的趋势。尽管人形机器人的广泛采用有望显著改善全球垃圾管理基础设施和可持续发展努力，但同时也引发了关于初始投资成本、对专业技术支持的需求以及对该行业就业结构潜在长期影响的讨论。这要求对人类工人进行再培训和技能提升，以管理和维护这些复杂的机器。此举被视为建立更具弹性、高效和可持续的全球垃圾管理系统的关键一步。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
-    "time": "20小时前",
-    "published_iso": "2026-05-04T23:43:28+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   }
 ]
