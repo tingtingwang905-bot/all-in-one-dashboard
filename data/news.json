@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Shell latest oil giant to see profits surge due to Iran war impact",
+    "deck": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+    "cnTitle": "伊朗冲突推动壳牌利润激增",
+    "cnDeck": "能源巨头壳牌（Shell）最新公布的财务数据显示，公司利润大幅飙升，增幅接近四分之一，这一显著增长主要得益于近期国际油价的剧烈波动。此次利润激增使得壳牌成为继其他几家大型能源公司之后，又一家因中东地缘政治紧张局势，特别是与伊朗相关的冲突影响而获益的全球主要能源企业。根据公司发布的报告，壳牌在当前财季的调整后利润达到令人瞩目的水平，其上游勘探与生产业务部门表现尤为突出。全球原油和天然气价格因供应中断的担忧和地缘政治风险溢价而持续走高，为壳牌带来了丰厚的收益。公司首席执行官在随后的分析师会议中表示，尽管全球经济面临多重挑战，但能源市场的基本面依然强劲，而区域冲突则进一步放大了市场的不确定性，从而推高了能源商品价格。近期，中东地区与伊朗相关的紧张局势不断升级，引发了市场对关键航运路线原油供应可能中断的担忧。特别是对霍尔木兹海峡安全的忧虑，该海峡是全球重要的石油运输咽喉，每天有大量原油通过此地运往世界各地。任何可能影响该海峡通行能力的事件，都会立即反映在国际油价上，导致价格飙升。壳牌作为全球领先的综合性国际能源公司之一，其业务范围覆盖上游勘探生产、中游液化天然气（LNG）以及下游炼油和销售等多个环节。在油价上涨的背景下，其上游业务的利润空间得到极大拓展，库存价值也随之上涨，从而推动了整体业绩的大幅改善。分析师普遍认为",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-07T09:04:24+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
     "deck": "The benchmark Nikkei 225 surged over 5% to a record high as Japan reopened after extended Golden Week holidays.",
     "cnTitle": "软银领涨日经指数创历史新高",
@@ -9,9 +23,36 @@
     "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
     "time": "1小时前",
     "published_iso": "2026-05-07T03:25:42+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "In 'Musk v Altman', this judge will make the final call",
+    "deck": "The feud has fuelled a costly showdown between two tech titans.",
+    "cnTitle": "马斯克奥特曼世纪之战待判",
+    "cnDeck": "马斯克和奥特曼之间的争端，指的是特斯拉、SpaceX、X和xAI的创始人埃隆·马斯克（Elon Musk）与知名人工智能公司OpenAI的首席执行官萨姆·奥特曼（Sam Altman）之间正在进行的法律诉讼和公开冲突。这场备受瞩目的“科技巨头世纪之战”已经引发了行业内的广泛关注和激烈讨论，预示着可能给人工智能的未来发展路径带来深远影响。事件的起因是马斯克于2024年初向旧金山高等法院提起了针对OpenAI及其首席执行官萨姆·奥特曼、联合创始人格雷格·布罗克曼（Greg Brockman）的诉讼。马斯克在诉讼中声称，OpenAI在成立之初，他和奥特曼、布罗克曼以及其他联合创始人达成了一项基本协议，即OpenAI应作为一个非营利组织，致力于开发通用人工智能（AGI），并以开源、造福全人类的方式进行，而非追求利润。然而，马斯克指控OpenAI已经背离了其最初的创始使命和协议，在奥特曼的领导下，公司已经转变为一个以盈利为导向的实体，与微软公司建立了紧密的商业合作关系，并将其最先进的AI技术（如GPT-4）秘而不宣，成为闭源技术，这与“开放AI”的初衷完全相悖。马斯克在诉讼中寻求法院强制OpenAI回归其非营利性质，并使其所有技术和研究成果保持开源。他认为，OpenAI目前的行为构成了违约，并违反了其对人类的信托责任。马斯克的指控还包括OpenAI在追求商业利益的过程中，优先考虑微软的投资回报，而非公共利益。他强调，OpenAI目前的运营模式，尤其是其与微软高达数十亿美元的合作，已经使其偏离了最初承诺的“开放和非营利”原则，变成了“封闭和营利”的公司。作为回应，OpenAI方面对马斯克的指控进行了反驳。他们发布了马斯克在早期与OpenAI高管之间的电子邮件往来，试图证明马斯克本人曾同意并支持OpenAI探索某种盈利模式以获得足够的资金来推动AGI的研发，并且马斯克此前也曾试图掌控OpenAI。OpenAI辩称，开发尖端AI技术需要巨大的计算资源和资金投入，为了实现其使命，建立一个营利性实体，并通过商业化运作来筹集资金是必要的。他们表示，即使在盈利模式下，OpenAI依然致力于确保AGI的安全性和对人类的益处，并强调其治理结构能够平衡营利与使命。这场诉讼不仅仅是两位科技巨头之间的个人恩怨，更触及了人工智能领域的核心伦理问题和发展方向。它引发了关于AI公司应该如何平衡商业利益与社会责任、开源与闭源、以及技术垄断与公共利益之间关系的深刻讨论。法院将对马斯克的诉讼做出最终裁决，其结果可能会对OpenAI的未来运营模式、甚至整个AI行业的治理结构产生示范性影响。无论结果如何，这场“马斯克诉奥特曼”的对决无疑将成为人工智能发展史上的一个重要里程碑。这场耗资巨大的摊牌，最终将由这位法官做出决定，其判决结果将具有举足轻重的影响力。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+    "time": "9小时前",
+    "published_iso": "2026-05-06T23:52:48+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Gulf economies face long-term hit from Iran conflict",
+    "deck": "Commentators say it will take years or even decades to repair the damage.",
+    "cnTitle": "伊朗冲突长期影响海湾经济",
+    "cnDeck": "根据国际评论员和经济分析师的普遍看法，伊朗冲突对海湾地区经济造成的长期影响将是深远且难以估量的，修复其带来的损害可能需要数年甚至数十年的时间。这一评估突显了该地区地缘政治紧张局势的严重性及其对全球经济稳定的潜在威胁。专家们指出，任何涉及伊朗的重大冲突，尤其是在波斯湾这一全球能源动脉区域，都会立即对原油价格和全球能源供应链产生剧烈冲击。海湾合作委员会（GCC）成员国，包括沙特阿拉伯、阿联酋、卡塔尔、科威特、巴林和阿曼，其经济高度依赖石油出口和地区贸易，将首当其冲。分析人士认为，冲突的首要影响将体现在能源市场上。油价飙升将导致全球通胀加剧，并可能引发主要经济体陷入衰退，进而反噬对海湾地区能源产品的需求。同时，霍尔木兹海峡作为全球最重要的石油运输要道，任何中断都将对全球贸易和供应链造成灾难性影响，大幅增加运输成本和保险费用。除了直接的经济冲击，冲突还会导致资本外逃和外国直接投资（FDI）锐减。投资者会因地区不确定性增加而撤离，阻碍长期发展项目和经济多元化努力。旅游业也将遭受重创，作为许多海湾国家日益增长的非石油收入来源，旅游安全感的下降将使游客望而却步。评论员进一步强调，冲突的长期效应包括但不限于基础设施的破坏、贸易路线的中断、劳动力市场的动荡以及社会稳定性的下降。长期来看，这种不确定性将阻碍海湾国家吸引人才和技术，延缓其向知识经济和多元化经济转型的进程。此外，冲突可能迫使地区国家增加军事开支，挤占原本用于经济建设和社会福利的资源，加剧财政压力。一些国际机构的报告也曾警告，中东地区任何重大冲突都可能引发全球性经济连锁反应，尤其是在供应链韧性尚未完全恢复的背景下。因此，评论员们呼吁国际社会应积极寻求外交解决方案，以避免地区冲突升级，从而保护全球经济免受长期衰退的风险。他们认为，即使冲突得以平息，信任的重建、贸易关系的恢复以及受损基础设施的重建都将是一个漫长而艰巨的过程，其影响可能持续一代人。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-06T23:06:17+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
@@ -23,8 +64,35 @@
     "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Hedge fund founder hits back at Mamdani's 'creepy' wealth tax video",
+    "deck": "Ken Griffin said Mamdani's video, filmed outside his apartment, raised safety concerns.",
+    "cnTitle": "肯·格里芬回应“财富税视频”侵犯隐私",
+    "cnDeck": "全球知名对冲基金Citadel的创始人兼首席执行官肯·格里芬（Ken Griffin），近日对一段由马姆达尼（Mamdani）制作并发布在互联网上的视频表达了强烈不满和深切担忧。格里芬公开表示，这段视频是在其私人公寓外部拍摄的，这一行为本身就令人感到“毛骨悚然”（creepy），并直接引发了他对个人及其家人安全的严重关切。格里芬是全球金融界最具影响力的人物",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
+    "time": "16小时前",
+    "published_iso": "2026-05-06T16:35:39+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Wegovy pill sales smash forecasts, sending Novo Nordisk stock higher",
+    "deck": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
+    "cnTitle": "诺和诺德Wegovy销售超预期股价大涨",
+    "cnDeck": "丹麦制药巨头诺和诺德（Novo Nordisk）近期宣布，其备受瞩目的减肥药物Wegovy（索马鲁肽注射液）的销售额远超此前预期，表现强劲。受此利好消息推动，公司已将其对2026年的财务展望上调，导致公司股价大幅上涨。Wegovy以活性成分索马鲁肽为基础，自上市以来在全球市场迅速获得广泛关注，为慢性体重管理提供了",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
+    "time": "17小时前",
+    "published_iso": "2026-05-06T15:59:41+00:00",
+    "is_new": true,
+    "id": "n7",
     "lead": false
   },
   {
@@ -37,7 +105,63 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n3",
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates",
+    "deck": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
+    "cnTitle": "AMD股价飙升16%，营收超预期",
+    "cnDeck": "美国芯片巨头AMD（超微半导体）近日公布了其最新财报，该报告显示公司业绩表现强劲，特别是数据中心业务的显著增长，推动其营收和业绩指引均超出市场普遍预期。受此利好消息提振，AMD的股价在盘后交易和随后的市场交易中大幅飙升，涨幅一度高达16%，显示出投资者对该公司未来发展前景的强烈信心。财报数据显示，AMD的数据中心业务在过去一个季度中表现尤为突出，成为公司整体增长的主要驱动力。这一增长主要得益于对人工智能（AI）计算能力需求的不断攀升，以及AMD在该领域推出的高性能计算产品。公司管理层在财报电话会议中强调，随着全球范围内AI基础设施建设的加速，AMD的MI300系列AI加速器等产品正获得越来越多的关注和订单，这预示着其在快速增长的AI芯片市场中占据了有利位置。分析师普遍认为，AMD此次超预期的财报表现，进一步印证了AI技术对半导体行业带来的巨大变革和机遇。投资者纷纷涌入AMD股票，正是基于对AI繁荣才刚刚开始的乐观预期。市场普遍认为，AMD在CPU和GPU领域的深厚技术积累，以及其不断扩大的AI产品线，使其能够更好地抓住这一历史性机遇。相较于主要竞争对手，AMD在AI领域的追赶速度和创新能力得到了市场的认可。此外，AMD提供的前瞻性业绩指引也超出华尔街分析师的预测，这表明公司对未来几个季度的业务增长充满信心。管理层预计，随着企业和云服务提供商对AI芯片的需求持续旺盛，AMD的数据中心业务将继续保持强劲增长势头。这种积极的展望为投资者提供了明确的增长信号，进一步",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
+    "time": "19小时前",
+    "published_iso": "2026-05-06T14:11:37+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+    "deck": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
+    "cnTitle": "乌克兰机器人作战揭示未来战场",
+    "cnDeck": "乌克兰总统泽连斯基近日发表声明，指出乌克兰军队已成功利用机器人和无人机夺取了部分领土，这标志着现代战争的一个重要转折点，并引发了对未来战场形态的广泛讨论。这一消息强调了无人作战在冲突中的日益核心作用，预示着一个由先进技术驱动的“机器人战争”时代的到来。在乌克兰冲突中，无人机和机器人技术已经得到了前所未有的应用。从侦察监视到精确打击，再到物资运输和排雷作业，各种无人系统正在改变传统的军事行动模式。泽连斯基总统的言论尤其引人注目，因为它暗示了这些系统不仅作为辅助工具，甚至能够独立完成过去需要大量人力才能执行的复杂地面攻势，从而实现“纯粹由机器人和无人机”主导的领土夺取。这种发展带来了多重影响。首先，它极大地降低了前线作战人员的生命风险，这是无人作战最直接且最具吸引力的优势之一。通过派遣机器人和无人机执行高危任务，军队可以有效减少士兵伤亡，提高公众对军事行动的支持度。其次，无人系统通常具备更高的精度和更长的续航能力，可以在复杂或危险的环境中长时间运行，执行人工难以完成的任务。例如，小型侦察无人机可以深入敌后进行情报收集，而武装无人机则可以对特定目标进行外科手术式打击，最大限度地减少附带损伤。然而，“机器人战争”的兴起也伴随着一系列复杂的挑战和伦理困境。技术上的挑战包括如何确保这些系统的自主性、抗干扰能力和网络安全，以防止其被敌方劫持或干扰。此外，高度依赖机器可能导致人类在战场上的决策权被削弱，甚至引发关于“杀人机器人”的伦理辩论——即机器是否应被赋予决定生死的权利。国际社会尚未就完全自主武器系统（LAWS）的开发和使用达成普遍共识，其潜在的法律和道德后果需要紧急关注。乌克兰冲突实际上已成为全球范围内检验和发展无人作战技术的前沿试验场。西方国家及其他军事实力的支持，使得乌克兰军队能够迅速整合和部署各类商用及军用无人平台。这些平台不仅包括空中无人机（如土耳其的Bayraktar TB2、美国提供的Switchblade等），还可能包括地面无人车辆（UGVs），用于侦察、运输甚至直接交战。这些实战经验正在为军事研究人员和国防工业提供宝贵的反馈，加速了新一代无人作战系统的迭代和创新。从战略层面看，机器人和无人机的广泛应用正在重塑军事学说和战术。传统的大规模地面部队部署和集中火力打击模式可能会逐渐被更加分散、灵活和技术驱动的作战方式所取代。未来战争可能更多地围绕信息优势、网络中心战和无人系统之间的协同作战展开。各国军队都在密切关注乌克兰的经验，并重新评估自身的军事现代化进程，以适应这种变革。此外，这些技术",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+    "time": "21小时前",
+    "published_iso": "2026-05-06T11:59:44+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
+    "deck": "No extra price rises are slated for the UK, which saw better than expected sales in the first quarter.",
+    "cnTitle": "Next因伊朗战事非欧区商品涨价8%",
+    "cnDeck": "英国知名时尚零售巨头Next近日宣布，由于与伊朗战争相关的运营成本显著增加，公司计划对其在欧洲以外地区的商品价格进行上调，涨幅最高将达到8%。这一举措直接反映了当前复杂且紧张的全球地缘政治局势对国际供应链和商业运营产生的深远影响。Next指出，“伊朗战争成本”主要是指中东地区日益升级的冲突所导致的海运费用飙升、保险成本激增以及能源价格波动等一系列连锁",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-06T08:43:47+00:00",
+    "is_new": true,
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+    "deck": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
+    "cnTitle": "曾担忧马斯克施暴",
+    "cnDeck": "在埃隆·马斯克（Elon Musk）与OpenAI首席执行官萨姆·奥特曼（Sam Altman）之间长达一个月的审判进入第二周时，OpenAI总裁格雷格·布罗克曼（Greg Brockman）出庭作证，并在证词中披露了一段令人震惊的往事。布罗克曼在法庭上表示，他曾与马斯克有过一次紧张的互动，当时他甚至担心马斯克会对他施暴，原话是：“我当时以为他要打我。”这一言论为这场备受瞩目的法律纠纷增添了戏剧性的个人色彩。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-06T07:10:16+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -50,7 +174,7 @@
     "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T04:53:31+00:00",
-    "id": "n4",
+    "id": "n13",
     "lead": false
   },
   {
@@ -63,7 +187,35 @@
     "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-06T03:05:16+00:00",
-    "id": "n5",
+    "id": "n14",
+    "lead": false
+  },
+  {
+    "headline": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
+    "deck": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
+    "cnTitle": "苹果因AI广告被诉将赔偿iPhone用户",
+    "cnDeck": "苹果公司近日宣布，将向部分美国iPhone购买者支付最高达95美元的赔偿金，以和解一项集体诉讼。这项诉讼的核心指控是，苹果在去年的“Apple Intelligence”人工智能功能宣传中，误导了部分iPhone消费者。根据诉讼文件，原告方声称苹果公司对其全新AI功能——“Apple Intelligence”的广告宣传存在虚假或误导性描述，使其产品看起来比实际更强大、更普及或更先进。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-06T00:15:14+00:00",
+    "is_new": true,
+    "id": "n15",
+    "lead": false
+  },
+  {
+    "headline": "US to safety test new AI models from Google, Microsoft, xAI",
+    "deck": "New agreements between the companies and the Commerce department build on Biden-era pacts.",
+    "cnTitle": "美国将安全测试谷歌微软XAI新AI模型",
+    "cnDeck": "美国商务部宣布与多家领先的科技巨头达成新协议，将对Google、Microsoft以及xAI等公司开发的新一代人工智能模型进行安全测试。这一举措是美国政府在总统拜登执政期间所建立的一系列协议的延续和深化。根据这些新协议，美国商务部下属的国家标准与技术研究院（NIST）及其新成立的美国人工智能安全研究所（U.S. AI Safety Institute）将负责对这些尖端AI模型进行严格的评估和测试。此举旨在识别和缓解AI模型可能带来的潜在风险，包括数据隐私泄露、算法偏见、信息误导、网络安全漏洞以及更广泛的国家安全威胁。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-05T20:16:24+00:00",
+    "is_new": true,
+    "id": "n16",
     "lead": false
   },
   {
@@ -76,7 +228,7 @@
     "url": "https://www.cnbc.com/2026/05/05/dupont-is-ripping-higher-after-an-impressive-beat-heres-our-next-move.html",
     "time": "22小时前",
     "published_iso": "2026-05-05T17:32:30+00:00",
-    "id": "n6",
+    "id": "n17",
     "lead": false
   },
   {
@@ -89,7 +241,21 @@
     "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-05T16:30:23+00:00",
-    "id": "n7",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Nissan to close UK line and cut 900 European jobs",
+    "deck": "Nissan says it is considering working with a third party to fully utilise its Sunderland plant.",
+    "cnTitle": "Nissan关闭英国生产线裁员900人",
+    "cnDeck": "Nissan宣布将关闭其在英国的一条生产线并裁减900个欧洲职位。该公司表示，正在考虑与第三方合作，以充分利用其位于英国桑德兰的工厂。桑德兰工厂是Nissan在欧洲最大的生产基地之一，承担着多款车型，包括Leaf电动车、Qashqai和Juke的生产任务。此次生产线关闭和裁员是Nissan正在进行的全球业务重组计划的一部分，旨在应对当前汽车市场的挑战，包括向电动汽车转型的巨大投入、供应链问题以及全球经济放缓。该公司此前已宣布了“Nissan NEXT”转型计划，旨在优化产能、提高盈利能力并专注于核心市场。此次在欧洲范围内的裁员将影响到包括英国在内的多个欧洲国家的员工，涉及生产、研发和行政等多个部门。Nissan强调，将与受影响的员工进行协商，并提供必要的支持和补偿方案。这一决定反映了全球汽车行业面临的结构性调整压力，许多大型制造商都在重新评估其全球生产足迹和劳动力结构，以适应电动化、自动化和共享出行的新趋势。分析人士指出，尽管电动汽车需求不断增长，但向电动化转型的成本高昂，加上原材料价格波动和市场竞争加剧，使得传统汽车制造商面临巨大压力，需要通过削减成本和优化效率来保持竞争力。此次Nissan的举动可能引发对欧洲汽车制造业就业前景的担忧，并促使相关政府和工会寻求对策，以支持受影响的地区和员工。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-05T15:39:32+00:00",
+    "is_new": true,
+    "id": "n19",
     "lead": false
   }
 ]
