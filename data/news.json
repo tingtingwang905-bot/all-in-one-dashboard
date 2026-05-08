@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T14:27:38+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-08T10:56:52+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -259,58 +257,6 @@
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
     "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings",
-    "deck": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long-term forecast after strong first-quarter earnings.",
-    "cnTitle": "AMD苏姿丰上调预测，股价暴涨19%",
-    "cnDeck": "Advanced Micro Devices (AMD) 首席执行官丽莎·苏（Lisa Su）在公司发布了强劲的第一季度财报后，对其长期业务前景做出了显著上调，此举立即引发了市场热烈反响，AMD股价在当日交易中飙升了19%。苏姿丰博士特别强调了市场对中央处理器（CPU）日益增长的需求是公司未来增长的关键驱动力，并在此基础上将其长期预测翻了一番，这一表态极大地提",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
-    "time": "1天前",
-    "published_iso": "2026-05-06T20:01:17+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Hedge fund founder hits back at Mamdani's 'creepy' wealth tax video",
-    "deck": "Ken Griffin said Mamdani's video, filmed outside his apartment, raised safety concerns.",
-    "cnTitle": "肯·格里芬回应“财富税视频”侵犯隐私",
-    "cnDeck": "全球知名对冲基金Citadel的创始人兼首席执行官肯·格里芬（Ken Griffin），近日对一段由马姆达尼（Mamdani）制作并发布在互联网上的视频表达了强烈不满和深切担忧。格里芬公开表示，这段视频是在其私人公寓外部拍摄的，这一行为本身就令人感到“毛骨悚然”（creepy），并直接引发了他对个人及其家人安全的严重关切。格里芬是全球金融界最具影响力的人物",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-05-06T16:35:39+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Wegovy pill sales smash forecasts, sending Novo Nordisk stock higher",
-    "deck": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
-    "cnTitle": "诺和诺德Wegovy销售超预期股价大涨",
-    "cnDeck": "丹麦制药巨头诺和诺德（Novo Nordisk）近期宣布，其备受瞩目的减肥药物Wegovy（索马鲁肽注射液）的销售额远超此前预期，表现强劲。受此利好消息推动，公司已将其对2026年的财务展望上调，导致公司股价大幅上涨。Wegovy以活性成分索马鲁肽为基础，自上市以来在全球市场迅速获得广泛关注，为慢性体重管理提供了",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
-    "time": "17小时前",
-    "published_iso": "2026-05-06T15:59:41+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Airlines cut 13,000 flights in May as jet fuel prices soar",
-    "deck": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
-    "cnTitle": "航油价格飙升致航空公司5月减航班",
-    "cnDeck": "航空业正面临前所未有的运营成本压力，核心原因在于国际原油价格的持续高企，这直接导致航空燃油（通常占航空公司总运营成本的25%至35%）的价格飙升。根据知名航空数据分析公司Cirium的最新报告显示，为了应对日益增长的燃油开支，全球各大航空公司已在今年5月份大幅削减了约13,000个航班。这一举措直接导致了近200万个航空座位从市场上消失，对全球航空旅行市场造成了显著影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n24",
     "lead": false
   }
 ]
