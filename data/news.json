@@ -1,5 +1,19 @@
 [
   {
+    "headline": "The companies making billions from the Iran war",
+    "deck": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+    "cnTitle": "伊朗战争催生军工企业巨额利润",
+    "cnDeck": "伊朗战争对全球经济格局和特定产业板块产生了深远影响。自冲突爆发以来，部分企业因地缘政治紧张局势加剧而实现了前所未有的盈利增长，其股价也一路飙升，成为这场战争中的显著受益者。这些公司主要集中在国防工业、能源、物流以及部分高科技领域。在国防工业方面，全球各国对军备的需求激增，尤其是在潜在冲突升级的背景下。美国主要的军工巨头，如洛克希德·马丁（Lockheed Martin）、雷神技术公司（Raytheon Technologies）、诺斯罗普·格鲁曼（Northrop Grumman）和波音公司（Boeing），纷纷报告了创纪录的订单量和收入。例如，据报道，洛克希德·马丁公司的F-35战斗机和“海马斯”（HIMARS）高机动火箭炮系统的国际订单显著增加，其股价在过去一年内上涨了约25%。雷神技术公司也宣布，其导弹防御系统和精确制导弹药的需求大幅上升，预期未来几个季度的营收将持续强劲。这些公司通过生产和供应武器、弹药、军事装备和相关技术，获得了数十亿美元的合同。能源企业同样在这场冲突中受益匪浅。伊朗作为重要的石油生产国，其相关局势的紧张直接影响了全球原油和天然气供应的稳定性，导致国际油价和天然气价格飙升。雪佛龙（Chevron）、埃克森美孚（ExxonMobil）等大型能源公司因销售收入增加和利润率提高而获得了巨额收益。例如，埃克森美孚在最新财报中宣布，其季度净利润同比增长了35%，达到约150亿美元，主要得益于高企的能源价格。与此同时，一些提供能源基础设施建设和维护服务的公司也看到了业务量的显著增长。物流和航运公司也看到了需求的增加，尤其是在军事物资运输和关键供应链重构方面。由于地缘政治风险上升，全球贸易路线面临挑战，对可靠的物流解决方案需求旺盛。此外，随着国家安全意识的提高，网络安全公司也从中受益，各国政府和关键基础设施运营商加大了对网络防御的投入。分析人士指出，虽然战争带来了巨大的社会成本和人道危机，但对于少数特定行业而言，却带来了巨大的经济机会。摩根士丹利（Morgan Stanley）的一位高级分析师表示：“地缘政治冲突总是会重塑经济版图，而那些能够满足即时安全和能源需求的企业，无疑会在这一时期实现超额增长。”然而，这种“战争红利”也引发了关于伦理和可持续性的讨论。许多投资者和公众开始关注，这些企业在实现财务成功的同时，如何在全球和平与稳定中扮演角色。这种现象也反映了全球经济与地缘政治复杂而深刻的相互作用，预示着国际关系紧张可能在未来继续影响全球产业的结构和表现。华尔街的交易员们密切关注这些板块的表现，将其视为评估地缘政治风险对市场影响的重要指标。",
+    "cat": "finance",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-08T08:13:07+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Two Islamic-State linked Australian women charged with crimes against humanity",
     "deck": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
     "cnTitle": "澳大利亚两IS相关女性被控反人类罪",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T04:02:53+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-08T02:23:03+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-08T01:31:55+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:11:35+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -65,8 +75,35 @@
     "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:03:04+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Anti-war protests rock Japan as PM pushes for stronger defence",
+    "deck": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
+    "cnTitle": "日本首相推强军引爆反战示威",
+    "cnDeck": "日本近期爆发了数十年来规模最大的反战抗议活动，这些大规模示威活动清晰地表明，日本民众在政府推动加强国防建设以及修改其战后制定的和平宪法问题上存在深刻分歧。当前的日本首相及其领导的政府一直积极倡导提升日本的军事实力，并重新评估其和平宪法中的相关条款，特别是第九条。该条款明确规定日本放弃发动战争的权利，并不得拥有陆海空军及其他战争力量，尽管在实际操作中，日本拥有功能强大的自卫队。首相及其政府推动此项政策调整，主要是为了应对日益复杂和严峻的地区安全环境，包括周边地区不断上升的军事活动以及潜在的安全挑战。政府认为，为了有效应对现代威胁，并加强与重要盟友（例如美国）的安全合作，日本需要具备更强的自卫能力和在地区安全事务中发挥更积极的作用。然而，这一政策方向在日本国内引发了强烈反对。反战抗议者坚决捍卫日本的和平宪法，认为它是日本自二战以来实现和平与繁荣的基石。他们担忧，一旦宪法被修改，可能导致日本重新卷入国际冲突，背离其长期奉行的和平主义路线，并可能加剧地区紧张局势。许多民众对二战的历史教训记忆犹新，对任何可能导致军事扩张的举动都持高度警惕和谨慎的态度。此次抗议活动不仅规模庞大，而且影响力覆盖全国范围，吸引了包括学生、老年人、和平主义者以及各类政治团体在内的广泛社会群体参与。他们通过集会、游行、请愿等多种形式，向政府明确表达了维护宪法、反对战争、呼吁和平的核心诉求。示威者普遍强调，通过加强外交而非军事对抗，才是维护国家安全和地区稳定的正确和可持续的途径。日本民众在国家安全需求与宪法和平原则之间进行权衡时，展现出显著的两极分化。一部分人认为，为了国家的主权和安全，适度修改宪法以适应新的安全环境是必要的；而另一部分人则坚信，和平宪法是日本独有的国家身份象征，也是其对国际社会和平承诺的体现，因此不应轻易改动。此次大规模反战抗议潮不仅是对首相及其政府执政智慧和决心的严峻考验，也",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-07T22:15:51+00:00",
     "is_new": true,
-    "id": "n5",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+    "deck": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+    "cnTitle": "德国财长指责特朗普伊朗政策致经济放缓",
+    "cnDeck": "德国财政部长拉斯·克林拜尔发表声明，将德国经济放缓归咎于时任美国总统特朗普在伊朗采取的“不负责任的战争”策略。这一言论突显了欧美盟友之间在关键地缘政治问题上的深刻分歧，尤其是在中东政策方面。克林拜尔部长明确指出，美国政府对伊朗施加的“极限施压”政策，包括退出伊朗核协议（《联合全面行动计划》，简称JCPOA）并重新实施严厉制裁，导致区域紧张局势急剧升级，并对全球经济稳定造成了负面影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-05-07T18:13:11+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -79,8 +116,7 @@
     "url": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:55:23+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -93,8 +129,21 @@
     "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:30:55+00:00",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "McDonald's CEO says consumer spending could be 'getting a little bit worse'",
+    "deck": "Shares of McDonald's have fallen 10% over the last year, hurt by concerns about the broader economy.",
+    "cnTitle": "消费支出恐趋恶化",
+    "cnDeck": "全球快餐巨头麦当劳的首席执行官（CEO）近日发表了对当前消费者支出趋势的担忧，指出消费者的购买力可能“正在变得更糟一点”（getting a little bit worse）。这一言论是全球经济面临挑战背景下的一个重要信号。麦当劳作为一家在全球拥有数万家门店、日均服务数千万顾客的跨国企业，其高管对消费者行为的观察具有广泛的代表性，往往被视为宏观经济健康状况的晴雨表。该CEO的表态并非空穴来风。在过去的一年里，麦当劳的股价已经下跌了10%。这一下跌，很大程度上是由于市场对整体经济前景的担忧所致。消费者支出的疲软迹象，在全球多个关键市场中逐渐显现，高通胀、高利率以及地缘政治不确定性等多重因素正在侵蚀普通民众的可支配收入。当家庭预算收紧时，即使是相对平价的快餐消费也可能受到影响。麦当劳的股价表现与更广泛的零售和餐饮行业趋势相吻合。许多大型消费品公司也报告了消费者行为的变化，例如对价格敏感度增加、购买频率下降或转向更便宜的替代品。麦当劳CEO的警告，暗示了企业可能面临利润压力，因为在销量增长放缓或下降的同时，运营成本，包括原材料和劳动力成本，仍在持续上升。为了应对这些挑战，麦当劳可能需要调整其定价策略、促销活动以及菜单结构，以吸引并留住顾客。分析人士指出，麦当劳CEO的此番言论，凸显了当前全球经济复苏的脆弱性。尽管一些主要经济体的数据显示通胀有所缓解，但消费者信心和实际购买力恢复缓慢，这给央行在制定货币政策时带来了新的考量。如果消费者支出持续疲软，可能会对企业盈利、就业市场乃至全球经济增长产生连锁反应。投资者正密切关注此类来自企业高管的直接反馈，以评估经济衰退的风险以及各自投资组合的韧性。麦当劳作为消费领域的风向标，其CEO的谨慎展望，无疑为市场增添了一层不确定性，促使企业和政策制定者重新审视当前及未来的经济策略。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
+    "time": "18小时前",
+    "published_iso": "2026-05-07T14:26:07+00:00",
     "is_new": true,
-    "id": "n7",
+    "id": "n11",
     "lead": false
   },
   {
@@ -107,7 +156,21 @@
     "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-07T09:04:24+00:00",
-    "id": "n8",
+    "id": "n12",
+    "lead": false
+  },
+  {
+    "headline": "Watch: Drone delivers first Amazon parcels in UK",
+    "deck": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
+    "cnTitle": "亚马逊英国首次无人机配送",
+    "cnDeck": "亚马逊公司近日在英国成功进行了首次商业无人机包裹配送，标志着这家科技巨头在全球范围内扩展其超快速交付服务迈出了重要一步。此次历史性的交付服务在英国剑桥郡和赫特福德郡的部分地区启动，亚马逊的无人机将为符合条件的客户递送重达五磅（约2.2公斤）的包裹。亚马逊表示，其目标是随着消费者对“极致快速”配送需求日益增长，逐步扩大这项服务的覆盖范围和规模。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-07T07:54:50+00:00",
+    "is_new": true,
+    "id": "n13",
     "lead": false
   },
   {
@@ -120,7 +183,7 @@
     "url": "https://www.bbc.com/news/articles/c7597dnele2o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-07T06:05:25+00:00",
-    "id": "n9",
+    "id": "n14",
     "lead": false
   },
   {
@@ -133,7 +196,7 @@
     "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
     "time": "1小时前",
     "published_iso": "2026-05-07T03:25:42+00:00",
-    "id": "n10",
+    "id": "n15",
     "lead": false
   },
   {
@@ -146,7 +209,7 @@
     "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-06T23:52:48+00:00",
-    "id": "n11",
+    "id": "n16",
     "lead": false
   },
   {
@@ -159,7 +222,7 @@
     "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T23:06:17+00:00",
-    "id": "n12",
+    "id": "n17",
     "lead": false
   },
   {
@@ -172,7 +235,7 @@
     "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
-    "id": "n13",
+    "id": "n18",
     "lead": false
   },
   {
@@ -185,8 +248,7 @@
     "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
     "time": "1天前",
     "published_iso": "2026-05-06T20:01:17+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n19",
     "lead": false
   },
   {
@@ -199,7 +261,7 @@
     "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-06T16:35:39+00:00",
-    "id": "n15",
+    "id": "n20",
     "lead": false
   },
   {
@@ -212,7 +274,7 @@
     "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
     "time": "17小时前",
     "published_iso": "2026-05-06T15:59:41+00:00",
-    "id": "n16",
+    "id": "n21",
     "lead": false
   },
   {
@@ -225,7 +287,7 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n17",
+    "id": "n22",
     "lead": false
   },
   {
@@ -238,7 +300,7 @@
     "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
     "time": "19小时前",
     "published_iso": "2026-05-06T14:11:37+00:00",
-    "id": "n18",
+    "id": "n23",
     "lead": false
   },
   {
@@ -251,7 +313,7 @@
     "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-05-06T11:59:44+00:00",
-    "id": "n19",
+    "id": "n24",
     "lead": false
   },
   {
@@ -264,33 +326,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T08:43:47+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
-    "deck": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
-    "cnTitle": "曾担忧马斯克施暴",
-    "cnDeck": "在埃隆·马斯克（Elon Musk）与OpenAI首席执行官萨姆·奥特曼（Sam Altman）之间长达一个月的审判进入第二周时，OpenAI总裁格雷格·布罗克曼（Greg Brockman）出庭作证，并在证词中披露了一段令人震惊的往事。布罗克曼在法庭上表示，他曾与马斯克有过一次紧张的互动，当时他甚至担心马斯克会对他施暴，原话是：“我当时以为他要打我。”这一言论为这场备受瞩目的法律纠纷增添了戏剧性的个人色彩。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-06T07:10:16+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-    "deck": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-    "cnTitle": "乌克兰前线城市平民生存危机",
-    "cnDeck": "乌克兰前线城市奥列什基（Oleshky）的居民表示，他们已被切断新鲜食物和药品供应长达数月之久，正面临严峻的人道主义危机。这座位于战火前线的城市，其平民正陷入一个两难困境：是选择留守家中，在物资匮乏中挣扎求生，还是冒着极高的生命危险踏上被称为“死亡之路”的疏散路线。奥列什基是乌克兰南部赫尔松州的一个战略要地，自冲突爆发以来，该地区一直是激战的焦点。城市的地理位置使其成为各方争夺的重点，也导致了其居民生活物资供应的中断。长期以来，奥列什基的居民一直依靠有限的储备和偶尔的非官方渠道获取必需品，但随着时间的推移，这些资源已所剩无几。缺乏新鲜食物意味着居民的营养状况日益恶化，许多人面临饥饿和营养不良的威胁，特别是儿童、老年人和体弱者。对药品的长期短缺则带来了更直接的生命威胁，慢性病患者无法获得维持生命的药物，急性疾病得不到及时治疗，简单的感染也可能演变成致命的并发症。冲突使得奥列什基与外界的交通和物流网络遭到严重破坏，人道主义援助车队难以抵达，商业运输几乎完全停滞。居民不仅无法购买到基本生活用品，甚至无法获得洁净的饮用水，卫生条件也急剧下降，疾病传播的风险随之增加。城市的医疗基础设施在战火中受到破坏，医务人员流失，使得原本就稀缺的医疗服务更加难以为继。与此同时，奥列什基的平民们被困在冲突区域，面临着巨大的撤离风险。新闻标题中提到的“死亡之路”并非虚言，它指的是穿越战区、布满地雷、遭受炮火袭击或被武装团体控制的危险疏散通道。选择通过这些路线撤离的平民，随时可能遭遇袭击、爆炸或被扣留。许多居民因此宁愿选择留守在家中，尽管生活条件极端恶劣，也比踏上这条充满未知危险的道路更为可取。然而，长期的围困和物资短缺正在迫使他们做出越来越艰难的选择，生与死的界限变得模糊。国际社会和人道主义组织多次呼吁保障战区平民的安全通行权和人道主义援助通道，但由于战事复杂性和各方立场，这些努力往往进展缓慢，难以有效触及像奥列什基这样被围困的城市。联合国及其他非政府组织试图协调建立安全走廊，以运送物资并协助平民撤离，但这些尝试经常因停火协议的脆弱性和安全保障的缺乏而受阻。奥列什基的困境正是乌克兰冲突中无数平民所面临挑战的一个缩影。这种长期的人道主义危机不仅对当前居民的生命健康造成威胁，也对他们的心理健康和社会结构产生深远影响。儿童的教育中断，家庭被迫分离，社区纽带被战争撕裂。许多幸存者即使在冲突结束后，也将长期承受创伤后应激障碍（PTSD）的困扰。奥列什基的状况凸显了国际社会在保护平民和确保人道主义法得到遵守方面的巨大挑战，以及战争对普通民众生活造成的毁灭性影响。平民不应成为战争的牺牲品，他们的基本生存权和尊严必须得到保障。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-06T04:53:31+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   }
 ]
