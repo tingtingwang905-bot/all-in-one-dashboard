@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-09T06:13:30+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-09T01:17:55+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-09T00:46:16+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-08T18:59:58+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-08T17:53:25+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -83,6 +78,20 @@
     "lead": false
   },
   {
+    "headline": "South Africa president faces call to resign after court ruling",
+    "deck": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
+    "cnTitle": "南非总统拉马福萨面临辞职呼吁",
+    "cnDeck": "南非总统西里尔·拉马福萨（Cyril Ramaphosa）正面临日益增长的辞职呼吁，此前该国宪法法院做出了一项具有里程碑意义的裁决，认定议员们此前阻止针对拉马福萨总统的弹劾程序的做法是错误的。这一裁决对拉马福萨的政治生涯和南非的政治稳定构成了重大打击。事件的核心是所谓的“福特黑德农场门”丑闻，该案涉及2020年拉马福萨总统位于林波波省的私人农场内，据称有数百万美元外币现金被盗。这些现金的来源、持有方式以及未向相关部门申报等问题引发了广泛的质疑和争议。反对党派和部分公民社会团体长期以来一直要求对拉马福萨总统在处理此事件中的行为进行调查，认为其可能违反了宪法和反腐法规。然而，此前在议会中，执政党非洲人国民大会（ANC）的多数议员曾投票否决了启动弹劾程序的动议。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-08T13:35:56+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
     "headline": "US jet fuel could be used in Europe to ease possible shortages",
     "deck": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
     "cnTitle": "国际机构建议美燃油助欧洲缓解短缺",
@@ -92,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-08T10:56:52+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -105,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-08T09:20:40+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -119,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T08:13:07+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -132,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T04:02:53+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -145,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-08T02:23:03+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -158,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-08T01:31:55+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -171,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:11:35+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -184,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:03:04+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -197,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-07T22:15:51+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -210,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-07T18:13:11+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -223,7 +231,7 @@
     "url": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:55:23+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -236,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:30:55+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -249,34 +257,7 @@
     "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
     "time": "18小时前",
     "published_iso": "2026-05-07T14:26:07+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Shell latest oil giant to see profits surge due to Iran war impact",
-    "deck": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
-    "cnTitle": "伊朗冲突推动壳牌利润激增",
-    "cnDeck": "能源巨头壳牌（Shell）最新公布的财务数据显示，公司利润大幅飙升，增幅接近四分之一，这一显著增长主要得益于近期国际油价的剧烈波动。此次利润激增使得壳牌成为继其他几家大型能源公司之后，又一家因中东地缘政治紧张局势，特别是与伊朗相关的冲突影响而获益的全球主要能源企业。根据公司发布的报告，壳牌在当前财季的调整后利润达到令人瞩目的水平，其上游勘探与生产业务部门表现尤为突出。全球原油和天然气价格因供应中断的担忧和地缘政治风险溢价而持续走高，为壳牌带来了丰厚的收益。公司首席执行官在随后的分析师会议中表示，尽管全球经济面临多重挑战，但能源市场的基本面依然强劲，而区域冲突则进一步放大了市场的不确定性，从而推高了能源商品价格。近期，中东地区与伊朗相关的紧张局势不断升级，引发了市场对关键航运路线原油供应可能中断的担忧。特别是对霍尔木兹海峡安全的忧虑，该海峡是全球重要的石油运输咽喉，每天有大量原油通过此地运往世界各地。任何可能影响该海峡通行能力的事件，都会立即反映在国际油价上，导致价格飙升。壳牌作为全球领先的综合性国际能源公司之一，其业务范围覆盖上游勘探生产、中游液化天然气（LNG）以及下游炼油和销售等多个环节。在油价上涨的背景下，其上游业务的利润空间得到极大拓展，库存价值也随之上涨，从而推动了整体业绩的大幅改善。分析师普遍认为",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-07T09:04:24+00:00",
     "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
-    "deck": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.",
-    "cnTitle": "亚马逊英国无人机送货首飞成功",
-    "cnDeck": "亚马逊公司近日宣布，其在英国成功完成了首批无人机包裹配送服务，标志着这家科技巨头在全球物流领域迈出了重要一步。这一里程碑式的进展，通过亚马逊旗下Prime Air无人机配送项目实现，旨在提升包裹投递的速度和效率。据亚马逊透露，其投入运营的无人机机队能够以每次飞行一单的方式，在一个运营中心半径12公里范围内，每天完成多达100个包裹的投递。此次服务的启动，得益于与英国民航局（CAA）的紧密合作，确保了无人机飞行的安全性与合规性。亚马逊长期以来一直致力于开发和完善其无人机配送技术，旨在为消费者提供更快捷、更环保的购物体验。公司自2016年起就在英国剑桥地区进行了无人机送货的秘密试验，积累了丰富的经验和数据。此次正式推出服务，意味着这些技术和运营模式已达到商业化运营的标准。亚马逊表示，无人机配送能够显著缩短从下单到收货的时间，对于急需商品的消费者而言具有巨大吸引力。此外，与传统的地面运输相比，电动无人机的使用也有助于减少碳排放，符合可持续发展的趋势。一名亚马逊代表在谈到这一新服务时表示：“我们吸引了人们专程前来观看。”这反映出公众对无人机配送这一创新模式的浓厚兴趣和好奇心。尽管无人机配送潜力巨大，但亚马逊也面临诸多挑战，包括空域管理、恶劣天气条件下的运营、电池续航能力以及公众对隐私和噪音的担忧。为了克服这些障碍，亚马逊正在不断优化其无人机设计、提升飞行算法，并与监管机构密切合作，以确保服务的安全可靠。未来，亚马逊计划逐步扩大无人机配送服务的覆盖范围，并增加可配送的商品种类。公司坚信，无人机配送将成为未来零售物流的重要组成部分，彻底改变人们接收包裹的方式。这项服务初期将主要针对重量较轻的小型包裹，例如电子产品、日用品和书籍等。亚马逊还表示，将持续收集用户反馈，并根据实际运营情况对服务进行调整和优化。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-07T08:31:34+00:00",
-    "is_new": true,
-    "id": "n21",
     "lead": false
   }
 ]
