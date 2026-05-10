@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-10T00:46:07+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-09T23:00:55+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-09T21:23:14+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-09T18:00:46+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-09T17:25:53+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -79,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:36:21+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -93,7 +87,6 @@
     "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:03:11+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -173,45 +166,6 @@
     "time": "刚刚",
     "published_iso": "2026-05-08T14:27:38+00:00",
     "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "South Africa president faces call to resign after court ruling",
-    "deck": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-    "cnTitle": "南非总统拉马福萨面临辞职呼吁",
-    "cnDeck": "南非总统西里尔·拉马福萨（Cyril Ramaphosa）正面临日益增长的辞职呼吁，此前该国宪法法院做出了一项具有里程碑意义的裁决，认定议员们此前阻止针对拉马福萨总统的弹劾程序的做法是错误的。这一裁决对拉马福萨的政治生涯和南非的政治稳定构成了重大打击。事件的核心是所谓的“福特黑德农场门”丑闻，该案涉及2020年拉马福萨总统位于林波波省的私人农场内，据称有数百万美元外币现金被盗。这些现金的来源、持有方式以及未向相关部门申报等问题引发了广泛的质疑和争议。反对党派和部分公民社会团体长期以来一直要求对拉马福萨总统在处理此事件中的行为进行调查，认为其可能违反了宪法和反腐法规。然而，此前在议会中，执政党非洲人国民大会（ANC）的多数议员曾投票否决了启动弹劾程序的动议。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-08T13:35:56+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "US jet fuel could be used in Europe to ease possible shortages",
-    "deck": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
-    "cnTitle": "国际机构建议美燃油助欧洲缓解短缺",
-    "cnDeck": "国际航空机构近日提出一项重要建议，旨在有效缓解欧洲地区未来可能出现的航空燃料供应短缺问题。该机构指出，若欧洲能更广泛地接受和使用美国规格的航空燃油，将显著帮助应对潜在的供应难题。此举明确反映出全球航空业对能源供应链稳定性的高度关注。当前，全球航空燃料市场面临多重不确定性。地缘政治紧张局势，特别是东欧冲突，持续冲击全球能源市场，导致原油及精炼",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-08T10:56:52+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "TikTok scales back AI-generated video descriptions after absurd errors",
-    "deck": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
-    "cnTitle": "TikTok缩减AI视频描述功能",
-    "cnDeck": "TikTok作为全球领先的短视频社交平台之一，近期已对其测试性的AI生成视频描述功能进行缩减。这一举动发生在該功能向部分用户推出后，其生成的视频描述因出现“荒谬错误”和“离奇”内容而被广泛分享和讨论。这项由人工智能驱动的描述工具旨在通过自动分析视频内容，并生成简洁、相关的文本描述，从而帮助创作者优化其内容的可发现性并节省时间。对于TikTok这样一个内容量巨大、趋势瞬息万变的平台而言，利用人工智能来简化内容创作和管理流程是一项符合逻辑的战略举措。AI已在TikTok著名的推荐算法中发挥关键作用，为全球数亿用户个性化推送内容。因此，将AI能力扩展到内容生成领域，例如视频描述，代表了其技术发展路线图上的自然演进。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-05-08T09:20:40+00:00",
-    "id": "n16",
     "lead": false
   }
 ]
