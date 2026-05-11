@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+    "deck": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+    "cnTitle": "伊朗诺奖得主穆罕默迪因病获保释",
+    "cnDeck": "伊朗当局已同意向著名人权活动家纳尔吉斯·穆罕默迪（Narges Mohammadi）提供保释，并将其转送医院接受治疗。这一决定是在国际社会和人权组织对其在狱中的健康状况持续恶化表达了日益增长的担忧之后作出的。穆罕默迪女士是2023年诺贝尔和平奖的获得者，该奖项旨在表彰她为反对伊朗对女性的压迫以及为促进所有人的人权和自由所作出的不懈斗争。她长期以来一直是伊朗政府的直言不讳的批评者，并因其和平活动多次被捕入狱，累计服刑多年。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-11T10:16:50+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "British Steel set to be nationalised, Starmer says",
+    "deck": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+    "cnTitle": "英国钢铁将国有化",
+    "cnDeck": "英国工党领袖基尔·斯塔默（Keir Starmer）近日宣布，本周将提交一项立法，旨在将英国钢铁公司（British Steel）正式国有化。该钢厂作为英国工业的支柱之一，自去年以来已处于政府控制之下，此举标志着其所有权的最终确认和未来发展方向的重大转变。英国钢铁公司在英国工业史上占据重要地位，曾是国家经济实力的象征，但在过去几十年中，由于全球竞争加剧、能源成本上升、市场需求波动以及长期投资不足等因素，其运营面临严峻挑战。去年，为避免公司破产并保护数千个工作岗位，英国政府不得不介入，对其进行临时性管理。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-11T10:13:05+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Philippine VP Sara Duterte impeached for a second time",
+    "deck": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+    "cnTitle": "菲律宾副总统杜特尔特二度遭弹劾",
+    "cnDeck": "菲律宾政坛近日因副总统萨拉·杜特尔特（Sara Duterte）第二次面临弹劾动议而掀起轩然大波，这一事件迅速成为该国乃至国际社会关注的焦点，预示着菲律宾政治格局可能迎来重大调整。萨拉·杜特尔特是前总统罗德里戈·杜特尔特（Rodrigo Duterte）的女儿，她在菲律宾政坛拥有举足轻重的地位，此前曾担任达沃市市长，并以其果断和强硬的政治风格赢得了广泛支持，尤其在菲律宾南部地区。此次针对她的弹劾动议，无疑对其未来的政治抱负，特别是竞选总统的计划，构成了严峻挑战。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-11T09:28:53+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Trump's China visit set to test fragile truce",
+    "deck": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
+    "cnTitle": "特朗普访华将考验贸易休战",
+    "cnDeck": "美国总统特朗普即将对中国进行访问，这将是近十年来首次有美国总统访华。此次访问被广泛视为对当前中美之间“脆弱的关税休战”的一次重大考验。在过去几年中，美国和中国这两个全球最大的经济体在贸易、技术和地缘政治等多个领域持续存在摩擦，特别是关税问题一度引发全面的贸易战。双方此前曾达成一系列协议，旨在缓解贸易紧张局势，暂停加征新的关税，并试图解决长期存在的贸易逆差和市场准入等结构性问题。然而，这些协议往往被描述为临时性的，其执行情况和持续性一直备受质疑，因此被称之为“脆弱的休战”。此次访问的焦点将集中在如何巩固并推进这一休战，避免贸易关系再次恶化。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-11T09:26:33+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+    "deck": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
+    "cnTitle": "莫迪呼吁印度国民因伊朗战争节约能源",
+    "cnDeck": "印度总理纳伦德拉·莫迪近期向全国人民发出呼吁，敦促国民在伊朗战争持续之际，采取一系列节俭措施，以应对可能出现的经济挑战。莫迪总理特别强调，鉴于中东地区局势因伊朗战争而持续紧张，国际原油价格波动加剧，这直接对印度这样一个高度依赖原油进口的国家构成巨大压力。为了缓解这种压力，他建议印度民众尽可能实行远程办公（work from home），并限制不必要的",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-11T07:13:41+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Saudi Aramco first-quarter profit jumps 26% as key pipeline reaches capacity amid Iran war",
+    "deck": "Aramco says its East-West pipeline has helped to mitigate the energy shock caused by the Iran war.",
+    "cnTitle": "沙特阿美利润大增26% 应对伊朗危机",
+    "cnDeck": "沙特阿拉伯国家石油公司（Saudi Aramco）近日宣布，其第一季度利润实现显著增长，同比飙升26%。这一令人瞩目的业绩发生在公司的关键基础设施——东-西（East-West）输油管道达到最大输送能力之际，并且正值全球能源市场因“伊朗战争”而面临巨大冲击的敏感时期。Aramco方面公开表示，其东-西输油管道在有效缓解由“伊朗战争”所引发的全球能源供应紧张和",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
+    "time": "4小时前",
+    "published_iso": "2026-05-11T05:47:13+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "deck": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
+    "cnTitle": "三星因使用Dua Lipa肖像被起诉",
+    "cnDeck": "全球知名流行歌手杜阿·利帕（Dua Lipa）的法律团队已向科技巨头三星电子（Samsung Electronics）提起诉讼，指控三星未经授权在其电视机包装盒上使用了她的肖像照片，并要求赔偿高达1500万美元的损失。这一诉讼引发了业界对名人肖像权和企业营销合规性的广泛关注。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-11T02:48:53+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "deck": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+    "cnTitle": "特朗普称伊朗停战条件不可接受",
+    "cnDeck": "唐纳德·特朗普，这位美国前总统兼现任共和党总统候选人，近日对伊朗方面就一项旨在结束“战争”（此处“战争”可能指代中东地区持续的代理人冲突、地区紧张局势或更广泛的美伊对抗）的美国提案所作出的回应，公开表达了“完全不可接受”的立场。特朗普的这番言论迅速引起国际社会广泛关注，为本已错综复杂的中东地缘政治格局增添了新的不确定性。这一表态不仅反映出美国与伊朗之间根深蒂固的分歧，也预示着未来解决两国间冲突的外交努力将面临巨大挑战。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-05-11T01:55:13+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
     "headline": "Oil prices jump after Trump dismisses Iran proposal to end war",
     "deck": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
     "cnTitle": "特朗普拒伊朗提案 全球油价应声跳涨",
@@ -9,9 +121,36 @@
     "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T01:12:30+00:00",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Cyber-crime increasingly coming with threats of physical violence",
+    "deck": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+    "cnTitle": "恐吓员工成新常态",
+    "cnDeck": "网络犯罪，这个曾经主要局限于数字领域的威胁，如今正以一种令人警觉的新形式呈现：伴随着对员工的物理暴力威胁。这标志着网络犯罪策略的一次重大升级，为个人和组织带来了前所未有的复杂性和危险。回顾历史，黑客们通常通过秘密渗透计算机系统来实施犯罪，他们利用软件漏洞，部署恶意软件，以窃取数据、扰乱运营或勒索钱财。这些传统方法主要依赖于数字互动，受害者往往",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-10T23:34:59+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+    "deck": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+    "cnTitle": "伊朗异议者称战争威胁加剧压迫",
+    "cnDeck": "英国广播公司（BBC）报道称，伊朗的异议人士表示，日益加剧的战争威胁正严重加剧他们所承受的镇压创伤。一位不愿透露姓名的德黑兰异议人士在接受BBC采访时沉重指出，她感到无助，并承受着巨大的心理压力。这不仅仅是异议人士长期以来面临的政府严酷镇压所带来的压力，更是由于地区地缘政治紧张局势不断升级，以及伊朗与西方国家之间潜在军事冲突的可能性所叠加的恐惧。长久以来，伊朗政府对异议声音的压制是系统性的，包括任意逮捕、拘禁、限制言论自由和集会自由等。许多倡导人权、民主改革的活动家、记者和普通公民都曾因此遭受迫害。在这样的背景下，任何外部的军事威胁，都会被异议人士解读为可能导致国内镇压进一步升级的信号，使得他们本已脆弱的处境雪上加霜。他们担心，一旦战争爆发或地区局势彻底失控，现有的国际关注和对人权侵犯的监督将可能被边缘化，政府将有借口采取更为严厉的措施来巩固其权力，从而彻底扼杀任何内部变革的希望。这种对未来的不确定性，以及对个人安全和自由的深切担忧，使得这些异议人士的精神状态濒临崩溃。他们不仅要面对来自国家机器的直接威胁，还要承受无法掌控的国家命运所带来的巨大精神负担。BBC的报道旨在凸显，在国际社会关注伊朗核问题和地区安全的同时，不应忽视其内部人权状况的恶化，以及那些为争取基本自由而奋斗的人们所承受的独特痛苦。异议人士通过BBC向外界呼吁，希望国际社会能够更多地关注他们的困境，并为缓解伊朗内部的压迫局面贡献力量。他们强调，真正的和平与稳定不仅需要解决外部冲突，更需要关注和改善内部的人权状况，保障公民的基本权利，否则任何外部的解决方案都难以持久。这种复杂的心理创伤，是战争边缘政策和内部高压统治双重作用下的结果，对德黑兰乃至整个伊朗社会的稳定都构成了深远影响，值得国际社会的高度警惕和深思。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-05-10T21:01:17+00:00",
+    "is_new": true,
+    "id": "n11",
+    "lead": false
   },
   {
     "headline": "Putin says he thinks Ukraine conflict 'coming to an end'",
@@ -23,7 +162,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-10T00:46:07+00:00",
-    "id": "n2",
+    "id": "n12",
     "lead": false
   },
   {
@@ -36,7 +175,7 @@
     "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-09T23:00:55+00:00",
-    "id": "n3",
+    "id": "n13",
     "lead": false
   },
   {
@@ -49,7 +188,7 @@
     "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-09T21:23:14+00:00",
-    "id": "n4",
+    "id": "n14",
     "lead": false
   },
   {
@@ -62,7 +201,7 @@
     "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-09T18:00:46+00:00",
-    "id": "n5",
+    "id": "n15",
     "lead": false
   },
   {
@@ -75,7 +214,7 @@
     "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-09T17:25:53+00:00",
-    "id": "n6",
+    "id": "n16",
     "lead": false
   },
   {
@@ -88,7 +227,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:36:21+00:00",
-    "id": "n7",
+    "id": "n17",
     "lead": false
   },
   {
@@ -101,20 +240,7 @@
     "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:03:11+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "Iran accuses US of 'reckless military adventure'",
-    "deck": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-    "cnTitle": "伊朗指责美国“鲁莽军事冒险”",
-    "cnDeck": "伊朗高级外交官阿巴斯·阿拉克奇（Abbas Araghchi）严厉指责美国进行“鲁莽的军事冒险”，并公开声称“每当有外交解决方案摆在桌面时，美国就会采取攻击行动”。阿拉克奇的这番言论是在美伊两国关系持续紧张、中东地区局势错综复杂的背景下发表的，凸显德黑兰对华盛顿在中东军事存在及其行动意图的强烈不满与深切担忧。阿拉克",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-09T06:13:30+00:00",
-    "id": "n9",
+    "id": "n18",
     "lead": false
   }
 ]
