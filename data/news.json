@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+    "deck": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+    "cnTitle": "谷歌挫败AI黑客大规模攻击",
+    "cnDeck": "谷歌公司近期宣布，其已成功挫败了一起由某个黑客组织策划的，旨在利用人工智能（AI）技术进行“大规模利用事件”的尝试。这一声明凸显了AI技术在网络安全攻防两端日益增长的影响力，以及科技巨头在应对新兴威胁方面所面临的挑战。谷歌方面表示，其安全团队及时发现并阻止了黑客利用AI驱动的工具来识别并攻击系统漏洞的行动，从而避免了可能造成的广泛破坏。该公司强调，随着AI能力的飞速发展，恶意行为者也正在迅速地将这项技术整合到他们的攻击工具箱中，以求以前所未有的速度和效率发现此前未知的软件缺陷和安全漏洞。新闻中特别提到，即使没有像Anthropic公司强大如Mythos模型那样的高级AI工具，黑客们也在加速采用AI来寻找软件漏洞。这表明AI技术，即便是在其较为基础或可广泛获取的版本中，也足以被用于复杂的网络攻击活动。Mythos模型作为前沿AI技术的一个代表，其强大的代码分析和生成能力，无疑令安全专家对其潜在的滥用感到担忧。然而，当前的现实是，即使是更为普遍的AI模型，也能赋予黑客显著的优势，例如自动化漏洞扫描、利用代码生成辅助开发攻击工具、以及通过自然语言处理技术进行更复杂的社会工程攻击。谷歌的这次成功防御，不仅是对其自身安全能力的验证，也是对整个网络安全行业敲响的警钟。“大规模利用事件”通常指的是利用一个普遍存在的漏洞，对大量用户、系统或组织进行同时攻击，造成毁灭性的后果，例如数据泄露、服务中断或勒索软件攻击。这类事件一旦成功，其影响范围广、破坏力强，对全球数字经济和个人隐私都会构成严重威胁。因此，谷歌的行动对于维护网络空间的安全稳定至关重要。这一事件也反映了当前网络安全领域的一个重要趋势：AI不仅是防御者增强防御能力的工具（如威胁检测、自动化响应），也日益成为攻击者提升攻击效率和隐蔽性的利器。安全研究人员和企业正面临着一场日益升级的AI军备竞赛。防御者需要不断创新，利用更先进的AI技术来预测、识别和阻止AI驱动的攻击。同时，软件开发商也必须更加注重代码质量和安全性，及时修补漏洞，以降低黑客利用AI发现漏洞的风险。谷歌的声明也间接促使人们关注AI伦理和安全治理的重要性。如何确保AI技术的开发和使用不被滥用，如何建立有效的监管框架来防范AI带来的新型威胁，已成为全球各国政府和科技公司面临的紧迫议题。Anthropic等公司在开发强大AI模型时，通常也会内置安全机制并强调负责任的AI开发。然而，正如这次事件所示，技术进步的阴暗面总是难以完全遏制。随着AI技术的进一步普及和能力提升，类似的网络安全威胁预计将持续增加，对全球范围内的企业、政府和个人构成持续的挑战。因此，谷歌的预警和防御行动，对于提高公众对AI在网络安全领域双刃剑效应的认识，以及推动各方加强协作应对未来挑战，都具有深远的意义。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+    "time": "2小时前",
+    "published_iso": "2026-05-11T18:11:04+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Biggest Micron bulls on Wall Street say they're even more confident now. Here's why",
+    "deck": "Some analysts are extremely bullish on the semiconductor maker. Others are not.",
+    "cnTitle": "华尔街分析师对美光信心大增",
+    "cnDeck": "华尔街对美光科技（Micron Technology）的前景展现出两极分化的观点，然而，那些最看好这家半导体制造商的分析师们表示，他们现在比以往任何时候都更加自信。这一信心提升背后的原因主要集中在几个关键领域。首先，全球人工智能（AI）技术的爆炸式增长正在推动对高性能存储芯片的巨大需求，尤其是高带宽存储（HBM）。美光作为DRAM和NAND闪存领域的领导者，正受益于",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
+    "time": "2小时前",
+    "published_iso": "2026-05-11T18:03:24+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "TikTok launches £3.99 subscription for no ads in UK",
     "deck": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default.",
     "cnTitle": "TikTok在英国推出无广告订阅",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-11T13:15:30+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Ailing Iranian Nobel laureate given bail and hospital transfer",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:28:53+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:26:33+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T07:13:41+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
     "time": "4小时前",
     "published_iso": "2026-05-11T05:47:13+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-11T02:48:53+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-11T01:55:13+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T01:12:30+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-10T23:34:59+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-10T21:01:17+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-10T00:46:07+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-09T23:00:55+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -192,32 +219,6 @@
     "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-09T21:23:14+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Greece conducts controlled blast of mystery naval drone explosives",
-    "deck": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-    "cnTitle": "希腊销毁疑乌克兰海军无人艇炸药",
-    "cnDeck": "据多家媒体报道，希腊当局近日成功销毁了一艘携带有爆炸物的海军无人艇，该无人艇被怀疑源自乌克兰。这起事件在希腊引发了对地区安全和海上威胁的广泛关注。这艘神秘的无人艇是当地时间周四由几名渔民在希腊沿海某区域的一个偏远海蚀洞中意外发现的。据发现者描述，这艘无人艇呈流线型，具有明显的军事构造特征，且艇身似乎搭载了爆炸装置。出于对潜在危险的警觉，渔民们立即向当地海岸警卫队报告了这一情况。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-05-09T18:00:46+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
-    "deck": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
-    "cnTitle": "莫斯科胜利日阅兵异常，重型装备缺席",
-    "cnDeck": "BBC驻俄罗斯编辑史蒂夫·罗森伯格报道称，今年的莫斯科胜利日阅兵活动与往年大相径庭，红场上未见克里姆林宫通常用来向国际社会展示力量的军事硬件。5月9日是俄罗斯一年一度的胜利日，旨在纪念苏联在第二次世界大战中战胜纳粹德国，对俄罗斯而言具有极其重要的历史和政治意义。传统上，这一天会在莫斯科红场举行盛大的阅兵式，展示俄罗斯最先进的军事装备，包括坦克、装甲车、导弹发射系统和军用飞机，以此彰显国家实力、凝聚民族自豪感，并向世界传递俄罗斯强大的军事信息。然而，罗森伯格的现场观察显示，今年的阅兵式明显呈现出一种低调和简化的态势。往年阅兵中必不可少的重型军事装备，如T-14阿玛塔主战坦克、S-400防空导弹系统、洲际弹道导弹发射车等，都未出现在红场的地面方队中。这种大规模的军事硬件缺席，是多年来胜利日阅兵中前所未有的情况，引发了国际社会的广泛关注和解读。分析人士普遍认为，这种变化与俄罗斯正在乌克兰进行的“特别军事行动”密切相关。持续的冲突使得俄罗斯军队消耗了大量军事物资和人员，许多先进的军事装备可能被部署在前线，或因维修和保养而无法参加阅兵。此外，西方国家对俄罗斯实施的严厉制裁，也可能对俄罗斯的军事生产和补给造成了影响。阅兵规模的缩减和重型装备的缺席，在一定程度上反映了俄罗斯在军事资源调度和国际形象展示上面临的挑战。罗森伯格的报告强调，克里姆林宫通常利用胜利日阅兵作为重要的平台，来投射其军事实力和国际影响力。此次阅兵的异常之处，尤其是在当前地缘政治背景下，传递出与往年截然不同的信号。它可能被解读为俄罗斯在乌克兰冲突中承受压力的一个迹象，或者表明俄罗斯正在优先考虑实际战场的军事需求，而非国内的形象工程。当然，也有观点认为，这种调整可能是出于安全考虑，以避免在首都中心区域集中展示大量军事目标，尽管这种说法较少被采纳。无论具体原因如何，此次莫斯科胜利日阅兵的显著变化，无疑削弱了俄罗斯在全球舞台上展示其传统军事霸权的姿态。罗森伯格的这份报告，因此具有重要的地缘政治观察价值，它揭示了俄罗斯在当前复杂的国际环境中，其内部情况和对外形象策略可能正在发生深刻的调整。它也为外界提供了一个窗口，以观察俄罗斯在军事动员、资源分配以及国家宣传策略方面的潜在变化。这一事件进一步凸显了俄乌冲突对俄罗斯国内外政策产生的深远影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-05-09T17:25:53+00:00",
     "id": "n17",
     "lead": false
   }
