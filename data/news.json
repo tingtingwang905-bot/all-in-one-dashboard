@@ -9,7 +9,6 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -50,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-12T14:07:18+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -68,6 +65,20 @@
     "lead": false
   },
   {
+    "headline": "Texas accuses Netflix of spying on users, including children",
+    "deck": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+    "cnTitle": "得州起诉网飞侵犯用户隐私",
+    "cnDeck": "美国得克萨斯州（简称得州）已正式对流媒体巨头Netflix提起诉讼，指控该公司涉嫌“监视”其用户，其中包括未成年儿童。这项诉讼引发了广泛关注，特别是在当前各界对大型科技平台数据隐私政策及其对用户，尤其是儿童用户潜在影响日益严格审视的背景下。得州方面声称，Netflix通过其平台特性，例如自动播放功能（auto-play），可能在未经用户明确同意的情况下，收集并分析了大量用户行为数据。这种数据收集方式，根据指控，可能超出了服务提供商的合理需求，并构成了对用户隐私权的侵犯。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-05-12T10:01:54+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
     "headline": "Stock futures slip as traders await inflation reading, monitor Iran war developments: Live updates",
     "deck": "Economists polled by Dow Jones are calling for headline CPI to have gained 3.7% from a year earlier.",
     "cnTitle": "股指期货下跌，关注通胀及伊朗局势",
@@ -77,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -90,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -116,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -129,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -142,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -155,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -168,7 +179,7 @@
     "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -181,7 +192,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
     "time": "2小时前",
     "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -194,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-12T00:59:12+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -207,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -220,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -233,7 +244,7 @@
     "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
     "time": "5小时前",
     "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -246,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -259,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-11T19:37:17+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,7 +283,7 @@
     "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:11:04+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +296,7 @@
     "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:03:24+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +309,7 @@
     "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
     "time": "11小时前",
     "published_iso": "2026-05-11T17:28:38+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-11T16:30:04+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-11T13:15:30+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,7 +348,7 @@
     "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -350,7 +361,7 @@
     "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -363,7 +374,7 @@
     "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:28:53+00:00",
-    "id": "n28",
+    "id": "n29",
     "lead": false
   },
   {
@@ -376,7 +387,7 @@
     "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:26:33+00:00",
-    "id": "n29",
+    "id": "n30",
     "lead": false
   },
   {
@@ -389,7 +400,7 @@
     "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T07:13:41+00:00",
-    "id": "n30",
+    "id": "n31",
     "lead": false
   },
   {
@@ -402,72 +413,7 @@
     "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
     "time": "4小时前",
     "published_iso": "2026-05-11T05:47:13+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
-    "deck": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
-    "cnTitle": "三星因使用Dua Lipa肖像被起诉",
-    "cnDeck": "全球知名流行歌手杜阿·利帕（Dua Lipa）的法律团队已向科技巨头三星电子（Samsung Electronics）提起诉讼，指控三星未经授权在其电视机包装盒上使用了她的肖像照片，并要求赔偿高达1500万美元的损失。这一诉讼引发了业界对名人肖像权和企业营销合规性的广泛关注。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-11T02:48:53+00:00",
     "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "deck": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
-    "cnTitle": "特朗普称伊朗停战条件不可接受",
-    "cnDeck": "唐纳德·特朗普，这位美国前总统兼现任共和党总统候选人，近日对伊朗方面就一项旨在结束“战争”（此处“战争”可能指代中东地区持续的代理人冲突、地区紧张局势或更广泛的美伊对抗）的美国提案所作出的回应，公开表达了“完全不可接受”的立场。特朗普的这番言论迅速引起国际社会广泛关注，为本已错综复杂的中东地缘政治格局增添了新的不确定性。这一表态不仅反映出美国与伊朗之间根深蒂固的分歧，也预示着未来解决两国间冲突的外交努力将面临巨大挑战。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-05-11T01:55:13+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices jump after Trump dismisses Iran proposal to end war",
-    "deck": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-    "cnTitle": "特朗普拒伊朗提案 全球油价应声跳涨",
-    "cnDeck": "美国前总统唐纳德·特朗普明确拒绝了伊朗提出的旨在结束地区冲突的提议，这一举动在全球能源市场引发剧烈震荡，导致国际油价大幅上涨。与此同时，具有全球战略意义的霍尔木兹海峡继续处于事实上关闭状态，严重扰乱了全球能源运输。特朗普的这一表态，被外界解读为对缓解中东地区紧张局势努力的沉重打击。虽然新闻原文未详细说明伊朗提案的具体内容，但通常此类提案会涉及停火、撤军、解除制裁或区域安全保障等关键议题。特朗普的直接否决，无疑加剧了市场对地缘政治风险的担忧，他的决定可能源于其对伊朗立场的强硬态度，认为伊朗的提案不足以解决核心问题，或者不符合美国的战略利益，特别是考虑到他此前对伊朗核协议的立场以及对伊朗地区影响力的遏制政策。霍尔木兹海峡作为连接波斯湾与印度洋的唯一海上通道，承载着全球约五分之一的石油贸易量以及大量液化天然气运输。该海峡的任何形式的“事实上关闭”都意味着全球能源供应的巨大威胁，这可能表现为军事封锁、航运受限、频繁发生袭击事件导致保险费飙升、航运公司选择避开该区域，或者仅仅是极高的安全风险使得正常贸易无法进行。无论具体形式如何，其结果都是大量原油和天然气无法顺利通过，直接导致市场对供应短缺的恐慌性预期。受此消息影响，国际原油期货价格应声跳涨，布伦特原油和WTI（西德克萨斯中质原油）价格均出现显著上涨，涨幅可能达到数个百分点甚至更高，具体涨幅通常取决于市场对冲突升级的预期程度。油价的飙升将直接传导至全球经济，推高各国企业的生产成本和消费者的能源支出，进而加剧通货膨胀压力。对于依赖能源进口的国家，高油价将损害其贸易平衡，并可能引发经济增长放缓的担忧。地缘政治方面，特朗普的强硬立场可能导致美伊关系进一步恶化，使得本已紧张的中东局势面临更大的不确定性。冲突的持续和霍尔木兹海峡的受阻，不仅影响全球能源供应，还可能引发区域内其他参与者的连锁反应，增加军事冲突和地区动荡的风险。投资者对未来走势的不确定性感到担忧，可能将资金转向黄金等避险资产，同时股市可能面临回调压力。国际社会可能会呼吁各方保持克制，通过外交途径解决分歧，以避免对全球经济造成更广泛的冲击。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-11T01:12:30+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Cyber-crime increasingly coming with threats of physical violence",
-    "deck": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
-    "cnTitle": "恐吓员工成新常态",
-    "cnDeck": "网络犯罪，这个曾经主要局限于数字领域的威胁，如今正以一种令人警觉的新形式呈现：伴随着对员工的物理暴力威胁。这标志着网络犯罪策略的一次重大升级，为个人和组织带来了前所未有的复杂性和危险。回顾历史，黑客们通常通过秘密渗透计算机系统来实施犯罪，他们利用软件漏洞，部署恶意软件，以窃取数据、扰乱运营或勒索钱财。这些传统方法主要依赖于数字互动，受害者往往",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-10T23:34:59+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Iran activists tell BBC how threat of war intensifies trauma of repression",
-    "deck": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-    "cnTitle": "伊朗异议者称战争威胁加剧压迫",
-    "cnDeck": "英国广播公司（BBC）报道称，伊朗的异议人士表示，日益加剧的战争威胁正严重加剧他们所承受的镇压创伤。一位不愿透露姓名的德黑兰异议人士在接受BBC采访时沉重指出，她感到无助，并承受着巨大的心理压力。这不仅仅是异议人士长期以来面临的政府严酷镇压所带来的压力，更是由于地区地缘政治紧张局势不断升级，以及伊朗与西方国家之间潜在军事冲突的可能性所叠加的恐惧。长久以来，伊朗政府对异议声音的压制是系统性的，包括任意逮捕、拘禁、限制言论自由和集会自由等。许多倡导人权、民主改革的活动家、记者和普通公民都曾因此遭受迫害。在这样的背景下，任何外部的军事威胁，都会被异议人士解读为可能导致国内镇压进一步升级的信号，使得他们本已脆弱的处境雪上加霜。他们担心，一旦战争爆发或地区局势彻底失控，现有的国际关注和对人权侵犯的监督将可能被边缘化，政府将有借口采取更为严厉的措施来巩固其权力，从而彻底扼杀任何内部变革的希望。这种对未来的不确定性，以及对个人安全和自由的深切担忧，使得这些异议人士的精神状态濒临崩溃。他们不仅要面对来自国家机器的直接威胁，还要承受无法掌控的国家命运所带来的巨大精神负担。BBC的报道旨在凸显，在国际社会关注伊朗核问题和地区安全的同时，不应忽视其内部人权状况的恶化，以及那些为争取基本自由而奋斗的人们所承受的独特痛苦。异议人士通过BBC向外界呼吁，希望国际社会能够更多地关注他们的困境，并为缓解伊朗内部的压迫局面贡献力量。他们强调，真正的和平与稳定不仅需要解决外部冲突，更需要关注和改善内部的人权状况，保障公民的基本权利，否则任何外部的解决方案都难以持久。这种复杂的心理创伤，是战争边缘政策和内部高压统治双重作用下的结果，对德黑兰乃至整个伊朗社会的稳定都构成了深远影响，值得国际社会的高度警惕和深思。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-05-10T21:01:17+00:00",
-    "id": "n36",
     "lead": false
   }
 ]
