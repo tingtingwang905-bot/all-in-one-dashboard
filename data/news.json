@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
+    "deck": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system",
+    "cnTitle": "安杜里尔估值飙升，国防科技受热捧",
+    "cnDeck": "安杜里尔工业公司（Anduril Industries）的估值飙升至超过600亿美元，显示出国防科技领域持续的投资热潮。这家由帕尔默·拉奇（Palmer Luckey）创立的公司，专注于将人工智能、先进软件和创新硬件整合应用于国防领域，其快速增长的估值不仅是对其技术实力和市场潜力的肯定，也反映了全球地缘政治格局下各国对尖端军事技术需求的日益增长。安杜里尔",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
+    "time": "刚刚",
+    "published_iso": "2026-05-13T15:25:31+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
+    "deck": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
+    "cnTitle": "俄罗斯无人机袭击乌克兰致13人死亡",
+    "cnDeck": "俄罗斯对乌克兰的无人机袭击造成至少13人死亡，此次袭击发生在一段非正式停火协议或某种形式的军事行动暂停期到期之后。乌克兰总统此前警告称，俄罗斯将在周三全天发起“更多波次”袭击，目前袭击仍在持续，这标志着俄乌冲突的进一步升级，加剧了对平民伤亡和关键基础设施破坏的担忧。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-13T14:51:30+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Thousands of Waymos recalled after robotaxi swept into a creek",
+    "deck": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
+    "cnTitle": "Waymo召回数千辆无人出租车",
+    "cnDeck": "Waymo，Alphabet（谷歌母公司）旗下的自动驾驶技术公司，近日宣布对数千辆其运营的自动驾驶汽车（即Waymo Driver平台车辆）进行自愿召回。此次大规模召回的背景是一起发生在今年4月20日（星期六）的特定事件。据Waymo方面证实，当日在美国德克萨斯州圣安东尼奥市，一辆空的Waymo无人驾驶汽车在行驶过程中，驶入了一条积水路段。尽管当时车辆内",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-13T14:40:20+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+    "deck": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong.",
+    "cnTitle": "WhatsApp推出AI聊天隐身模式",
+    "cnDeck": "WhatsApp作为全球领先的即时通讯应用，近期宣布为其内置的AI聊天机器人推出一项全新的“隐身模式”对话功能。此举旨在为用户提供更高层次的隐私保护，允许他们与AI进行完全私密的互动，确保对话内容不会被保存或留存痕迹。这一功能允许用户在不担心其互动记录被查阅或存储的情况下，自由地与AI进行交流、提问或寻求建议。这项创新是WhatsApp母公司Meta在人工智能领域持续投入和战略布局的一部分，旨在通过增强隐私特性来吸引并保留用户，同时提升用户对AI工具的信任度。在当前全球对数据隐私和个人信息保护日益关注的背景下，WhatsApp的这一举措无疑顺应了用户的普遍需求，使用户能够在与AI进行敏感或个人化讨论时，拥有更大的安全感。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-13T14:00:58+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
     "headline": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
     "deck": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
     "cnTitle": "Meta智能眼镜热销引隐私担忧",
@@ -9,9 +65,8 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
   },
   {
     "headline": "A decade on, Trump returns to a stronger and more assertive China",
@@ -23,8 +78,7 @@
     "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-12T22:07:51+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n6",
     "lead": false
   },
   {
@@ -37,8 +91,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:26:46+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n7",
     "lead": false
   },
   {
@@ -51,8 +104,7 @@
     "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:18:10+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n8",
     "lead": false
   },
   {
@@ -65,8 +117,7 @@
     "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:00:05+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n9",
     "lead": false
   },
   {
@@ -79,8 +130,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T19:45:00+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n10",
     "lead": false
   },
   {
@@ -93,7 +143,7 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n7",
+    "id": "n11",
     "lead": false
   },
   {
@@ -106,7 +156,7 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -119,8 +169,7 @@
     "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T14:58:18+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -133,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T14:49:54+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -146,7 +195,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-12T14:07:18+00:00",
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -159,7 +208,7 @@
     "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T14:06:08+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -172,8 +221,7 @@
     "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-12T10:31:23+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -186,7 +234,7 @@
     "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T10:01:54+00:00",
-    "id": "n14",
+    "id": "n18",
     "lead": false
   },
   {
@@ -199,7 +247,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n15",
+    "id": "n19",
     "lead": false
   },
   {
@@ -212,7 +260,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n16",
+    "id": "n20",
     "lead": false
   },
   {
@@ -225,7 +273,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n17",
+    "id": "n21",
     "lead": false
   },
   {
@@ -238,7 +286,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n18",
+    "id": "n22",
     "lead": false
   },
   {
@@ -251,7 +299,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n19",
+    "id": "n23",
     "lead": false
   },
   {
@@ -264,7 +312,7 @@
     "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n20",
+    "id": "n24",
     "lead": false
   },
   {
@@ -277,7 +325,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n21",
+    "id": "n25",
     "lead": false
   },
   {
@@ -290,7 +338,7 @@
     "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n22",
+    "id": "n26",
     "lead": false
   },
   {
@@ -303,7 +351,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
     "time": "2小时前",
     "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n23",
+    "id": "n27",
     "lead": false
   },
   {
@@ -316,7 +364,7 @@
     "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-12T00:59:12+00:00",
-    "id": "n24",
+    "id": "n28",
     "lead": false
   },
   {
@@ -329,7 +377,7 @@
     "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n25",
+    "id": "n29",
     "lead": false
   },
   {
@@ -342,7 +390,7 @@
     "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n26",
+    "id": "n30",
     "lead": false
   },
   {
@@ -355,7 +403,7 @@
     "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
     "time": "5小时前",
     "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n27",
+    "id": "n31",
     "lead": false
   },
   {
@@ -368,7 +416,7 @@
     "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n28",
+    "id": "n32",
     "lead": false
   },
   {
@@ -381,7 +429,7 @@
     "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-11T19:37:17+00:00",
-    "id": "n29",
+    "id": "n33",
     "lead": false
   },
   {
@@ -394,7 +442,7 @@
     "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:11:04+00:00",
-    "id": "n30",
+    "id": "n34",
     "lead": false
   },
   {
@@ -407,7 +455,7 @@
     "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:03:24+00:00",
-    "id": "n31",
+    "id": "n35",
     "lead": false
   },
   {
@@ -420,7 +468,7 @@
     "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
     "time": "11小时前",
     "published_iso": "2026-05-11T17:28:38+00:00",
-    "id": "n32",
+    "id": "n36",
     "lead": false
   },
   {
@@ -433,8 +481,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-11T16:57:15+00:00",
-    "is_new": true,
-    "id": "n33",
+    "id": "n37",
     "lead": false
   },
   {
@@ -447,46 +494,7 @@
     "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-11T16:30:04+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "TikTok launches £3.99 subscription for no ads in UK",
-    "deck": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default.",
-    "cnTitle": "TikTok在英国推出无广告订阅",
-    "cnDeck": "字节跳动旗下的全球短视频平台TikTok近日在英国市场推出了一项无广告订阅服务。用户每月支付3.99英镑（约合人民币36元），即可享受平台完全无广告的浏览体验。此举是TikTok商业模式的重要转型，旨在探索收入来源多元化，并为用户提供更多选择。长期以来，TikTok的主要盈利模式是基于其庞大的用户群和个性化推荐算法所驱动的广告收入。然而，在全球经济波动、数字广告市场竞争激烈以及各地用户隐私",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-11T13:15:30+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Ailing Iranian Nobel laureate given bail and hospital transfer",
-    "deck": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
-    "cnTitle": "伊朗诺奖得主穆罕默迪因病获保释",
-    "cnDeck": "伊朗当局已同意向著名人权活动家纳尔吉斯·穆罕默迪（Narges Mohammadi）提供保释，并将其转送医院接受治疗。这一决定是在国际社会和人权组织对其在狱中的健康状况持续恶化表达了日益增长的担忧之后作出的。穆罕默迪女士是2023年诺贝尔和平奖的获得者，该奖项旨在表彰她为反对伊朗对女性的压迫以及为促进所有人的人权和自由所作出的不懈斗争。她长期以来一直是伊朗政府的直言不讳的批评者，并因其和平活动多次被捕入狱，累计服刑多年。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "British Steel set to be nationalised, Starmer says",
-    "deck": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
-    "cnTitle": "英国钢铁将国有化",
-    "cnDeck": "英国工党领袖基尔·斯塔默（Keir Starmer）近日宣布，本周将提交一项立法，旨在将英国钢铁公司（British Steel）正式国有化。该钢厂作为英国工业的支柱之一，自去年以来已处于政府控制之下，此举标志着其所有权的最终确认和未来发展方向的重大转变。英国钢铁公司在英国工业史上占据重要地位，曾是国家经济实力的象征，但在过去几十年中，由于全球竞争加剧、能源成本上升、市场需求波动以及长期投资不足等因素，其运营面临严峻挑战。去年，为避免公司破产并保护数千个工作岗位，英国政府不得不介入，对其进行临时性管理。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n37",
+    "id": "n38",
     "lead": false
   }
 ]
