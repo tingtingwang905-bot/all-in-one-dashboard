@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
+    "deck": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
+    "cnTitle": "参议院确认沃什出任美联储主席",
+    "cnDeck": "美国参议院日前以自该职位需要参议院确认投票以来最微弱的优势，确认了凯文·沃什（Kevin Warsh）出任美联储主席一职。这一任命是唐纳德·特朗普总统任期内对美联储领导层的重大调整，也反映了国会内部在货币政策未来走向上的深刻分歧。凯文·沃什曾担任美联储理事，并在2008年金融危机期间发挥了关键作用。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-13T20:15:33+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
+    "deck": "Two children are among those reported dead after seven cars were struck in separate attacks south of Beirut.",
+    "cnTitle": "以色列袭击黎巴嫩南部造成12人死亡",
+    "cnDeck": "根据黎巴嫩卫生部周三发布的最新消息，以色列军队在黎巴嫩南部地区对多辆民用车辆发动了一系列袭击，导致至少12人不幸丧生。这些致命的空袭发生在贝鲁特以南的多个地点，遇难者中包括两名无辜儿童。报告指出，共有七辆汽车在这些单独的袭击中被击中，这表明袭击的范围广泛且目标明确。黎巴嫩卫生部官员对此次事件表示强烈谴责，",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-13T17:22:49+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+    "deck": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+    "cnTitle": "特朗普访华聚焦贸易伊朗台湾议题",
+    "cnDeck": "美国总统特朗普抵达中国，与中国国家主席习近平举行备受瞩目的高层会谈，双方议程包括贸易、伊朗核问题以及台湾地位等关键议题。此次访问被视为两国关系中的一次高风险对话，其结果将对全球地缘政治和经济格局产生深远影响。特朗普总统在抵达前已明确表示，他将向习近平主席提出的首要要求是“开放”中国市场。这一表态反映了美国长期以来对中美贸易逆差和市场准入壁垒的不满。预计特朗普政府将寻求中国在知识产权保护、技术转让和国有企业补贴等方面做出实质性让步。美国企业界普遍关注此次贸易谈判能否为他们在中国市场创造更公平的竞争环境。另一方面，北京方面预计将在此次会谈中向特朗普总统就台湾问题施加压力。台湾问题始终是中国核心利益中的核心，北京坚持“一个中国”原则，并将台湾视为其不可分割的一部分。鉴于美国近期对台军售以及美台官方互动有所增加，中国可能会借此机会重申其在台湾问题上的坚定立场，并要求美国遵守中美三个联合公报，停止与台湾的一切官方往来和军事联系。此外，伊朗核协议也是双方议程上的一个重要焦点。在美国退出《联合全面行动计划》(JCPOA) 后，伊朗核问题再度升温，地区紧张局势加剧。中方作为伊核协议的签署国之一，一直呼吁各方维护协议的完整性，并通过对话协商解决分歧。预计中方将与美方就如何管控伊朗问题、维护中东地区稳定交换意见，但双方在伊朗问题上的立场存在明显差异，可能成为此次会谈的挑战。此次会谈不仅关乎中美两国，其结果也将牵动全球。贸易谈判的进展将直接影响全球供应链和经济增长前景。台湾问题的任何风吹草动都可能引发地区局势紧张。而伊朗问题的走向则关系到中东乃至全球能源安全。全球各界正密切关注“习特会”的成果，期待两国领导人能够通过坦诚对话，管控分歧，寻求合作共赢的解决方案，为世界注入更多确定性。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-13T17:00:12+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
     "deck": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system",
     "cnTitle": "安杜里尔估值飙升，国防科技受热捧",
@@ -9,9 +51,8 @@
     "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T14:51:30+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,8 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:40:20+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -51,8 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:00:58+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -65,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -78,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-12T22:07:51+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -91,7 +129,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:26:46+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -104,7 +142,7 @@
     "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:18:10+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -117,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:00:05+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -130,7 +168,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T19:45:00+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -143,7 +181,7 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -156,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -169,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T14:58:18+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -182,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T14:49:54+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -195,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-12T14:07:18+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -208,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T14:06:08+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -221,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-12T10:31:23+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -234,7 +272,7 @@
     "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T10:01:54+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -247,7 +285,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -260,7 +298,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -273,7 +311,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -286,7 +324,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -299,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -312,7 +350,7 @@
     "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -325,7 +363,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -338,7 +376,7 @@
     "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -351,7 +389,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
     "time": "2小时前",
     "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -364,7 +402,7 @@
     "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-12T00:59:12+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -377,7 +415,7 @@
     "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -390,7 +428,7 @@
     "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -403,7 +441,7 @@
     "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
     "time": "5小时前",
     "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n31",
+    "id": "n34",
     "lead": false
   },
   {
@@ -416,85 +454,7 @@
     "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "EU agrees sanctions on Israeli settlers over West Bank violence",
-    "deck": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
-    "cnTitle": "欧盟就西岸暴力制裁以色列定居者",
-    "cnDeck": "欧盟已正式同意对被指控参与约旦河西岸暴力活动的以色列定居者实施制裁。此举是在该地区紧张局势持续升级，国际社会对定居者暴力事件日益担忧的背景下做出的。欧盟外交政策高级代表何塞普·博雷利（Josep Borrell）在宣布这一决定时强调，“极端主义和暴力行为将承担后果”，明确表达了欧盟对维护地区稳定和保护平民的决心。博雷利指出，",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-05-11T19:37:17+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
-    "deck": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
-    "cnTitle": "谷歌挫败AI黑客大规模攻击",
-    "cnDeck": "谷歌公司近期宣布，其已成功挫败了一起由某个黑客组织策划的，旨在利用人工智能（AI）技术进行“大规模利用事件”的尝试。这一声明凸显了AI技术在网络安全攻防两端日益增长的影响力，以及科技巨头在应对新兴威胁方面所面临的挑战。谷歌方面表示，其安全团队及时发现并阻止了黑客利用AI驱动的工具来识别并攻击系统漏洞的行动，从而避免了可能造成的广泛破坏。该公司强调，随着AI能力的飞速发展，恶意行为者也正在迅速地将这项技术整合到他们的攻击工具箱中，以求以前所未有的速度和效率发现此前未知的软件缺陷和安全漏洞。新闻中特别提到，即使没有像Anthropic公司强大如Mythos模型那样的高级AI工具，黑客们也在加速采用AI来寻找软件漏洞。这表明AI技术，即便是在其较为基础或可广泛获取的版本中，也足以被用于复杂的网络攻击活动。Mythos模型作为前沿AI技术的一个代表，其强大的代码分析和生成能力，无疑令安全专家对其潜在的滥用感到担忧。然而，当前的现实是，即使是更为普遍的AI模型，也能赋予黑客显著的优势，例如自动化漏洞扫描、利用代码生成辅助开发攻击工具、以及通过自然语言处理技术进行更复杂的社会工程攻击。谷歌的这次成功防御，不仅是对其自身安全能力的验证，也是对整个网络安全行业敲响的警钟。“大规模利用事件”通常指的是利用一个普遍存在的漏洞，对大量用户、系统或组织进行同时攻击，造成毁灭性的后果，例如数据泄露、服务中断或勒索软件攻击。这类事件一旦成功，其影响范围广、破坏力强，对全球数字经济和个人隐私都会构成严重威胁。因此，谷歌的行动对于维护网络空间的安全稳定至关重要。这一事件也反映了当前网络安全领域的一个重要趋势：AI不仅是防御者增强防御能力的工具（如威胁检测、自动化响应），也日益成为攻击者提升攻击效率和隐蔽性的利器。安全研究人员和企业正面临着一场日益升级的AI军备竞赛。防御者需要不断创新，利用更先进的AI技术来预测、识别和阻止AI驱动的攻击。同时，软件开发商也必须更加注重代码质量和安全性，及时修补漏洞，以降低黑客利用AI发现漏洞的风险。谷歌的声明也间接促使人们关注AI伦理和安全治理的重要性。如何确保AI技术的开发和使用不被滥用，如何建立有效的监管框架来防范AI带来的新型威胁，已成为全球各国政府和科技公司面临的紧迫议题。Anthropic等公司在开发强大AI模型时，通常也会内置安全机制并强调负责任的AI开发。然而，正如这次事件所示，技术进步的阴暗面总是难以完全遏制。随着AI技术的进一步普及和能力提升，类似的网络安全威胁预计将持续增加，对全球范围内的企业、政府和个人构成持续的挑战。因此，谷歌的预警和防御行动，对于提高公众对AI在网络安全领域双刃剑效应的认识，以及推动各方加强协作应对未来挑战，都具有深远的意义。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
-    "time": "2小时前",
-    "published_iso": "2026-05-11T18:11:04+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Biggest Micron bulls on Wall Street say they're even more confident now. Here's why",
-    "deck": "Some analysts are extremely bullish on the semiconductor maker. Others are not.",
-    "cnTitle": "华尔街分析师对美光信心大增",
-    "cnDeck": "华尔街对美光科技（Micron Technology）的前景展现出两极分化的观点，然而，那些最看好这家半导体制造商的分析师们表示，他们现在比以往任何时候都更加自信。这一信心提升背后的原因主要集中在几个关键领域。首先，全球人工智能（AI）技术的爆炸式增长正在推动对高性能存储芯片的巨大需求，尤其是高带宽存储（HBM）。美光作为DRAM和NAND闪存领域的领导者，正受益于",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
-    "time": "2小时前",
-    "published_iso": "2026-05-11T18:03:24+00:00",
     "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Series of court decisions weaken Democrats' odds of winning the House",
-    "deck": "A U.S. Supreme Court decision and ruling from the Virginia Supreme Court have altered the redistricting outlook, hurting the chance that House control will flip.",
-    "cnTitle": "美法院裁决削弱民主党众议院胜算",
-    "cnDeck": "美国最高法院和弗吉尼亚州最高法院近期作出的一系列裁决，显著改变了美国国会众议院选区的重新划分前景，从而削弱了民主党在即将到来的选举中夺回众议院控制权的可能性。这些法院判决对全国范围内的选区重划产生了深远影响，尤其是在关键摇摆州弗吉尼亚。选区重划是美国每十年一次人口普查后，根据人口变化调整各州国会众议院和州立法机构选区边界的过程。这一过程通常由各州立法机构或独立委员会负责，其结果直接影响未来十年内各选区的政治版图和选举结果。两党都试图通过巧妙地划分选区（俗称“杰利蝾螈”）来最大化自身优势，削弱对手实力。具体而言，美国最高法院的某项裁决可能涉及到推翻或维持此前对某些州重划地图的挑战，而弗吉尼亚州最高法院的裁决则直接影响了该州众议院选区的划分方式。弗吉尼亚州作为一个重要的政治战场，其选区划分结果对众议院的整体力量平衡具有关键作用。民主党此前寄希望于通过有利的选区重划，能在多个州获得更多“安全席位”，从而在全国范围内积累优势，最终在中期选举或总统选举年中翻转众议院的多数党地位。然而，这些法院的裁决似乎打乱了民主党的这一战略布局。判决结果可能导致在一些原本可能重新划分以利于民主党的地区，维持对共和党更有利的现有地图，或者以不利于民主党的方式重新划分。分析人士指出，法院在选区划分问题上的介入，往往是基于对宪法平等保护条款或投票权法案的解释，但其政治后果却是显而易见的。对于民主党而言，这意味着他们必须在更具挑战性的选区地图下展开竞选，需要投入更多的资源和精力才能争取到席位。这不仅增加了他们在个别选区获胜的难度，也使得他们实现整体目标——即在众议院中赢得多数席位——的道路变得更加崎岖。共和党方面则可能因此受益，这些判决为他们巩固或扩大在某些地区的选区优势提供了机会。未来几个选举周期内，这些法院裁决对美国政治格局的影响将持续显现，国会众议院的党派构成将直接影响立法议程和政策走向，例如在财政预算、社会政策及对外关系等重大议题上的决策能力。因此，这些看似技术性的法院裁决，实则具有重大的政治意义，直接关乎美国两党政治力量的消长，并可能影响未来数年的国家治理方向。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
-    "time": "11小时前",
-    "published_iso": "2026-05-11T17:28:38+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Oil price predicted to remain above $100 for rest of year",
-    "deck": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
-    "cnTitle": "摩根大通预测油价全年维持百美元以上",
-    "cnDeck": "摩根大通，全球领先的投资银行之一，日前发布一份备受市场关注的分析报告，预测全球原油价格在今年剩余时间内将持续维持在“低一百美元区间”。这一预测传递出强烈信号，表明该机构认为原油市场面临的结构性支撑因素将强劲地推动价格保持在高位，即便一些关键的地缘政治风险事件得到缓解。报告特别指出，即使连接波斯湾和阿曼湾、全球最繁忙的石油运输咽喉——霍尔木兹海峡，在下个月重新开放并恢复正常的航运流量，原油价格也预计不会大幅回落。霍尔木兹海峡在全球石油供应链中扮演着不可替代的角色，每天有数百万桶原油通过该海峡运往世界各地。历史上，任何关于该海峡航运中断的担忧，无论是地缘政治冲突、军事演习还是安全威胁，都曾迅速引发原油价格飙升，因为市场普遍预期这将直接影响全球原油供应。因此，摩根大通在考虑到这一重要供应风险可能消弭的情况下，仍维持其看涨预测，凸显了其对当前全球原油市场基本面有着不同寻常的解读。分析人士认为，摩根大通的这一前瞻性判断可能基于多重因素。首先，全球原油需求侧的韧性超出预期。尽管面临全球经济增速放缓的风险，但主要经济体的工业活动和交通运输需求依然保持相对稳定，尤其是在亚洲新兴市场。其次，全球原油供应端的增长受到多重限制。石油输出国组织及其盟友（OPEC+）的减产协议仍在生效，部分成员国可能未能达到其增产目标。同时，对新油田的长期投资不足、现有油田的老化以及地缘政治紧张局势对部分产油国的生产能力造成了持续影响。此外，西方国家对俄罗斯石油的制裁以及对伊朗石油出口的限制，也持续影响着全球原油的有效供应。摩根大通的这一预测对全球经济和金融市场具有深远影响。对于消费者而言，高企的能源价格意味着更高的燃料费和取暖成本，可能进一步侵蚀家庭购买力，加剧通胀压力。对于企业，尤其是高度依赖能源的制造业、运输业和航空业，运营成本将显著增加，可能压缩利润空间，并最终转嫁给消费者。对于各国央行而言，持续的高油价将使其在应对通胀和维持经济增长之间面临更为艰难的权衡。高油价可能使得通胀难以在短期内回落到目标水平，从而迫使央行在货币政策上保持更长时间的紧缩姿态，甚至考虑进一步加息，这无疑会增加全球经济陷入衰退的风险。在金融市场方面，原油价格",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-11T16:57:15+00:00",
-    "id": "n37",
-    "lead": false
-  },
-  {
-    "headline": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-    "deck": "A fishermen's leader tells the BBC that 40 people are feared dead  - either in the strikes or drowning as they tried to flee.",
-    "cnTitle": "乍得空袭博科圣地致数十渔民丧生",
-    "cnDeck": "乍得对博科圣地武装分子实施的空袭行动，据信已导致数十名尼日利亚渔民丧生，加剧了乍得湖地区本已紧张的人道主义危机和安全局势。据英国广播公司（BBC）援引一位渔民领袖的说法，初步估计约有40人不幸遇难，这些遇难者或直接死于空袭，或在试图逃离冲突区域时不幸溺亡。这一悲剧性事件再次凸显了在该地区打击恐怖主义行动中，平民面临的巨大风险。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-    "time": "12小时前",
-    "published_iso": "2026-05-11T16:30:04+00:00",
-    "id": "n38",
     "lead": false
   }
 ]
