@@ -9,7 +9,6 @@
     "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T14:41:17+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-14T13:25:07+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,8 +35,21 @@
     "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T13:08:42+00:00",
-    "is_new": true,
     "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+    "deck": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+    "cnTitle": "中美两国元首北京会晤",
+    "cnDeck": "美国总统特朗普对中国进行了正式访问，受到了高规格的接待，现场充满了奉承与盛大场面。在访问期间，世界两大超级大国的领导人在镜头前都面带笑容，展现出友好和融洽的氛围。此次访问被视为中美两国关系中的一个重要里程碑，尽管公开场合气氛积极，但双方之间仍存在一系列棘手问题。此次会晤在全球地缘政治格局中具有举足轻重的地位。分析人士指出，尽管两国元首在公开场合展现出团结一致的姿态，但背后必然触及了包括贸易逆差、知识产权保护、市场准入、网络安全以及南海、台湾等敏感地缘政治议题。在特朗普总统抵达北京之前，美国贸易代表办公室已经多次就中国在贸易实践中的某些方面表达了不满，并暗示可能采取进一步行动。因此，尽管双方领导人致力于通过外交途径解决分歧，贸易和经济关系无疑是此次会谈的重中之重。此外，朝鲜半岛无核化问题也是此次高级别对话的核心议题之一。美国一直寻求中国在对朝制裁方面发挥更大的影响力，而中国则强调通过对话协商解决问题的重要性。媒体广泛报道了中国方面为此次访问所做的精心安排，从机场的欢迎仪式到国宴，无不体现出对美国总统的高度重视。这种“魅力攻势”旨在为两国领导人之间的讨论营造一个积极的背景，并可能为未来在一些关键领域达成共识奠定基础。然而，专家提醒，表面的友好气氛并不意味着深层次结构性矛盾的消失。中美两国在国际体系中的角色、各自的国家利益以及意识形态上的差异，决定了分歧的长期性和复杂性。此次访问的最终成果将取决于双方在闭门会谈中能否在具体问题上取得实质性进展，以及能否为未来的合作与竞争划定更清晰的界限。这次会晤不仅仅关乎两国关系本身，更对全球经济稳定、地区安全以及多边主义的未来走向产生深远影响。国际社会正密切关注此次访问将如何塑造未来中美关系的轨迹，以及它将对全球治理和力量平衡带来何种影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-14T13:02:13+00:00",
+    "is_new": true,
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:10:39+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -64,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:06:23+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -77,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T08:46:58+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -90,7 +101,7 @@
     "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T07:13:24+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:10:45+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -116,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:09:04+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -129,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T04:17:27+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -142,7 +153,7 @@
     "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
     "time": "8小时前",
     "published_iso": "2026-05-14T00:39:53+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -155,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:21:35+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -168,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:03:15+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -181,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T20:15:33+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -194,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:22:49+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -207,7 +218,7 @@
     "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
     "time": "11小时前",
     "published_iso": "2026-05-13T17:14:52+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -220,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:00:12+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -233,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-05-13T15:35:15+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -246,7 +257,7 @@
     "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -259,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T14:51:30+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:40:20+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:00:58+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-13T13:46:15+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T08:24:28+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T07:10:29+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,7 +348,7 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -350,7 +361,7 @@
     "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-12T22:07:51+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -363,85 +374,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:26:46+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "This metal just set a new record, boosted by AI data center demand. Citi says it’s time to 'chase the move higher'",
-    "deck": "Citigroup sees copper rising to $15,000 per metric ton, or approximately 7% above the metal's Tuesday close.",
-    "cnTitle": "AI需求推升铜价创新高 花旗预测大涨",
-    "cnDeck": "伦敦金属交易所（LME）的铜价近期创下了历史新高，突破了每吨11,000美元的关键心理关口，显示出市场对这种工业金属的强劲需求。这一显著的上涨趋势主要归因于全球范围内对人工智能（AI）技术快速发展所带来的结构性需求激增。随着全球AI数据中心的建设进入快车道，对电力传输、散热系统及各类电子元件的需求也随之大幅增加。铜凭借其卓越的",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
-    "time": "13小时前",
-    "published_iso": "2026-05-12T20:18:10+00:00",
     "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-    "deck": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-    "cnTitle": "以色列空袭致13人死亡",
-    "cnDeck": "黎巴嫩卫生部日前发表声明，强烈谴责以色列对其南部地区的空袭行动，并确认这些袭击已造成包括两名医护人员在内的共13人死亡。根据黎巴嫩卫生部的报告，这两名遇难的医护人员当时正在纳巴提耶（Nabatieh）地区执行一项紧急救援任务。他们赶往现场是为了响应早些时候发生的一次袭击，那次袭击已造成一人死亡。然而，在执行这项人道主义职责",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-05-12T20:00:05+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Tech Life",
-    "deck": "Crumbling roads and other hazards - can AI make our streets safer?",
-    "cnTitle": "AI技术能否提升道路安全",
-    "cnDeck": "全球道路基础设施面临着路面破损、坑洼不平、标线模糊以及各种交通危险等严峻挑战，这些问题严重威胁着道路使用者的安全。据统计，每年因交通事故造成的死亡人数庞大，其中相当一部分可归因于不良路况和人为驾驶失误。在这样的背景下，人工智能（AI）技术被视为提升街道安全水平、减少事故发生率的关键解决方案。AI在道路安全领域的应用潜力广泛而深远。首先，在道路维护方面，AI驱动的",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-05-12T19:45:00+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Google races to put Gemini at the center of Android before Apple’s AI reboot",
-    "deck": "Google is using its latest Android rollout to position Gemini as the AI layer across phones, Chrome, laptops and cars.",
-    "cnTitle": "谷歌加速Gemini AI融入安卓，抢占先机",
-    "cnDeck": "谷歌正利用其最新的安卓系统更新，深度整合其先进的Gemini人工智能模型，旨在使其成为在手机、Chrome浏览器、笔记本电脑和汽车等多个平台上的核心AI层。此举旨在全面提升用户体验，并通过先进的生成式AI能力重塑整个安卓生态系统。Gemini是谷歌自主开发的最先进、最强大的多模态AI模型，具备理解并生成文本、代码，甚至处理图像和音频等多种数据格式的能力。谷歌的目标是让Gemini成为安卓用户日常交互的中心，从而提供更智能的辅助、更个性化的服务以及更高效的信息处理能力。例如，用户将能够通过Gemini在系统层面直接进行复杂的查询、内容创作、信息摘要、日程管理，甚至优化设备性能，从而实现更流畅、更智能的设备操作体验。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
-    "time": "1小时前",
-    "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-    "deck": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
-    "cnTitle": "Altman：马斯克曾欲全面掌控OpenAI",
-    "cnDeck": "OpenAI首席执行官萨姆·奥特曼（Sam Altman）近日在向陪审团作证时透露，埃隆·马斯克（Elon Musk）曾多次试图全面掌控人工智能公司OpenAI，这家公司目前正面临马斯克的法律诉讼。奥特曼的证词揭示了OpenAI早期发展阶段的内部权力斗争，以及马斯克在公司方向和控制权上的强烈意图。据奥特曼所述，马斯克不仅寻求",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-    "deck": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
-    "cnTitle": "乌克兰前幕僚长涉洗钱案",
-    "cnDeck": "乌克兰总统泽连斯基的前幕僚长安德烈·耶尔马克（Andriy Yermak）近日被乌克兰两家主要的国家反腐机构点名为洗钱计划的犯罪嫌疑人，此举标志着乌克兰反腐调查的重大升级。这一事件发生在乌克兰与俄罗斯的全面冲突持续之际，正值该国高度依赖国际社会提供财政和军事援助的关键时期，因此具有重要的地缘政治和国内影响。安德烈·耶尔马克曾是泽连斯基总统的亲密顾问和核心圈成员，其被指控涉嫌洗钱，无疑给泽连斯基政府带来了巨大的政治压力。这一消息可能在国内外引发对政府诚信和治理能力的质疑，进而影响乌克兰在国际舞台上的形象。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-12T16:19:24+00:00",
-    "id": "n34",
     "lead": false
   }
 ]
