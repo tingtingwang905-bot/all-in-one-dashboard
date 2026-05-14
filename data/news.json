@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+    "deck": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+    "cnTitle": "习特会晤讨论避免修昔底德陷阱",
+    "cnDeck": "美国总统唐纳德·特朗普于周四上午抵达北京，开始与中国国家主席习近平进行一场为期两天的高风险峰会，此次峰会预计将持续至周五。据知情人士透露，在会谈初期，习近平主席向特朗普总统提出了一个深刻的问题，即中美两国能否成功避免所谓的“修昔底德陷阱”。这一提问直指当前全球政治中最受关注的双边关系之一，反映出中方对中美关系未来走向的深层思考",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+    "time": "刚刚",
+    "published_iso": "2026-05-14T04:17:27+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+    "deck": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
+    "cnTitle": "凯文·沃什获参院确认出任美联储主席",
+    "cnDeck": "凯文·沃什（Kevin Warsh），一位56岁的经济学家和前美联储理事，在经历了一场被广泛认为是美联储主席提名历史上最具争议的参议院投票后，最终获得了确认，将正式接替杰罗姆·鲍威尔（Jerome Powell）成为下一任美国联邦储备委员会主席。此次高层人事变动，不仅在美国国内引发了广泛关注，其深远影响也波及全球金融市场和宏观经济格局。美联储主席作为全球最重要的经济决策者之一，其一言一行都对全球经济走向具有举足轻重的影响力。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+    "time": "5小时前",
+    "published_iso": "2026-05-13T23:21:35+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Higher Europe air fares 'inevitable', says industry head",
+    "deck": "Flying by air will get more expensive as oil prices remain high after the US and Israel's conflict with Iran.",
+    "cnTitle": "地缘冲突致油价上涨 欧洲机票涨价难免",
+    "cnDeck": "一位航空业领导者近日发出警告称，鉴于美国、以色列与伊朗之间的冲突持续发酵，导致全球原油价格居高不下，欧洲地区的航空旅行票价上涨将是“不可避免”的趋势。此番言论凸显了地缘政治紧张局势对全球经济，特别是航空业运营成本的直接冲击。该行业领导者指出，自美国和以色列与伊朗的冲突爆发以来，国际原油市场供应担忧加剧，原油期货价格持续攀升，并在高位震荡。航空燃油成本是航空公司运营支出中的最大组成部分之一，通常占总成本的25%至35%。原油价格的任何显著上涨都会直接转化为航空燃油价格的飙升，从而给航空公司的盈利能力带来巨大压力。为了应对不断上涨的燃油成本，航空公司往往会通过征收燃油附加费或直接提高机票基础价格来转嫁部分成本给消费者。欧洲作为全球重要的航空枢纽和旅游目的地，其航空市场对燃油价格波动尤为敏感。该行业领导者的表态预示着，欧洲消费者未来将面临更高的旅行开支。这不仅会影响个人和家庭的度假计划，也可能对商务旅行和旅游业的整体复苏构成挑战。航空公司在努力保持盈利和市场份额的同时，将不得不艰难地平衡成本控制与票价调整。分析人士普遍认为，中东地区的地缘政治风险溢价已成为当前国际油价的关键支撑因素。只要美国、以色列与伊朗之间的紧张关系未能有效缓解，甚至进一步升级，国际原油价格就可能继续保持高位，甚至有进一步上涨的风险。这种不确定性使得航空公司的长期运营规划面临更多变数。此外，高昂的油价和随之而来的机票涨价，可能会对欧洲的通货膨胀水平产生推波助澜的作用。航空旅行是服务业的重要组成部分，其价格上涨会传导至更广泛的经济领域，进而影响央行的货币政策考量。市场正在密切关注地缘政治局势的进展及其对全球能源市场和宏观经济的连锁反应。该行业领导者的警告，无疑为欧洲乃至全球的航空业蒙上了一层阴影，预示着消费者即将面对一个更加昂贵的空中旅行时代。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-13T23:03:15+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
     "deck": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
     "cnTitle": "参议院确认沃什出任美联储主席",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T20:15:33+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
@@ -23,8 +64,21 @@
     "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:22:49+00:00",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
+    "deck": "President Donald Trump and lawmakers are eyeing federal gas tax relief, but opponents contend a pause wouldn't help consumers and could harm roads.",
+    "cnTitle": "特朗普燃油税减免引行业担忧",
+    "cnDeck": "前总统唐纳德·特朗普与部分国会议员正在积极探讨一项联邦燃油税减免的提议，即实施“燃油税假期”，旨在减轻消费者负担。然而，这一想法迅速遭遇了来自卡车运输和建筑等多个行业的强烈反对，他们普遍认为，暂停征收燃油税不仅无法有效惠及终端消费者，反而可能对美国的道路基础设施建设造成严重损害。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
+    "time": "11小时前",
+    "published_iso": "2026-05-13T17:14:52+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n6",
     "lead": false
   },
   {
@@ -37,8 +91,7 @@
     "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:00:12+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n7",
     "lead": false
   },
   {
@@ -51,7 +104,7 @@
     "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
-    "id": "n4",
+    "id": "n8",
     "lead": false
   },
   {
@@ -64,7 +117,7 @@
     "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T14:51:30+00:00",
-    "id": "n5",
+    "id": "n9",
     "lead": false
   },
   {
@@ -77,7 +130,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:40:20+00:00",
-    "id": "n6",
+    "id": "n10",
     "lead": false
   },
   {
@@ -90,7 +143,7 @@
     "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:00:58+00:00",
-    "id": "n7",
+    "id": "n11",
     "lead": false
   },
   {
@@ -103,7 +156,7 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -116,7 +169,7 @@
     "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-12T22:07:51+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -129,7 +182,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:26:46+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -142,7 +195,7 @@
     "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:18:10+00:00",
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -155,7 +208,7 @@
     "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:00:05+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -168,7 +221,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T19:45:00+00:00",
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -181,7 +234,7 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n14",
+    "id": "n18",
     "lead": false
   },
   {
@@ -194,7 +247,21 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n15",
+    "id": "n19",
+    "lead": false
+  },
+  {
+    "headline": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
+    "deck": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
+    "cnTitle": "乌克兰前幕僚长涉洗钱案",
+    "cnDeck": "乌克兰总统泽连斯基的前幕僚长安德烈·耶尔马克（Andriy Yermak）近日被乌克兰两家主要的国家反腐机构点名为洗钱计划的犯罪嫌疑人，此举标志着乌克兰反腐调查的重大升级。这一事件发生在乌克兰与俄罗斯的全面冲突持续之际，正值该国高度依赖国际社会提供财政和军事援助的关键时期，因此具有重要的地缘政治和国内影响。安德烈·耶尔马克曾是泽连斯基总统的亲密顾问和核心圈成员，其被指控涉嫌洗钱，无疑给泽连斯基政府带来了巨大的政治压力。这一消息可能在国内外引发对政府诚信和治理能力的质疑，进而影响乌克兰在国际舞台上的形象。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-12T16:19:24+00:00",
+    "is_new": true,
+    "id": "n20",
     "lead": false
   },
   {
@@ -207,7 +274,7 @@
     "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T14:58:18+00:00",
-    "id": "n16",
+    "id": "n21",
     "lead": false
   },
   {
@@ -220,7 +287,7 @@
     "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T14:49:54+00:00",
-    "id": "n17",
+    "id": "n22",
     "lead": false
   },
   {
@@ -233,7 +300,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-12T14:07:18+00:00",
-    "id": "n18",
+    "id": "n23",
     "lead": false
   },
   {
@@ -246,7 +313,7 @@
     "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T14:06:08+00:00",
-    "id": "n19",
+    "id": "n24",
     "lead": false
   },
   {
@@ -259,7 +326,7 @@
     "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-12T10:31:23+00:00",
-    "id": "n20",
+    "id": "n25",
     "lead": false
   },
   {
@@ -272,7 +339,7 @@
     "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T10:01:54+00:00",
-    "id": "n21",
+    "id": "n26",
     "lead": false
   },
   {
@@ -285,7 +352,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n22",
+    "id": "n27",
     "lead": false
   },
   {
@@ -298,7 +365,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n23",
+    "id": "n28",
     "lead": false
   },
   {
@@ -311,7 +378,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n24",
+    "id": "n29",
     "lead": false
   },
   {
@@ -324,7 +391,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n25",
+    "id": "n30",
     "lead": false
   },
   {
@@ -337,124 +404,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
-    "deck": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
-    "cnTitle": "以色列通过10月7日袭击案死刑法案",
-    "cnDeck": "以色列议会近日通过一项新法案，允许对参与2023年10月7日哈马斯领导袭击事件的恐怖分子判处死刑并进行公开审判。此举是以色列对去年秋季袭击的直接回应。2023年10月7日，哈马斯武装分子对以色列南部发动了前所未有的袭击，导致约1200名以色列人遇害，其中大部分是平民，并绑架了约2",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "China should stop hoarding food and fertiliser, says former World Bank chief",
-    "deck": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
-    "cnTitle": "前世行长批中国囤积及地位",
-    "cnDeck": "前世界银行行长大卫·马尔帕斯（David Malpass）近日发表引人关注的言论，明确指出中国应当停止囤积粮食和化肥，并对北京长期以来声称自己是发展中国家的说法提出了质疑，认为这一主张已不再可信。马尔帕斯作为国际金融和发展领域的资深权威，其表态迅速引发了国际社会的广泛讨论。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices extend gains as Trump comments diminish hopes for a U.S.-Iran peace deal",
-    "deck": "Oil prices rose Tuesday amid concerns over a prolonged Middle East conflict after President Trump's comments that the ceasefire with Iran is on \"life support\"",
-    "cnTitle": "油价因特朗普言论飙升",
-    "cnDeck": "国际原油价格周二显著上涨，此前美国前总统唐纳德·特朗普发表言论，称与伊朗达成的停火协议正处于“生命维持”状态。特朗普的此番表态被市场迅速解读为削弱了美国与伊朗之间可能达成和平协议的希望，从而加剧了对中东地区冲突长期化的担忧。此前，部分投资者曾寄希望于美伊关系可能出现缓和，以减少该地区的原油供应风险，并为全球经济带来更稳定的预期",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
-    "time": "1小时前",
-    "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi",
-    "deck": "Trump said Monday that U.S. arms sales to Taiwan and the imprisonment of Hong Kong media tycoon Jimmy Lai would be among the issues at the summit in Beijing.",
-    "cnTitle": "特朗普称会习将提台军售黎智英案",
-    "cnDeck": "前美国总统唐纳德·特朗普于本周一发表声明，表示他计划在即将举行的北京峰会上，向中方领导人提出两个关键且高度敏感的议题。首先是美国对台湾的武器销售问题。特朗普指出，此议题将作为他与中方领导人会晤时的重要讨论点。美国对台军售是美中关系中一个长期存在的棘手问题，中国政府一贯将台湾视为其核心利益，坚决反对任何形式的官方往来和军事联系，认为美国对台军售严重干涉中国内政，损害中国主权。而美国则根据《台湾关系法》向台湾提供自卫能力，以期维护台海地区的和平与稳定。特朗普此举无疑将再次将这一敏感的地区安全议题置于中美高层对话的核心，预示着未来两国在台湾问题上的立场冲突仍将持续。其次，特朗普表示还将提及香港传媒大亨黎智英的被囚事件。黎智英是香港《苹果日报》的创始人，因违反香港国安法而被捕并被判刑，此案在全球范围内引发了对香港新闻自由、法治精神以及“一国两制”原则实施前景的广泛关注。西方国家普遍对黎智英案表示谴责，认为其审判过程和结果侵蚀了香港的自治和自由。特朗普将此案提上议程，凸显了美国对香港人权状况的持续关切，并可能将其作为在人权和民主价值观方面向中国施压的筹码。此次北京峰会的具体安排和参与人员细节尚未完全公开，但作为一位具有全球影响力的政治人物，特朗普的言论常被视为对未来美国外交政策走向的重要信号。他选择在会晤前公开这些敏感议题，既是对国内选民的表态，也旨在为即将到来的高层对话设定基调和议程，预示着此次会谈将充满挑战，并围绕这些核心争议点展开艰难的外交博弈。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
-    "time": "2小时前",
-    "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Trump says Iran ceasefire is on 'massive life support'",
-    "deck": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-    "cnTitle": "特朗普称伊朗停火协议“生命垂危”",
-    "cnDeck": "唐纳德·特朗普，前美国总统兼2024年共和党总统候选人，近日在一场备受关注的集会上，对一项旨在结束中东地区某场冲突的伊朗反停火提议发表了极其严厉的批评。特朗普在讲话中直言不讳地指出，这份持续了“一个月”的停火协议目前正处于“巨大的生命支持之下”（massive life support），并且他认为其状态是“令人难以置信的脆弱”（un",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-05-12T00:59:12+00:00",
     "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "US in closely guarded talks to open new bases in Greenland",
-    "deck": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
-    "cnTitle": "美国密谈格陵兰建三处新基地",
-    "cnDeck": "根据多名熟悉谈判的官员透露，美国正与格陵兰岛进行着密切且保密的会谈，寻求在该北极领土的南部地区开设三处新的军事基地。此举被视为美国加强其在北极地区战略存在和影响力的关键一步。格陵兰岛因其独特的地理位置，在全球地缘政治中扮演着日益重要的角色，尤其是在全球变暖导致北极航道通航潜力增加的背景下，其战略价值愈发凸显",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
-    "deck": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-    "cnTitle": "特习峰会塑造中美未来关系",
-    "cnDeck": "美国前总统唐纳德·特朗普对中国的“旋风式访问”被广泛认为是多年来美中关系中“最具意义”的一次高层接触。此次“特习峰会”——即特朗普与中国国家主席习近平之间的会晤——引发了国际社会的强烈关注，其结果被认为将深刻塑造未来数年乃至数十年的超级大国关系格局。这次访问不仅仅是两位世界领导人的简单交流，更被视为在全球地缘政治复杂背景下，为全球两大经济体及军事强国",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Supreme Court clears way for Alabama Republicans to pursue new voting map",
-    "deck": "The U.S. Supreme Court cleared the way on Monday for Alabama Republicans to pursue a congressional voting map more favorable to their party ahead of November's midterm elections, the latest fallout from the court's seismic voting rights ruling.",
-    "cnTitle": "美国最高法院批准阿拉巴马州重划选区",
-    "cnDeck": "美国最高法院于周一做出一项关键裁决，为阿拉巴马州共和党人在即将到来的11月中期选举之前，争取一份更有利于其政党的国会选区划分方案铺平了道路。这项裁决是最高法院近期就投票权和选区划分问题一系列“地震性”裁决的最新进展和影响。具体而言，该决定将允许阿拉巴马州共和党主导的立法机构继续推进其提出的选区重划地图，该地图被设计用于调整国会选区边界，以最大化共和党在州内的选举优势。此举预计将帮助共和党在阿拉巴马州的国会众议院选举中赢得更多席位。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
-    "time": "5小时前",
-    "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "South African president says he will not step down after impeachment call",
-    "deck": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
-    "cnTitle": "南非总统拉马福萨拒绝因弹劾辞职",
-    "cnDeck": "南非总统西里尔·拉马福萨（Cyril Ramaphosa）周一晚间在经历数日关于其可能辞职的猜测后，明确表示他不会主动辞去总统职务。这一声明是在针对他的弹劾呼吁日益增多，以及政治压力持续加剧的背景下作出的，标志着南非政治局势进入一个高度紧张的阶段。针对拉马福萨总统的弹劾呼吁核心源于所谓的“法拉法拉（Phala Phala）农场事件”。该事件涉及2020年，在总统位于林波波省的私人农场内发现大量未申报的美元现金被盗。围绕这些现金的来源、总统未能及时向南非储备银行（South African Reserve Bank）等相关部门报告这笔交易，以及随后发生的盗窃案及其处理方式，引发了南非国内对其行为是否符合国家法律和宪法规定的广泛质疑。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n35",
     "lead": false
   }
 ]
