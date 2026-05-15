@@ -39,6 +39,20 @@
     "lead": false
   },
   {
+    "headline": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+    "deck": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
+    "cnTitle": "中美首脑会晤聚焦贸易与台湾",
+    "cnDeck": "美国总统唐纳德·特朗普本周对中国进行了为期两天的访问，与中国国家主席习近平举行了多轮会晤。这次访问是在两国贸易紧张关系加剧一年后进行的，因此备受全球瞩目。会谈主要围绕贸易、石油和台湾问题展开，反映了中美关系中最为敏感和核心的议题。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+    "time": "13小时前",
+    "published_iso": "2026-05-15T06:46:57+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
     "headline": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
     "deck": "The US securities regulator had accused the Adanis of paying bribes and misleading investors, which they denied.",
     "cnTitle": "印度阿达尼集团在美了结欺诈案",
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T06:41:19+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-15T05:03:31+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T01:37:31+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T23:49:30+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T23:01:20+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T22:46:28+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T14:41:17+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-14T13:56:57+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-05-14T13:33:20+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-14T13:25:07+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T13:08:42+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-14T13:02:13+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:10:39+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -217,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:06:23+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -230,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T08:46:58+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -243,7 +257,7 @@
     "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T07:13:24+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -256,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:10:45+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -269,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:09:04+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -282,7 +296,7 @@
     "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T04:17:27+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -295,7 +309,7 @@
     "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
     "time": "8小时前",
     "published_iso": "2026-05-14T00:39:53+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -308,7 +322,7 @@
     "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:21:35+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -321,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:03:15+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -334,72 +348,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T20:15:33+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
-    "deck": "Two children are among those reported dead after seven cars were struck in separate attacks south of Beirut.",
-    "cnTitle": "以色列袭击黎巴嫩南部造成12人死亡",
-    "cnDeck": "根据黎巴嫩卫生部周三发布的最新消息，以色列军队在黎巴嫩南部地区对多辆民用车辆发动了一系列袭击，导致至少12人不幸丧生。这些致命的空袭发生在贝鲁特以南的多个地点，遇难者中包括两名无辜儿童。报告指出，共有七辆汽车在这些单独的袭击中被击中，这表明袭击的范围广泛且目标明确。黎巴嫩卫生部官员对此次事件表示强烈谴责，",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-13T17:22:49+00:00",
     "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
-    "deck": "President Donald Trump and lawmakers are eyeing federal gas tax relief, but opponents contend a pause wouldn't help consumers and could harm roads.",
-    "cnTitle": "特朗普燃油税减免引行业担忧",
-    "cnDeck": "前总统唐纳德·特朗普与部分国会议员正在积极探讨一项联邦燃油税减免的提议，即实施“燃油税假期”，旨在减轻消费者负担。然而，这一想法迅速遭遇了来自卡车运输和建筑等多个行业的强烈反对，他们普遍认为，暂停征收燃油税不仅无法有效惠及终端消费者，反而可能对美国的道路基础设施建设造成严重损害。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
-    "time": "11小时前",
-    "published_iso": "2026-05-13T17:14:52+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-    "deck": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
-    "cnTitle": "特朗普访华聚焦贸易伊朗台湾议题",
-    "cnDeck": "美国总统特朗普抵达中国，与中国国家主席习近平举行备受瞩目的高层会谈，双方议程包括贸易、伊朗核问题以及台湾地位等关键议题。此次访问被视为两国关系中的一次高风险对话，其结果将对全球地缘政治和经济格局产生深远影响。特朗普总统在抵达前已明确表示，他将向习近平主席提出的首要要求是“开放”中国市场。这一表态反映了美国长期以来对中美贸易逆差和市场准入壁垒的不满。预计特朗普政府将寻求中国在知识产权保护、技术转让和国有企业补贴等方面做出实质性让步。美国企业界普遍关注此次贸易谈判能否为他们在中国市场创造更公平的竞争环境。另一方面，北京方面预计将在此次会谈中向特朗普总统就台湾问题施加压力。台湾问题始终是中国核心利益中的核心，北京坚持“一个中国”原则，并将台湾视为其不可分割的一部分。鉴于美国近期对台军售以及美台官方互动有所增加，中国可能会借此机会重申其在台湾问题上的坚定立场，并要求美国遵守中美三个联合公报，停止与台湾的一切官方往来和军事联系。此外，伊朗核协议也是双方议程上的一个重要焦点。在美国退出《联合全面行动计划》(JCPOA) 后，伊朗核问题再度升温，地区紧张局势加剧。中方作为伊核协议的签署国之一，一直呼吁各方维护协议的完整性，并通过对话协商解决分歧。预计中方将与美方就如何管控伊朗问题、维护中东地区稳定交换意见，但双方在伊朗问题上的立场存在明显差异，可能成为此次会谈的挑战。此次会谈不仅关乎中美两国，其结果也将牵动全球。贸易谈判的进展将直接影响全球供应链和经济增长前景。台湾问题的任何风吹草动都可能引发地区局势紧张。而伊朗问题的走向则关系到中东乃至全球能源安全。全球各界正密切关注“习特会”的成果，期待两国领导人能够通过坦诚对话，管控分歧，寻求合作共赢的解决方案，为世界注入更多确定性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-13T17:00:12+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
-    "deck": "Senator Ronald dela Rosa, a former police chief, enforced former President Rodrigo Duterte's deadly drug war.",
-    "cnTitle": "菲律宾参议院枪击，通缉议员对峙",
-    "cnDeck": "据报道，菲律宾参议院内发生了枪击事件，引发了广泛关注。事件的核心人物是现任参议员罗纳德·德拉罗萨（Ronald dela Rosa），他据称在枪击事件发生后被困于参议院大楼内。德拉罗萨不仅是菲律宾的资深政治人物，曾担任国家警察总局局长，更因其在前总统罗德里戈·杜特尔特（Rodrigo Duterte）执政期间，大力推行并执行备受争议且造成大量死亡的“禁毒战争”而闻名。这场“禁毒战争”在菲律宾国内和国际社会均引发了巨大的争议。数千人在这场行动中丧生，许多人权组织和国际观察员谴责其为法外处决和侵犯人权的行为。国际刑事法院（International Criminal Court, ICC）目前正在对杜特尔特政府的“禁毒战争”期间可能发生的危害人类罪进行调查。德拉罗萨作为当时的关键执行者，被国际刑事法院列为重要的调查对象之一。ICC此前已授权对菲律宾的禁毒战争进行全面调查，尽管菲律宾已于2019年退出ICC，但ICC认为其对在菲律宾退出前发生的罪行仍具有管辖权。德拉罗萨因其在此次战争中的角色，面临着国际逮捕令的风险。此次参议院内的枪击事件，无疑使得德拉罗萨的处境更加复杂和紧张。有消息称，枪声引发了参议院内部的恐慌，安全部队迅速介入。目前尚不清楚枪击的具体起因、是否有人员伤亡以及德拉罗萨被困的具体情况。这一事件可能与针对他的逮捕行动有关，或者是在其内部遭遇某种冲突。事件的发生地点——国家立法机构的中心——更增添了其政治敏感性。分析人士指出，这一事件不仅是对菲律宾国内安全局势的严峻考验，也可能对菲律宾与国际刑事法院之间的关系产生深远影响。如果德拉罗萨最终被捕并引渡至ICC，这将是国际法庭对菲律宾前任政府官员追责的重要一步。此外，事件的后续发展也将牵动菲律宾国内的政治格局，尤其是在杜特尔特及其盟友仍保有相当影响力的背景下。德拉罗萨一直是杜特尔特忠实的拥护者，其命运将直接影响到杜特尔特派系的未来。菲律宾政府面临着如何在维护国家主权和履行国际责任之间取得平衡的挑战。参议院的紧急状态和围绕德拉罗萨的局势，预示着菲律宾政治未来可能面临更多动荡。国际社会正密切关注此事的进展，以判断其对地区稳定和国际司法体系的影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-05-13T15:35:15+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
-    "deck": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system",
-    "cnTitle": "安杜里尔估值飙升，国防科技受热捧",
-    "cnDeck": "安杜里尔工业公司（Anduril Industries）的估值飙升至超过600亿美元，显示出国防科技领域持续的投资热潮。这家由帕尔默·拉奇（Palmer Luckey）创立的公司，专注于将人工智能、先进软件和创新硬件整合应用于国防领域，其快速增长的估值不仅是对其技术实力和市场潜力的肯定，也反映了全球地缘政治格局下各国对尖端军事技术需求的日益增长。安杜里尔",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
-    "time": "刚刚",
-    "published_iso": "2026-05-13T15:25:31+00:00",
-    "id": "n31",
     "lead": false
   }
 ]
