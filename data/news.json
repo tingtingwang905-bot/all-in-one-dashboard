@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:17:59+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:01:31+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-15T08:27:42+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T06:41:19+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-15T05:03:31+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -105,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T23:01:20+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -119,7 +113,6 @@
     "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T22:46:28+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -146,7 +139,6 @@
     "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-14T13:56:57+00:00",
-    "is_new": true,
     "id": "n11",
     "lead": false
   },
@@ -160,7 +152,6 @@
     "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-05-14T13:33:20+00:00",
-    "is_new": true,
     "id": "n12",
     "lead": false
   },
@@ -409,58 +400,6 @@
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
     "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
-    "deck": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
-    "cnTitle": "俄罗斯无人机袭击乌克兰致13人死亡",
-    "cnDeck": "俄罗斯对乌克兰的无人机袭击造成至少13人死亡，此次袭击发生在一段非正式停火协议或某种形式的军事行动暂停期到期之后。乌克兰总统此前警告称，俄罗斯将在周三全天发起“更多波次”袭击，目前袭击仍在持续，这标志着俄乌冲突的进一步升级，加剧了对平民伤亡和关键基础设施破坏的担忧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-13T14:51:30+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Thousands of Waymos recalled after robotaxi swept into a creek",
-    "deck": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
-    "cnTitle": "Waymo召回数千辆无人出租车",
-    "cnDeck": "Waymo，Alphabet（谷歌母公司）旗下的自动驾驶技术公司，近日宣布对数千辆其运营的自动驾驶汽车（即Waymo Driver平台车辆）进行自愿召回。此次大规模召回的背景是一起发生在今年4月20日（星期六）的特定事件。据Waymo方面证实，当日在美国德克萨斯州圣安东尼奥市，一辆空的Waymo无人驾驶汽车在行驶过程中，驶入了一条积水路段。尽管当时车辆内",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-13T14:40:20+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-    "deck": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong.",
-    "cnTitle": "WhatsApp推出AI聊天隐身模式",
-    "cnDeck": "WhatsApp作为全球领先的即时通讯应用，近期宣布为其内置的AI聊天机器人推出一项全新的“隐身模式”对话功能。此举旨在为用户提供更高层次的隐私保护，允许他们与AI进行完全私密的互动，确保对话内容不会被保存或留存痕迹。这一功能允许用户在不担心其互动记录被查阅或存储的情况下，自由地与AI进行交流、提问或寻求建议。这项创新是WhatsApp母公司Meta在人工智能领域持续投入和战略布局的一部分，旨在通过增强隐私特性来吸引并保留用户，同时提升用户对AI工具的信任度。在当前全球对数据隐私和个人信息保护日益关注的背景下，WhatsApp的这一举措无疑顺应了用户的普遍需求，使用户能够在与AI进行敏感或个人化讨论时，拥有更大的安全感。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-13T14:00:58+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Epstein abused me while under house arrest, survivor tells US lawmakers",
-    "deck": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday.",
-    "cnTitle": "爱泼斯坦受害者向美议员作证",
-    "cnDeck": "周二，一名化名为罗扎的幸存者向美国民主党议员作证，详细讲述了她在臭名昭著的金融家杰弗里·爱泼斯坦被软禁期间遭受其虐待的经历。罗扎是当天向国会作证的数名受害者之一，她们的证词旨在揭露爱泼斯坦性贩运网络的恐怖规模及其对无数年轻女性造成的深远伤害。此次听证会由民主党议员组织，再次将公众的",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-05-13T13:46:15+00:00",
-    "id": "n35",
     "lead": false
   }
 ]
