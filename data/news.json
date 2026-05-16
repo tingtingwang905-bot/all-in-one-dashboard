@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+    "deck": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+    "cnTitle": "特朗普警告台湾勿宣布独立",
+    "cnDeck": "美国总统特朗普在与中国国家主席习近平举行峰会数小时后，就台湾问题发出了严厉警告，明确表示台湾不应宣布独立。特朗普总统强调，他希望北京和台北双方能够“缓和”围绕这个自治岛屿的紧张局势。这一表态是在中美两国领导人就一系列全球和双边议题进行深入会谈之后发表的，显示出台湾问题在中美关系中的敏感性和重要性。特朗普的言论反映了美国在承认北京“一个中国”原则的同时，又对台湾保持非官方关系的复杂立场。美国长期以来奉行“一个中国”政策，承认中华人民共和国是中国的唯一合法政府，但同时根据《台湾关系法》向台湾提供防御能力，以帮助其维持自卫。特朗普此次公开警告台湾不要宣布独立，可以被解读为华盛顿方面试图在日益紧张的台海局势中扮演一个稳定者的角色。他的呼吁“缓和”紧张局势，旨在避免任何可能导致地区不稳定的单方面行动。台湾作为一个拥有自己民主选举政府的自治实体，其地位对于中国大陆而言是一个核心主权问题，北京方面一直强调不排除使用武力来阻止台湾独立。此次警告的背景是，中国大陆持续加大对台湾的军事和外交压力，而台湾内部也存在关于其未来地位的不同声音。美国总统的直接干预，特别是紧随与中国最高领导人会晤之后，传递了一个明确信号：华盛顿不希望看到任何可能破坏地区和平与稳定的行动。此举也可能被视为美国在处理两岸关系时，既要顾及与中国的战略关系，又要确保台湾海峡和平与稳定的微妙平衡。分析人士指出，特朗普的这一声明可能旨在向北京传递信息，即美国在台湾问题上不希望看到任何意外，并同时向台湾领导人施压，要求其在言行上保持克制。这体现了美国在这一高度敏感问题上，既要维持战略模糊，又要发出明确信号的复杂外交策略。此番表态的重要性不容小觑，它直接关系到未来台海局势的走向以及中美关系的稳定性，特别是在两国元首会晤之后，其传递的信息具有更强的政治信号意义，可能影响两岸未来的政策走向和互动模式。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-16T03:30:57+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+    "deck": "Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show.",
+    "cnTitle": "特朗普2026年Q1大举投资科技股",
+    "cnDeck": "前美国总统唐纳德·特朗普在2026年第一季度大举买入科技巨头股票，根据最新提交的道德披露文件显示，其投资规模达数百万美元。这些文件详细列出了特朗普在此期间购入的亚马逊（Amazon）、Meta（原Facebook）、甲骨文（Oracle）、博通（Broadcom）、摩托罗拉（Motorola）和戴尔（Dell）等多家知名科技公司的股份。此举引发了市场观察人士和政治分析人士的广泛关注。作为一位备受瞩目的政治人物，特朗普的个人投资决策通常被视为其对经济前景和特定行业信心的某种信号。此次大规模投资科技股，尤其是在2026年第一季度这一时间点，可能反映了他对高科技产业未来增长潜力的看好。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
+    "time": "8小时前",
+    "published_iso": "2026-05-15T19:34:05+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
     "deck": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
     "cnTitle": "习近平陪同特朗普参观中南海",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:17:59+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "UK borrowing costs rise and pound falls as leadership drama continues",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:01:31+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-15T08:27:42+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
     "time": "13小时前",
     "published_iso": "2026-05-15T06:46:57+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T06:41:19+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-15T05:03:31+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T01:37:31+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T23:49:30+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T23:01:20+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T22:46:28+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T14:41:17+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,7 +180,7 @@
     "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-14T13:56:57+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-05-14T13:33:20+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-14T13:25:07+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -192,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T13:08:42+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -205,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-14T13:02:13+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -218,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:10:39+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -231,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:06:23+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -244,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T08:46:58+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -257,7 +284,7 @@
     "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T07:13:24+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -270,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:10:45+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -283,72 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:09:04+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
-    "deck": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
-    "cnTitle": "习特会晤讨论避免修昔底德陷阱",
-    "cnDeck": "美国总统唐纳德·特朗普于周四上午抵达北京，开始与中国国家主席习近平进行一场为期两天的高风险峰会，此次峰会预计将持续至周五。据知情人士透露，在会谈初期，习近平主席向特朗普总统提出了一个深刻的问题，即中美两国能否成功避免所谓的“修昔底德陷阱”。这一提问直指当前全球政治中最受关注的双边关系之一，反映出中方对中美关系未来走向的深层思考",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-    "time": "刚刚",
-    "published_iso": "2026-05-14T04:17:27+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
-    "deck": "Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.",
-    "cnTitle": "Cerebras超预期上市，AI投资巨浪将至",
-    "cnDeck": "人工智能（AI）芯片制造商Cerebras近期成功将其首次公开募股（IPO）价格定在预期区间之上，这一举动不仅彰显了市场对该公司未来前景的强烈信心，也为华尔街即将迎来的“AI海啸”级投资热潮敲响了前奏。据报道，Cerebras通过此次IPO成功募资55.5亿美元，远超此前分析师和市场观察家们的普遍预期。此次大规模的募资事件，标志着投资者对人工智能技术及其相关产业的投资热情达到了新的高度。Cerebras作为一家专注于开发用于深度学习和人工智能应用的大型芯片和系统的公司，其技术被视为推动AI发展前沿的关键。公司凭借其独特的晶圆级引擎（Wafer-Scale Engine, WSE）技术，旨在解决传统芯片在处理复杂AI模型时面临的计算瓶颈，从而在人工智能芯片市场中占据一席之地。此次IPO的成功，不仅为Cerebras自身带来了充裕的资金，用于研发投入、市场扩张和生产能力的提升，更是对整个AI硬件和软件生态系统的一次强力提振。华尔街和全球金融市场对此次IPO表现出异乎寻常的关注。市场分析人士普遍认为，Cerebras的成功上市，特别是在如此高的估值和募资额下，预示着未来一年乃至更长时间内，人工智能领域的投资活动将呈现爆发式增长。投资者正积极为“AI海啸”做准备，这不仅包括对初创企业和新兴技术公司的投资，也包括对现有科技巨头中AI部门的关注。许多大型投资机构和风险资本基金正在重新评估其投资策略，将更多资源倾斜到与人工智能相关的项目上。此外，Cerebras的IPO被视为一系列更大规模AI交易的序曲。业内人士预计，在今年晚些时候，可能会有更多重量级的人工智能公司，无论是芯片制造商、软件开发商还是应用服务提供商，选择进行IPO或进行大规模私募融资。这些潜在的交易规模预计将超过Cerebras此次的募资额，进一步推高AI市场的整体估值，并吸引全球资本的目光。这种趋势反映了人工智能技术在各行各业日益增长的重要性，以及其对经济增长和生产力提升的巨大潜力。投资者对AI领域的狂热，可以追溯到近年来人工智能技术的突破性进展，尤其是生成式AI和大型语言模型（LLMs）的兴起。这些技术不仅改变了我们与数字世界互动的方式，也在加速医疗、金融、制造、教育等多个行业的数字化转型。Cerebras的成功上市，为这些新兴技术提供了强大的资本支持，并激励更多创新企业投入到AI研发和应用中。然而，在投资热潮的同时，市场也提醒投资者需保持理性，警惕潜在的泡沫风险，",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
-    "time": "8小时前",
-    "published_iso": "2026-05-14T00:39:53+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
-    "deck": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
-    "cnTitle": "凯文·沃什获参院确认出任美联储主席",
-    "cnDeck": "凯文·沃什（Kevin Warsh），一位56岁的经济学家和前美联储理事，在经历了一场被广泛认为是美联储主席提名历史上最具争议的参议院投票后，最终获得了确认，将正式接替杰罗姆·鲍威尔（Jerome Powell）成为下一任美国联邦储备委员会主席。此次高层人事变动，不仅在美国国内引发了广泛关注，其深远影响也波及全球金融市场和宏观经济格局。美联储主席作为全球最重要的经济决策者之一，其一言一行都对全球经济走向具有举足轻重的影响力。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
-    "time": "5小时前",
-    "published_iso": "2026-05-13T23:21:35+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Higher Europe air fares 'inevitable', says industry head",
-    "deck": "Flying by air will get more expensive as oil prices remain high after the US and Israel's conflict with Iran.",
-    "cnTitle": "地缘冲突致油价上涨 欧洲机票涨价难免",
-    "cnDeck": "一位航空业领导者近日发出警告称，鉴于美国、以色列与伊朗之间的冲突持续发酵，导致全球原油价格居高不下，欧洲地区的航空旅行票价上涨将是“不可避免”的趋势。此番言论凸显了地缘政治紧张局势对全球经济，特别是航空业运营成本的直接冲击。该行业领导者指出，自美国和以色列与伊朗的冲突爆发以来，国际原油市场供应担忧加剧，原油期货价格持续攀升，并在高位震荡。航空燃油成本是航空公司运营支出中的最大组成部分之一，通常占总成本的25%至35%。原油价格的任何显著上涨都会直接转化为航空燃油价格的飙升，从而给航空公司的盈利能力带来巨大压力。为了应对不断上涨的燃油成本，航空公司往往会通过征收燃油附加费或直接提高机票基础价格来转嫁部分成本给消费者。欧洲作为全球重要的航空枢纽和旅游目的地，其航空市场对燃油价格波动尤为敏感。该行业领导者的表态预示着，欧洲消费者未来将面临更高的旅行开支。这不仅会影响个人和家庭的度假计划，也可能对商务旅行和旅游业的整体复苏构成挑战。航空公司在努力保持盈利和市场份额的同时，将不得不艰难地平衡成本控制与票价调整。分析人士普遍认为，中东地区的地缘政治风险溢价已成为当前国际油价的关键支撑因素。只要美国、以色列与伊朗之间的紧张关系未能有效缓解，甚至进一步升级，国际原油价格就可能继续保持高位，甚至有进一步上涨的风险。这种不确定性使得航空公司的长期运营规划面临更多变数。此外，高昂的油价和随之而来的机票涨价，可能会对欧洲的通货膨胀水平产生推波助澜的作用。航空旅行是服务业的重要组成部分，其价格上涨会传导至更广泛的经济领域，进而影响央行的货币政策考量。市场正在密切关注地缘政治局势的进展及其对全球能源市场和宏观经济的连锁反应。该行业领导者的警告，无疑为欧洲乃至全球的航空业蒙上了一层阴影，预示着消费者即将面对一个更加昂贵的空中旅行时代。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-13T23:03:15+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
-    "deck": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
-    "cnTitle": "参议院确认沃什出任美联储主席",
-    "cnDeck": "美国参议院日前以自该职位需要参议院确认投票以来最微弱的优势，确认了凯文·沃什（Kevin Warsh）出任美联储主席一职。这一任命是唐纳德·特朗普总统任期内对美联储领导层的重大调整，也反映了国会内部在货币政策未来走向上的深刻分歧。凯文·沃什曾担任美联储理事，并在2008年金融危机期间发挥了关键作用。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-13T20:15:33+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
