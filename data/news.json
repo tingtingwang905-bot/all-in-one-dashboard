@@ -9,7 +9,6 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlNUNzhEQ3JpclNOMmZuRUMwN0w0bVVEVGNISTZuSXpSMHVvLUJpa2lkdnVCSUhaN2ZLRHdqX0VZQ3ZYTHcybWtSUWxGQklpOXlyX0JWWVJqeWQ2V0VYcmtMMm5fTEU1Ql9ETWhDeDFISjRqM0w5Z18xbkFDVi1vNzlKWE5KdzRRWVFMSXItTTZ6WGVLTXJUUlZvbVhPTHNEVVgwRGV2TXFtTWNVZ3ZnRkhOZmVaUQ?oc=5",
     "time": "5小时前",
     "published_iso": "2026-05-16T14:53:40+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -271,71 +270,6 @@
     "time": "4小时前",
     "published_iso": "2026-05-15T05:03:31+00:00",
     "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Trump brought top CEOs to Beijing but few big deals emerge",
-    "deck": "There were plenty of choreographed ceremonies but no sweeping trade breakthrough as Trump met Xi in Beijing.",
-    "cnTitle": "特朗普访华贸易成果有限",
-    "cnDeck": "美国前总统唐纳德·特朗普携一众美国顶级企业首席执行官（CEO）对中国北京进行了备受瞩目的国事访问，期间与中国国家主席习近平举行了会晤。此次访问，作为两国元首间的重要外交活动，承载了外界对中美贸易关系取得实质性突破的巨大期望。特朗普总统此行旨在寻求解决长期存在的中美贸易逆差问题，推动中国进一步开放市场，并就知识产权保护等核心经济议题达成具体协议。随行的大批美国企业高管也显示出美方希望在访问期间能够促成一系列重大商业交易和投资协议的强烈意愿，以期为美国企业在中国市场创造更多机遇。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-15T01:37:31+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
-    "deck": "Modi has urged Indians to save dollars as war and oil shocks strain the rupee and economy further this year.",
-    "cnTitle": "莫迪呼吁国民减少黄金和境外消费",
-    "cnDeck": "印度总理纳伦德拉·莫迪近期向全国民众发出呼吁，敦促印度人减少购买黄金并减少境外旅游，以此作为应对当前经济挑战的一项重要举措。莫迪总理明确指出，印度需要努力节约美元，以应对今年可能因战争和石油冲击而进一步加剧的卢比贬值和经济负担。此番表态是在全球地缘政治紧张局势加剧、国际原油价格波动以及由此对印度卢比和整体经济造成巨大压力的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-05-14T23:49:30+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-    "deck": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years.",
-    "cnTitle": "AI误解或损害经济及就业",
-    "cnDeck": "树莓派公司（Raspberry Pi）的首席执行官埃本·厄普顿（Eben Upton）近日发出警告，他驳斥了当前社会上广泛流传的一种说法，即人工智能（AI）将在未来几年内大规模取代和摧毁大量的计算行业工作岗位。厄普顿的真正担忧在于，这种关于AI将导致大规模失业的夸大言论，可能会对科技行业乃至整个经济产生意想不到的负面影响。他指出，如果人们被这些",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-14T23:01:20+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "US Supreme Court restores abortion pill access for now",
-    "deck": "Abortion pills are the most common method of terminating pregnancies in the US.",
-    "cnTitle": "美国最高院暂时恢复堕胎药可及性",
-    "cnDeck": "美国最高法院近日发布一项重要裁决，暂时恢复了堕胎药米非司酮（Mifepristone）的广泛获取权利。这一决定推翻了此前由新奥尔良第五巡回上诉法院作出的、旨在限制该药物可及性的措施。第五巡回上诉法院曾支持德克萨斯州一名联邦法官的裁定，该裁定将米非司酮的获取方式恢复到2016年之前的更严格标准，",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-14T22:46:28+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-    "deck": "The government said its in-house IT system was \"more flexible\" while meeting \"high standards\" of security.",
-    "cnTitle": "英国政府弃用Palantir技术节省开支",
-    "cnDeck": "英国政府近日宣布，已通过用自主研发的内部IT系统取代美国数据分析巨头Palantir Technologies公司在其难民处理系统中提供的技术，成功节省了“数百万”英镑的开支。这一战略性调整标志着英国政府在关键公共服务领域，尤其是涉及敏感数据处理的系统中，对技术采购和管理策略的重大转变。Palantir公司以其与各国政府和情报机构的密切合作为人所知，其复杂的数据集成和分析平台在全球范围内被广泛应用于情报分析、反恐以及大型公共项目管理。在英国，Palantir的Foundry平台曾被引入以协助管理复杂的难民申请流程，旨在提高效率并优化资源分配，尤其是在处理大量积压申请时。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-14T21:09:02+00:00",
-    "id": "n26",
     "lead": false
   }
 ]
