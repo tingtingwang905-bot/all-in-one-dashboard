@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:21:03+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:08:26+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T03:23:08+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-16T23:10:19+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -65,8 +61,21 @@
     "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-16T17:01:53+00:00",
-    "is_new": true,
     "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "For better or worse, investors are living through Trump’s stock market. Here's why",
+    "deck": "President Donald Trump has been considered the ultimate stock market president, overseeing an expansion to record highs as well as major declines.",
+    "cnTitle": "特朗普任期股市沉浮",
+    "cnDeck": "美国前总统唐纳德·特朗普在其任期内，被普遍认为是塑造股市的“终极股市总统”。他的领导见证了美国股市的显著扩张，屡创新高，同时也经历了剧烈的波动和大幅下跌。特朗普总统上任伊始，市场普遍对其提出的减税、放松监管以及加大基础设施建设的承诺抱有积极预期。2017年通过的《减税与就业法案》对企业盈利产生了显著提振作用，促使多家公司宣布股票回购计划，从而推动了股价上涨。在此期间，道琼斯工业平均指数、标准普尔500指数和纳斯达克综合指数均创下历史新高。投资者对特朗普政府的商业友好型政策反应积极，认为这些政策将促进经济增长和企业利润。然而，特朗普政府也推行了一系列保护主义贸易政策，特别是与中国及其他主要贸易伙伴之间的关税战，这些举措在全球范围内引发了贸易紧张局势，导致市场不确定性急剧增加，并多次引发股市的剧烈回调。投资者对贸易冲突可能对全球供应链和企业盈利产生负面影响表示担忧，使得市场情绪一度承压。此外，在地缘政治方面，特朗普政府在中东、朝鲜半岛等地区采取的政策，也间接影响了全球风险偏好，进而对股市造成了间歇性影响。到了他任期的后期，特别是2020年初，全球爆发的新冠疫情对美国经济和金融市场造成了前所未有的冲击。疫情初期，由于经济活动停滞、供应链中断和消费者信心骤降，美国股市经历了自大萧条以来最快的熊市，三大股指在短时间内暴跌。然而，随后美国政府和美联储推出了大规模的财政刺激计划（如《CARES法案》）和前所未有的货币宽松政策，向市场注入大量流动性，有效地支撑了经济和股市，使其从低谷中迅速反弹，并再次创下历史新高。总体而言，特朗普总统的四年任期内，美国股市的表现可谓跌宕起伏，既有由政策利好和经济复苏驱动的强劲上涨，也有因贸易摩擦、地缘政治风险和全球疫情冲击而引发的显著下跌。对投资者而言，这四年是充满机遇与挑战的时期，深刻体现了政治决策与宏观经济事件对金融市场产生的复杂而深远的影响。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
+    "time": "21小时前",
+    "published_iso": "2026-05-16T17:00:41+00:00",
+    "is_new": true,
+    "id": "n6",
     "lead": false
   },
   {
@@ -79,8 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-05-16T15:50:09+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -93,7 +101,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlNUNzhEQ3JpclNOMmZuRUMwN0w0bVVEVGNISTZuSXpSMHVvLUJpa2lkdnVCSUhaN2ZLRHdqX0VZQ3ZYTHcybWtSUWxGQklpOXlyX0JWWVJqeWQ2V0VYcmtMMm5fTEU1Ql9ETWhDeDFISjRqM0w5Z18xbkFDVi1vNzlKWE5KdzRRWVFMSXItTTZ6WGVLTXJUUlZvbVhPTHNEVVgwRGV2TXFtTWNVZ3ZnRkhOZmVaUQ?oc=5",
     "time": "5小时前",
     "published_iso": "2026-05-16T14:53:40+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -106,8 +114,7 @@
     "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
     "time": "19小时前",
     "published_iso": "2026-05-16T13:25:00+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -120,8 +127,7 @@
     "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
     "time": "21小时前",
     "published_iso": "2026-05-16T12:00:01+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -134,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-16T08:18:52+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -147,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-16T03:30:57+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -160,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-16T01:37:27+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -173,8 +179,7 @@
     "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-16T01:00:00+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -187,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-15T23:59:07+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -200,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-15T23:05:19+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -213,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-15T23:04:33+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -226,8 +231,7 @@
     "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-15T21:50:14+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -240,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-15T21:17:05+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -253,7 +257,7 @@
     "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:36:37+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -266,7 +270,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:28:29+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -279,7 +283,7 @@
     "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:05:55+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -292,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-15T19:38:38+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -305,59 +309,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
     "time": "8小时前",
     "published_iso": "2026-05-15T19:34:05+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "X pledges quicker action on hate and terror content in the UK",
-    "deck": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
-    "cnTitle": "X承诺在英加速处理仇恨恐怖言论",
-    "cnDeck": "社交媒体巨头X（前身为Twitter）已承诺在英国加快对仇恨和恐怖主义内容的审查及移除行动。此举是在英国通信管理局Ofcom强调了这些承诺的特殊重要性之后作出的，尤其是在近期英国境内针对犹太社区的犯罪事件背景下。Ofcom作为英国的独立通信监管机构，一直密切关注大型在线平台如何管理其内容，以确保用户安全并遵守新的在线安全法规。该机构表示，X所作出的这些承诺，对于有效应对和阻止仇恨言论以及恐怖主义宣传在平台上的传播至关重要。近年来，随着全球范围内在线仇恨言论和极端主义内容的蔓延，社交媒体平台面临着巨大的压力，被要求加强内容审核机制。此次X的承诺，反映出平台正试图在言论自由与打击有害内容之间取得平衡。具体而言，这意味着X将投入更多资源，改进其技术工具和人工审核团队，以更迅速地识别、标记并移除违反其服务条款和英国法律的仇恨言论、煽动暴力内容以及任何形式的恐怖主义宣传。Ofcom特别指出，在近期针对英国犹太社区的犯罪事件发生后，网络上与此相关的仇恨信息激增，使得平台的快速响应能力变得尤为关键。这些犯罪不仅对受害者造成直接伤害，其在网络上的传播和放大效应也可能进一步加剧社会分裂和仇恨情绪。X此前曾因其内容审核政策，尤其是在埃隆·马斯克接手后，面临来自用户、广告商和监管机构的广泛批评。批评者认为，平台的审核力度有所减弱，导致有害内容有所增加。因此，此次向Ofcom作出的承诺被视为X在全球范围内努力重建信任、遵守各国在线安全法规的重要一步。Ofcom强调，他们将继续密切监督X以及其他在线平台履行其承诺的情况，并确保平台采取充分措施保护用户，特别是弱势群体免受网络有害内容的侵害。这些承诺的具体实施效果将受到社会各界的严格审视，它不仅关系到英国的在线环境安全，也为其他国家和地区的监管机构与科技巨头之间的互动提供了参考。未来，X需要在技术投入、政策透明度和执行力方面持续努力，以有效应对日益复杂的网络内容挑战，确保其平台不会成为滋生仇恨和暴力的温床。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-05-15T12:57:30+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-    "deck": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-    "cnTitle": "俄乌交换战俘，基辅遭袭24人遇难",
-    "cnDeck": "在持续激烈的俄乌冲突中，双方近期完成了一次备受关注的战俘交换行动，这一举动在一定程度上缓解了被俘人员家属的焦急等待，并被视为冲突双方之间维系人道主义沟通渠道的信号。此类交换通常在国际组织如国际红十字会的协调下进行，尽管战争仍在继续，但交换战俘的努力从未停止，这为那些被卷入冲突的人们带来了一丝希望。然而，就在这次",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-05-15T12:53:57+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
-    "deck": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
-    "cnTitle": "习近平陪同特朗普参观中南海",
-    "cnDeck": "中国国家主席习近平陪同美国前总统唐纳德·特朗普参观了中南海，这是中国共产党最高领导人居住和办公的戒备森严的场所。此次参观发生在特朗普中国访问行将结束之际，具有极其重要的地缘政治象征意义。中南海作为中国政治权力核心的象征，通常不向外国领导人，特别是以如此近距离、个人化方式开放，此次安排被外界视为中国向特朗普及其未来可能扮演的角色发出的一个明确信号。此次不同寻常的参观，凸显了中方对与特朗普建立直接沟通渠道的重视，无论他未来是否再次入主白宫。分析人士普遍认为，习近平主席亲自陪同参观，表明两国领导人之间可能存在某种程度的个人信任或意愿，旨在为未来复杂的中美关系奠定基础。访问期间，两位领导人预计就一系列重大议题进行了深入交流，包括但不限于双边贸易关系、台湾问题、南海局势、乌克兰冲突以及全球经济稳定等。鉴于特朗普在美国政坛的独特地位及其“美国优先”的外交政策理念，此次访问被国际社会密切关注。他此前与中国打交道的经验，以及他对国际贸易和联盟的看法，使得此次访问的结果及其对未来中美关系走向的影响备受猜测。中方通过此次高规格接待，特别是开放中南海这一核心区域，旨在展示其开放姿态和对话意愿，同时也可能是在向美国及国际社会传递其在关键问题上的立场和决心。此次访问的结束，意味着两国最高层级接触暂告一段落，但其产生的涟漪效应无疑将持续发酵。媒体和智库将对此次访问的每一个细节进行解读，从肢体语言到可能达成的共识或分歧，都将被视为未来中美关系的风向标。无论是对国际贸易格局、科技竞争还是地缘战略平衡，习近平和特朗普在中南海的会晤都将产生深远影响。此次访问不仅是两位重要政治人物的个人互动，更是中美两国在当前复杂国际背景下进行战略沟通和定位的一次关键尝试，其后续发展值得全球持续关注。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-15T09:17:59+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "UK borrowing costs rise and pound falls as leadership drama continues",
-    "deck": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
-    "cnTitle": "英国政坛动荡，借贷成本飙升英镑走软",
-    "cnDeck": "近期，英国政治局势持续动荡，围绕政府领导权的争夺引发市场广泛关注。受此影响，英国的借贷成本显著上升，同时英镑对主要货币汇率出现下跌。分析人士指出，市场目前的波动，主要源于对未来可能由工党领袖伯纳姆（Burnham）领导的政府将大幅增加政府借贷的担忧。这种担忧并非空穴来风，历史经验表明，政府财政政策的重大调整，尤其是扩张性财政开支，往往会对国债收益率和本币汇率产生直接影响。借贷成本的上升意味着英国政府未来发行新债或为现有债务再融资的成本将更高，这可能进一步挤压公共财政空间，并可能导致纳税人负担加重。此外，借贷成本的攀升通常也会传导至企业和个人贷款，抑制投资和消费，从而对整体经济增长构成压力。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-15T09:01:31+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
