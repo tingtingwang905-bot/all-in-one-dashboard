@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks",
+    "deck": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
+    "cnTitle": "特朗普警告伊朗，油价飙升海峡关闭",
+    "cnDeck": "美国前总统唐纳德·特朗普近日就伊朗问题发表强硬警告，称与伊朗的和平谈判“时间所剩无几”（clock is ticking），此言论立即在全球能源市场引发剧烈波动，国际油价应声上涨。与此同时，作为全球关键原油运输咽喉的霍尔木兹海峡，据报道目前仍处于“实际关闭”状态，进一步加剧了市场对原油供应中断的担忧。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-18T02:23:24+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Why does Amazon have no Western rivals?",
+    "deck": "The internet giant dwarfs other online retailers on both sides of the Atlantic.",
+    "cnTitle": "亚马逊何以称霸西方电商零售业",
+    "cnDeck": "“Why does Amazon have no Western rivals？”这一问题直指电商巨头亚马逊在全球，尤其是在西方市场的独特地位和压倒性优势。原文指出，这家互联网巨头在欧美两岸的在线零售商中占据着主导地位，使得其他竞争者相形见绌。亚马逊的这种无与伦比的规模和影响力，是其通过数十年的战略投资、技术创新以及对客户体验的持续关注而逐步建立起来的。亚马逊的成功可以归因于多个关键因素。首先是其庞大且高效的物流网络。该公司在全球范围内建立了数千个配送中心和仓库，辅以先进的自动化技术和庞大的运输车队，确保了商品能够快速、可靠地送达消费者手中。这种“最后一英里”的配送能力是许多传统零售商和新兴电商难以复制的壁垒。其次，亚马逊提供了极其广泛的产品品类，从书籍、电子产品到服装、家居用品，几乎无所不包，满足了消费者“一站式购物”的需求。其Prime会员服务更是通过提供免费快速配送、独家折扣和Prime Video等数字内容，极大地提升了客户的忠诚度和黏性。在技术层面，亚马逊的投资远超其竞争对手。它在人工智能、大数据分析和云计算（通过其Amazon Web Services, AWS）领域的深厚积累，使其能够不断优化平台运行效率，个性化推荐商品，并提供卓越的客户服务。AWS的成功本身也为亚马逊提供了稳定的现金流，支持其在核心电商业务上的持续投入和扩张。此外，亚马逊通过收购如全食超市（Whole Foods Market）等，进一步拓宽了其业务范围，深入到实体零售和生鲜配送领域，构建了一个多元化的商业生态系统。相比之下，尽管西方市场不乏大型零售商，如沃尔玛（Walmart）、塔吉特（Target）和eBay，但它们要么在规模上难以与亚马逊匹敌，要么在业务模式上存在差异，无法形成直接且全面的挑战。例如，沃尔玛虽是零售巨头，但在电商领域的物流和技术整合上仍面临挑战；eBay则更侧重于C2C和二手商品交易。新兴的西方线上零售商往往专注于特定利基市场，或者在资本和基础设施方面难以与亚马逊抗衡。因此，亚马逊的“无西方竞争对手”现象并非偶然，而是其在规模经济、技术创新、用户体验和生态系统建设方面长期投入的必然结果。这种垄断地位也引发了对市场公平竞争、消费者选择权以及数据隐私等方面的讨论，促使监管机构对其市场行为保持密切关注。亚马逊的这种强势地位，不仅重塑了全球零售业格局，也对其他行业产生了深远影响，迫使其不断适应新的商业模式和消费者预期。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-17T23:54:57+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
     "deck": "In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.",
     "cnTitle": "莫斯科遭乌无人机袭击致三人死亡",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:21:03+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "WHO declares Ebola outbreak in DR Congo a global health emergency",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:08:26+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T03:23:08+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-16T23:10:19+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-16T17:01:53+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
     "time": "21小时前",
     "published_iso": "2026-05-16T17:00:41+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-05-16T15:50:09+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlNUNzhEQ3JpclNOMmZuRUMwN0w0bVVEVGNISTZuSXpSMHVvLUJpa2lkdnVCSUhaN2ZLRHdqX0VZQ3ZYTHcybWtSUWxGQklpOXlyX0JWWVJqeWQ2V0VYcmtMMm5fTEU1Ql9ETWhDeDFISjRqM0w5Z18xbkFDVi1vNzlKWE5KdzRRWVFMSXItTTZ6WGVLTXJUUlZvbVhPTHNEVVgwRGV2TXFtTWNVZ3ZnRkhOZmVaUQ?oc=5",
     "time": "5小时前",
     "published_iso": "2026-05-16T14:53:40+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
     "time": "19小时前",
     "published_iso": "2026-05-16T13:25:00+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,7 +154,7 @@
     "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
     "time": "21小时前",
     "published_iso": "2026-05-16T12:00:01+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,150 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-16T08:18:52+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-    "deck": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-    "cnTitle": "特朗普警告台湾勿宣布独立",
-    "cnDeck": "美国总统特朗普在与中国国家主席习近平举行峰会数小时后，就台湾问题发出了严厉警告，明确表示台湾不应宣布独立。特朗普总统强调，他希望北京和台北双方能够“缓和”围绕这个自治岛屿的紧张局势。这一表态是在中美两国领导人就一系列全球和双边议题进行深入会谈之后发表的，显示出台湾问题在中美关系中的敏感性和重要性。特朗普的言论反映了美国在承认北京“一个中国”原则的同时，又对台湾保持非官方关系的复杂立场。美国长期以来奉行“一个中国”政策，承认中华人民共和国是中国的唯一合法政府，但同时根据《台湾关系法》向台湾提供防御能力，以帮助其维持自卫。特朗普此次公开警告台湾不要宣布独立，可以被解读为华盛顿方面试图在日益紧张的台海局势中扮演一个稳定者的角色。他的呼吁“缓和”紧张局势，旨在避免任何可能导致地区不稳定的单方面行动。台湾作为一个拥有自己民主选举政府的自治实体，其地位对于中国大陆而言是一个核心主权问题，北京方面一直强调不排除使用武力来阻止台湾独立。此次警告的背景是，中国大陆持续加大对台湾的军事和外交压力，而台湾内部也存在关于其未来地位的不同声音。美国总统的直接干预，特别是紧随与中国最高领导人会晤之后，传递了一个明确信号：华盛顿不希望看到任何可能破坏地区和平与稳定的行动。此举也可能被视为美国在处理两岸关系时，既要顾及与中国的战略关系，又要确保台湾海峡和平与稳定的微妙平衡。分析人士指出，特朗普的这一声明可能旨在向北京传递信息，即美国在台湾问题上不希望看到任何意外，并同时向台湾领导人施压，要求其在言行上保持克制。这体现了美国在这一高度敏感问题上，既要维持战略模糊，又要发出明确信号的复杂外交策略。此番表态的重要性不容小觑，它直接关系到未来台海局势的走向以及中美关系的稳定性，特别是在两国元首会晤之后，其传递的信息具有更强的政治信号意义，可能影响两岸未来的政策走向和互动模式。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-16T03:30:57+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "US planning to criminally indict ex-Cuban leader Raúl Castro",
-    "deck": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
-    "cnTitle": "美国或起诉古巴前领导人卡斯特罗",
-    "cnDeck": "美国正计划对古巴前领导人劳尔·卡斯特罗提起刑事诉讼，这一消息引发了国际社会的广泛关注。据报道，相关指控可能最快于下周提出。这起案件的核心据称是聚焦于1996年古巴击落两架飞机事件。劳尔·卡斯特罗，作为古巴革命武装力量的前领导人和古巴革命领袖菲德尔·卡斯特罗的弟弟，长期以来在古巴政治舞台上扮演着举足轻重的角色，并曾担任古巴国务委员会主席和部长会议主席。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-05-16T01:37:27+00:00",
     "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Tech Now",
-    "deck": "Adrienne Murray explores how new 3D imaging is supporting heart procedures.",
-    "cnTitle": "新型3D成像技术赋能心脏手术",
-    "cnDeck": "资深科技记者艾德丽安·默里（Adrienne Murray）近期深入探讨了新型3D成像技术在心脏手术中日益增长的应用及其带来的深远影响。这项创新技术正在彻底改变心脏疾病的诊断和治疗方式，为心血管外科医生和介入心脏病专家提供了前所未有的精确度和操作指导。默里指出，传统的2D成像技术，如X光或标准超声心动图，虽然在临床实践中占据主导地位多年，但在复杂的心脏解剖结构可视化方面存在固有限制，这有时会导致手术规划的挑战和操作中的不确定性。然而，新一代3D成像技术，包括但不限于高级三维超声心动图、高分辨率CT血管造影（CTA）以及实时三维荧光透视等，能够构建出患者心脏及其周围血管的精细、多角度立体模型。这些模型不仅能清晰展示心脏腔室、瓣膜、大血管的形态和功能，还能精准定位病变区域，如狭窄的冠状动脉、受损的心脏瓣膜或需要修复的先天性缺陷。默里的报道详细介绍了这些技术如何显著提升术前规划的准确性。例如，在进行复杂的经导管主动脉瓣置换术（TAVR）或二尖瓣修复术（MitraClip）时，医生可以利用3D模型精确测量瓣膜环的大小、评估钙化程度，并模拟不同尺寸器械的植入效果，从而选择最适合患者的方案，避免了传统方法中可能出现的尺寸不匹配或定位偏差。此外，该技术在术中实时导航方面的作用同样关键。默里强调，一些先进的3D成像系统甚至能够与导管室的设备集成，提供手术器械（如导丝、导管、支架）在心脏内部的实时三维位置信息。这使得外科医生在微创手术中能够“看清”内部操作，极大提高了手术的安全性与成功率，特别是在处理室间隔缺损封堵、房颤射频消融等对精度要求极高的介入操作时。患者因此受益于更小的创伤、更短的住院时间以及更快的康复速度。文章还提及了3D打印技术与3D成像的结合。通过将3D成像数据转化为可触碰的物理心脏模型，医生可以在手术前进行模拟操作，进一步熟悉患者的独特解剖结构，预演手术步骤，甚至在教学培训中发挥重要作用，帮助年轻医生掌握复杂的心脏手术技能。默里展望，随着人工智能与机器学习算法的不断进步，3D成像技术将变得更加智能化，能够自动识别病变、预测手术风险，并提供个性化的治疗建议。她采访的专家普遍认为，虽然成本和技术培训仍是推广过程中的挑战，但新型3D成像技术无疑代表着心血管医疗领域的未来发展方向，有望在全球范围内改善数百万心脏病患者的治疗效果和生活质量。这项技术的持续演进将推动心脏病学迈向更加精准、微创和个性化的新时代。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-16T01:00:00+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-    "deck": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-    "cnTitle": "黎巴嫩称以袭击致6死 美宣布延长停火",
-    "cnDeck": "黎巴嫩方面周三表示，以色列在该国南部发动的一次空袭造成至少六人死亡。这一事件发生在美国宣布延长当地停火协议的背景下，而这项由时任美国总统特朗普于上月宣布的停火协议，自生效以来一直未能有效阻止以色列与黎巴嫩真主党之间的持续交火。此次袭击的细节尚不清楚，但黎巴嫩安全消息人士透露，遇难者中可能包括真主党成员以及平民，这进一步加剧了本已紧张的边境局势。长期以来，以色列一直将黎巴嫩境内的真主党武装视为对其国家安全的重大威胁，并声称真主党利用黎巴嫩南部作为发动袭击的基地。真主党则坚持其抵抗以色列占领和侵略的权利，并定期对以色列目标发动火箭弹和无人机袭击。美国在促成停火协议方面扮演了关键角色，前总统特朗普上月亲自宣布了这一停火的达成，旨在缓解地区冲突，为人道主义援助和外交谈判创造空间。然而，自协议宣布以来，停火的执行情况一直不尽如人意。以色列国防军和黎巴嫩真主党武装几乎每日都在边境地区发生小规模冲突、火箭弹袭击和炮火交锋。双方都指责对方首先违反停火协议，使得这一脆弱的休战协议形同虚设。持续的军事行动使得该地区的和平进程面临严峻挑战。联合国以及其他国际调解方对不断升级的暴力表示担忧，并呼吁双方保持克制，严格遵守国际法和停火协议条款。国际社会担心，这种持续的冲突可能随时演变成更大规模的地区战争，对本已脆弱的中东局势造成毁灭性影响。平民在冲突中首当其冲，基础设施遭受破坏，人道主义危机日益严峻。尽管美国持续呼吁延长和遵守停火，但最新发生的以色列空袭以及黎巴嫩方面报告的平民伤亡，无疑给这些外交努力蒙上了一层阴影。这表明，在缺乏强有力监督和双方政治意愿的情况下，单纯的停火声明难以持久。未来，国际社会仍需加大外交斡旋力度，寻求通过政治途径解决以色列与黎巴嫩真主党之间的根本性矛盾，以期实现地区的长久和平与稳定。此次事件再次凸显了中东地区地缘政治的复杂性与脆弱性，以及解决长期冲突的艰巨性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-05-15T23:59:07+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Palestinian leaders hold rare party meeting as polls show rising discontent",
-    "deck": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
-    "cnTitle": "巴勒斯坦法塔赫罕见开会民怨升",
-    "cnDeck": "巴勒斯坦领导层近期举行了一次罕见的党派会议，此次会议由巴勒斯坦民族权力机构的主导派系法塔赫（Fatah）召开，旨在选举其最高决策者。然而，多项民意调查显示，普通巴勒斯坦民众普遍认为该党及其长期执政的领导人，特别是巴勒斯坦总统马哈茂德·阿巴斯（Mahmoud Abbas），已经与他们的日常生活和切身需求严重脱节。民众中",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-15T23:05:19+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-    "deck": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-    "cnTitle": "瑞士公开门格勒秘密档案",
-    "cnDeck": "瑞士宣布将公开关于约瑟夫·门格勒（Josef Mengele）的秘密档案，此举可能揭示这位纳粹奥斯维辛集中营“死亡天使”战后逃亡生涯的未解之谜。新闻指出，门格勒在第二次世界大战结束后逃离欧洲，但多年来一直有传言称他曾在瑞士境内停留。约瑟夫·门格勒是第二次世界大战期间臭名昭著的德国党卫军（SS）军官和医生，他在奥斯维辛集中营（Auschwitz-Birkenau）对囚犯进行了残忍而致命的人体实验，特别是针对双胞胎和侏儒，其行为被视为人类历史上最黑暗的医学罪行之一。他因其在集中营中的非人道行径而被冠以“死亡天使”的恶名。战后，他成功逃脱了盟军的抓捕，躲过了国际司法机构的追捕，最终于1979年在巴西去世，从未因其罪行受到审判。门格勒的逃亡路线和藏身之处一直是历史学家和追捕纳粹战犯的机构关注的焦点。关于他可能曾在瑞士逗留的传言，为这段复杂的历史增添了新的维度。瑞士作为一个中立国，在二战期间和战后都扮演了独特的角色，其在处理纳粹资产和战犯问题上的立场历来备受国际社会审视。此次公开秘密档案的决定，预计将为研究门格勒逃亡网络、战后纳粹残余势力的活动以及瑞士在其中可能扮演的角色提供新的证据。这些档案可能包含有关门格勒在瑞士期间的活动细节、他可能获得的帮助、以及瑞士当局当时对其存在的了解程度等关键信息。历史学家和纳粹猎人长期以来一直呼吁各国解密与纳粹战犯相关的档案，以确保历史真相得到全面揭示，并对仍在世的纳粹罪行实施者及其协助者进行追究。瑞士此举被视为对历史责任和透明度的一种承诺，有助于填补门格勒漫长逃亡生涯中的空白。对于大屠杀幸存者及其家属而言，每一次档案的公开，都意味着离真相更近一步，也象征着对受害者记忆的尊重和对正义的持续追求。这些文件可能不仅揭示门格勒的行踪，还可能牵扯出更广泛的战后庇护网络，对理解二战后欧洲的政治格局和情报活动产生深远影响。此次解密行动，也再次提醒世人关注历史的复杂性以及持续追寻正义的重要性。国际社会对这些档案的公开内容拭目以待，希望能够从中找到更多关于“死亡天使”门格勒在逃亡期间下落的线索，并为历史研究提供宝贵资料。瑞士此举，无疑将成为全球范围内研究大屠杀和纳粹罪行历史的重要里程碑。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-15T23:04:33+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-    "deck": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-    "cnTitle": "特朗普与习近平会晤，贸易突破甚微",
-    "cnDeck": "美国总统唐纳德·特朗普与中国国家主席习近平日前在为期两天的会晤后，双方领导人对外宣称此次会谈“非常成功”，但官方确认的贸易协议寥寥无几，未能实现外界普遍期待的重大贸易突破。此次备受瞩目的高层对话旨在缓解全球两大经济体之间日益紧张的贸易关系，并就一系列关键的双边和全球问题交换意见。会晤期间，双方举行了多场精心安排的外交礼仪活动和正式仪式，包括欢迎晚宴、高级别代表团会谈以及象征性的合影留念等。这些“精心策划的仪式”在很大程度上体现了两国在外交层面上保持沟通和展现良好姿态的意愿。然而，尽管气氛看似融洽，具体协议的达成却显得步履维艰，这与会前市场和部分观察家对达成大规模贸易协议的期望形成鲜明对比。特朗普总统在会谈结束后向媒体表示，他与习近平主席进行了“非常富有成效”的讨论，并对两国关系的未来表示乐观。他强调，双方在某些领域取得了进展，并同意继续保持高级别沟通渠道。然而，对于外界最为关注的贸易逆差、市场准入以及知识产权保护等核心贸易争议，两国领导人似乎并未达成具体的、具有约束力的解决方案。中方方面，习近平主席也表达了对会谈积极成果的看法，强调中美关系的重要性以及通过对话解决分歧的必要性。尽管如此，中方也未公布任何大规模的贸易协议细节。此次会晤的结果暗示，尽管两国领导人致力于维持稳定的双边关系，但深层次的结构性贸易分歧依然存在，并且短期内难以通过一次会晤彻底解决。分析人士指出，此次“习特会”更多的是一次管控预期、维持对话而非立即解决所有问题的会晤。缺乏重大贸易突破可能令部分急于看到贸易战降级的企业界感到失望，但也有观点认为，仅仅保持最高层级的开放沟通渠道本身就是一种成功，有助于防止误判和局势的进一步恶化。全球金融市场对此次会谈结果的反应可能复杂。如果市场此前对达成重大贸易协议抱有较高期待，那么缺乏实质性进展可能会带来一定程度的负面情绪。反之，如果市场预期本就不高，或者认为维持对话本身就是积极信号，则影响可能有限。此次会晤凸显了中美关系在复杂性和挑战性并存的背景下，需要持续的外交努力和耐心。双方可能需要在未来进行更多轮谈判，才能逐步解决贸易和经济领域的深层问题。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-15T21:50:14+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-    "deck": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-    "cnTitle": "特朗普称伊朗暂停核项目20年即可",
-    "cnDeck": "美国总统特朗普表示，如果伊朗能够暂停其核计划20年，就足以解决问题。这一表态为长期以来紧张的伊核问题提供了一个具体的潜在解决方案，也是对未来可能恢复核谈判的一种展望。特朗普总统明确指出，德黑兰必须展现出“真正的”承诺，移除核燃料并停止铀浓缩活动。这意味着美国对伊朗核计划的要求不仅仅是口头承诺，而是需要具体的、可验证的行动和明确的时间框架。此前，美国在2018年单方面退出了由奥巴马政府达成的《联合全面行动计划》（JCPOA），即俗称的伊朗核协议，并重新对伊朗实施了严厉制裁。特朗普政府当时认为该协议存在严重缺陷，未能充分限制伊朗的弹道导弹计划及其在中东地区的地区影响力，并且对协议中规定的限制伊朗铀浓缩的“日落条款”表示不满，认为其未能永久性阻止伊朗获得核武器的能力。特朗普此次提出的20年暂停期，虽然较此前要求更为具体，但仍体现了其政府对伊朗核威胁的高度警惕。国际社会和许多专家一直对于伊朗在核协议失效后迅速恢复铀浓缩能力表示担忧。特朗普的这一言论，无疑为未来与伊朗的潜在谈判设定了一个新的基准，或至少表达了其对解决伊核问题的一个看法。这一提议的具体性可能会引发国际社会的广泛讨论，包括对20年期限是否足够以及如何有效验证伊朗的承诺等问题。这一表态在全球地缘政治背景下显得尤为重要，因为它涉及到一个长期存在的地区冲突热点，并可能影响到中东地区的战略平衡和全球防扩散努力。它也可能被视为一种新的谈判筹码，旨在向伊朗施加更大压力，促使其在核问题上做出实质性让步。伊朗方面对此类言态的反应将是关键，过去伊朗一直坚持其核计划的和平性质，并要求其他签署国遵守JCPOA。这一言论也可能对美国未来的外交政策产生影响，尤其是考虑到伊朗核问题始终是中东政策的核心议题之一。美国及其盟友长期以来一直致力于防止伊朗获得核武器，认为这将对地区稳定和全球安全构成严重威胁。特朗普提出的20年暂停期，无疑是其对这一复杂问题提出的一个具体且具有时间框架的解决方案设想，其背后是美国对伊朗核能力的深切担忧以及对地区安全格局的战略考量。此番言论也反映出在核不扩散领域，美国作为全球领导者所面临的挑战和其试图通过设定明确条件来引导地区局势走向的意图。这不仅仅是一个数字，更是一种政治信号，预示着未来可能的谈判路径和外交策略。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-15T21:17:05+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates",
-    "deck": "Stocks fell on Friday, bogged down by losses in technology stocks and a rise in U.S. Treasury yields.",
-    "cnTitle": "道指下跌500点科技股受挫收益率飙升",
-    "cnDeck": "美股市场周五遭遇显著回调，主要股指全线下挫，其中道琼斯工业平均指数跌幅尤为突出，单日下跌超过500点。标准普尔500指数和以科技股为主的纳斯达克综合指数也录得大幅度下滑，显示出市场普遍的避险情绪和对未来经济走势的担忧。此次下跌的主要驱动因素包括科技股的普遍疲软表现以及美国国债收益率的急",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
-    "time": "12小时前",
-    "published_iso": "2026-05-15T20:36:37+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
-    "deck": "During the first three months of the year, Trump purchased between $630,000 and $247,008 worth of Palantir stock and sold at least $1.1 million.",
-    "cnTitle": "特朗普交易Palantir股票后在社媒推介该公司",
-    "cnDeck": "根据最新披露的记录显示，美国前总统唐纳德·特朗普在今年第一季度内，参与了对知名数据分析公司Palantir Technologies的股票交易，并在其自创的社交媒体平台Truth Social上公开推介该公司。这些记录具体指出，特朗普在今年前三个月期间，共计购买了价值在247,008美元至630,000美元之间的Palantir股票。与此同时，他还卖出了至少价值110万美元的",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
-    "time": "12小时前",
-    "published_iso": "2026-05-15T20:28:29+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "What you need to know about Nvidia competitor Cerebras after wild IPO",
-    "deck": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
-    "cnTitle": "英伟达对手Cerebras上市 AI芯片需求火爆",
-    "cnDeck": "硅谷创新企业Cerebras Systems，被誉为人工智能芯片领域的英伟达（Nvidia）强劲竞争对手，于周四在华尔街首次公开募股（IPO）中取得了惊人的亮相。此次“狂野”的上市表现，不仅为这家专注于研发大型AI芯片的公司带来了显著的资本注入，更向全球市场发出了一个明确信号：对人工智能芯片的需求已达到前所未有的“不可阻挡”的程度。Cerebras Systems的成功上市，代表着其在高性能计算和人工智能加速器市场的雄心壮志。该公司以其独特的晶圆级引擎（Wafer-Scale Engine, WSE）技术而闻名，该技术将整个硅晶圆用于单一芯片，旨在提供超越传统图形处理单元（GPU）的计算能力，特别是在处理超大规模AI模型训练任务时展现出巨大潜力。这与英伟达通过其旗舰GPU系列（如H100、A100）在AI计算领域建立的霸主地位形成了直接竞争。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
-    "time": "12小时前",
-    "published_iso": "2026-05-15T20:05:55+00:00",
-    "id": "n22",
     "lead": false
   }
 ]
