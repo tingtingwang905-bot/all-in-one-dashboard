@@ -1,5 +1,19 @@
 [
   {
+    "headline": "UK growth forecast upgraded by IMF but risks remain",
+    "deck": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
+    "cnTitle": "IMF看好英国经济前景但存风险",
+    "cnDeck": "国际货币基金组织（IMF）在其最新发布的全球经济展望报告中，对英国的经济增长预测进行了上调。这份来自全球最具影响力的经济机构之一的最新预测显示，英国2026年的经济增长率预期从之前的0.8%提升至1%。尽管这一调整对英国经济而言是一个积极信号，表明国际机构对其未来表现持相对乐观态度，但IMF也明确指出，英国经济前景依然面临诸多挑战和不确定性，需要警惕潜在的风险因素。此次预测上调，是IMF对英国经济韧性及其应对全球经济逆风能力的一种肯定。据分析，此次上调可能部分归因于近期英国通胀水平的逐步回落，以及劳动力市场表现出的相对稳定。通胀压力的缓解为英国央行（英格兰银行）未来调整货币政策提供了更大的灵活性，市场普遍预期英国央行可能在年内采取降息措施，以刺激经济增长。此外，私人消费的逐步恢复和商业投资的初步改善也为经济增长提供了支撑。然而，IMF的报告强调，尽管有积极的进展，英国经济仍需应对一系列复杂的国内和国际挑战。在国内方面，高企的公共债务水平、持续的通胀压力（尽管有所缓解，但仍高于目标）、以及生产力增长缓慢等结构性问题，都对英国经济的长期健康发展构成制约。脱欧带来的长期影响，包括贸易壁垒、劳动力短缺和投资不确定性，仍在缓慢地影响着英国的经济结构和增长潜力。IMF呼吁英国政府继续实施审慎的财政政策，并推进旨在提高生产力和增强经济韧性的结构性改革。在全球层面，地缘政治冲突的持续，如乌克兰战争和中东局势的紧张，以及全球供应链的潜在中断，都可能对英国的贸易和投资环境造成负面冲击。全球经济增长放缓的风险、主要贸易伙伴经济表现的不确定性，以及国际能源价格的波动，都可能传导至英国，对其经济复苏的步伐构成威胁。IMF在报告中警告称，这些外部风险的任何加剧都可能迅速抵消当前预测的积极影响，并可能导致经济增长再次下调。IMF通常每年发布多次经济展望报告，其预测被各国政府、金融市场和企业广泛参考，是评估全球及区域经济健康状况的重要依据。此次对英国增长预测的上调，尽管幅度不大（0.2个百分点），却被视为一种积极信号，尤其是在当前充满挑战的全球经济环境中。它可能提振市场信心，并为政府制定经济政策提供一定的依据。然而，报告中反复提及的“风险依然存在”的警示，提醒政策制定者和市场参与者，对未来的乐观情绪应保持谨慎，并持续关注各项经济指标和外部环境的变化。英国财政部和英格兰银行预计将密切关注IMF的建议，并在其各自的政策框架中予以考量。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-18T13:04:20+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict",
     "deck": "Trump's warning to Iran over the weekend signals that the impasse between Washington and Tehran over ending the war could deteriorate into resumption of armed conflict.",
     "cnTitle": "特朗普警告伊朗冲突升级",
@@ -9,9 +23,8 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -65,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -79,8 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -93,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -106,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -119,8 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -133,8 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -147,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:21:03+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -160,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:08:26+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -173,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T03:23:08+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -186,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-16T23:10:19+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -199,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-16T17:01:53+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -212,59 +218,7 @@
     "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
     "time": "21小时前",
     "published_iso": "2026-05-16T17:00:41+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-    "deck": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
-    "cnTitle": "尼日利亚发生50余名学童绑架案",
-    "cnDeck": "尼日利亚东北部博尔诺州穆萨镇（Mussa town in Borno state）近日发生一起大规模绑架事件，超过50名学童被不明武装分子劫持，其中包括多名幼儿。据报道，此次袭击对穆萨镇造成了严重破坏，社区遭受重创。截至目前，没有任何组织或个人宣称对此次绑架事件负责。此次事件再次凸显了尼日利亚，特别是北部地区长期以来面临的严峻安全挑战。博尔诺州长期以来一直是极端组织“博科圣地”（Boko Haram）及其分裂组织“伊斯兰国西非省”（ISWAP）活动的核心区域，这些武装组织经常以绑架平民，尤其是学生为手段，以勒索赎金、获取谈判筹码或强制招募新成员。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-05-16T15:50:09+00:00",
     "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "India Tightens Silver Import Rules Amid Measures to Defend Rupee - Bloomberg.com",
-    "deck": "India Tightens Silver Import Rules Amid Measures to Defend Rupee&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "印度收紧白银进口以捍卫卢比",
-    "cnDeck": "根据彭博社（Bloomberg.com）的报道，印度正采取措施收紧白银进口规则，此举是其更广泛战略的一部分，旨在捍卫持续承压的印度卢比（INR）汇率，并稳定宏观经济指标。这一政策调整预计将对印度的贸易平衡、国内白银市场以及全球白银价格产生显著影响。印度是全球最大的白银消费国之一，其白银需求主要来源于珠宝制造、工业应用以及投资目的。由于国内产量有限，印度严重依赖进口来满足其庞大的白银需求。此次收紧进口规则，通常意味着政府将通过提高进口关税、实施配额限制、引入更严格的许可证制度，或要求进口商通过特定国有机构进行采购等方式，来减少白银的流入。此类措施的直接目标是降低对美元等外汇的需求，从而减轻卢比的贬值压力。近年来，卢比兑美元汇率一直面临下行压力，这主要受到全球美元走强、国际原油价格波动、地缘政治紧张局势以及外国机构投资者（FIIs）从印度股市撤资等多重因素的影响。卢比的持续贬值会使得印度进口商品成本上升，进而加剧国内通货膨胀，并增加企业和政府的外债偿还负担。此外，它还可能对印度的国际收支平衡造成压力，尤其是经常账户赤字问题。印度政府和储备银行（RBI）一直在密切关注卢比的走势，并采取了一系列措施来管理汇率波动，包括干预外汇市场、调整利率政策以及实施资本流动管理。此次收紧白银进口规则，正是印度当局综合性策略中的一个关键环节，旨在通过管理非",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlNUNzhEQ3JpclNOMmZuRUMwN0w0bVVEVGNISTZuSXpSMHVvLUJpa2lkdnVCSUhaN2ZLRHdqX0VZQ3ZYTHcybWtSUWxGQklpOXlyX0JWWVJqeWQ2V0VYcmtMMm5fTEU1Ql9ETWhDeDFISjRqM0w5Z18xbkFDVi1vNzlKWE5KdzRRWVFMSXItTTZ6WGVLTXJUUlZvbVhPTHNEVVgwRGV2TXFtTWNVZ3ZnRkhOZmVaUQ?oc=5",
-    "time": "5小时前",
-    "published_iso": "2026-05-16T14:53:40+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
-    "deck": "The world's oil stockpiles could approach all-time lows by the end of May due to the Strait of Hormuz closure, according to UBS.",
-    "cnTitle": "霍尔木兹海峡关闭或致全球油储新低",
-    "cnDeck": "据全球知名金融服务公司瑞银（UBS）的最新分析，如果连接波斯湾和阿曼湾的战略要道霍尔木兹海峡持续关闭，全球原油库存量可能在5月底前逼近历史最低水平。霍尔木兹海峡被视为全球能源供应的咽喉，每天有大量原油和液化天然气通过此处运输至全球市场，其贸易量约占全球海运石油总量的五分之一到四分之一。任何对该海峡的封锁或中断，都将对国际原油市场造成灾难性影响，并迅速传导至全球经济的各个层面。瑞银的报告强调，霍尔木兹海峡的持续关闭将导致全球主要石油消费国难以获得充足的原油供应，从而迫使各国动用其战略石油储备。然而，如果关闭时间延长，战略储备的快速消耗将使得全球石油供应缓冲空间大幅缩减，最终导致商业和战略库存总量达到前所未有的低点。这种极端情况将立即引发国际原油价格的飙升，给全球经济带来巨大的通胀压力，并可能诱发能源危机。历史上，该海峡曾多次因地区冲突或政治紧张局势而面临中断威胁，每次都引起国际社会的极大关注和市场剧烈波动。瑞银",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
-    "time": "19小时前",
-    "published_iso": "2026-05-16T13:25:00+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
-    "deck": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
-    "cnTitle": "Cerebras上市掀起科技巨头估值狂潮",
-    "cnDeck": "近期，知名人工智能芯片制造商Cerebras Systems在首次公开募股（IPO）中表现强劲，其股票在市场首次亮相后股价飙升，这一“轰动性”的上市表现立即引发了市场对其他尚未上市的美国科技巨头的广泛关注和热议。Cerebras的成功上市，被视为对当前科技领域，尤其是人工智能相关产业强劲增长势头的有力证明。此次IPO不仅为Cerebras自身带来了可观的估值和发展资金",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
-    "time": "21小时前",
-    "published_iso": "2026-05-16T12:00:01+00:00",
-    "id": "n20",
     "lead": false
   }
 ]
