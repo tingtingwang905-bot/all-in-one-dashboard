@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Petrol hits highest price since start of Iran war",
+    "deck": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
+    "cnTitle": "油价创伊朗战争以来新高",
+    "cnDeck": "根据英国皇家汽车俱乐部（RAC）的最新数据，英国无铅汽油的平均价格已飙升至每升158.52便士，创下自伊朗战争爆发以来的最高纪录。RAC同时警告称，预计未来几周油价可能还会进一步上涨。这一显著的价格上涨不仅对英国数百万驾驶者造成直接冲击，更预示着更广泛的经济压力。此次油价突破历史参照点，其背景是上世纪70年代末至80年代初的",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-19T15:12:31+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Ebola may be spreading faster than first thought, WHO doctor warns",
     "deck": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
     "cnTitle": "世卫警告埃博拉疫情或快速蔓延",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -51,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T02:50:55+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -65,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-18T23:06:55+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -79,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -92,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-18T22:30:58+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -106,8 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T21:09:07+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -120,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -133,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -146,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -159,8 +166,7 @@
     "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-18T18:58:33+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -173,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T15:16:00+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -186,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -199,7 +205,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -212,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -225,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -238,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -251,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -264,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -277,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -290,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -303,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -316,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   }
 ]
