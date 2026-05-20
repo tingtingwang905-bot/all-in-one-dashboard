@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Trump tightens grip on Republican Party with Massie defeat",
+    "deck": "The defeat of a Republican rebel by a Trump-backed challenger in Kentucky shows the strength of the president, writes Anthony Zurcher.",
+    "cnTitle": "特朗普巩固共和党控制权",
+    "cnDeck": "在肯塔基州举行的一次共和党初选中，一位获得特朗普总统支持的挑战者成功击败了共和党内的“异见者”托马斯·马西。这一事件，正如安东尼·祖彻（Anthony Zurcher）所指出的，明确展现了时任总统唐纳德·特朗普（Donald Trump）在共和党内部日益增强的控制力和影响力。这场初选结果被广泛解读为特朗普对共和党权力掌控进一步深化的标志性事件。托马斯·马西（Thomas Massie）是来自肯塔基州的资深共和党国会议员，他以其强烈的自由意志主义倾向和在关键投票中时常挑战共和党领导层的立场而闻名。此前，马西曾多次公开反对特朗普总统的一些政策和立场，例如他曾被特朗普本人斥责为“三流的作秀者”，甚至在国会就新冠疫情相关的经济刺激法案投票时，马西对法案的快速通过提出异议，导致特朗普公开呼吁将其踢出共和党。这种公开的批评和挑战，在特朗普主导的共和党内被视为对总统权威的直接蔑视。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-20T09:49:33+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+    "deck": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+    "cnTitle": "特朗普特使访格陵兰遇阻力",
+    "cnDeck": "前美国总统唐纳德·特朗普的格陵兰特使杰夫·兰德里（Jeff Landry）近日访问格陵兰岛，这一丹麦的半自治领土。兰德里此次出访的任务被形容为“交友之旅”，旨在加强美国与格陵兰的关系，但在部分格陵兰民众中引发了强烈的不安情绪。这一事件凸显了美国在试图深化与格陵兰联系时面临的微妙地缘政治挑战。此次访问的背景是特朗普政府时期",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-05-20T03:49:24+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "UK loosens Russian oil sanctions as fuel prices rise",
     "deck": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
     "cnTitle": "英国放宽俄油制裁缓解能源担忧",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T01:58:01+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Google to release first smart glasses since Google Glass flop",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T21:00:12+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,7 +63,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T20:00:00+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T17:41:23+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -63,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-19T15:12:31+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T02:50:55+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-18T23:06:55+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-18T22:30:58+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T21:09:07+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-18T18:58:33+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -232,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T15:16:00+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -245,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -258,59 +284,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
-    "deck": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-    "cnTitle": "以色列部队登船拦截加沙援助船队",
-    "cnDeck": "从“全球坚韧号（Global Sumud）”船队发出的实时直播画面显示，以色列特种部队突击队员登上了数艘正试图突破加沙地带海上封锁的船只。此次事件发生在塞浦路斯附近海域，该船队的目标是向被围困的加沙地带运送人道主义物资，并抗议以色列对加沙的长期封锁。船队组织者称，以色列海军舰艇包围并控制了他们的船",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-    "deck": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
-    "cnTitle": "特朗普警示伊朗和平进程停滞",
-    "cnDeck": "美国前总统唐纳德·特朗普近日就伊朗问题发出严厉警告，称伊朗的“时日无多”（'clock is ticking'），暗示若和平进程继续停滞，美方可能采取更为强硬的立场。特朗普的此番言论，正值美国与伊朗之间旨在解决长期紧张局势的和平谈判遭遇阻碍之际，凸显了地区局势的复杂性和脆弱性。此前，两国一直通过间接渠道进行外交接触，试图在包括伊朗核计划、地区影响力及制裁解除等核心议题上寻找突破口。消息指出，就在周一，伊朗方面表示已经对美国最新提出的建议作出了回应，并确认与华盛顿的交流仍在持续进行中。这一表态表明，尽管双方在关键问题上存在严重分歧，导致和平进程陷入僵局，但沟通渠道并未完全中断。伊朗的官方声明强调，其致力于通过外交途径解决问题，但也坚决维护国家主权和利益，不会屈服于外部压力。特朗普的警告被视为对伊朗施加最大压力的信号，尤其是在他任内曾单方面退出《联合全面行动计划》（JCPOA），即伊朗核协议，并重新对伊朗实施“极限施压”政策的背景下。他的言论无疑给当前本已脆弱的谈判蒙上了一层阴影，加剧了外界对美伊关系未来走向的担忧。分析人士指出，“时日无多”的表述可能指的是美国在耐心耗尽后，将考虑采取包括但不限于更严厉制裁、甚至军事选项在内的其他手段，以阻止伊朗发展核武器或其地区影响力。当前美伊和平进程的停滞，主要源于双方在重启核协议条款、解除对伊制裁以及伊朗地区行动等方面的根本性分歧。伊朗坚持，美国必须首先全面解除所有因退出JCPOA而施加的制裁，并提供不再单方面退出的保障。而美国则要求伊朗对其核活动进行更严格的限制，并停止其在地区内的“破坏稳定”行为。这些症结使得任何旨在达成全面协议的努力都举步维艰。尽管谈判面临重重困难，伊朗与美国之间的持续交流仍被视为维持地区稳定的重要渠道。然而，特朗普的介入，特别是其带有威胁意味的措辞，可能会使伊朗在谈判中采取更加强硬的立场，从而进一步延长僵局。国际社会普遍呼吁各方保持克制，通过外交对话解决分歧，避免冲突升级，维护中东地区的和平与稳定。此次事件再次凸显了美伊关系在全球地缘政治中的关键地位及其对国际能源市场和地区安全格局的深远影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-18T09:58:35+00:00",
     "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Strike over high fuel prices paralyses transport in Kenya",
-    "deck": "Key roads have remained largely empty and some schools have asked students to stay at home.",
-    "cnTitle": "肯尼亚燃油涨价引发全国运输瘫痪",
-    "cnDeck": "肯尼亚全国范围内因燃油价格飙升爆发大规模罢工，导致交通运输系统陷入全面瘫痪。此次罢工由卡车司机、公交车司机以及其他公共交通运营者发起，他们要求政府立即采取措施，以应对不断上涨的燃料成本，这些成本已对他们的生计构成严重威胁。据报道，首都内罗毕以及蒙巴萨等主要城市的关键道路上车辆稀少，昔日繁忙的交通枢纽如今空空荡荡。罢工的直接影响已经波及日常通勤的数百万民众，许多人因公共交通停运而无法正常出行。此外，部分地区的学校也因此次交通中断而被迫停课，要求学生留在家中，教育和日常社会秩序受到严重干扰。分析人士指出，肯尼亚燃油价格的持续上涨，主要受国际原油价格波动、全球供应链中断以及肯尼亚先令对美元贬值等多重因素影响。政府此前曾试图通过调整税收和补贴政策来稳定物价，但效果不彰，甚至有时适得其反，进一步加剧了民众对生活成本上升的不满。此次罢工是民众对通胀压力，特别是燃油通胀压力的集中爆发。此次交通瘫痪预计将对肯尼亚的经济造成严重打击。农产品、工业品和其他必需品的供应链受到影响，可能导致物价进一步上涨，加剧通胀螺旋。旅游业，作为肯尼亚重要的外汇收入来源，也将因交通不便和潜在的社会不稳定而受损。当地企业面临货物运输受阻、员工无法到岗等问题，生产经营受到严重冲击。政府目前面临巨大压力，需要尽快与罢工组织进行对话，寻求解决方案。可能的应对措施包括临时性燃油税削减、增加燃油补贴或寻求国际援助以稳定市场。然而，任何财政干预都需要在不进一步恶化国家财政状况的前提下进行，这对于一个已经面临高额外债和财政赤字的国家来说，是一个严峻的挑战。如果罢工持续，不仅会加剧经济困境，还可能引发更广泛的社会动荡和政治危机。此次事件凸显了肯尼亚在当前全球经济环境下，在保障民生和维持经济稳定方面所面临的复杂局面。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-    "deck": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
-    "cnTitle": "皇家天文台主任警告AI潜在风险",
-    "cnDeck": "格林威治皇家天文台的Paddy Rodgers发出了严正警告，指出即时人工智能答案可能导致人类智慧被贬低。Rodgers强调，皇家天文台拥有丰富的历史，这一历史正是人类知识力量的明证，并提醒世人必须避免对人工智能的过度‘依赖’。Rodgers此番言论，在当前全球范围内对人工智能技术及其对社会影响的广泛讨论中，具有深远的意义。他通过引用皇家天文台数百年来的科学探索和发现历程，旨在凸显人类在求知、创新和批判性思维方面所展现的独特价值。自其建立以来，皇家天文台一直是人类通过观察、分析和推理来增进对宇宙理解的象征，这种自主探究的精神被视为人类智慧的核心。Paddy Rodgers特别指出，虽然人工智能在处理海量信息、提供快速答案方面展现出无与伦比的效率，但如果过度沉迷于即时、便捷的AI反馈，可能会削弱个体深度思考、独立判断和解决复杂问题的能力。他担忧，当人们习惯于将复杂问题直接抛给AI，并接受其给出的现成答案时，自身进行研究、推导和创造性解决问题的动力和能力可能会逐步退化。这种‘依赖’不仅仅是指技术上的便利，更指向一种心智模式上的惰性，即放弃了人类本应承担的认知努力。Rodgers的警告并非完全否定AI的价值，而是强调在使用AI时应保持审慎的态度，认识到其局限性，并积极维护和培养人类特有的认知优势。他认为，人类的智慧不仅仅体现在记住和提取信息上，更重要的是在于提出问题、形成假设、设计实验、进行批判性评估以及创造新知识的能力。这些深层次的认知过程是任何AI目前都无法完全替代的。此次言论也反映出，随着AI技术日益渗透到教育、科研乃至日常生活的方方面面，如何在利用技术红利的同时，保障和促进人类自身的认知发展，已成为一个亟待解决的全球性议题。Paddy Rodgers的呼吁，旨在促使社会各界重新审视人机协作的本质，确保技术进步能够真正赋能人类，而非反过来限制人类的智力发展和自主性。皇家天文台作为科学与历史的交汇点，其主任的此番表态无疑为围绕AI伦理、教育和未来发展方向的讨论，增添了新的重要维度。这一警告提醒我们，在享受AI带来的便利时，需警惕其可能带来的对人类核心能力和独立思考精神的潜在侵蚀，从而引导我们走向一个更加平衡和可持续的人工智能发展路径。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n24",
     "lead": false
   }
 ]
